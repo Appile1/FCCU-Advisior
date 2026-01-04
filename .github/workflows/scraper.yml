@@ -2,8 +2,12 @@ name: Course Scraper
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
+    - cron: "*/30 * * * *"   # runs every 30 minutes
   workflow_dispatch:         # manual trigger
+
+# ✅ IMPORTANT: allow github-actions to push
+permissions:
+  contents: write
 
 jobs:
   scrape:
@@ -30,16 +34,12 @@ jobs:
         run: |
           python bas4.py
 
-      # 5️⃣ Commit and push updated JSON
+      # 5️⃣ Commit & push only if data changed
       - name: Commit and push if changed
-        env:
-          GH_PAT: ${{ secrets.GH_PAT1 }}
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          # Set remote URL with PAT
-          git remote set-url origin https://$GH_PAT@github.com/Appile1/FCCU-Advisior.git
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add course_data/
-          # Only commit if changes exist
           git diff --cached --quiet || git commit -m "Update course data"
-          git push origin main
+          git push
