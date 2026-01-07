@@ -7360,7 +7360,7 @@
           "time": "09:30 - 10:45",
           "instructor": "F Janjua",
           "capacity": "35",
-          "available": "5"
+          "available": "4"
         },
         {
           "classroom": "SBLOCKS416",
@@ -9502,23 +9502,6 @@
       ]
     },
     {
-      "course_code": "PSYC  230",
-      "course_name": "PSYC  230  AManagement & Leaders",
-      "credits": "3",
-      "sections": [
-        {
-          "classroom": "SBLOCKS116",
-          "schedule_raw": "start:02/02/2026 M W F 14:00 - 14:50",
-          "start_date": "02/02/2026",
-          "days": "",
-          "time": "14:00 - 14:50",
-          "instructor": "Asajid",
-          "capacity": "35",
-          "available": "35"
-        }
-      ]
-    },
-    {
       "course_code": "PSYC  245",
       "course_name": "PSYC  245  APolitical Psychology",
       "credits": "3",
@@ -9654,6 +9637,16 @@
           "instructor": "S Jabeen",
           "capacity": "35",
           "available": "0"
+        },
+        {
+          "classroom": "SBLOCKS116",
+          "schedule_raw": "start:02/02/2026 M W F 14:00 - 14:50",
+          "start_date": "02/02/2026",
+          "days": "",
+          "time": "14:00 - 14:50",
+          "instructor": "Asajid",
+          "capacity": "35",
+          "available": "35"
         }
       ]
     },
@@ -9969,23 +9962,6 @@
           "instructor": "N Asif",
           "capacity": "35",
           "available": "0"
-        }
-      ]
-    },
-    {
-      "course_code": "PSYC  467",
-      "course_name": "PSYC  467  ATele-Mental Health",
-      "credits": "3",
-      "sections": [
-        {
-          "classroom": "EBLOCKE230",
-          "schedule_raw": "start:02/03/2026 T R 08:00 - 09:15",
-          "start_date": "02/03/2026",
-          "days": "",
-          "time": "08:00 - 09:15",
-          "instructor": "U Ilyas",
-          "capacity": "35",
-          "available": "35"
         }
       ]
     },
