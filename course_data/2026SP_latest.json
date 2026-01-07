@@ -3312,9 +3312,9 @@
       "credits": "3",
       "sections": [
         {
-          "classroom": "XBLOCKX019",
-          "schedule_raw": "start:02/03/2026 T R 15:30 - 16:45",
-          "start_date": "02/03/2026",
+          "classroom": "XBLOCKX002",
+          "schedule_raw": "start:02/02/2026 M W 15:30 - 16:45",
+          "start_date": "02/02/2026",
           "days": "",
           "time": "15:30 - 16:45",
           "instructor": "K Pervaiz",
@@ -5719,7 +5719,7 @@
           "time": "16:00 - 17:15",
           "instructor": "B Usman",
           "capacity": "20",
-          "available": "12"
+          "available": "11"
         }
       ]
     },
@@ -6580,7 +6580,7 @@
           "time": "16:00 - 17:00",
           "instructor": "S Nazir",
           "capacity": "25",
-          "available": "12"
+          "available": "11"
         }
       ]
     },
@@ -8920,11 +8920,11 @@
       "credits": "3",
       "sections": [
         {
-          "classroom": "EBLOCKE122",
-          "schedule_raw": "start:02/02/2026 M W F 15:00 - 15:50",
+          "classroom": "EBLOCKE139",
+          "schedule_raw": "start:02/02/2026 M W F 16:00 - 16:50",
           "start_date": "02/02/2026",
           "days": "",
-          "time": "15:00 - 15:50",
+          "time": "16:00 - 16:50",
           "instructor": "M Mirza",
           "capacity": "35",
           "available": "17"
