@@ -5953,6 +5953,16 @@
           "instructor": "K Shafiqu",
           "capacity": "35",
           "available": "0"
+        },
+        {
+          "classroom": "EBLOCKE242",
+          "schedule_raw": "start:02/02/2026 M W F 14:00 - 14:50",
+          "start_date": "02/02/2026",
+          "days": "",
+          "time": "14:00 - 14:50",
+          "instructor": "K Shafiqu",
+          "capacity": "35",
+          "available": "35"
         }
       ]
     },
