@@ -2520,16 +2520,6 @@
           "instructor": "A Yousaf",
           "capacity": "35",
           "available": "16"
-        },
-        {
-          "classroom": "SBLOCKS317",
-          "schedule_raw": "start:02/02/2026 M W F 08:00 - 08:50",
-          "start_date": "02/02/2026",
-          "days": "",
-          "time": "08:00 - 08:50",
-          "instructor": "R Bqa",
-          "capacity": "35",
-          "available": "28"
         }
       ]
     },
