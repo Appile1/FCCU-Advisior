@@ -581,8 +581,17 @@
           "time": "08:00 - 09:15",
           "instructor": "S Nazir",
           "capacity": "35",
-          "available": "1"
-        },
+          "available": "1",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
+        }
+      ]
+    },
+    {
+      "course_code": "BUSN  121  F",
+      "course_name": "Microeconomics",
+      "credits": "3",
+      "has_error": false,
+      "sections": [
         {
           "classroom": "EBLOCKE330",
           "schedule_raw": "start:02/02/2026 M W F 08:00 - 08:50",
@@ -678,8 +687,17 @@
           "time": "09:00 - 09:50",
           "instructor": "A Mughal",
           "capacity": "35",
-          "available": "4"
-        },
+          "available": "4",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
+        }
+      ]
+    },
+    {
+      "course_code": "BUSN  160  F",
+      "course_name": "Management Comm",
+      "credits": "3",
+      "has_error": true,
+      "sections": [
         {
           "classroom": "EBLOCKE328",
           "schedule_raw": "start:02/02/2026 M W F 10:00 - 10:50",
@@ -805,8 +823,17 @@
           "time": "08:00 - 08:50",
           "instructor": "TBD",
           "capacity": "35",
-          "available": "25"
-        },
+          "available": "25",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
+        }
+      ]
+    },
+    {
+      "course_code": "BUSN  206  G",
+      "course_name": "Mgt. Acc. & Control",
+      "credits": "3",
+      "has_error": true,
+      "sections": [
         {
           "classroom": "EBLOCKE328",
           "schedule_raw": "start:02/02/2026 M W F 16:00 - 16:50",
@@ -2403,6 +2430,8 @@
           "days": "",
           "time": "12:30 - 13:45",
           "instructor": "M Mushtaq",
+          "instructor_cid": "6DFE995A604D232964A5805F1C1F94EB",
+          "instructor_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC",
           "capacity": "35",
           "available": "19"
         }
@@ -2519,27 +2548,40 @@
           "time": "09:00 - 09:50",
           "instructor": "A Yousaf",
           "capacity": "35",
-          "available": "16"
-        },
-        {
-          "classroom": "SBLOCKS317",
-          "schedule_raw": "start:02/02/2026 M W F 08:00 - 08:50",
-          "start_date": "02/02/2026",
-          "days": "",
-          "time": "08:00 - 08:50",
-          "instructor": "R Bqa",
-          "capacity": "35",
-          "available": "28"
+          "available": "16",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
         }
       ]
     },
     {
-      "course_code": "COMP  303",
-      "course_name": "COMP  303  AD&A of Algorithms",
+      "course_code": "COMP  302  C",
+      "course_name": "Theory of Automata",
       "credits": "3",
+      "has_error": false,
       "sections": [
         {
-          "classroom": "SBLOCKS316",
+          "classroom": "SBLOCK S317",
+          "schedule_raw": "start:02/02/2026 M W F 08:00 - 08:50",
+          "start_date": "02/02/2026",
+          "days": "M W F",
+          "time": "08:00 - 08:50",
+          "instructor": "R Bqa",
+          "instructor_cid": "AB265DC796228643A824B89AB1C92F5D",
+          "instructor_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC",
+          "capacity": "35",
+          "available": "28",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
+        }
+      ]
+    },
+    {
+      "course_code": "COMP  303  A",
+      "course_name": "D&A of Algorithms",
+      "credits": "3",
+      "has_error": true,
+      "sections": [
+        {
+          "classroom": "SBLOCK S316",
           "schedule_raw": "start:02/02/2026 M W F 09:00 - 09:50",
           "start_date": "02/02/2026",
           "days": "",
@@ -3251,7 +3293,8 @@
           "time": "17:00 - 18:15",
           "instructor": "D Lanz",
           "capacity": "35",
-          "available": "29"
+          "available": "29",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
         }
       ]
     },
@@ -3268,7 +3311,8 @@
           "time": "17:00 - 18:15",
           "instructor": "W Davey",
           "capacity": "35",
-          "available": "28"
+          "available": "28",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
         }
       ]
     },
@@ -3302,7 +3346,8 @@
           "time": "15:30 - 16:45",
           "instructor": "Z West",
           "capacity": "35",
-          "available": "31"
+          "available": "32",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
         }
       ]
     },
@@ -3312,10 +3357,10 @@
       "credits": "3",
       "sections": [
         {
-          "classroom": "XBLOCKX019",
+          "classroom": "XBLOCK X019",
           "schedule_raw": "start:02/03/2026 T R 15:30 - 16:45",
           "start_date": "02/03/2026",
-          "days": "",
+          "days": "T R",
           "time": "15:30 - 16:45",
           "instructor": "K Pervaiz",
           "capacity": "35",
@@ -4025,8 +4070,17 @@
           "time": "11:00 - 12:15",
           "instructor": "H  Ahsan",
           "capacity": "35",
-          "available": "22"
-        },
+          "available": "22",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
+        }
+      ]
+    },
+    {
+      "course_code": "ECON  103  B",
+      "course_name": "Mathematics for Econ",
+      "credits": "3",
+      "has_error": false,
+      "sections": [
         {
           "classroom": "EBLOCKE203",
           "schedule_raw": "start:02/02/2026 M W F 10:00 - 10:50",
@@ -4116,8 +4170,17 @@
           "time": "10:00 - 10:50",
           "instructor": "A  Jalil",
           "capacity": "35",
-          "available": "25"
-        },
+          "available": "25",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
+        }
+      ]
+    },
+    {
+      "course_code": "ECON  203  B",
+      "course_name": "Statistics for Econ.",
+      "credits": "3",
+      "has_error": false,
+      "sections": [
         {
           "classroom": "EBLOCKE204",
           "schedule_raw": "start:02/03/2026 T R 09:30 - 10:45",
@@ -4708,8 +4771,17 @@
           "time": "08:00 - 08:50",
           "instructor": "A Aslam",
           "capacity": "35",
-          "available": "20"
-        },
+          "available": "20",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
+        }
+      ]
+    },
+    {
+      "course_code": "EDUC  110  H",
+      "course_name": "Foundations of Educa",
+      "credits": "3",
+      "has_error": false,
+      "sections": [
         {
           "classroom": "EBLOCKE140",
           "schedule_raw": "start:02/02/2026 M W F 09:00 - 09:50",
@@ -5719,7 +5791,8 @@
           "time": "16:00 - 17:15",
           "instructor": "B Usman",
           "capacity": "20",
-          "available": "12"
+          "available": "12",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
         }
       ]
     },
@@ -5952,7 +6025,8 @@
           "time": "10:00 - 10:50",
           "instructor": "K Shafiqu",
           "capacity": "35",
-          "available": "0"
+          "available": "0",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
         }
       ]
     },
@@ -6580,7 +6654,8 @@
           "time": "16:00 - 17:00",
           "instructor": "S Nazir",
           "capacity": "25",
-          "available": "12"
+          "available": "12",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
         }
       ]
     },
@@ -7118,8 +7193,17 @@
           "time": "09:00 - 09:50",
           "instructor": "F Janjua",
           "capacity": "35",
-          "available": "0"
-        },
+          "available": "0",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH  100  B",
+      "course_name": "Quantitative Skills",
+      "credits": "3",
+      "has_error": true,
+      "sections": [
         {
           "classroom": "SBLOCKS410",
           "schedule_raw": "start:02/02/2026 M W F 12:00 - 12:50",
@@ -7360,8 +7444,17 @@
           "time": "09:30 - 10:45",
           "instructor": "F Janjua",
           "capacity": "35",
-          "available": "5"
-        },
+          "available": "5",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH  111  C",
+      "course_name": "Calc & Analy Geom",
+      "credits": "3",
+      "has_error": false,
+      "sections": [
         {
           "classroom": "SBLOCKS416",
           "schedule_raw": "start:02/02/2026 M W F 09:00 - 09:50",
@@ -7745,6 +7838,8 @@
           "days": "",
           "time": "15:00 - 15:50",
           "instructor": "F Jabeen",
+          "instructor_cid": "2BC1FC21ECE4432C5DF9258F4F89B0A6",
+          "instructor_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC",
           "capacity": "35",
           "available": "20"
         }
@@ -8920,10 +9015,10 @@
       "credits": "3",
       "sections": [
         {
-          "classroom": "EBLOCKE122",
+          "classroom": "EBLOCK E122",
           "schedule_raw": "start:02/02/2026 M W F 15:00 - 15:50",
           "start_date": "02/02/2026",
-          "days": "",
+          "days": "M W F",
           "time": "15:00 - 15:50",
           "instructor": "M Mirza",
           "capacity": "35",
@@ -9502,32 +9597,36 @@
       ]
     },
     {
-      "course_code": "PSYC  230",
-      "course_name": "PSYC  230  AManagement & Leaders",
+      "course_code": "PSYC  230  A",
+      "course_name": "Management & Leaders",
       "credits": "3",
       "sections": [
         {
-          "classroom": "SBLOCKS116",
+          "classroom": "SBLOCK S116",
           "schedule_raw": "start:02/02/2026 M W F 14:00 - 14:50",
           "start_date": "02/02/2026",
-          "days": "",
+          "days": "M W F",
           "time": "14:00 - 14:50",
           "instructor": "Asajid",
+          "instructor_cid": "97BCA8990EC0A35D2E52B49F8A2EE07C",
+          "instructor_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC",
           "capacity": "35",
-          "available": "35"
+          "available": "35",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
         }
       ]
     },
     {
-      "course_code": "PSYC  245",
-      "course_name": "PSYC  245  APolitical Psychology",
+      "course_code": "PSYC  245  A",
+      "course_name": "Political Psychology",
       "credits": "3",
+      "has_error": false,
       "sections": [
         {
-          "classroom": "EBLOCKE246",
+          "classroom": "EBLOCK E246",
           "schedule_raw": "start:02/02/2026 M W F 14:00 - 14:50",
           "start_date": "02/02/2026",
-          "days": "",
+          "days": "M W F",
           "time": "14:00 - 14:50",
           "instructor": "M  Niazi",
           "capacity": "35",
@@ -9653,7 +9752,8 @@
           "time": "14:00 - 14:50",
           "instructor": "S Jabeen",
           "capacity": "35",
-          "available": "0"
+          "available": "0",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
         }
       ]
     },
@@ -9973,29 +10073,61 @@
       ]
     },
     {
-      "course_code": "PSYC  467",
-      "course_name": "PSYC  467  ATele-Mental Health",
+      "course_code": "PSYC  465  A",
+      "course_name": "Clinical Psyc",
+      "credits": "4",
+      "has_error": false,
+      "sections": []
+    },
+    {
+      "course_code": "EBLOCK",
+      "course_name": "E244",
+      "credits": "start:02/03/2026T R08:00 - 09:15",
+      "has_error": false,
+      "sections": []
+    },
+    {
+      "course_code": "PSYC  465  B",
+      "course_name": "Clinical Psyc",
+      "credits": "4",
+      "has_error": true,
+      "sections": []
+    },
+    {
+      "course_code": "EBLOCK",
+      "course_name": "E346",
+      "credits": "start:02/06/2026F14:00 - 15:50",
+      "has_error": false,
+      "sections": []
+    },
+    {
+      "course_code": "PSYC  467  A",
+      "course_name": "Tele-Mental Health",
       "credits": "3",
       "sections": [
         {
-          "classroom": "EBLOCKE230",
+          "classroom": "EBLOCK E230",
           "schedule_raw": "start:02/03/2026 T R 08:00 - 09:15",
           "start_date": "02/03/2026",
-          "days": "",
+          "days": "T R",
           "time": "08:00 - 09:15",
           "instructor": "U Ilyas",
+          "instructor_cid": "7F467A8F98CDAE5AFB4D22EEB2BE78A0",
+          "instructor_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC",
           "capacity": "35",
-          "available": "35"
+          "available": "35",
+          "detail_token": "5913F0FA40768FF627AA555AD53B1EACB89FEEAC"
         }
       ]
     },
     {
-      "course_code": "PSYC  475",
-      "course_name": "PSYC  475  AEntrepreneur in psyc",
+      "course_code": "PSYC  475  A",
+      "course_name": "Entrepreneur in psyc",
       "credits": "3",
+      "has_error": false,
       "sections": [
         {
-          "classroom": "SBLOCKS111",
+          "classroom": "SBLOCK S111",
           "schedule_raw": "start:02/03/2026 T R 15:30 - 16:45",
           "start_date": "02/03/2026",
           "days": "",
