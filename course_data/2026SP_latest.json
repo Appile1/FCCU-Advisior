@@ -5,7 +5,7 @@
     {
       "course_code": "ARTS  101",
       "course_name": "ARTS  101  AIntro. Art & Design",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS116",
@@ -19,7 +19,7 @@
     {
       "course_code": "ARTS  102",
       "course_name": "ARTS  102  APainting I",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS008",
@@ -33,7 +33,7 @@
     {
       "course_code": "ARTS  103",
       "course_name": "ARTS  103  ASculpture I",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS112",
@@ -47,7 +47,7 @@
     {
       "course_code": "ARTS  105",
       "course_name": "ARTS  105  AReligious Art",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS109",
@@ -61,7 +61,7 @@
     {
       "course_code": "ARTS  106",
       "course_name": "ARTS  106  AWomen, Art & Politic",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS116",
@@ -75,7 +75,7 @@
     {
       "course_code": "ARTS  111",
       "course_name": "ARTS  111  AFundam. of Drawing I",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS008",
@@ -89,7 +89,7 @@
     {
       "course_code": "ARTS  121",
       "course_name": "ARTS  121  ADraawing II",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS008",
@@ -103,7 +103,7 @@
     {
       "course_code": "ARTS  201",
       "course_name": "ARTS  201  AHistory of Art II",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS111",
@@ -117,7 +117,7 @@
     {
       "course_code": "ARTS  211",
       "course_name": "ARTS  211  ADrawing III",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS111",
@@ -131,7 +131,7 @@
     {
       "course_code": "BIOL  212",
       "course_name": "BIOL  212  A*Res Design& Biostat",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS320",
@@ -145,7 +145,7 @@
     {
       "course_code": "BIOL  221",
       "course_name": "BIOL  221  IS*Plant Form & Fun.",
-      "credits": "4",
+      "credits": "4.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -159,7 +159,7 @@
     {
       "course_code": "BIOL  403",
       "course_name": "BIOL  403  APlant Physiology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS413",
@@ -173,7 +173,7 @@
     {
       "course_code": "BIOL  412",
       "course_name": "BIOL  412  ANeurobiology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS313",
@@ -187,7 +187,7 @@
     {
       "course_code": "BIOL  473",
       "course_name": "BIOL  473  A*Industrial Micro",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS331",
@@ -201,7 +201,7 @@
     {
       "course_code": "BIOT  314",
       "course_name": "BIOT  314  A*Bioenerg.  & Metab",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS321",
@@ -215,7 +215,7 @@
     {
       "course_code": "BIOT  409",
       "course_name": "BIOT  409  AFood & Dairy Tech.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS341",
@@ -229,7 +229,7 @@
     {
       "course_code": "BIOT  411",
       "course_name": "BIOT  411  AAgri. Biotechnology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS413",
@@ -250,7 +250,7 @@
     {
       "course_code": "BIOT  412",
       "course_name": "BIOT  412  A*Medi. Biotechnology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS321",
@@ -264,7 +264,7 @@
     {
       "course_code": "BIOT  506",
       "course_name": "BIOT  506  ABiostatistics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS312",
@@ -278,7 +278,7 @@
     {
       "course_code": "BIOT  511",
       "course_name": "BIOT  511  AJOURNAL CLUB",
-      "credits": "2",
+      "credits": "2.00",
       "sections": [
         {
           "classroom": "SBLOCKS329",
@@ -292,7 +292,7 @@
     {
       "course_code": "BIOT  605",
       "course_name": "BIOT  605  ABUS ENTREPRENEURSHIP",
-      "credits": "1",
+      "credits": "1.00",
       "sections": [
         {
           "classroom": "SBLOCKS331",
@@ -306,7 +306,7 @@
     {
       "course_code": "BIOT  609",
       "course_name": "BIOT  609  AADV. HEALTH BIOT",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS417",
@@ -320,7 +320,7 @@
     {
       "course_code": "BIOT  611",
       "course_name": "BIOT  611  AOmics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS331",
@@ -334,7 +334,7 @@
     {
       "course_code": "BIOT  699",
       "course_name": "BIOT  699A  ARESEARCH",
-      "credits": "6",
+      "credits": "6.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -362,7 +362,7 @@
     {
       "course_code": "BIOT  710",
       "course_name": "BIOT  710  ATrends in Microbial",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKTBD",
@@ -376,7 +376,7 @@
     {
       "course_code": "BIOT  712",
       "course_name": "BIOT  712  AAdvances in Medical",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKTBD",
@@ -390,7 +390,7 @@
     {
       "course_code": "BIOT  713",
       "course_name": "BIOT  713  AFood Biotechnology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -404,7 +404,7 @@
     {
       "course_code": "BIOT  799",
       "course_name": "BIOT  799A  AResearch",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -446,7 +446,7 @@
     {
       "course_code": "BUSN  121",
       "course_name": "BUSN  121  CMicroeconomics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE328",
@@ -516,7 +516,7 @@
     {
       "course_code": "BUSN  160",
       "course_name": "BUSN  160  BManagement Comm",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE343",
@@ -586,7 +586,7 @@
     {
       "course_code": "BUSN  206",
       "course_name": "BUSN  206  AMgt. Acc. & Control",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE330",
@@ -684,7 +684,7 @@
     {
       "course_code": "BUSN  225",
       "course_name": "BUSN  225  AEcon Appl for Busn",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE331",
@@ -782,7 +782,7 @@
     {
       "course_code": "BUSN  250",
       "course_name": "BUSN  250  AIndiv & Grp Dynamics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE328",
@@ -880,7 +880,7 @@
     {
       "course_code": "BUSN  305",
       "course_name": "BUSN  305  ACorporate Governance",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE331",
@@ -901,7 +901,7 @@
     {
       "course_code": "BUSN  322",
       "course_name": "BUSN  322  AFinancial Managmt II",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE346",
@@ -922,7 +922,7 @@
     {
       "course_code": "BUSN  353",
       "course_name": "BUSN  353  AHuman Resource Prac",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE332",
@@ -936,7 +936,7 @@
     {
       "course_code": "BUSN  354",
       "course_name": "BUSN  354  APerformance Mngmt.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE331",
@@ -950,7 +950,7 @@
     {
       "course_code": "BUSN  361",
       "course_name": "BUSN  361  AOps Excellence",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE333",
@@ -971,7 +971,7 @@
     {
       "course_code": "BUSN  368",
       "course_name": "BUSN  368  AProd & Plant Mangmnt",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE333",
@@ -992,7 +992,7 @@
     {
       "course_code": "BUSN  370",
       "course_name": "BUSN  370  AManagement Inf Syste",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE332",
@@ -1069,7 +1069,7 @@
     {
       "course_code": "BUSN  382",
       "course_name": "BUSN  382  AMarketing Comm",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE346",
@@ -1118,7 +1118,7 @@
     {
       "course_code": "BUSN  401",
       "course_name": "BUSN  401  APrinciples of Auditi",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE333",
@@ -1139,7 +1139,7 @@
     {
       "course_code": "BUSN  453",
       "course_name": "BUSN  453  AChange Management",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE213",
@@ -1153,7 +1153,7 @@
     {
       "course_code": "BUSN  460",
       "course_name": "BUSN  460  ABusiness Law",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE332",
@@ -1167,7 +1167,7 @@
     {
       "course_code": "BUSN  469",
       "course_name": "BUSN  469  AProject Mang Proc",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE213",
@@ -1188,7 +1188,7 @@
     {
       "course_code": "BUSN  484",
       "course_name": "BUSN  484  ABrand Management",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE346",
@@ -1230,7 +1230,7 @@
     {
       "course_code": "BUSN  490",
       "course_name": "BUSN  490  AAnalysis of Inst",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE347",
@@ -1279,7 +1279,7 @@
     {
       "course_code": "BUSN  498",
       "course_name": "BUSN  498  ABusiness Strategy",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE213",
@@ -1335,7 +1335,7 @@
     {
       "course_code": "BUSN  506",
       "course_name": "BUSN  506  AMGMT ACCTG",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE324",
@@ -1356,7 +1356,7 @@
     {
       "course_code": "BUSN  522",
       "course_name": "BUSN  522  AMACROECONOMICS",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE323",
@@ -1377,7 +1377,7 @@
     {
       "course_code": "BUSN  531",
       "course_name": "BUSN  531  APRINCIPLES FINANCE",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE324",
@@ -1398,7 +1398,7 @@
     {
       "course_code": "BUSN  560",
       "course_name": "BUSN  560  AOPERATIONS MGMT",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE324",
@@ -1419,7 +1419,7 @@
     {
       "course_code": "BUSN  571",
       "course_name": "BUSN  571  ALOGIC CRITI THINK 2",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE324",
@@ -1440,7 +1440,7 @@
     {
       "course_code": "BUSN  585",
       "course_name": "BUSN  585  AMARKETING RESEARCH",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE324",
@@ -1461,7 +1461,7 @@
     {
       "course_code": "BUSN  601",
       "course_name": "BUSN  601  AREPORT & GOVERNANCE",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE324",
@@ -1475,7 +1475,7 @@
     {
       "course_code": "BUSN  605",
       "course_name": "BUSN  605  AMGMT CONTROL SYSTEM",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE323",
@@ -1489,7 +1489,7 @@
     {
       "course_code": "BUSN  625",
       "course_name": "BUSN  625  ABUSINESS ETHICS",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE323",
@@ -1503,7 +1503,7 @@
     {
       "course_code": "BUSN  670",
       "course_name": "BUSN  670  ANEW PRODUCT DEVT",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE301",
@@ -1517,7 +1517,7 @@
     {
       "course_code": "BUSN  692",
       "course_name": "BUSN  692  ALEAD, CHANGE&STRAT2",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE301",
@@ -1531,7 +1531,7 @@
     {
       "course_code": "BUSN  695",
       "course_name": "BUSN  695  AMGMT NEGOTIATION",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE301",
@@ -1545,7 +1545,7 @@
     {
       "course_code": "CHEM  331",
       "course_name": "CHEM  331  APrincipals Bio Chem",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS210",
@@ -1559,7 +1559,7 @@
     {
       "course_code": "CHEM  471",
       "course_name": "CHEM  471  AAdv. Physical Chem.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS126",
@@ -1573,7 +1573,7 @@
     {
       "course_code": "CHEM  499",
       "course_name": "CHEM  499  AResearch Project",
-      "credits": "6",
+      "credits": "6.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -1601,7 +1601,7 @@
     {
       "course_code": "CHEM  520",
       "course_name": "CHEM  520  AThermal Method of A.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS213",
@@ -1615,7 +1615,7 @@
     {
       "course_code": "CHEM  524",
       "course_name": "CHEM  524  AIN ELEC SPECTROSCOPY",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS210",
@@ -1629,7 +1629,7 @@
     {
       "course_code": "CHEM  542",
       "course_name": "CHEM  542  AOrg. Spectroscopy",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS213",
@@ -1643,7 +1643,7 @@
     {
       "course_code": "CHEM  546",
       "course_name": "CHEM  546  ANatProd Techniques",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS119",
@@ -1657,7 +1657,7 @@
     {
       "course_code": "CHEM  549",
       "course_name": "CHEM  549  ABiomolecules S&F.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS210",
@@ -1671,7 +1671,7 @@
     {
       "course_code": "CHEM  563",
       "course_name": "CHEM  563  AMathematics for Chem",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS213",
@@ -1685,7 +1685,7 @@
     {
       "course_code": "CHEM  696",
       "course_name": "CHEM  696  ASeminar",
-      "credits": "2",
+      "credits": "2.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -1699,7 +1699,7 @@
     {
       "course_code": "CHEM  699",
       "course_name": "CHEM  699A  AResearch Thesis",
-      "credits": "7",
+      "credits": "7.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -1720,7 +1720,7 @@
     {
       "course_code": "CHEM  705",
       "course_name": "CHEM  705  ACh Coord Complex",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS138",
@@ -1734,7 +1734,7 @@
     {
       "course_code": "CHEM  745",
       "course_name": "CHEM  745  AMedicinal Chemistry",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS212",
@@ -1748,7 +1748,7 @@
     {
       "course_code": "CHEM  763",
       "course_name": "CHEM  763  AElectroana Techniq",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS212",
@@ -1762,7 +1762,7 @@
     {
       "course_code": "CHEM  799",
       "course_name": "CHEM  799A  AResearch Thesis",
-      "credits": "6",
+      "credits": "6.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -1790,7 +1790,7 @@
     {
       "course_code": "CHIN  101",
       "course_name": "CHIN  101  AChinese I",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE244",
@@ -1811,7 +1811,7 @@
     {
       "course_code": "CHIN  102",
       "course_name": "CHIN  102  AChinese II",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE244",
@@ -1825,7 +1825,7 @@
     {
       "course_code": "COMP  113",
       "course_name": "COMP  113  ADiscrete Mathematics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS216",
@@ -1853,7 +1853,7 @@
     {
       "course_code": "COMP  213",
       "course_name": "COMP  213  ADatabase Systems",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS320",
@@ -1874,7 +1874,7 @@
     {
       "course_code": "COMP  220",
       "course_name": "COMP  220  ASoftware Engineering",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS317",
@@ -1895,7 +1895,7 @@
     {
       "course_code": "COMP  300",
       "course_name": "COMP  300  BComputer Organizatio",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS218",
@@ -1909,7 +1909,7 @@
     {
       "course_code": "COMP  301",
       "course_name": "COMP  301  COperating Systems",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS319",
@@ -1923,7 +1923,7 @@
     {
       "course_code": "COMP  302",
       "course_name": "COMP  302  ATheory of Automata",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS215",
@@ -1944,7 +1944,7 @@
     {
       "course_code": "COMP  303",
       "course_name": "COMP  303  AD&A of Algorithms",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS316",
@@ -1965,7 +1965,7 @@
     {
       "course_code": "COMP  311",
       "course_name": "COMP  311  AComputer Networks",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS120",
@@ -1993,7 +1993,7 @@
     {
       "course_code": "COMP  401",
       "course_name": "COMP  401  AEthics Comp Professn",
-      "credits": "1",
+      "credits": "1.00",
       "sections": [
         {
           "classroom": "SBLOCKS215",
@@ -2021,7 +2021,7 @@
     {
       "course_code": "COMP  405",
       "course_name": "COMP  405  AHuman Computer Inter",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS219",
@@ -2035,7 +2035,7 @@
     {
       "course_code": "COMP  410",
       "course_name": "COMP  410  AParallel and Distrib",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS218",
@@ -2056,7 +2056,7 @@
     {
       "course_code": "COMP  421",
       "course_name": "COMP  421  AInformation Security",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS216",
@@ -2084,7 +2084,7 @@
     {
       "course_code": "COMP  497",
       "course_name": "COMP  497A  ASenior Project",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -2105,7 +2105,7 @@
     {
       "course_code": "COMP  504",
       "course_name": "COMP  504  AAdv. Oprtng. Systems",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS316",
@@ -2119,7 +2119,7 @@
     {
       "course_code": "COMP  552",
       "course_name": "COMP  552  AAdvanced Machine Lea",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS316",
@@ -2133,7 +2133,7 @@
     {
       "course_code": "COMP  699",
       "course_name": "COMP  699A  AResearch thesis",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -2154,7 +2154,7 @@
     {
       "course_code": "CPPG  603",
       "course_name": "CPPG  603  AICT Concepts & tools",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -2168,7 +2168,7 @@
     {
       "course_code": "CPPG  604",
       "course_name": "CPPG  604  ARESEARCH METHODS",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -2182,7 +2182,7 @@
     {
       "course_code": "CPPG  606",
       "course_name": "CPPG  606  APoli Analy: Poli Des",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -2196,7 +2196,7 @@
     {
       "course_code": "CPPG  616",
       "course_name": "CPPG  616  AResearch Methodology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -2210,7 +2210,7 @@
     {
       "course_code": "CPPG  618",
       "course_name": "CPPG  618  AS Leadership & Gov.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -2224,7 +2224,7 @@
     {
       "course_code": "CPPG  642",
       "course_name": "CPPG  642  AWater Policy and Gov",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -2238,7 +2238,7 @@
     {
       "course_code": "CPPG  656",
       "course_name": "CPPG  656  AInfo Econ, Urban Dev",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -2252,7 +2252,7 @@
     {
       "course_code": "CPPG  677",
       "course_name": "CPPG  677  ADemography and Secur",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -2266,7 +2266,7 @@
     {
       "course_code": "CPPG  699",
       "course_name": "CPPG  699B  AResearch",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -2280,7 +2280,7 @@
     {
       "course_code": "CPPG  701",
       "course_name": "CPPG  701  APP, Politics & Soci.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -2294,7 +2294,7 @@
     {
       "course_code": "CPPG  704",
       "course_name": "CPPG  704  APltcl Econ&Pub. Budg",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -2308,7 +2308,7 @@
     {
       "course_code": "CPPG  799",
       "course_name": "CPPG  799B  AResearch",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -2322,7 +2322,7 @@
     {
       "course_code": "CRIM  201",
       "course_name": "CRIM  201  ASociological Researc",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE214",
@@ -2336,7 +2336,7 @@
     {
       "course_code": "CRIM  220",
       "course_name": "CRIM  220  BIntro. to Crimnology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE104",
@@ -2350,7 +2350,7 @@
     {
       "course_code": "CRIM  310",
       "course_name": "CRIM  310  APenology and Prison",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE214",
@@ -2364,7 +2364,7 @@
     {
       "course_code": "CRIM  460",
       "course_name": "CRIM  460  AComparative Criminal",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE214",
@@ -2378,7 +2378,7 @@
     {
       "course_code": "CRST  151",
       "course_name": "CRST  151  AIntro to Chris. Thou",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE243",
@@ -2392,7 +2392,7 @@
     {
       "course_code": "CRST  152",
       "course_name": "CRST  152  AChristian Ethics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE243",
@@ -2413,7 +2413,7 @@
     {
       "course_code": "CRST  155",
       "course_name": "CRST  155  AInterpret the Bible",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE243",
@@ -2427,7 +2427,7 @@
     {
       "course_code": "CRST  211",
       "course_name": "CRST  211  AApplied Theology 1",
-      "credits": "1",
+      "credits": "1.00",
       "sections": [
         {
           "classroom": "XBLOCKX002",
@@ -2441,7 +2441,7 @@
     {
       "course_code": "CRST  212",
       "course_name": "CRST  212  AApplied Theology 2",
-      "credits": "1",
+      "credits": "1.00",
       "sections": [
         {
           "classroom": "XBLOCKX002",
@@ -2455,7 +2455,7 @@
     {
       "course_code": "CRST  232",
       "course_name": "CRST  232  ABiblical Hebrew 2",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE243",
@@ -2469,7 +2469,7 @@
     {
       "course_code": "CRST  272",
       "course_name": "CRST  272  ANew Test. Greek 2",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE243",
@@ -2483,7 +2483,7 @@
     {
       "course_code": "CRST  281",
       "course_name": "CRST  281  AOld Testament 1",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE243",
@@ -2497,7 +2497,7 @@
     {
       "course_code": "CRST  312",
       "course_name": "CRST  312  AApplied Theology 4",
-      "credits": "1",
+      "credits": "1.00",
       "sections": [
         {
           "classroom": "XBLOCKX002",
@@ -2511,7 +2511,7 @@
     {
       "course_code": "CRST  332",
       "course_name": "CRST  332  ABiblical Hebrew 4",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "XBLOCKX002",
@@ -2525,7 +2525,7 @@
     {
       "course_code": "CRST  372",
       "course_name": "CRST  372  ANew Testament Grk 4",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "XBLOCKX002",
@@ -2539,7 +2539,7 @@
     {
       "course_code": "CRST  412",
       "course_name": "CRST  412  AApplied Theology 6",
-      "credits": "1",
+      "credits": "1.00",
       "sections": [
         {
           "classroom": "XBLOCKX018",
@@ -2553,7 +2553,7 @@
     {
       "course_code": "CRST  425",
       "course_name": "CRST  425  AHebrew Reading",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "XBLOCKX002",
@@ -2567,7 +2567,7 @@
     {
       "course_code": "CRST  455",
       "course_name": "CRST  455A  AGreek Reading : 1 Jo",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "XBLOCKX002",
@@ -2581,7 +2581,7 @@
     {
       "course_code": "CRST  471",
       "course_name": "CRST  471D  AEnglish Bible: James",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE243",
@@ -2595,7 +2595,7 @@
     {
       "course_code": "CRST  498",
       "course_name": "CRST  498  AChristian Capstone",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "XBLOCKX018",
@@ -2609,7 +2609,7 @@
     {
       "course_code": "CRST  525",
       "course_name": "CRST  525D  ABibilical:1&2 Kings",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "XBLOCKX018",
@@ -2623,7 +2623,7 @@
     {
       "course_code": "CRST  555",
       "course_name": "CRST  555A  ANT Greek Read:Acts",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "XBLOCKX020",
@@ -2644,7 +2644,7 @@
     {
       "course_code": "CRST  585",
       "course_name": "CRST  585E  ABibl Theol:Ministry",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "XBLOCKX020",
@@ -2658,7 +2658,7 @@
     {
       "course_code": "CSCS  100",
       "course_name": "CSCS  100  BIntro  to Computing",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS320",
@@ -2700,7 +2700,7 @@
     {
       "course_code": "CSCS  201",
       "course_name": "CSCS  201  AMultivariate Calculu",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS424",
@@ -2728,7 +2728,7 @@
     {
       "course_code": "CSCS  202",
       "course_name": "CSCS  202  AComp Linear Algeb",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS317",
@@ -2756,7 +2756,7 @@
     {
       "course_code": "CSCS  203",
       "course_name": "CSCS  203  ADifferential Equatio",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS413",
@@ -2784,7 +2784,7 @@
     {
       "course_code": "CSCS  313",
       "course_name": "CSCS  313  ASoftware Requir Eng",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS215",
@@ -2798,7 +2798,7 @@
     {
       "course_code": "CSCS  320",
       "course_name": "CSCS  320  ANumerical Computing",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS216",
@@ -2826,7 +2826,7 @@
     {
       "course_code": "CSCS  342",
       "course_name": "CSCS  342  AWeb Application Deve",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS320",
@@ -2840,7 +2840,7 @@
     {
       "course_code": "CSCS  366",
       "course_name": "CSCS  366  AInto.to Nat Language",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS216",
@@ -2854,7 +2854,7 @@
     {
       "course_code": "CSCS  367",
       "course_name": "CSCS  367  ABlockchain tech.&app",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS317",
@@ -2868,7 +2868,7 @@
     {
       "course_code": "CSCS  456",
       "course_name": "CSCS  456  AIntroduction to deep",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS316",
@@ -2882,7 +2882,7 @@
     {
       "course_code": "CSCS  457",
       "course_name": "CSCS  457  AComputer Vision",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS111",
@@ -2896,7 +2896,7 @@
     {
       "course_code": "CSCS  460",
       "course_name": "CSCS  460  AMachine Learning",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS216",
@@ -2910,7 +2910,7 @@
     {
       "course_code": "CSCS  470",
       "course_name": "CSCS  470  AIntroduction to Game",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS319",
@@ -2924,7 +2924,7 @@
     {
       "course_code": "CSCS  475",
       "course_name": "CSCS  475  ATech Entrepreneur",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS319",
@@ -2938,7 +2938,7 @@
     {
       "course_code": "CSCS  482",
       "course_name": "CSCS  482  AGenAI Security",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS219",
@@ -2952,7 +2952,7 @@
     {
       "course_code": "CSDS  503",
       "course_name": "CSDS  503  AAdv. Machine Learnin",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS316",
@@ -2966,7 +2966,7 @@
     {
       "course_code": "CSDS  552",
       "course_name": "CSDS  552  ADeep Learning",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS316",
@@ -2980,7 +2980,7 @@
     {
       "course_code": "CSDS  611",
       "course_name": "CSDS  611  AInfo. Retr. & Web Sr",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS316",
@@ -2994,7 +2994,7 @@
     {
       "course_code": "CSDS  699",
       "course_name": "CSDS  699A  AResearch Thesis",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -3015,7 +3015,7 @@
     {
       "course_code": "ECON  100",
       "course_name": "ECON  100  BPrinciples of Econom",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE202",
@@ -3064,7 +3064,7 @@
     {
       "course_code": "ECON  101",
       "course_name": "ECON  101  AMicroeconomics I",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE203",
@@ -3092,7 +3092,7 @@
     {
       "course_code": "ECON  102",
       "course_name": "ECON  102  AMacroeconomics I",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE204",
@@ -3120,7 +3120,7 @@
     {
       "course_code": "ECON  103",
       "course_name": "ECON  103  AMathematics for Econ",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE205",
@@ -3148,7 +3148,7 @@
     {
       "course_code": "ECON  201",
       "course_name": "ECON  201  AMicroeconomics  II",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE203",
@@ -3169,7 +3169,7 @@
     {
       "course_code": "ECON  202",
       "course_name": "ECON  202  AMacroeconomics II",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE202",
@@ -3190,7 +3190,7 @@
     {
       "course_code": "ECON  203",
       "course_name": "ECON  203  AStatistics for Econ.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE202",
@@ -3211,7 +3211,7 @@
     {
       "course_code": "ECON  206",
       "course_name": "ECON  206  ABanking and Finance",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE202",
@@ -3225,7 +3225,7 @@
     {
       "course_code": "ECON  210",
       "course_name": "ECON  210  APopulation Economics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE204",
@@ -3246,7 +3246,7 @@
     {
       "course_code": "ECON  300",
       "course_name": "ECON  300  AFundam. of Econometr",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE205",
@@ -3267,7 +3267,7 @@
     {
       "course_code": "ECON  302",
       "course_name": "ECON  302  ARes  Meth. & Com. Ap",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE204",
@@ -3288,7 +3288,7 @@
     {
       "course_code": "ECON  304",
       "course_name": "ECON  304  AManagerial Economics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE202",
@@ -3302,7 +3302,7 @@
     {
       "course_code": "ECON  315",
       "course_name": "ECON  315  AAdvanced Math Econ",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE204",
@@ -3316,7 +3316,7 @@
     {
       "course_code": "ECON  320",
       "course_name": "ECON  320  AEcon.of Invest & Fin",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE203",
@@ -3330,7 +3330,7 @@
     {
       "course_code": "ECON  322",
       "course_name": "ECON  322  AData Analy for Econo",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE241",
@@ -3344,7 +3344,7 @@
     {
       "course_code": "ECON  323",
       "course_name": "ECON  323  ADigital Economics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE204",
@@ -3358,7 +3358,7 @@
     {
       "course_code": "ECON  325",
       "course_name": "ECON  325  AIslamic Economics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE203",
@@ -3372,7 +3372,7 @@
     {
       "course_code": "ECON  400",
       "course_name": "ECON  400  AIssues in Pak Econ",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE203",
@@ -3393,7 +3393,7 @@
     {
       "course_code": "ECON  406",
       "course_name": "ECON  406  AIntro to Game Theory",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE202",
@@ -3407,7 +3407,7 @@
     {
       "course_code": "ECON  411",
       "course_name": "ECON  411  ADevelopment Policy",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE203",
@@ -3421,7 +3421,7 @@
     {
       "course_code": "ECON  413",
       "course_name": "ECON  413  AMonetary Policy",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE205",
@@ -3435,7 +3435,7 @@
     {
       "course_code": "ECON  417",
       "course_name": "ECON  417  AInternational Financ",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE205",
@@ -3456,7 +3456,7 @@
     {
       "course_code": "ECON  499",
       "course_name": "ECON  499A  AResearch Prj & Paper",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -3477,7 +3477,7 @@
     {
       "course_code": "ECON  560",
       "course_name": "ECON  560  AResearch Methods",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE201",
@@ -3491,7 +3491,7 @@
     {
       "course_code": "ECON  600",
       "course_name": "ECON  600  ATopics Inter Econ",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE201",
@@ -3505,7 +3505,7 @@
     {
       "course_code": "ECON  620",
       "course_name": "ECON  620  AENV-NR ECONOMICS",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE201",
@@ -3519,7 +3519,7 @@
     {
       "course_code": "ECON  655",
       "course_name": "ECON  655  AAPPLIED ECONOMICS",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE201",
@@ -3533,7 +3533,7 @@
     {
       "course_code": "ECON  699",
       "course_name": "ECON  699A  AResearch Thesis",
-      "credits": "6",
+      "credits": "6.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -3561,7 +3561,7 @@
     {
       "course_code": "ECON  702",
       "course_name": "ECON  702  ATopics in Macroecono",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE201",
@@ -3575,7 +3575,7 @@
     {
       "course_code": "ECON  707",
       "course_name": "ECON  707  AStructural Equation",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE201",
@@ -3589,7 +3589,7 @@
     {
       "course_code": "ECON  708",
       "course_name": "ECON  708  AIssues in Developmen",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE201",
@@ -3603,7 +3603,7 @@
     {
       "course_code": "ECON  799",
       "course_name": "ECON  799A  AResearch Thesis",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -3631,7 +3631,7 @@
     {
       "course_code": "EDUC  110",
       "course_name": "EDUC  110  AFoundations of Educ.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE230",
@@ -3680,7 +3680,7 @@
     {
       "course_code": "EDUC  120",
       "course_name": "EDUC  120  AEduc Psychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE038",
@@ -3736,7 +3736,7 @@
     {
       "course_code": "EDUC  240",
       "course_name": "EDUC  240  ATechnology in Educat",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE242",
@@ -3750,7 +3750,7 @@
     {
       "course_code": "EDUC  300",
       "course_name": "EDUC  300  AInst. Mthds & Strate",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE121",
@@ -3764,7 +3764,7 @@
     {
       "course_code": "EDUC  340",
       "course_name": "EDUC  340  AEarly Childhood Educ",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE140",
@@ -3778,7 +3778,7 @@
     {
       "course_code": "EDUC  350",
       "course_name": "EDUC  350  AClassroom Management",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE121",
@@ -3792,7 +3792,7 @@
     {
       "course_code": "EDUC  355",
       "course_name": "EDUC  355  ATeaching English",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE140",
@@ -3806,7 +3806,7 @@
     {
       "course_code": "EDUC  370",
       "course_name": "EDUC  370  ATeaching Language",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE222",
@@ -3820,7 +3820,7 @@
     {
       "course_code": "EDUC  390",
       "course_name": "EDUC  390  ATeaching Social Stud",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE121",
@@ -3834,7 +3834,7 @@
     {
       "course_code": "EDUC  497",
       "course_name": "EDUC  497  APracticum I",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -3848,7 +3848,7 @@
     {
       "course_code": "EDUC  498",
       "course_name": "EDUC  498  AStudent Teaching Exp",
-      "credits": "6",
+      "credits": "6.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -3862,7 +3862,7 @@
     {
       "course_code": "EDUC  499",
       "course_name": "EDUC  499  ASenior Research Proj",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -3876,7 +3876,7 @@
     {
       "course_code": "EDUC  540",
       "course_name": "EDUC  540  ALeadership Theories",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE121",
@@ -3890,7 +3890,7 @@
     {
       "course_code": "EDUC  545",
       "course_name": "EDUC  545  AOrganizational Theor",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE040",
@@ -3904,7 +3904,7 @@
     {
       "course_code": "EDUC  640",
       "course_name": "EDUC  640  AHuman Resource Manag",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE121",
@@ -3918,7 +3918,7 @@
     {
       "course_code": "EDUC  645",
       "course_name": "EDUC  645  ACreative Approaches",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE121",
@@ -3932,7 +3932,7 @@
     {
       "course_code": "EDUC  699",
       "course_name": "EDUC  699B  AThesis",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -3946,7 +3946,7 @@
     {
       "course_code": "ENGL  110",
       "course_name": "ENGL  110  AContemp Short Story",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE222",
@@ -3960,7 +3960,7 @@
     {
       "course_code": "ENGL  175",
       "course_name": "ENGL  175  ACrit. Think.&Reading",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE221",
@@ -3981,7 +3981,7 @@
     {
       "course_code": "ENGL  201",
       "course_name": "ENGL  201  BIntro to English lit",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE221",
@@ -4002,7 +4002,7 @@
     {
       "course_code": "ENGL  214",
       "course_name": "ENGL  214  A18th Century Novel",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE222",
@@ -4016,7 +4016,7 @@
     {
       "course_code": "ENGL  301",
       "course_name": "ENGL  301  A19th Ctry Engl Novel",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE221",
@@ -4030,7 +4030,7 @@
     {
       "course_code": "ENGL  303",
       "course_name": "ENGL  303  AScience Fiction",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE221",
@@ -4044,7 +4044,7 @@
     {
       "course_code": "ENGL  307",
       "course_name": "ENGL  307  AClassical Drama",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE221",
@@ -4058,7 +4058,7 @@
     {
       "course_code": "ENGL  310",
       "course_name": "ENGL  310  ABritish Romantic Poe",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE222",
@@ -4072,7 +4072,7 @@
     {
       "course_code": "ENGL  315",
       "course_name": "ENGL  315  APoetry I",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE227",
@@ -4086,7 +4086,7 @@
     {
       "course_code": "ENGL  323",
       "course_name": "ENGL  323  AAmer. Poetry & dram",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE221",
@@ -4100,7 +4100,7 @@
     {
       "course_code": "ENGL  328",
       "course_name": "ENGL  328  ATrauma Lit.&Theory",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE221",
@@ -4114,7 +4114,7 @@
     {
       "course_code": "ENGL  331",
       "course_name": "ENGL  331  AResearch Methods",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE222",
@@ -4128,7 +4128,7 @@
     {
       "course_code": "ENGL  400",
       "course_name": "ENGL  400  AShakespearean Drama",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE221",
@@ -4142,7 +4142,7 @@
     {
       "course_code": "ENGL  403",
       "course_name": "ENGL  403  ACont Liter. Criticis",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE222",
@@ -4156,7 +4156,7 @@
     {
       "course_code": "ENGL  408",
       "course_name": "ENGL  408  APost Modern Fiction",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE221",
@@ -4170,7 +4170,7 @@
     {
       "course_code": "ENGL  430",
       "course_name": "ENGL  430  APostcolonial Lit. th",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE222",
@@ -4184,7 +4184,7 @@
     {
       "course_code": "ENGL  445",
       "course_name": "ENGL  445  ALiterature & Environ",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE222",
@@ -4198,7 +4198,7 @@
     {
       "course_code": "ENGL  499",
       "course_name": "ENGL  499  AThesis",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -4212,7 +4212,7 @@
     {
       "course_code": "ENGL  516",
       "course_name": "ENGL  516  AMinority Literatures",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE221",
@@ -4226,7 +4226,7 @@
     {
       "course_code": "ENGL  517",
       "course_name": "ENGL  517  AAfrican Literature",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE227",
@@ -4240,7 +4240,7 @@
     {
       "course_code": "ENGL  520",
       "course_name": "ENGL  520  ACritical Theory",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE221",
@@ -4254,7 +4254,7 @@
     {
       "course_code": "ENGL  550",
       "course_name": "ENGL  550  AMuslim Women's Voice",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE227",
@@ -4268,7 +4268,7 @@
     {
       "course_code": "ENGL  611",
       "course_name": "ENGL  611  ADystopian Fiction",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE222",
@@ -4282,7 +4282,7 @@
     {
       "course_code": "ENGL  618",
       "course_name": "ENGL  618  AAesthetics & Poetry",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE227",
@@ -4296,7 +4296,7 @@
     {
       "course_code": "ENVR  151",
       "course_name": "ENVR  151  AIntro to Sources",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS424",
@@ -4317,7 +4317,7 @@
     {
       "course_code": "ENVR  210",
       "course_name": "ENVR  210  AEarth's Physl Realms",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE242",
@@ -4331,7 +4331,7 @@
     {
       "course_code": "ENVR  212",
       "course_name": "ENVR  212  A*Res Methds&Stats",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS320",
@@ -4345,7 +4345,7 @@
     {
       "course_code": "ENVR  250",
       "course_name": "ENVR  250  AEnvironmental Manage",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS417",
@@ -4359,7 +4359,7 @@
     {
       "course_code": "ENVR  252",
       "course_name": "ENVR  252  AEnviron. Pollution",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS417",
@@ -4380,7 +4380,7 @@
     {
       "course_code": "ENVR  309",
       "course_name": "ENVR  309  AIntro Env. Modeling",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS417",
@@ -4394,7 +4394,7 @@
     {
       "course_code": "ENVR  402",
       "course_name": "ENVR  402  A*Solid Waste Manag.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS424",
@@ -4408,7 +4408,7 @@
     {
       "course_code": "ENVR  403",
       "course_name": "ENVR  403  AOccu Health & Safety",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS417",
@@ -4422,7 +4422,7 @@
     {
       "course_code": "ENVR  404",
       "course_name": "ENVR  404  AAir/ Noise Poll. Cnt",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS424",
@@ -4436,7 +4436,7 @@
     {
       "course_code": "ENVR  405",
       "course_name": "ENVR  405  A*Conservation Biol",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS417",
@@ -4450,7 +4450,7 @@
     {
       "course_code": "ENVR  413",
       "course_name": "ENVR  413  A*Envr. Toxicology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS424",
@@ -4464,7 +4464,7 @@
     {
       "course_code": "ENVR  499",
       "course_name": "ENVR  499B  AProject/Research",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -4478,7 +4478,7 @@
     {
       "course_code": "ENVR  604",
       "course_name": "ENVR  604  AEco-Entrepreneurship",
-      "credits": "1",
+      "credits": "1.00",
       "sections": [
         {
           "classroom": "SBLOCKS417",
@@ -4492,7 +4492,7 @@
     {
       "course_code": "ENVR  699",
       "course_name": "ENVR  699A  AResearch",
-      "credits": "6",
+      "credits": "6.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -4520,7 +4520,7 @@
     {
       "course_code": "FREN  101",
       "course_name": "FREN  101  AFrench 1",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE103",
@@ -4548,7 +4548,7 @@
     {
       "course_code": "FREN  102",
       "course_name": "FREN  102  AFrench II",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE246",
@@ -4562,7 +4562,7 @@
     {
       "course_code": "FSQM  504",
       "course_name": "FSQM  504  APublic Health & Nutr",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS312",
@@ -4576,7 +4576,7 @@
     {
       "course_code": "FSQM  603",
       "course_name": "FSQM  603  AConsu. Behav. Pref.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS312",
@@ -4590,7 +4590,7 @@
     {
       "course_code": "FSQM  606",
       "course_name": "FSQM  606  AAdv. Ana. Tech. f fo",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS312",
@@ -4604,7 +4604,7 @@
     {
       "course_code": "FSQM  607",
       "course_name": "FSQM  607  AFood laws, Authentic",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS312",
@@ -4618,7 +4618,7 @@
     {
       "course_code": "FSQM  699",
       "course_name": "FSQM  699A  AResearch",
-      "credits": "6",
+      "credits": "6.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -4646,7 +4646,7 @@
     {
       "course_code": "GEOG  101",
       "course_name": "GEOG  101  AFunda of Geography",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE228",
@@ -4681,7 +4681,7 @@
     {
       "course_code": "GEOG  133",
       "course_name": "GEOG  133  AGeog Prof. of Pak.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE228",
@@ -4702,7 +4702,7 @@
     {
       "course_code": "GEOG  202",
       "course_name": "GEOG  202  AFund. Remote Sensing",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE228",
@@ -4716,7 +4716,7 @@
     {
       "course_code": "GEOG  210",
       "course_name": "GEOG  210  AEarth's Physl Realms",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE242",
@@ -4730,7 +4730,7 @@
     {
       "course_code": "GEOG  220",
       "course_name": "GEOG  220  AHum Doma.of Geograph",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE242",
@@ -4744,7 +4744,7 @@
     {
       "course_code": "GEOG  221",
       "course_name": "GEOG  221  AGeography of Tourism",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE228",
@@ -4758,7 +4758,7 @@
     {
       "course_code": "GEOG  270",
       "course_name": "GEOG  270  ISMaps & their Interpr",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -4772,7 +4772,7 @@
     {
       "course_code": "GEOG  313",
       "course_name": "GEOG  313  AGeodyn and Geomorph",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE242",
@@ -4786,7 +4786,7 @@
     {
       "course_code": "GEOG  325",
       "course_name": "GEOG  325  APolitical Geography",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE243",
@@ -4800,7 +4800,7 @@
     {
       "course_code": "GEOG  326",
       "course_name": "GEOG  326  AUrban Env. Issues",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE242",
@@ -4814,7 +4814,7 @@
     {
       "course_code": "GEOG  371",
       "course_name": "GEOG  371  ISDigital Cartography",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -4828,7 +4828,7 @@
     {
       "course_code": "GEOG  471",
       "course_name": "GEOG  471  ISQual & Quan Techniq",
-      "credits": "4",
+      "credits": "4.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -4842,7 +4842,7 @@
     {
       "course_code": "GEOG  499",
       "course_name": "GEOG  499  ADirected Project",
-      "credits": "6",
+      "credits": "6.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -4863,7 +4863,7 @@
     {
       "course_code": "GRMN  101",
       "course_name": "GRMN  101  AGerman I",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE140",
@@ -4891,7 +4891,7 @@
     {
       "course_code": "GRMN  102",
       "course_name": "GRMN  102  AGerman II",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE140",
@@ -4905,7 +4905,7 @@
     {
       "course_code": "HIST  101",
       "course_name": "HIST  101  ASurvey of South Asia",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE105",
@@ -4919,7 +4919,7 @@
     {
       "course_code": "HIST  102",
       "course_name": "HIST  102  ASurvey of Westrn Civ",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE038",
@@ -4933,7 +4933,7 @@
     {
       "course_code": "HIST  201",
       "course_name": "HIST  201  AResearch Methods",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE105",
@@ -4947,7 +4947,7 @@
     {
       "course_code": "HIST  202",
       "course_name": "HIST  202  BSurv of Modern Europ",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE105",
@@ -4961,7 +4961,7 @@
     {
       "course_code": "HIST  204",
       "course_name": "HIST  204  AHistory of the U.S",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE039",
@@ -4975,7 +4975,7 @@
     {
       "course_code": "HIST  250",
       "course_name": "HIST  250  AHis. salaten-e-delhi",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE105",
@@ -4989,7 +4989,7 @@
     {
       "course_code": "HIST  255",
       "course_name": "HIST  255  AThe Indus Valley",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE242",
@@ -5003,7 +5003,7 @@
     {
       "course_code": "HIST  301",
       "course_name": "HIST  301  APhiloso of History",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE040",
@@ -5017,7 +5017,7 @@
     {
       "course_code": "HIST  303",
       "course_name": "HIST  303  AIntl Relations& Dipl",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE041",
@@ -5031,7 +5031,7 @@
     {
       "course_code": "HIST  305",
       "course_name": "HIST  305  AAncnt Hist Sub-Cont",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE105",
@@ -5045,7 +5045,7 @@
     {
       "course_code": "HIST  306",
       "course_name": "HIST  306  AIslamic History",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE105",
@@ -5059,7 +5059,7 @@
     {
       "course_code": "HIST  308",
       "course_name": "HIST  308  AHistory of Lahore",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE242",
@@ -5073,7 +5073,7 @@
     {
       "course_code": "HIST  312",
       "course_name": "HIST  312  AModern Muslim World",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE243",
@@ -5087,7 +5087,7 @@
     {
       "course_code": "HIST  313",
       "course_name": "HIST  313  ABritish Rule in Ind.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE041",
@@ -5101,7 +5101,7 @@
     {
       "course_code": "HIST  315",
       "course_name": "HIST  315  AFreedom and the Nat",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE040",
@@ -5115,7 +5115,7 @@
     {
       "course_code": "HIST  320",
       "course_name": "HIST  320  AReform & Renaissance",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE041",
@@ -5129,7 +5129,7 @@
     {
       "course_code": "HIST  410",
       "course_name": "HIST  410  AColon Punj 1848-1947",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE105",
@@ -5143,7 +5143,7 @@
     {
       "course_code": "HIST  499",
       "course_name": "HIST  499  AIndependent Research",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -5157,7 +5157,7 @@
     {
       "course_code": "HPED  101",
       "course_name": "HPED  101  ACricket for Girls",
-      "credits": "1",
+      "credits": "1.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -5171,7 +5171,7 @@
     {
       "course_code": "HPED  105",
       "course_name": "HPED  105  AVolleyball(Girls)",
-      "credits": "1",
+      "credits": "1.00",
       "sections": [
         {
           "classroom": "VCOURTVCOURT",
@@ -5192,7 +5192,7 @@
     {
       "course_code": "HPED  106",
       "course_name": "HPED  106  APhyscl. Exercise Boy",
-      "credits": "1",
+      "credits": "1.00",
       "sections": [
         {
           "classroom": "ATRACKATRACK",
@@ -5206,7 +5206,7 @@
     {
       "course_code": "HPED  107",
       "course_name": "HPED  107  AAthletics(Boys)",
-      "credits": "1",
+      "credits": "1.00",
       "sections": [
         {
           "classroom": "ATRACKATRACK",
@@ -5220,7 +5220,7 @@
     {
       "course_code": "HPED  111",
       "course_name": "HPED  111  ATennis (Girls)",
-      "credits": "1",
+      "credits": "1.00",
       "sections": [
         {
           "classroom": "TTENISTBD",
@@ -5241,7 +5241,7 @@
     {
       "course_code": "HPED  112",
       "course_name": "HPED  112  AHandball (Girls)",
-      "credits": "1",
+      "credits": "1.00",
       "sections": [
         {
           "classroom": "HCOURTHCOURT",
@@ -5255,7 +5255,7 @@
     {
       "course_code": "HPED  151",
       "course_name": "HPED  151  ASports Injuries",
-      "credits": "2",
+      "credits": "2.00",
       "sections": [
         {
           "classroom": "EBLOCKE102",
@@ -5276,7 +5276,7 @@
     {
       "course_code": "ISLM  101",
       "course_name": "ISLM  101  AIslamic Education",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE230",
@@ -5353,7 +5353,7 @@
     {
       "course_code": "ISLM  103",
       "course_name": "ISLM  103  AIslamic Ideology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE229",
@@ -5367,7 +5367,7 @@
     {
       "course_code": "ISLM  104",
       "course_name": "ISLM  104  AArab. Comm. Skills",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE229",
@@ -5381,7 +5381,7 @@
     {
       "course_code": "ISLM  304",
       "course_name": "ISLM  304  ASeerat-Un-Nabi",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE229",
@@ -5395,7 +5395,7 @@
     {
       "course_code": "ISLM  305",
       "course_name": "ISLM  305  AInterfaith Dialogue",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE230",
@@ -5409,7 +5409,7 @@
     {
       "course_code": "ISLM  306",
       "course_name": "ISLM  306  AReligion and Science",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE229",
@@ -5423,7 +5423,7 @@
     {
       "course_code": "KORN  101",
       "course_name": "KORN  101  AKorean I",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE222",
@@ -5444,7 +5444,7 @@
     {
       "course_code": "KORN  102",
       "course_name": "KORN  102  AKorean II",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE230",
@@ -5458,7 +5458,7 @@
     {
       "course_code": "LING  207",
       "course_name": "LING  207  AHistory of Eng. Lang",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE227",
@@ -5472,7 +5472,7 @@
     {
       "course_code": "LING  217",
       "course_name": "LING  217  AIntroduction to Ling",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE041",
@@ -5493,7 +5493,7 @@
     {
       "course_code": "LING  304",
       "course_name": "LING  304  ASemantics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE140",
@@ -5507,7 +5507,7 @@
     {
       "course_code": "LING  308",
       "course_name": "LING  308  ATranslation Studies",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE227",
@@ -5521,7 +5521,7 @@
     {
       "course_code": "LING  309",
       "course_name": "LING  309  ATeaching English as",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE040",
@@ -5535,7 +5535,7 @@
     {
       "course_code": "LING  370",
       "course_name": "LING  370  ALanguage,Culture&Ide",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS008",
@@ -5549,7 +5549,7 @@
     {
       "course_code": "LING  413",
       "course_name": "LING  413  ASociolinguistics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE227",
@@ -5563,7 +5563,7 @@
     {
       "course_code": "LING  495",
       "course_name": "LING  495  ARes.Methods in Ling",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE039",
@@ -5577,7 +5577,7 @@
     {
       "course_code": "LING  499",
       "course_name": "LING  499  AThesis",
-      "credits": "6",
+      "credits": "6.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -5605,7 +5605,7 @@
     {
       "course_code": "MATH  100",
       "course_name": "MATH  100  AQuantitative Skills",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS412",
@@ -5640,7 +5640,7 @@
     {
       "course_code": "MATH  101",
       "course_name": "MATH  101  BPre-Calc & Trigonom.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS416",
@@ -5668,7 +5668,7 @@
     {
       "course_code": "MATH  102",
       "course_name": "MATH  102  ACalculus 1",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS416",
@@ -5689,7 +5689,7 @@
     {
       "course_code": "MATH  103",
       "course_name": "MATH  103  AIntro. Lin. Algebra",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS412",
@@ -5703,7 +5703,7 @@
     {
       "course_code": "MATH  105",
       "course_name": "MATH  105  AProb & Prob. Distrib",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS421",
@@ -5724,7 +5724,7 @@
     {
       "course_code": "MATH  107",
       "course_name": "MATH  107  AStatistical Methods",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS421",
@@ -5780,7 +5780,7 @@
     {
       "course_code": "MATH  111",
       "course_name": "MATH  111  ACalc & Analy Geom",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS412",
@@ -5815,7 +5815,7 @@
     {
       "course_code": "MATH  202",
       "course_name": "MATH  202  AOrd Diffrn Equations",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS413",
@@ -5829,7 +5829,7 @@
     {
       "course_code": "MATH  204",
       "course_name": "MATH  204  AQuantitative Modelli",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS412",
@@ -5843,7 +5843,7 @@
     {
       "course_code": "MATH  210",
       "course_name": "MATH  210  ASet Theory",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS412",
@@ -5857,7 +5857,7 @@
     {
       "course_code": "MATH  301",
       "course_name": "MATH  301  AMultivariable Calcul",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS412",
@@ -5871,7 +5871,7 @@
     {
       "course_code": "MATH  302",
       "course_name": "MATH  302  AMechanics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS413",
@@ -5885,7 +5885,7 @@
     {
       "course_code": "MATH  303",
       "course_name": "MATH  303  ADiscrete Mathe... St",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS212",
@@ -5899,7 +5899,7 @@
     {
       "course_code": "MATH  304",
       "course_name": "MATH  304  AOperations Research",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS420",
@@ -5913,7 +5913,7 @@
     {
       "course_code": "MATH  307",
       "course_name": "MATH  307  AComplex Analysis",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS410",
@@ -5927,7 +5927,7 @@
     {
       "course_code": "MATH  310",
       "course_name": "MATH  310  ANumerical Analysis",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS410",
@@ -5941,7 +5941,7 @@
     {
       "course_code": "MATH  311",
       "course_name": "MATH  311  ISTopo &  Metric Space",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -5955,7 +5955,7 @@
     {
       "course_code": "MATH  313",
       "course_name": "MATH  313  AGroup Theory",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS410",
@@ -5969,7 +5969,7 @@
     {
       "course_code": "MATH  316",
       "course_name": "MATH  316  AMethods of Math. Phy",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS039",
@@ -5983,7 +5983,7 @@
     {
       "course_code": "MATH  404",
       "course_name": "MATH  404  APartial Diff Equa",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS204",
@@ -5997,7 +5997,7 @@
     {
       "course_code": "MATH  411",
       "course_name": "MATH  411  AQuantum Mechanics II",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS016A",
@@ -6011,7 +6011,7 @@
     {
       "course_code": "MCOM  101",
       "course_name": "MCOM  101  CIntro to Com Studies",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE039",
@@ -6046,7 +6046,7 @@
     {
       "course_code": "MCOM  200",
       "course_name": "MCOM  200  ACopy Writing",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE040",
@@ -6067,7 +6067,7 @@
     {
       "course_code": "MCOM  201",
       "course_name": "MCOM  201  ANews Reporting",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE039",
@@ -6088,7 +6088,7 @@
     {
       "course_code": "MCOM  290",
       "course_name": "MCOM  290  AFundamentals of Rese",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE041",
@@ -6109,7 +6109,7 @@
     {
       "course_code": "MCOM  301",
       "course_name": "MCOM  301  AMedia Systems",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE039",
@@ -6130,7 +6130,7 @@
     {
       "course_code": "MCOM  310",
       "course_name": "MCOM  310  AMCOM Studies",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE040",
@@ -6151,7 +6151,7 @@
     {
       "course_code": "MCOM  400",
       "course_name": "MCOM  400  AMed Mngt. in Ad & PR",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE039",
@@ -6172,7 +6172,7 @@
     {
       "course_code": "MCOM  401",
       "course_name": "MCOM  401  ARadio Broadcasting:",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE101",
@@ -6186,7 +6186,7 @@
     {
       "course_code": "MCOM  403",
       "course_name": "MCOM  403  AIntl. Journalism",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE040",
@@ -6200,7 +6200,7 @@
     {
       "course_code": "MCOM  409",
       "course_name": "MCOM  409  ATheories of Mass Com",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE105",
@@ -6214,7 +6214,7 @@
     {
       "course_code": "MCOM  410",
       "course_name": "MCOM  410  ADocumentary Making",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE040",
@@ -6228,7 +6228,7 @@
     {
       "course_code": "MCOM  414",
       "course_name": "MCOM  414  AResearch Methodology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE041",
@@ -6249,7 +6249,7 @@
     {
       "course_code": "MCOM  415",
       "course_name": "MCOM  415  AComm Campaign Design",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE041",
@@ -6270,7 +6270,7 @@
     {
       "course_code": "MCOM  430",
       "course_name": "MCOM  430  AMedia Lab",
-      "credits": "4",
+      "credits": "4.00",
       "sections": [
         {
           "classroom": "MCENTE01",
@@ -6284,7 +6284,7 @@
     {
       "course_code": "MCOM  499",
       "course_name": "MCOM  499  AResearch Thesis/Proj",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -6298,7 +6298,7 @@
     {
       "course_code": "MCOM  512",
       "course_name": "MCOM  512  AComm.Res.MethodsII",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE039",
@@ -6312,7 +6312,7 @@
     {
       "course_code": "MCOM  517",
       "course_name": "MCOM  517  AM.Debate:Issu.MCOM",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS111",
@@ -6326,7 +6326,7 @@
     {
       "course_code": "MCOM  522",
       "course_name": "MCOM  522  AInter. Journalism",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE039",
@@ -6340,7 +6340,7 @@
     {
       "course_code": "MCOM  525",
       "course_name": "MCOM  525  AMCOM.Theory II",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE040",
@@ -6354,7 +6354,7 @@
     {
       "course_code": "MCOM  526",
       "course_name": "MCOM  526  AMed.&Cul. Change",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE140",
@@ -6368,7 +6368,7 @@
     {
       "course_code": "MCOM  699",
       "course_name": "MCOM  699B  AThesis",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -6382,7 +6382,7 @@
     {
       "course_code": "MPGN  505",
       "course_name": "MPGN  505  AGenetic Basis of Hum",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS313",
@@ -6396,7 +6396,7 @@
     {
       "course_code": "MPGN  603",
       "course_name": "MPGN  603  ACellular Signal Tran",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS313",
@@ -6410,7 +6410,7 @@
     {
       "course_code": "MPGN  604",
       "course_name": "MPGN  604  ABioinformatics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS313",
@@ -6424,7 +6424,7 @@
     {
       "course_code": "MPGN  613",
       "course_name": "MPGN  613  AMole. Patho.&Diag.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS313",
@@ -6438,7 +6438,7 @@
     {
       "course_code": "MPGN  699",
       "course_name": "MPGN  699A  AResearch",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -6466,7 +6466,7 @@
     {
       "course_code": "MUSC  101",
       "course_name": "MUSC  101  AMusc Pract I - Vocal",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE137",
@@ -6480,7 +6480,7 @@
     {
       "course_code": "MUSC  250",
       "course_name": "MUSC  250  AMusic Appreciation",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE137",
@@ -6494,7 +6494,7 @@
     {
       "course_code": "PHIL  101",
       "course_name": "PHIL  101  AIntro to Philosophy",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE038",
@@ -6508,7 +6508,7 @@
     {
       "course_code": "PHIL  201",
       "course_name": "PHIL  201  AAncient through Medi",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE104",
@@ -6522,7 +6522,7 @@
     {
       "course_code": "PHIL  221",
       "course_name": "PHIL  221  ALogic How to Think",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE126",
@@ -6543,7 +6543,7 @@
     {
       "course_code": "PHIL  331",
       "course_name": "PHIL  331  AThoeries of Ethics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE122",
@@ -6557,7 +6557,7 @@
     {
       "course_code": "PHIL  495",
       "course_name": "PHIL  495K  AExistentialism",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE126",
@@ -6578,7 +6578,7 @@
     {
       "course_code": "PHYS  234",
       "course_name": "PHYS  234  AHeat & Thermodynamic",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS029",
@@ -6592,7 +6592,7 @@
     {
       "course_code": "PHYS  301",
       "course_name": "PHYS  301  A*Classical Mechanics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS039",
@@ -6606,7 +6606,7 @@
     {
       "course_code": "PHYS  332",
       "course_name": "PHYS  332  AElectronics II",
-      "credits": "4",
+      "credits": "4.00",
       "sections": [
         {
           "classroom": "SBLOCKS027B",
@@ -6620,7 +6620,7 @@
     {
       "course_code": "PHYS  341",
       "course_name": "PHYS  341  AMethods of Math. Phy",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS039",
@@ -6634,7 +6634,7 @@
     {
       "course_code": "PHYS  353",
       "course_name": "PHYS  353  AIntr.Nonlinear Metho",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS016A",
@@ -6648,7 +6648,7 @@
     {
       "course_code": "PHYS  422",
       "course_name": "PHYS  422  ANuclear Physics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS016A",
@@ -6662,7 +6662,7 @@
     {
       "course_code": "PHYS  462",
       "course_name": "PHYS  462  AQuantum Mechanics II",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS016A",
@@ -6676,7 +6676,7 @@
     {
       "course_code": "PHYS  483",
       "course_name": "PHYS  483  AMaterials Science",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS016B",
@@ -6690,7 +6690,7 @@
     {
       "course_code": "PHYS  499",
       "course_name": "PHYS  499  ASenior Thesis Projec",
-      "credits": "6",
+      "credits": "6.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -6718,7 +6718,7 @@
     {
       "course_code": "PHYS  502",
       "course_name": "PHYS  502  AAdv. Quantum Phys",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS016A",
@@ -6732,7 +6732,7 @@
     {
       "course_code": "PHYS  504",
       "course_name": "PHYS  504  AA.Condens Matter Phy",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS039",
@@ -6746,7 +6746,7 @@
     {
       "course_code": "PHYS  510",
       "course_name": "PHYS  510  AExpr. Techniques",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS007",
@@ -6760,7 +6760,7 @@
     {
       "course_code": "PHYS  524",
       "course_name": "PHYS  524  ANon-Linear Physics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS016",
@@ -6774,7 +6774,7 @@
     {
       "course_code": "PHYS  696",
       "course_name": "PHYS  696A  ASeminar",
-      "credits": "1",
+      "credits": "1.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -6795,7 +6795,7 @@
     {
       "course_code": "PHYS  699",
       "course_name": "PHYS  699B  AResearch Project",
-      "credits": "7",
+      "credits": "7.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -6809,7 +6809,7 @@
     {
       "course_code": "PHYS  701",
       "course_name": "PHYS  701  AAdv. Nonlinear Phys",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS016",
@@ -6823,7 +6823,7 @@
     {
       "course_code": "PHYS  709",
       "course_name": "PHYS  709  AMagnetic materials",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS016A",
@@ -6837,7 +6837,7 @@
     {
       "course_code": "PHYS  717",
       "course_name": "PHYS  717  AAdv.Fluid Dynamics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS016",
@@ -6851,7 +6851,7 @@
     {
       "course_code": "PHYS  799",
       "course_name": "PHYS  799A  AResearch",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -6893,7 +6893,7 @@
     {
       "course_code": "PKST  101",
       "course_name": "PKST  101  BPakistan Studies",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE105",
@@ -6928,7 +6928,7 @@
     {
       "course_code": "PLSC  101",
       "course_name": "PLSC  101  BIntro to Pol Science",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE122",
@@ -6984,7 +6984,7 @@
     {
       "course_code": "PLSC  102",
       "course_name": "PLSC  102  APakistan Government",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE139",
@@ -7012,7 +7012,7 @@
     {
       "course_code": "PLSC  203",
       "course_name": "PLSC  203  AInternational Relati",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE139",
@@ -7033,7 +7033,7 @@
     {
       "course_code": "PLSC  212",
       "course_name": "PLSC  212  ATheor Comp. Politic",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE139",
@@ -7047,7 +7047,7 @@
     {
       "course_code": "PLSC  301",
       "course_name": "PLSC  301  AAncnt, Mdvl, Poli Th",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE122",
@@ -7061,7 +7061,7 @@
     {
       "course_code": "PLSC  302",
       "course_name": "PLSC  302  AModern Political The",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE121",
@@ -7075,7 +7075,7 @@
     {
       "course_code": "PLSC  303",
       "course_name": "PLSC  303  AContemp Poli Theory",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE126",
@@ -7089,7 +7089,7 @@
     {
       "course_code": "PLSC  304",
       "course_name": "PLSC  304  AResearch Methodology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE139",
@@ -7103,7 +7103,7 @@
     {
       "course_code": "PLSC  310",
       "course_name": "PLSC  310  APolitics Middle East",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE139",
@@ -7117,7 +7117,7 @@
     {
       "course_code": "PLSC  321",
       "course_name": "PLSC  321  APakistan Foreign Pol",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE126",
@@ -7131,7 +7131,7 @@
     {
       "course_code": "PLSC  323",
       "course_name": "PLSC  323  AIntrntl Organization",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE122",
@@ -7145,7 +7145,7 @@
     {
       "course_code": "PLSC  331",
       "course_name": "PLSC  331  AConst Law I - U.S.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE228",
@@ -7159,7 +7159,7 @@
     {
       "course_code": "PLSC  336",
       "course_name": "PLSC  336  APublic Administratio",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE122",
@@ -7173,7 +7173,7 @@
     {
       "course_code": "PLSC  337",
       "course_name": "PLSC  337  AGender, War&Security",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE228",
@@ -7187,7 +7187,7 @@
     {
       "course_code": "PLSC  338",
       "course_name": "PLSC  338  APolitical Marketing",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE228",
@@ -7201,7 +7201,7 @@
     {
       "course_code": "PLSC  339",
       "course_name": "PLSC  339  AGender and Politics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE126",
@@ -7215,7 +7215,7 @@
     {
       "course_code": "PLSC  340",
       "course_name": "PLSC  340  APol. Afg.&Iran.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE139",
@@ -7229,7 +7229,7 @@
     {
       "course_code": "PLSC  400",
       "course_name": "PLSC  400  ACurrent Political Pr",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE126",
@@ -7243,7 +7243,7 @@
     {
       "course_code": "PLSC  401",
       "course_name": "PLSC  401  AInternational Politi",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE038",
@@ -7257,7 +7257,7 @@
     {
       "course_code": "PLSC  402",
       "course_name": "PLSC  402  AIslam & Modernity",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE139",
@@ -7271,7 +7271,7 @@
     {
       "course_code": "PLSC  403",
       "course_name": "PLSC  403  ASem Majr Poli Scienc",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE205",
@@ -7299,7 +7299,7 @@
     {
       "course_code": "PLSC  502",
       "course_name": "PLSC  502  AComparative Politics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE202",
@@ -7313,7 +7313,7 @@
     {
       "course_code": "PLSC  504",
       "course_name": "PLSC  504  APolitical Thought",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE202",
@@ -7327,7 +7327,7 @@
     {
       "course_code": "PLSC  513",
       "course_name": "PLSC  513  AAd.Stud.Intl.Relatio",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE202",
@@ -7341,7 +7341,7 @@
     {
       "course_code": "PLSC  517",
       "course_name": "PLSC  517  APlsc Strat. Dynam SA",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE202",
@@ -7355,7 +7355,7 @@
     {
       "course_code": "PLSC  519",
       "course_name": "PLSC  519  ALocal Govt. Sys Pak.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE202",
@@ -7369,7 +7369,7 @@
     {
       "course_code": "PSYC  100",
       "course_name": "PSYC  100  AIntro to Psychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS116",
@@ -7404,7 +7404,7 @@
     {
       "course_code": "PSYC  101",
       "course_name": "PSYC  101  ALife Skills",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE246",
@@ -7418,7 +7418,7 @@
     {
       "course_code": "PSYC  105",
       "course_name": "PSYC  105  AEff. Communication",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE137",
@@ -7432,7 +7432,7 @@
     {
       "course_code": "PSYC  140",
       "course_name": "PSYC  140  APsychology of leader",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE246",
@@ -7446,7 +7446,7 @@
     {
       "course_code": "PSYC  150",
       "course_name": "PSYC  150  ADev. Psychology - 1",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE213",
@@ -7467,7 +7467,7 @@
     {
       "course_code": "PSYC  160",
       "course_name": "PSYC  160  AEmotional Intelligen",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE244",
@@ -7481,7 +7481,7 @@
     {
       "course_code": "PSYC  165",
       "course_name": "PSYC  165  AAI in psychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE347",
@@ -7495,7 +7495,7 @@
     {
       "course_code": "PSYC  225",
       "course_name": "PSYC  225  AEthics in Psychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE246",
@@ -7509,7 +7509,7 @@
     {
       "course_code": "PSYC  245",
       "course_name": "PSYC  245  APolitical Psychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE246",
@@ -7523,7 +7523,7 @@
     {
       "course_code": "PSYC  275",
       "course_name": "PSYC  275  APsyc of Peace & conf",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS115",
@@ -7537,7 +7537,7 @@
     {
       "course_code": "PSYC  280",
       "course_name": "PSYC  280  ASocial Psychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE244",
@@ -7558,7 +7558,7 @@
     {
       "course_code": "PSYC  285",
       "course_name": "PSYC  285  ASpiritual Psychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS115",
@@ -7572,7 +7572,7 @@
     {
       "course_code": "PSYC  290",
       "course_name": "PSYC  290  AConsumer Psychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE246",
@@ -7586,7 +7586,7 @@
     {
       "course_code": "PSYC  295",
       "course_name": "PSYC  295  AMedia Psychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE244",
@@ -7600,7 +7600,7 @@
     {
       "course_code": "PSYC  298",
       "course_name": "PSYC  298  AHis. & Sys.of  Psych",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS115",
@@ -7628,7 +7628,7 @@
     {
       "course_code": "PSYC  300",
       "course_name": "PSYC  300  APositive Psychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE246",
@@ -7642,7 +7642,7 @@
     {
       "course_code": "PSYC  301",
       "course_name": "PSYC  301  AIndustrial Org Psyc",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE137",
@@ -7656,7 +7656,7 @@
     {
       "course_code": "PSYC  305",
       "course_name": "PSYC  305  ARes  Meth in Psyc I",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE213",
@@ -7677,7 +7677,7 @@
     {
       "course_code": "PSYC  310",
       "course_name": "PSYC  310  ASchool Psychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS115",
@@ -7698,7 +7698,7 @@
     {
       "course_code": "PSYC  340",
       "course_name": "PSYC  340  AAbnormal Psychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS116",
@@ -7719,7 +7719,7 @@
     {
       "course_code": "PSYC  350",
       "course_name": "PSYC  350  ABiopsychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE038",
@@ -7733,7 +7733,7 @@
     {
       "course_code": "PSYC  370",
       "course_name": "PSYC  370  AGeriatric Psychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE213",
@@ -7747,7 +7747,7 @@
     {
       "course_code": "PSYC  380",
       "course_name": "PSYC  380  ALiberation Psycholog",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE244",
@@ -7761,7 +7761,7 @@
     {
       "course_code": "PSYC  385",
       "course_name": "PSYC  385  AForensic Psychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE213",
@@ -7782,7 +7782,7 @@
     {
       "course_code": "PSYC  390",
       "course_name": "PSYC  390  ACriminal Psychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE213",
@@ -7796,7 +7796,7 @@
     {
       "course_code": "PSYC  395",
       "course_name": "PSYC  395  ACorrectional Psyc",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS416",
@@ -7810,7 +7810,7 @@
     {
       "course_code": "PSYC  415",
       "course_name": "PSYC  415  ARes Meth in Psyc II",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE344",
@@ -7831,7 +7831,7 @@
     {
       "course_code": "PSYC  425",
       "course_name": "PSYC  425  ASports Psychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE243",
@@ -7845,7 +7845,7 @@
     {
       "course_code": "PSYC  430",
       "course_name": "PSYC  430  AHealth Psychology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE243",
@@ -7859,7 +7859,7 @@
     {
       "course_code": "PSYC  440",
       "course_name": "PSYC  440  ACounseling Psycholog",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS413",
@@ -7880,7 +7880,7 @@
     {
       "course_code": "PSYC  475",
       "course_name": "PSYC  475  AEntrepreneur in psyc",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS111",
@@ -7894,7 +7894,7 @@
     {
       "course_code": "PSYC  490",
       "course_name": "PSYC  490  AResearch Project",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -7908,7 +7908,7 @@
     {
       "course_code": "PSYC  499",
       "course_name": "PSYC  499B  ASenior Thesis",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -7922,7 +7922,7 @@
     {
       "course_code": "PSYC  502",
       "course_name": "PSYC  502  AAdult Psyc.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE345",
@@ -7950,7 +7950,7 @@
     {
       "course_code": "PSYC  511",
       "course_name": "PSYC  511  APsyc. Asses. Adults",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE345",
@@ -7978,7 +7978,7 @@
     {
       "course_code": "PSYC  540",
       "course_name": "PSYC  540  AStatistics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE345",
@@ -7992,7 +7992,7 @@
     {
       "course_code": "PSYC  580",
       "course_name": "PSYC  580  ACase Conferences",
-      "credits": "1",
+      "credits": "1.00",
       "sections": [
         {
           "classroom": "EBLOCKE345",
@@ -8006,7 +8006,7 @@
     {
       "course_code": "PSYC  620",
       "course_name": "PSYC  620  AWorkshop 1",
-      "credits": "1",
+      "credits": "1.00",
       "sections": [
         {
           "classroom": "EBLOCKE345",
@@ -8020,7 +8020,7 @@
     {
       "course_code": "PSYC  630",
       "course_name": "PSYC  630  ACommunity Wellness",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE346",
@@ -8034,7 +8034,7 @@
     {
       "course_code": "PSYC  635",
       "course_name": "PSYC  635  APsyc. & Medic. Rehab",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE333",
@@ -8076,7 +8076,7 @@
     {
       "course_code": "PSYC  699",
       "course_name": "PSYC  699B  AThesis II",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -8090,7 +8090,7 @@
     {
       "course_code": "SOCL  100",
       "course_name": "SOCL  100  AIntro to Sociology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE101",
@@ -8167,7 +8167,7 @@
     {
       "course_code": "SOCL  101",
       "course_name": "SOCL  101  AIntro. Social Work",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE104",
@@ -8181,7 +8181,7 @@
     {
       "course_code": "SOCL  201",
       "course_name": "SOCL  201  ASoc. Research",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE214",
@@ -8195,7 +8195,7 @@
     {
       "course_code": "SOCL  220",
       "course_name": "SOCL  220  AIntr. to Criminology",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE104",
@@ -8216,7 +8216,7 @@
     {
       "course_code": "SOCL  223",
       "course_name": "SOCL  223  ASociocultural Anthro",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE104",
@@ -8230,7 +8230,7 @@
     {
       "course_code": "SOCL  301",
       "course_name": "SOCL  301  ATheol Pers. in Socl.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE101",
@@ -8244,7 +8244,7 @@
     {
       "course_code": "SOCL  325",
       "course_name": "SOCL  325  ASociology of Gender",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE214",
@@ -8258,7 +8258,7 @@
     {
       "course_code": "SOCL  335",
       "course_name": "SOCL  335  ADemography & Public",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE104",
@@ -8272,7 +8272,7 @@
     {
       "course_code": "SOCL  350",
       "course_name": "SOCL  350  ASociology of Develop",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE214",
@@ -8286,7 +8286,7 @@
     {
       "course_code": "SOCL  450",
       "course_name": "SOCL  450  AHealth & Health Sys.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE214",
@@ -8300,7 +8300,7 @@
     {
       "course_code": "SOCL  494",
       "course_name": "SOCL  494  AResearch Proposal",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -8314,7 +8314,7 @@
     {
       "course_code": "SOCL  499",
       "course_name": "SOCL  499  ASenior Project",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -8328,7 +8328,7 @@
     {
       "course_code": "SOCL  501",
       "course_name": "SOCL  501  AQuantitative Researc",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE204",
@@ -8342,7 +8342,7 @@
     {
       "course_code": "SOCL  502",
       "course_name": "SOCL  502  AQualitative Research",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE204",
@@ -8356,7 +8356,7 @@
     {
       "course_code": "SOCL  503",
       "course_name": "SOCL  503  AClassical and Modern",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE204",
@@ -8370,7 +8370,7 @@
     {
       "course_code": "SOCL  504",
       "course_name": "SOCL  504  ASociology of Develop",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE204",
@@ -8384,7 +8384,7 @@
     {
       "course_code": "SOCL  699",
       "course_name": "SOCL  699A  AResearch Thesis",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -8412,7 +8412,7 @@
     {
       "course_code": "SPAN  101",
       "course_name": "SPAN  101  ASpanish I",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE227",
@@ -8433,7 +8433,7 @@
     {
       "course_code": "STAT  100",
       "course_name": "STAT  100  EBasic Statistics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS425",
@@ -8489,7 +8489,7 @@
     {
       "course_code": "STAT  101",
       "course_name": "STAT  101  AStatistical Methods",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS421",
@@ -8545,7 +8545,7 @@
     {
       "course_code": "STAT  102",
       "course_name": "STAT  102  AProb & Prob. Distrib",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS421",
@@ -8566,7 +8566,7 @@
     {
       "course_code": "STAT  115",
       "course_name": "STAT  115  AProbability & Stat.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS425",
@@ -8594,7 +8594,7 @@
     {
       "course_code": "STAT  201",
       "course_name": "STAT  201  AStatis Inference I",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS421",
@@ -8608,7 +8608,7 @@
     {
       "course_code": "STAT  206",
       "course_name": "STAT  206  AIntro to Data Analyt",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS421",
@@ -8629,7 +8629,7 @@
     {
       "course_code": "STAT  207",
       "course_name": "STAT  207  ABusiness Analytics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS420",
@@ -8650,7 +8650,7 @@
     {
       "course_code": "STAT  208",
       "course_name": "STAT  208  ASurvey Methodologies",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS420",
@@ -8664,7 +8664,7 @@
     {
       "course_code": "STAT  212",
       "course_name": "STAT  212  ARes. Meth. & Statis",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS320",
@@ -8678,7 +8678,7 @@
     {
       "course_code": "STAT  301",
       "course_name": "STAT  301  ASampling Tech. I",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS421",
@@ -8692,7 +8692,7 @@
     {
       "course_code": "STAT  313",
       "course_name": "STAT  313  AOperation Research",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS420",
@@ -8706,7 +8706,7 @@
     {
       "course_code": "STAT  317",
       "course_name": "STAT  317  AData Visualization R",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS421",
@@ -8720,7 +8720,7 @@
     {
       "course_code": "STAT  403",
       "course_name": "STAT  403  APoint Estimation",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS425",
@@ -8734,7 +8734,7 @@
     {
       "course_code": "STAT  405",
       "course_name": "STAT  405  APredictive Analytics",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS420",
@@ -8748,7 +8748,7 @@
     {
       "course_code": "STAT  414",
       "course_name": "STAT  414  AStatistical Learning",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS420",
@@ -8762,7 +8762,7 @@
     {
       "course_code": "STAT  507",
       "course_name": "STAT  507  AAdvanced Data Analys",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS421",
@@ -8776,7 +8776,7 @@
     {
       "course_code": "STAT  508",
       "course_name": "STAT  508  AAdvanced Survey Samp",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS421",
@@ -8790,7 +8790,7 @@
     {
       "course_code": "STAT  509",
       "course_name": "STAT  509  ASurvival Analysis",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS421",
@@ -8804,7 +8804,7 @@
     {
       "course_code": "STAT  699",
       "course_name": "STAT  699A  AResearch Thesis",
-      "credits": "6",
+      "credits": "6.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -8832,7 +8832,7 @@
     {
       "course_code": "URDU  101",
       "course_name": "URDU  101  CCommunicative Urdu",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE126",
@@ -8909,7 +8909,7 @@
     {
       "course_code": "URDU  104",
       "course_name": "URDU  104  ASel Rep Urdu Prose",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE246",
@@ -8923,7 +8923,7 @@
     {
       "course_code": "URDU  208",
       "course_name": "URDU  208  AScript Wr in Urdu",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE102",
@@ -8937,7 +8937,7 @@
     {
       "course_code": "URDU  301",
       "course_name": "URDU  301  AModern Urdu Poetry",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE103",
@@ -8951,7 +8951,7 @@
     {
       "course_code": "URDU  303",
       "course_name": "URDU  303  AIntro Selectd Genres",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE102",
@@ -8965,7 +8965,7 @@
     {
       "course_code": "URDU  402",
       "course_name": "URDU  402  AStudy of Urdu Drama",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE102",
@@ -8979,7 +8979,7 @@
     {
       "course_code": "URDU  501",
       "course_name": "URDU  501  APri. & App. of Res.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE104",
@@ -8993,7 +8993,7 @@
     {
       "course_code": "URDU  502",
       "course_name": "URDU  502  APri. & App. of Crit.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE104",
@@ -9007,7 +9007,7 @@
     {
       "course_code": "URDU  503",
       "course_name": "URDU  503  ATran: Theo. & Prac.",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE105",
@@ -9021,7 +9021,7 @@
     {
       "course_code": "URDU  507",
       "course_name": "URDU  507  AArt of Creative Writ",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE104",
@@ -9035,7 +9035,7 @@
     {
       "course_code": "URDU  517",
       "course_name": "URDU  517  AUrdu Novel",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE105",
@@ -9049,7 +9049,7 @@
     {
       "course_code": "URDU  518",
       "course_name": "URDU  518  AUrdu Short Stories",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE104",
@@ -9063,7 +9063,7 @@
     {
       "course_code": "URDU  519",
       "course_name": "URDU  519  ATeach. of Urdu Lang",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE105",
@@ -9077,7 +9077,7 @@
     {
       "course_code": "URDU  699",
       "course_name": "URDU  699A  AResearch Thesis",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "TBDTBD",
@@ -9098,7 +9098,7 @@
     {
       "course_code": "WRCM  101",
       "course_name": "WRCM  101  AWriting&Communica. I",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "EBLOCKE103",
@@ -9119,7 +9119,7 @@
     {
       "course_code": "WRCM  102",
       "course_name": "WRCM  102  AWriting&Communic. II",
-      "credits": "3",
+      "credits": "3.00",
       "sections": [
         {
           "classroom": "SBLOCKS008",
