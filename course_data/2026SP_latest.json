@@ -537,14 +537,14 @@
           "schedule_raw": "start:02/02/2026 M W F 09:00 - 09:50",
           "instructor": "A Mughal",
           "capacity": "35",
-          "available": "1"
+          "available": "0"
         },
         {
           "classroom": "EBLOCKE328",
           "schedule_raw": "start:02/02/2026 M W F 10:00 - 10:50",
           "instructor": "A Mughal",
           "capacity": "35",
-          "available": "1"
+          "available": "0"
         },
         {
           "classroom": "EBLOCKE328",
@@ -621,14 +621,14 @@
           "schedule_raw": "start:02/02/2026 M W F 12:00 - 12:50",
           "instructor": "A Ali Shah",
           "capacity": "35",
-          "available": "0"
+          "available": "1"
         },
         {
           "classroom": "EBLOCKE333",
           "schedule_raw": "start:02/02/2026 M W F 08:00 - 08:50",
           "instructor": "TBD",
           "capacity": "35",
-          "available": "27"
+          "available": "26"
         },
         {
           "classroom": "EBLOCKE328",
@@ -677,7 +677,7 @@
           "schedule_raw": "start:02/02/2026 M W F 10:00 - 10:50",
           "instructor": "A Ali Shah",
           "capacity": "35",
-          "available": "20"
+          "available": "18"
         }
       ]
     },
@@ -817,7 +817,7 @@
           "schedule_raw": "start:02/03/2026 T R 14:00 - 15:15",
           "instructor": "A Chughtai",
           "capacity": "35",
-          "available": "23"
+          "available": "22"
         },
         {
           "classroom": "EBLOCKE344",
@@ -859,7 +859,7 @@
           "schedule_raw": "start:02/03/2026 T R 14:00 - 15:15",
           "instructor": "A Fateh",
           "capacity": "35",
-          "available": "16"
+          "available": "17"
         },
         {
           "classroom": "EBLOCKE330",
@@ -985,7 +985,7 @@
           "schedule_raw": "start:02/03/2026 T R 11:00 - 12:15",
           "instructor": "S Bilal",
           "capacity": "35",
-          "available": "2"
+          "available": "1"
         }
       ]
     },
@@ -1104,7 +1104,7 @@
           "schedule_raw": "start:02/02/2026 M W F 10:00 - 10:50",
           "instructor": "U Javaid",
           "capacity": "35",
-          "available": "2"
+          "available": "3"
         },
         {
           "classroom": "TBDTBD",
@@ -1272,7 +1272,7 @@
           "schedule_raw": "start:02/02/2026 M W F 16:00 - 16:50",
           "instructor": "S Nazir",
           "capacity": "35",
-          "available": "0"
+          "available": "1"
         }
       ]
     },
@@ -1916,7 +1916,7 @@
           "schedule_raw": "start:02/03/2026 T R 11:00 - 12:50",
           "instructor": "M Butt",
           "capacity": "35",
-          "available": "11"
+          "available": "10"
         }
       ]
     },
@@ -2588,7 +2588,7 @@
           "schedule_raw": "start:02/03/2026 T R 11:00 - 12:15",
           "instructor": "K Pervaiz",
           "capacity": "35",
-          "available": "19"
+          "available": "18"
         }
       ]
     },
@@ -2707,14 +2707,14 @@
           "schedule_raw": "start:02/03/2026 T R 12:30 - 13:45",
           "instructor": "F Janjua",
           "capacity": "35",
-          "available": "0"
+          "available": "1"
         },
         {
           "classroom": "SBLOCKS424",
           "schedule_raw": "start:02/02/2026 M W F 15:00 - 15:50",
           "instructor": "K Azhar",
           "capacity": "35",
-          "available": "18"
+          "available": "17"
         },
         {
           "classroom": "SBLOCKS215",
@@ -2805,7 +2805,7 @@
           "schedule_raw": "start:02/02/2026 M W F 14:00 - 14:50",
           "instructor": "K Azhar",
           "capacity": "35",
-          "available": "6"
+          "available": "5"
         },
         {
           "classroom": "SBLOCKS216",
@@ -3057,7 +3057,7 @@
           "schedule_raw": "start:02/02/2026 M W F 14:00 - 14:50",
           "instructor": "N Ishtiaq",
           "capacity": "35",
-          "available": "1"
+          "available": "0"
         }
       ]
     },
@@ -3071,7 +3071,7 @@
           "schedule_raw": "start:02/03/2026 T R 14:00 - 15:15",
           "instructor": "A  Anwar",
           "capacity": "35",
-          "available": "5"
+          "available": "4"
         },
         {
           "classroom": "EBLOCKE205",
@@ -3134,7 +3134,7 @@
           "schedule_raw": "start:02/02/2026 M W F 10:00 - 10:50",
           "instructor": "M Noor",
           "capacity": "35",
-          "available": "25"
+          "available": "23"
         },
         {
           "classroom": "EBLOCKE204",
@@ -3155,14 +3155,14 @@
           "schedule_raw": "start:02/03/2026 T R 12:30 - 13:45",
           "instructor": "A  Anwar",
           "capacity": "35",
-          "available": "24"
+          "available": "23"
         },
         {
           "classroom": "EBLOCKE202",
           "schedule_raw": "start:02/03/2026 T R 12:30 - 13:45",
           "instructor": "T Ahmed",
           "capacity": "35",
-          "available": "6"
+          "available": "7"
         }
       ]
     },
@@ -3673,7 +3673,7 @@
           "schedule_raw": "start:02/02/2026 M W F 09:00 - 09:50",
           "instructor": "M Raza",
           "capacity": "35",
-          "available": "5"
+          "available": "4"
         }
       ]
     },
@@ -3694,7 +3694,7 @@
           "schedule_raw": "start:02/03/2026 T R 09:30 - 10:45",
           "instructor": "R. Farooq",
           "capacity": "35",
-          "available": "0"
+          "available": "1"
         },
         {
           "classroom": "EBLOCKE121",
@@ -3743,7 +3743,7 @@
           "schedule_raw": "start:02/02/2026 M W F 15:00 - 15:50",
           "instructor": "A Aslam",
           "capacity": "35",
-          "available": "24"
+          "available": "23"
         }
       ]
     },
@@ -3799,7 +3799,7 @@
           "schedule_raw": "start:02/03/2026 T R 12:30 - 13:45",
           "instructor": "A Khan",
           "capacity": "35",
-          "available": "12"
+          "available": "13"
         }
       ]
     },
@@ -4079,7 +4079,7 @@
           "schedule_raw": "start:02/02/2026 M W F 15:00 - 15:50",
           "instructor": "A Karim",
           "capacity": "35",
-          "available": "15"
+          "available": "16"
         }
       ]
     },
@@ -4093,7 +4093,7 @@
           "schedule_raw": "start:02/02/2026 M W F 09:00 - 09:50",
           "instructor": "S Maqbool",
           "capacity": "35",
-          "available": "10"
+          "available": "9"
         }
       ]
     },
@@ -4688,7 +4688,7 @@
           "schedule_raw": "start:02/02/2026 M W F 14:00 - 14:50",
           "instructor": "K Shafiqu",
           "capacity": "35",
-          "available": "12"
+          "available": "11"
         }
       ]
     },
@@ -4709,7 +4709,7 @@
           "schedule_raw": "start:02/03/2026 T R 11:00 - 12:15",
           "instructor": "A Iqbal",
           "capacity": "35",
-          "available": "13"
+          "available": "11"
         }
       ]
     },
@@ -5024,7 +5024,7 @@
           "schedule_raw": "start:02/02/2026 M W F 16:00 - 16:50",
           "instructor": "A Ijaz",
           "capacity": "35",
-          "available": "8"
+          "available": "9"
         }
       ]
     },
@@ -5262,7 +5262,7 @@
           "schedule_raw": "start:02/03/2026 T R 16:00 - 17:00",
           "instructor": "S Khaliq",
           "capacity": "20",
-          "available": "13"
+          "available": "14"
         }
       ]
     },
@@ -5661,7 +5661,7 @@
           "schedule_raw": "start:02/02/2026 M W F 08:00 - 08:50",
           "instructor": "G Mehak",
           "capacity": "35",
-          "available": "33"
+          "available": "32"
         },
         {
           "classroom": "SBLOCKS416",
@@ -6508,7 +6508,7 @@
           "schedule_raw": "start:02/03/2026 T R 15:30 - 16:45",
           "instructor": "M Shaggan",
           "capacity": "35",
-          "available": "12"
+          "available": "10"
         }
       ]
     },
@@ -6593,6 +6593,20 @@
           "instructor": "T Farouk",
           "capacity": "1",
           "available": "0"
+        }
+      ]
+    },
+    {
+      "course_code": "PHIL  499",
+      "course_name": "PHIL  499  Aphil.research&semiar",
+      "credits": "3.00",
+      "sections": [
+        {
+          "classroom": "TBDTBD",
+          "schedule_raw": "start:02/02/2026 MTWRF",
+          "instructor": "G Irfan",
+          "capacity": "35",
+          "available": "35"
         }
       ]
     },
@@ -6984,7 +6998,7 @@
           "schedule_raw": "start:02/02/2026 M W F 11:00 - 11:50",
           "instructor": "M Mirza",
           "capacity": "35",
-          "available": "1"
+          "available": "0"
         },
         {
           "classroom": "EBLOCKE122",
@@ -7026,7 +7040,7 @@
           "schedule_raw": "start:02/02/2026 M W F 12:00 - 12:50",
           "instructor": "M Mirza",
           "capacity": "35",
-          "available": "10"
+          "available": "8"
         },
         {
           "classroom": "EBLOCKE139",
@@ -7264,7 +7278,7 @@
           "schedule_raw": "start:02/03/2026 T R 14:00 - 15:15",
           "instructor": "Q Memon",
           "capacity": "35",
-          "available": "7"
+          "available": "6"
         }
       ]
     },
@@ -7642,14 +7656,14 @@
           "schedule_raw": "start:02/02/2026 M W F 14:00 - 14:50",
           "instructor": "S Jabeen",
           "capacity": "35",
-          "available": "7"
+          "available": "6"
         },
         {
           "classroom": "SBLOCKS116",
           "schedule_raw": "start:02/02/2026 M W F 14:00 - 14:50",
           "instructor": "Asajid",
           "capacity": "35",
-          "available": "22"
+          "available": "21"
         }
       ]
     },
@@ -7782,7 +7796,7 @@
           "schedule_raw": "start:02/02/2026 M W F 12:00 - 12:50",
           "instructor": "A aziz",
           "capacity": "35",
-          "available": "24"
+          "available": "23"
         }
       ]
     },
@@ -7866,7 +7880,7 @@
           "schedule_raw": "start:02/02/2026 M W F 12:00 - 12:50",
           "instructor": "M  Niazi",
           "capacity": "35",
-          "available": "13"
+          "available": "12"
         }
       ]
     },
@@ -7894,7 +7908,7 @@
           "schedule_raw": "start:02/02/2026 M W F 14:00 - 14:50",
           "instructor": "A  Ateeq",
           "capacity": "35",
-          "available": "21"
+          "available": "20"
         },
         {
           "classroom": "SBLOCKS416",
@@ -8132,7 +8146,7 @@
           "schedule_raw": "start:02/02/2026 M W F 09:00 - 09:50",
           "instructor": "T Ashraf",
           "capacity": "35",
-          "available": "3"
+          "available": "1"
         },
         {
           "classroom": "EBLOCKE214",
@@ -8188,7 +8202,7 @@
           "schedule_raw": "start:02/03/2026 T R 14:00 - 15:15",
           "instructor": "A Yasir",
           "capacity": "35",
-          "available": "0"
+          "available": "1"
         }
       ]
     },
@@ -8482,7 +8496,7 @@
           "schedule_raw": "start:02/03/2026 T R 08:00 - 09:15",
           "instructor": "S Hanook",
           "capacity": "35",
-          "available": "1"
+          "available": "0"
         },
         {
           "classroom": "SBLOCKS425",
@@ -8629,7 +8643,7 @@
           "schedule_raw": "start:02/02/2026 M W F 09:00 - 09:50",
           "instructor": "M Mughal",
           "capacity": "35",
-          "available": "24"
+          "available": "23"
         }
       ]
     },
@@ -8643,7 +8657,7 @@
           "schedule_raw": "start:02/03/2026 T R 11:00 - 12:15",
           "instructor": "S Bashir",
           "capacity": "35",
-          "available": "5"
+          "available": "4"
         },
         {
           "classroom": "SBLOCKS421",
@@ -9252,7 +9266,7 @@
           "schedule_raw": "start:02/02/2026 M W F 15:00 - 15:50",
           "instructor": "A Wasim",
           "capacity": "25",
-          "available": "4"
+          "available": "3"
         },
         {
           "classroom": "EBLOCKE241",
@@ -9294,7 +9308,7 @@
           "schedule_raw": "start:02/03/2026 T R 15:30 - 16:45",
           "instructor": "N Justin",
           "capacity": "25",
-          "available": "0"
+          "available": "1"
         },
         {
           "classroom": "SBLOCKS312",
@@ -9322,7 +9336,7 @@
           "schedule_raw": "start:02/02/2026 M W F 08:00 - 08:50",
           "instructor": "T Bokhari",
           "capacity": "25",
-          "available": "20"
+          "available": "19"
         },
         {
           "classroom": "EBLOCKE214",
@@ -9399,7 +9413,7 @@
           "schedule_raw": "start:02/02/2026 M W F 16:00 - 16:50",
           "instructor": "A  Javed",
           "capacity": "25",
-          "available": "1"
+          "available": "0"
         },
         {
           "classroom": "SBLOCKS008",
