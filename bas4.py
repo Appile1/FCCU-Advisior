@@ -18,6 +18,7 @@ DATA_DIR = "course_data"
 LATEST_TERM_FILE = os.path.join(DATA_DIR, "latest_term.json")
 COUNTS_FILE = os.path.join(DATA_DIR, "department_counts.json")
 DEPART_FILE = "depart.txt"
+INSTRUCTORS_FILE = os.path.join(DATA_DIR, "instructors.json")
 
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/143.0.0.0 Safari/537.36",
@@ -105,17 +106,17 @@ def fetch_courses(session, token, term):
         "empower_global_term_id": term,
         "status": "1",
         "page": "1",
-        "pageSize": "2000",
-        "uiGridPageSize": "2000",
-        "rows": "2000",
-        "limit": "2000",
+        "pageSize": "5000",  # Increase page size to fetch all
+        "uiGridPageSize": "5000",
+        "rows": "5000",
+        "limit": "5000",
     }
 
     r = session.post(
         API_URL,
         data=payload,
         headers=random_headers(),
-        timeout=30,
+        timeout=60,
         verify=False
     )
     r.raise_for_status()
@@ -130,10 +131,10 @@ def fetch_courses(session, token, term):
 def parse_courses_from_html(html):
     soup = BeautifulSoup(html, "html.parser")
     rows = soup.select("div.ui-grid-row")
-
     print(f"✓ UI-grid rows found: {len(rows)}")
 
     courses = []
+    instructors_set = set()
     re_course = re.compile(r"([A-Z]{2,}\s*\d{3,})")
 
     def safe(cols, i):
@@ -149,18 +150,28 @@ def parse_courses_from_html(html):
         if not match:
             continue
 
+        instructor = safe(cols, 5)
+        if instructor:
+            instructors_set.add(instructor)
+
         course = {
             "course_code": match.group(1),
             "course_name": safe(cols, 1),
             "credits": safe(cols, 2),
             "classroom": safe(cols, 3),
             "schedule_raw": safe(cols, 4),
-            "instructor": safe(cols, 5),
+            "instructor": instructor,
             "capacity": safe(cols, 6),
             "available": safe(cols, 7),
         }
 
         courses.append(course)
+
+    # Save instructors separately
+    os.makedirs(DATA_DIR, exist_ok=True)
+    with open(INSTRUCTORS_FILE, "w", encoding="utf-8") as f:
+        json.dump(sorted(list(instructors_set)), f, indent=2, ensure_ascii=False)
+    print(f"✓ Instructors saved: {len(instructors_set)} unique names")
 
     return courses
 
