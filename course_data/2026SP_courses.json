@@ -11,7 +11,7 @@
       "schedule_raw": "start:02/03/2026T R15:30 - 16:45",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ARTS  102",
@@ -21,7 +21,7 @@
       "schedule_raw": "start:02/03/2026T R15:30 - 16:45",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS  103",
@@ -41,7 +41,7 @@
       "schedule_raw": "start:02/02/2026M W F15:00 - 15:50",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "ARTS  106",
@@ -581,7 +581,7 @@
       "schedule_raw": "start:02/02/2026M W F08:00 - 08:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN  121",
@@ -621,7 +621,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN  121",
@@ -851,7 +851,7 @@
       "schedule_raw": "start:02/02/2026M W F10:00 - 10:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "17"
+      "available": "15"
     },
     {
       "course_code": "BUSN  225",
@@ -931,7 +931,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "7"
+      "available": "5"
     },
     {
       "course_code": "BUSN  225",
@@ -951,7 +951,7 @@
       "schedule_raw": "start:02/02/2026M W F16:00 - 16:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "BUSN  225",
@@ -1031,7 +1031,7 @@
       "schedule_raw": "start:02/03/2026T R14:00 - 15:15",
       "instructor": "A Chughtai",
       "capacity": "35",
-      "available": "21"
+      "available": "19"
     },
     {
       "course_code": "BUSN  250",
@@ -1741,7 +1741,7 @@
       "schedule_raw": "start:02/02/2026M W09:00 - 10:15",
       "instructor": "I Ahmed",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "BUSN  605",
@@ -1751,7 +1751,7 @@
       "schedule_raw": "start:02/03/2026T R11:30 - 12:45",
       "instructor": "W Khan",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "BUSN  625",
@@ -1761,7 +1761,7 @@
       "schedule_raw": "start:02/06/2026F14:00 - 17:00",
       "instructor": "B Usman",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "BUSN  670",
@@ -1771,7 +1771,7 @@
       "schedule_raw": "start:02/03/2026T R10:00 - 11:15",
       "instructor": "F Malik",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "BUSN  692",
@@ -1791,7 +1791,7 @@
       "schedule_raw": "start:02/02/2026M W11:30 - 12:45",
       "instructor": "I Ahmed",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "CHEM  100",
@@ -2381,7 +2381,7 @@
       "schedule_raw": "start:02/02/2026M W14:00 - 15:50",
       "instructor": "S Abbasi",
       "capacity": "25",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "COMP  213",
@@ -2891,7 +2891,7 @@
       "schedule_raw": "start:02/03/2026T R14:00 - 15:15",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "CRIM  460",
@@ -2911,7 +2911,7 @@
       "schedule_raw": "start:02/02/2026M W F08:00 - 08:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "CRST  152",
@@ -2931,7 +2931,7 @@
       "schedule_raw": "start:02/02/2026M W F11:00 - 11:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CRST  155",
@@ -2941,7 +2941,7 @@
       "schedule_raw": "start:02/03/2026T R09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "CRST  211",
@@ -3311,7 +3311,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "3"
+      "available": "1"
     },
     {
       "course_code": "CSCS  320",
@@ -3551,7 +3551,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ECON  101",
@@ -3581,7 +3581,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "ECON  102",
@@ -3651,7 +3651,7 @@
       "schedule_raw": "start:02/03/2026T R12:30 - 13:45",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "ECON  201",
@@ -3661,7 +3661,7 @@
       "schedule_raw": "start:02/03/2026T R12:30 - 13:45",
       "instructor": "T Ahmed",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "ECON  202",
@@ -3721,7 +3721,7 @@
       "schedule_raw": "start:02/03/2026T R08:00 - 09:15",
       "instructor": "R Ahmed",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "ECON  210",
@@ -3941,7 +3941,7 @@
       "schedule_raw": "start:02/03/2026T R09:30 - 11:00",
       "instructor": "G Shabir",
       "capacity": "30",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "ECON  620",
@@ -3951,7 +3951,7 @@
       "schedule_raw": "start:02/02/2026M W10:00 - 11:30",
       "instructor": "U Hanif",
       "capacity": "25",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ECON  655",
@@ -3961,7 +3961,7 @@
       "schedule_raw": "start:02/03/2026T R12:30 - 14:00",
       "instructor": "Z  Iqbal",
       "capacity": "25",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ECON  699",
@@ -3981,7 +3981,7 @@
       "schedule_raw": "start:02/02/2026MTWRF",
       "instructor": "M Bhatti",
       "capacity": "25",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ECON  699",
@@ -4101,7 +4101,7 @@
       "schedule_raw": "start:02/02/2026M W F08:00 - 08:50",
       "instructor": "A Aslam",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "EDUC  110",
@@ -4111,7 +4111,7 @@
       "schedule_raw": "start:02/02/2026M W F09:00 - 09:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC  120",
@@ -4121,7 +4121,7 @@
       "schedule_raw": "start:02/03/2026T R09:30 - 10:45",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "EDUC  120",
@@ -4391,7 +4391,7 @@
       "schedule_raw": "start:02/02/2026M W F10:00 - 10:50",
       "instructor": "J C Imdad",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL  214",
@@ -4621,7 +4621,7 @@
       "schedule_raw": "start:02/03/2026T R11:00 - 12:15",
       "instructor": "S Ilyas",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENVR  160",
@@ -4691,7 +4691,7 @@
       "schedule_raw": "start:02/03/2026T R11:00 - 12:15",
       "instructor": "S Machado",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "ENVR  252",
@@ -5051,7 +5051,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "K Shafiqu",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "GEOG  133",
@@ -5091,7 +5091,7 @@
       "schedule_raw": "start:02/02/2026M W F12:00 - 12:50",
       "instructor": "K Shafiqu",
       "capacity": "10",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "GEOG  220",
@@ -5111,7 +5111,7 @@
       "schedule_raw": "start:02/02/2026M W F12:00 - 12:50",
       "instructor": "A Iqbal",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "GEOG  270",
@@ -5441,7 +5441,7 @@
       "schedule_raw": "start:02/03/2026T R16:00 - 17:00",
       "instructor": "S Nazir",
       "capacity": "25",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "HPED  106",
@@ -5481,7 +5481,7 @@
       "schedule_raw": "start:02/02/2026M W15:00 - 16:00",
       "instructor": "S Nazir",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "HPED  112",
@@ -5531,7 +5531,7 @@
       "schedule_raw": "start:02/03/2026T R09:30 - 10:20",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM  101",
@@ -5641,7 +5641,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "A Naeem",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM  104",
@@ -5741,7 +5741,7 @@
       "schedule_raw": "start:02/02/2026M W F10:00 - 10:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "LING  304",
@@ -5881,7 +5881,7 @@
       "schedule_raw": "start:02/02/2026M W F08:00 - 08:50",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "MATH  101",
@@ -5931,7 +5931,7 @@
       "schedule_raw": "start:02/02/2026M W F11:00 - 11:50",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "MATH  103",
@@ -6011,7 +6011,7 @@
       "schedule_raw": "start:02/03/2026T R08:00 - 09:15",
       "instructor": "A Tayyab",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH  107",
@@ -6021,7 +6021,7 @@
       "schedule_raw": "start:02/03/2026T R14:00 - 15:15",
       "instructor": "S Hanook",
       "capacity": "20",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "MATH  107",
@@ -6041,7 +6041,7 @@
       "schedule_raw": "start:02/03/2026T R12:30 - 13:45",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "MATH  111",
@@ -6051,7 +6051,7 @@
       "schedule_raw": "start:02/03/2026T R09:30 - 10:45",
       "instructor": "F Janjua",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "MATH  111",
@@ -6061,7 +6061,7 @@
       "schedule_raw": "start:02/02/2026M W F09:00 - 09:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "MATH  111",
@@ -6301,7 +6301,7 @@
       "schedule_raw": "start:02/02/2026M W F09:00 - 09:50",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "MCOM  290",
@@ -6621,7 +6621,7 @@
       "schedule_raw": "start:02/03/2026T R15:30 - 16:45",
       "instructor": "M Shaggan",
       "capacity": "35",
-      "available": "9"
+      "available": "7"
     },
     {
       "course_code": "PHIL  101",
@@ -6671,7 +6671,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "PHIL  495",
@@ -7221,7 +7221,7 @@
       "schedule_raw": "start:02/03/2026T R09:30 - 10:45",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "PLSC  203",
@@ -7701,7 +7701,7 @@
       "schedule_raw": "start:02/03/2026T R08:00 - 09:15",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "PSYC  295",
@@ -7891,7 +7891,7 @@
       "schedule_raw": "start:02/02/2026M W F12:00 - 12:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PSYC  385",
@@ -7981,7 +7981,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "A  Ateeq",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "PSYC  440",
@@ -8671,7 +8671,7 @@
       "schedule_raw": "start:02/03/2026T R08:00 - 09:15",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "STAT  201",
@@ -8991,7 +8991,7 @@
       "schedule_raw": "start:02/03/2026T R11:00 - 12:15",
       "instructor": "A Samuel",
       "capacity": "35",
-      "available": "12"
+      "available": "9"
     },
     {
       "course_code": "URDU  208",
@@ -9191,7 +9191,7 @@
       "schedule_raw": "start:02/03/2026T R15:30 - 16:45",
       "instructor": "M Zia",
       "capacity": "25",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "WRCM  102",
@@ -9241,7 +9241,7 @@
       "schedule_raw": "start:02/03/2026T R09:30 - 10:45",
       "instructor": "N Ahmad",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "WRCM  102",
@@ -9391,7 +9391,7 @@
       "schedule_raw": "start:02/03/2026T R08:00 - 09:15",
       "instructor": "T Bokhari",
       "capacity": "25",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "WRCM  102",
