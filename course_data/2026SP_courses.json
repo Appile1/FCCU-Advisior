@@ -6681,7 +6681,7 @@
       "schedule_raw": "start:02/03/2026T R11:00 - 12:15",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "PHIL  495",
@@ -7231,7 +7231,7 @@
       "schedule_raw": "start:02/03/2026T R12:30 - 13:45",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC  203",
