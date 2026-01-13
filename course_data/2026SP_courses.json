@@ -41,7 +41,7 @@
       "schedule_raw": "start:02/02/2026M W F15:00 - 15:50",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ARTS  106",
@@ -1071,7 +1071,7 @@
       "schedule_raw": "start:02/03/2026T R12:30 - 13:45",
       "instructor": "Afaf k",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN  250",
@@ -1081,7 +1081,7 @@
       "schedule_raw": "start:02/03/2026T R11:00 - 12:15",
       "instructor": "A Fateh",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN  250",
@@ -2581,7 +2581,7 @@
       "schedule_raw": "start:02/02/2026M15:00 - 15:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "COMP  401",
@@ -2911,7 +2911,7 @@
       "schedule_raw": "start:02/02/2026M W F08:00 - 08:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "CRST  152",
@@ -2941,7 +2941,7 @@
       "schedule_raw": "start:02/03/2026T R09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CRST  211",
@@ -5111,7 +5111,7 @@
       "schedule_raw": "start:02/02/2026M W F11:00 - 11:50",
       "instructor": "A Iqbal",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "GEOG  210",
@@ -5131,7 +5131,7 @@
       "schedule_raw": "start:02/02/2026M W F10:00 - 10:50",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "GEOG  221",
@@ -5321,7 +5321,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "HIST  255",
@@ -5341,7 +5341,7 @@
       "schedule_raw": "start:02/02/2026M W F16:00 - 16:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "HIST  303",
@@ -5761,7 +5761,7 @@
       "schedule_raw": "start:02/03/2026T R12:30 - 13:45",
       "instructor": "F Aftab",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "LING  217",
@@ -6651,7 +6651,7 @@
       "schedule_raw": "start:02/03/2026T R15:30 - 16:45",
       "instructor": "M Shaggan",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "PHIL  101",
@@ -7671,7 +7671,7 @@
       "schedule_raw": "start:02/03/2026T R15:30 - 16:45",
       "instructor": "ESchwaiger",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "PSYC  245",
@@ -7721,7 +7721,7 @@
       "schedule_raw": "start:02/02/2026M W F16:00 - 16:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "PSYC  290",
@@ -8481,7 +8481,7 @@
       "schedule_raw": "start:02/02/2026MTWRF",
       "instructor": "S Athar",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "SOCL  699",
