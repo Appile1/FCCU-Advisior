@@ -9021,7 +9021,7 @@
       "schedule_raw": "start:02/02/2026M W F12:00 - 12:50",
       "instructor": "A Virk",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "URDU  402",
@@ -9271,7 +9271,7 @@
       "schedule_raw": "start:02/02/2026M W F11:00 - 11:50",
       "instructor": "S Maqbool",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "WRCM  102",
