@@ -41,7 +41,7 @@
       "schedule_raw": "start:02/02/2026M W F15:00 - 15:50",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ARTS  106",
@@ -3581,7 +3581,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "ECON  102",
@@ -4121,7 +4121,7 @@
       "schedule_raw": "start:02/03/2026T R09:30 - 10:45",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "EDUC  120",
@@ -4141,7 +4141,7 @@
       "schedule_raw": "start:02/02/2026M W F12:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC  120",
@@ -4161,7 +4161,7 @@
       "schedule_raw": "start:02/02/2026M W F15:00 - 15:50",
       "instructor": "A Khokhar",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "EDUC  120",
@@ -5321,7 +5321,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "HIST  255",
@@ -8161,7 +8161,7 @@
       "schedule_raw": "start:02/02/2026M W14:00 - 15:30",
       "instructor": "S Shahed",
       "capacity": "30",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "PSYC  635",
@@ -8171,7 +8171,7 @@
       "schedule_raw": "start:02/03/2026T R14:00 - 15:30",
       "instructor": "B M Butt",
       "capacity": "30",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "PSYC  670",
@@ -8191,7 +8191,7 @@
       "schedule_raw": "start:02/02/2026MTWRF",
       "instructor": "A  Nazim",
       "capacity": "30",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "PSYC  699",
@@ -8201,7 +8201,7 @@
       "schedule_raw": "start:02/02/2026MTWRF",
       "instructor": "S Samuel",
       "capacity": "30",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "SOCL  100",
@@ -8521,7 +8521,7 @@
       "schedule_raw": "start:02/02/2026M W F12:00 - 12:50",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT  100",
@@ -8641,7 +8641,7 @@
       "schedule_raw": "start:02/03/2026T R14:00 - 15:15",
       "instructor": "S Hanook",
       "capacity": "15",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "STAT  101",
