@@ -3551,7 +3551,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON  101",
@@ -5881,7 +5881,7 @@
       "schedule_raw": "start:02/02/2026M W F08:00 - 08:50",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "MATH  101",
@@ -5931,7 +5931,7 @@
       "schedule_raw": "start:02/02/2026M W F11:00 - 11:50",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "MATH  103",
@@ -7401,7 +7401,7 @@
       "schedule_raw": "start:02/02/2026M W F10:00 - 10:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "PLSC  402",
@@ -8451,7 +8451,7 @@
       "schedule_raw": "start:02/02/2026MTWRF",
       "instructor": "S Athar",
       "capacity": "35",
-      "available": "31"
+      "available": "29"
     },
     {
       "course_code": "SOCL  699",
