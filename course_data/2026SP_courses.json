@@ -761,7 +761,7 @@
       "schedule_raw": "start:02/03/2026T R14:00 - 15:15",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN  206",
@@ -851,7 +851,7 @@
       "schedule_raw": "start:02/02/2026M W F10:00 - 10:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "BUSN  225",
@@ -1081,7 +1081,7 @@
       "schedule_raw": "start:02/03/2026T R11:00 - 12:15",
       "instructor": "A Fateh",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN  250",
@@ -1091,7 +1091,7 @@
       "schedule_raw": "start:02/03/2026T R14:00 - 15:15",
       "instructor": "A Fateh",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "BUSN  250",
@@ -3051,7 +3051,7 @@
       "schedule_raw": "start:02/02/2026M W15:30 - 16:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "CRST  471",
@@ -3061,7 +3061,7 @@
       "schedule_raw": "start:02/03/2026T R11:00 - 12:15",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "CRST  498",
@@ -3281,7 +3281,7 @@
       "schedule_raw": "start:02/02/2026M W F15:00 - 15:50",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "CSCS  203",
@@ -3551,7 +3551,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ECON  101",
@@ -3891,7 +3891,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "G Shabir",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "ECON  417",
@@ -4111,7 +4111,7 @@
       "schedule_raw": "start:02/02/2026M W F09:00 - 09:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "EDUC  120",
@@ -5051,7 +5051,7 @@
       "schedule_raw": "start:02/02/2026M W F08:00 - 08:50",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "GEOG  101",
@@ -5321,7 +5321,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "HIST  255",
@@ -5751,7 +5751,7 @@
       "schedule_raw": "start:02/02/2026M W F12:00 - 12:50",
       "instructor": "R John",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "LING  217",
@@ -5771,7 +5771,7 @@
       "schedule_raw": "start:02/02/2026M W F10:00 - 10:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "17"
+      "available": "15"
     },
     {
       "course_code": "LING  304",
@@ -7271,7 +7271,7 @@
       "schedule_raw": "start:02/02/2026M W F15:00 - 15:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "PLSC  212",
@@ -7321,7 +7321,7 @@
       "schedule_raw": "start:02/02/2026M W F09:00 - 09:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "PLSC  310",
@@ -7691,7 +7691,7 @@
       "schedule_raw": "start:02/02/2026M W F10:00 - 10:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC  280",
@@ -7721,7 +7721,7 @@
       "schedule_raw": "start:02/02/2026M W F16:00 - 16:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "PSYC  290",
