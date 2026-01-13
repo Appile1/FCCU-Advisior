@@ -2891,7 +2891,7 @@
       "schedule_raw": "start:02/03/2026T R14:00 - 15:15",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "CRIM  460",
@@ -3271,7 +3271,7 @@
       "schedule_raw": "start:02/03/2026T R12:30 - 13:45",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "CSCS  203",
@@ -3281,7 +3281,7 @@
       "schedule_raw": "start:02/02/2026M W F15:00 - 15:50",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "CSCS  203",
@@ -5441,7 +5441,7 @@
       "schedule_raw": "start:02/03/2026T R16:00 - 17:00",
       "instructor": "S Nazir",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "HPED  106",
@@ -5451,7 +5451,7 @@
       "schedule_raw": "start:02/03/2026T R15:00 - 16:00",
       "instructor": "S Nazir",
       "capacity": "25",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "HPED  107",
@@ -5661,7 +5661,7 @@
       "schedule_raw": "start:02/02/2026M W F10:00 - 10:50",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ISLM  305",
@@ -7741,7 +7741,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PSYC  300",
@@ -7961,7 +7961,7 @@
       "schedule_raw": "start:02/02/2026M W F12:00 - 12:50",
       "instructor": "M  Niazi",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PSYC  430",
@@ -8181,7 +8181,7 @@
       "schedule_raw": "start:02/02/2026M W F08:00 - 08:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "SOCL  100",
@@ -8701,7 +8701,7 @@
       "schedule_raw": "start:02/03/2026T R09:30 - 10:45",
       "instructor": "S Hanook",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "STAT  207",
