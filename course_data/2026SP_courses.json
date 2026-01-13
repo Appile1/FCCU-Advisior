@@ -1,7 +1,7 @@
 {
   "term_code": "2026SP",
   "term_name": "2026 Spring",
-  "total_courses": 954,
+  "total_courses": 955,
   "courses": [
     {
       "course_code": "ARTS  101",
@@ -2491,7 +2491,7 @@
       "schedule_raw": "start:02/02/2026M W F09:00 - 09:50",
       "instructor": "A Yousaf",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "COMP  303",
@@ -3691,7 +3691,7 @@
       "schedule_raw": "start:02/02/2026M W F10:00 - 10:50",
       "instructor": "A  Jalil",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "ECON  203",
@@ -3891,7 +3891,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "G Shabir",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ECON  417",
@@ -4161,7 +4161,7 @@
       "schedule_raw": "start:02/02/2026M W F15:00 - 15:50",
       "instructor": "A Khokhar",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "EDUC  120",
@@ -4621,7 +4621,7 @@
       "schedule_raw": "start:02/02/2026MTWRF",
       "instructor": "F Syeda",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "ENGL  699",
@@ -5861,7 +5861,7 @@
       "schedule_raw": "start:02/02/2026M W F15:00 - 15:50",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "30"
+      "available": "28"
     },
     {
       "course_code": "MATH  100",
@@ -6311,7 +6311,7 @@
       "schedule_raw": "start:02/02/2026M W F08:00 - 08:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "MCOM  201",
@@ -6321,7 +6321,7 @@
       "schedule_raw": "start:02/03/2026T R08:00 - 09:15",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "MCOM  290",
@@ -7241,7 +7241,7 @@
       "schedule_raw": "start:02/02/2026M W F12:00 - 12:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "PLSC  102",
@@ -7421,7 +7421,7 @@
       "schedule_raw": "start:02/03/2026T R14:00 - 15:15",
       "instructor": "Q Memon",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "PLSC  401",
@@ -7531,7 +7531,7 @@
       "schedule_raw": "start:02/02/2026M W F15:00 - 15:50",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC  100",
@@ -9174,6 +9174,16 @@
       "available": "0"
     },
     {
+      "course_code": "WRCM  101",
+      "course_name": "WRCM  101  HWriting&Communica. I",
+      "credits": "3",
+      "classroom": "EBLOCKE227",
+      "schedule_raw": "start:02/02/2026M W F15:00 - 15:50",
+      "instructor": "J C Imdad",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
       "course_code": "WRCM  102",
       "course_name": "WRCM  102  AWriting&Communic. II",
       "credits": "3",
@@ -9431,7 +9441,7 @@
       "schedule_raw": "start:02/02/2026M W F11:00 - 11:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "WRCM  102",
@@ -9511,7 +9521,7 @@
       "schedule_raw": "start:02/02/2026M W F15:00 - 15:50",
       "instructor": "R Wasif",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "WRCM  102",
