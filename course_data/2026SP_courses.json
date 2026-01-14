@@ -49,7 +49,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS 106",
@@ -865,7 +865,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "BUSN 206",
@@ -6601,7 +6601,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "20",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "HPED 111",
@@ -7609,7 +7609,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "MCOM 301",
@@ -7621,7 +7621,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "MCOM 301",
@@ -7657,7 +7657,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "MCOM 400",
@@ -9205,7 +9205,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "ESchwaiger",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "PSYC 245",
@@ -11305,7 +11305,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "T Bokhari",
       "capacity": "25",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "WRCM 102",
@@ -11461,7 +11461,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Khalid",
       "capacity": "25",
-      "available": "0"
+      "available": "2"
     }
   ]
 }
