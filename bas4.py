@@ -166,6 +166,24 @@ def parse_courses_from_html(html):
 
         unique = f"{course_code}/{section}"
 
+        # ---- SCHEDULE COLUMN ----
+        schedule_col = cols[4]
+        schedule_text = schedule_col.get_text("\n", strip=True)
+        schedule_parts = [p.strip() for p in schedule_text.split("\n") if p.strip()]
+
+        days = ""
+        time = ""
+
+        for part in schedule_parts:
+            if part.lower().startswith("start:"):
+                continue
+            if "-" in part:
+                time = part
+            elif re.match(r"^[A-Z\s]+$", part):
+                days = part
+
+        schedule_raw = " | ".join(p for p in [days, time] if p)
+
         instructor = safe(cols, 5)
         if instructor:
             instructors_set.add(instructor)
@@ -177,7 +195,7 @@ def parse_courses_from_html(html):
             "course_name": course_name,
             "credits": safe(cols, 2),
             "classroom": safe(cols, 3),
-            "schedule_raw": safe(cols, 4),
+            "schedule_raw": schedule_raw,
             "instructor": instructor,
             "capacity": safe(cols, 6),
             "available": safe(cols, 7),
