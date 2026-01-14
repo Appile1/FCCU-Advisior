@@ -3611,7 +3611,7 @@
       "schedule_raw": "start:02/02/2026M W F12:00 - 12:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "ECON  103",
@@ -3631,7 +3631,7 @@
       "schedule_raw": "start:02/02/2026M W F10:00 - 10:50",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ECON  103",
@@ -4111,7 +4111,7 @@
       "schedule_raw": "start:02/02/2026M W F09:00 - 09:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "EDUC  120",
@@ -5451,7 +5451,7 @@
       "schedule_raw": "start:02/02/2026M W15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "HPED  105",
