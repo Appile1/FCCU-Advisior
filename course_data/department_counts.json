@@ -1,5 +1,5 @@
 {
-  "total_courses": 950,
+  "total_courses": 955,
   "departments": {
     "ACCT": 0,
     "ART": 0,
@@ -31,7 +31,7 @@
     "ECON": 56,
     "EDUC": 29,
     "ARTC": 0,
-    "ENGL": 26,
+    "ENGL": 29,
     "LANG": 0,
     "ELIT": 0,
     "DELT": 0,
@@ -53,7 +53,7 @@
     "KORN": 3,
     "LING": 10,
     "MCOM": 32,
-    "MATH": 39,
+    "MATH": 40,
     "MPGN": 7,
     "MUS": 0,
     "MUSC": 2,
@@ -76,7 +76,7 @@
     "T.QU": 0,
     "UNIV": 1,
     "URDU": 24,
-    "WRCM": 39,
+    "WRCM": 40,
     "ZOOL": 0,
     "TEST": 0
   }

@@ -145,18 +145,36 @@ def parse_courses_from_html(html):
         if len(cols) < 6:
             continue
 
-        text = row.get_text(" ", strip=True)
-        match = re_course.search(text)
-        if not match:
+        # ---- COURSE COLUMN ----
+        course_col = cols[1]
+        course_text = course_col.get_text("\n", strip=True)
+        parts = [p.strip() for p in course_text.split("\n") if p.strip()]
+
+        if len(parts) < 2:
             continue
+
+        # First line: "ARTS 101 A"
+        first_line = parts[0].replace("\xa0", " ")
+        tokens = first_line.split()
+
+        if len(tokens) < 2:
+            continue
+
+        section = tokens[-1]                      # A
+        course_code = " ".join(tokens[:-1])       # ARTS 101
+        course_name = parts[-1]                   # Intro. Art & Design
+
+        unique = f"{course_code}/{section}"
 
         instructor = safe(cols, 5)
         if instructor:
             instructors_set.add(instructor)
 
         course = {
-            "course_code": match.group(1),
-            "course_name": safe(cols, 1),
+            "course_code": course_code,
+            "section": section,
+            "unique": unique,
+            "course_name": course_name,
             "credits": safe(cols, 2),
             "classroom": safe(cols, 3),
             "schedule_raw": safe(cols, 4),
@@ -171,7 +189,9 @@ def parse_courses_from_html(html):
     os.makedirs(DATA_DIR, exist_ok=True)
     with open(INSTRUCTORS_FILE, "w", encoding="utf-8") as f:
         json.dump(sorted(list(instructors_set)), f, indent=2, ensure_ascii=False)
+
     print(f"✓ Instructors saved: {len(instructors_set)} unique names")
+    print(f"✓ Courses parsed: {len(courses)}")
 
     return courses
 
