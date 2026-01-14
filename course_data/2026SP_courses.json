@@ -569,7 +569,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE328",
       "schedule_raw": "start:02/03/2026T R08:00 - 09:15",
-      "instructor": "S Nazir",
+      "instructor": "S. Suleman",
       "capacity": "35",
       "available": "1"
     },
@@ -579,7 +579,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE330",
       "schedule_raw": "start:02/02/2026M W F08:00 - 08:50",
-      "instructor": "S Nazir",
+      "instructor": "S Gul",
       "capacity": "35",
       "available": "0"
     },
@@ -589,7 +589,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE328",
       "schedule_raw": "start:02/02/2026M W F09:00 - 09:50",
-      "instructor": "S Nazir",
+      "instructor": "S Gul",
       "capacity": "35",
       "available": "0"
     },
@@ -3861,7 +3861,7 @@
       "schedule_raw": "start:02/03/2026T R09:30 - 10:45",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "ECON  411",
@@ -4361,7 +4361,7 @@
       "schedule_raw": "start:02/03/2026T R14:00 - 15:15",
       "instructor": "A Zia",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL  175",
@@ -5691,7 +5691,7 @@
       "schedule_raw": "start:02/02/2026M W F10:00 - 10:50",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM  305",
@@ -5861,7 +5861,7 @@
       "schedule_raw": "start:02/02/2026M W F15:00 - 15:50",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "MATH  100",
@@ -6651,7 +6651,7 @@
       "schedule_raw": "start:02/03/2026T R15:30 - 16:45",
       "instructor": "M Shaggan",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "PHIL  101",
@@ -7431,7 +7431,7 @@
       "schedule_raw": "start:02/02/2026M W F10:00 - 10:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "PLSC  402",
@@ -8211,7 +8211,7 @@
       "schedule_raw": "start:02/02/2026M W F08:00 - 08:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "SOCL  100",
@@ -8361,7 +8361,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "SOCL  325",
