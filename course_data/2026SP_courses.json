@@ -631,7 +631,7 @@
       "schedule_raw": "start:02/02/2026M W F15:00 - 15:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN  160",
@@ -721,7 +721,7 @@
       "schedule_raw": "start:02/02/2026M W F08:00 - 08:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "BUSN  206",
@@ -761,7 +761,7 @@
       "schedule_raw": "start:02/03/2026T R14:00 - 15:15",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "BUSN  206",
@@ -811,7 +811,7 @@
       "schedule_raw": "start:02/02/2026M W F11:00 - 11:50",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN  206",
@@ -931,7 +931,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "BUSN  225",
@@ -1021,7 +1021,7 @@
       "schedule_raw": "start:02/03/2026T R12:30 - 13:45",
       "instructor": "A Chughtai",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "BUSN  250",
@@ -1081,7 +1081,7 @@
       "schedule_raw": "start:02/03/2026T R11:00 - 12:15",
       "instructor": "A Fateh",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN  250",
@@ -1191,7 +1191,7 @@
       "schedule_raw": "start:02/02/2026M W F15:00 - 15:50",
       "instructor": "I yusuf",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "BUSN  368",
@@ -1201,7 +1201,7 @@
       "schedule_raw": "start:02/03/2026T R09:30 - 10:45",
       "instructor": "S Bilal",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "BUSN  368",
@@ -2961,7 +2961,7 @@
       "schedule_raw": "start:02/04/2026W12:00 - 12:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "CRST  232",
@@ -3001,7 +3001,7 @@
       "schedule_raw": "start:02/06/2026F12:00 - 12:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "CRST  332",
@@ -3031,7 +3031,7 @@
       "schedule_raw": "start:02/06/2026F11:00 - 11:50",
       "instructor": "G Calib",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "CRST  425",
@@ -3431,7 +3431,7 @@
       "schedule_raw": "start:02/03/2026T R15:30 - 16:45",
       "instructor": "Z Malik",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS  482",
@@ -3581,7 +3581,7 @@
       "schedule_raw": "start:02/02/2026M W F14:00 - 14:50",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "ECON  102",
@@ -4111,7 +4111,7 @@
       "schedule_raw": "start:02/02/2026M W F09:00 - 09:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC  120",
@@ -4121,7 +4121,7 @@
       "schedule_raw": "start:02/03/2026T R09:30 - 10:45",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "EDUC  120",
@@ -4131,7 +4131,7 @@
       "schedule_raw": "start:02/03/2026T R09:30 - 10:45",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC  120",
@@ -4151,7 +4151,7 @@
       "schedule_raw": "start:02/02/2026M W F16:00 - 16:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "EDUC  120",
@@ -4171,7 +4171,7 @@
       "schedule_raw": "start:02/03/2026T R15:30 - 16:45",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "EDUC  120",
@@ -5061,7 +5061,7 @@
       "schedule_raw": "start:02/02/2026M W F09:00 - 09:50",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG  101",
@@ -5111,7 +5111,7 @@
       "schedule_raw": "start:02/02/2026M W F11:00 - 11:50",
       "instructor": "A Iqbal",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "GEOG  210",
@@ -5871,7 +5871,7 @@
       "schedule_raw": "start:02/02/2026M W F09:00 - 09:50",
       "instructor": "F Janjua",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH  100",
@@ -5961,7 +5961,7 @@
       "schedule_raw": "start:02/02/2026M W F11:00 - 11:50",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MATH  103",
@@ -6651,7 +6651,7 @@
       "schedule_raw": "start:02/03/2026T R15:30 - 16:45",
       "instructor": "M Shaggan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHIL  101",
@@ -7241,7 +7241,7 @@
       "schedule_raw": "start:02/02/2026M W F12:00 - 12:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC  102",
@@ -8331,7 +8331,7 @@
       "schedule_raw": "start:02/02/2026M W F09:00 - 09:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "21"
+      "available": "19"
     },
     {
       "course_code": "SOCL  220",
@@ -8341,7 +8341,7 @@
       "schedule_raw": "start:02/03/2026T R09:30 - 10:45",
       "instructor": "S Athar",
       "capacity": "30",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL  223",
