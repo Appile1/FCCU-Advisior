@@ -49,7 +49,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "ARTS 106",
@@ -997,7 +997,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 206",
@@ -1021,7 +1021,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "BUSN 225",
@@ -4573,7 +4573,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON 323",
@@ -4597,7 +4597,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Ahmed",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "ECON 400",
@@ -6121,7 +6121,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Iqbal",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "GEOG 202",
@@ -6817,7 +6817,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "ISLM 304",
@@ -8593,7 +8593,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 101",
@@ -9541,7 +9541,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Nazim",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "PSYC 395",
@@ -10825,7 +10825,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Samuel",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "URDU 208",
@@ -11101,7 +11101,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "WRCM 102",
@@ -11305,7 +11305,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "T Bokhari",
       "capacity": "25",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "WRCM 102",
@@ -11377,7 +11377,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Khalid",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "WRCM 102",
