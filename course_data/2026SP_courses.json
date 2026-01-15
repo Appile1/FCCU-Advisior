@@ -1237,7 +1237,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Chughtai",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "BUSN 250",
@@ -4921,7 +4921,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Aslam",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 110",
@@ -6397,7 +6397,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "HIST 301",
@@ -9205,7 +9205,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "ESchwaiger",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "PSYC 245",
@@ -10837,7 +10837,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khokhar",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "URDU 301",
