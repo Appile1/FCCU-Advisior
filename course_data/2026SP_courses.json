@@ -6565,7 +6565,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "S Nazir",
       "capacity": "25",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "HPED 106",
@@ -8713,7 +8713,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 203",
@@ -8725,7 +8725,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "PLSC 212",
@@ -8977,7 +8977,7 @@
       "schedule_raw": "M | 16:00 - 17:00",
       "instructor": "S Sindhu",
       "capacity": "25",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PLSC 504",
@@ -8989,7 +8989,7 @@
       "schedule_raw": "T | 16:00 - 19:00",
       "instructor": "W  Ranjha",
       "capacity": "25",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PLSC 513",
@@ -9013,7 +9013,7 @@
       "schedule_raw": "F | 16:00 - 19:00",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "PLSC 519",
@@ -9025,7 +9025,7 @@
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "M Younis",
       "capacity": "25",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PSYC 100",
@@ -10357,7 +10357,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "STAT 101",
