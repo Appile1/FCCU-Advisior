@@ -193,7 +193,7 @@
       "schedule_raw": "M W | 12:00 - 12:50 | T | 14:00 - 15:50",
       "instructor": "S Dogar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOL 203",
@@ -685,7 +685,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S. Suleman",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 121",
@@ -1237,7 +1237,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Chughtai",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "BUSN 250",
@@ -4249,7 +4249,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "ECON 100",
@@ -7693,7 +7693,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "MCOM 403",
@@ -8053,7 +8053,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "PHIL 495P",
@@ -9109,7 +9109,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "PSYC 150",
@@ -9997,7 +9997,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "SOCL 220",
@@ -11185,7 +11185,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "WRCM 102",
