@@ -3697,7 +3697,7 @@
       "schedule_raw": "W | 14:00 - 17:00",
       "instructor": "D Lanz",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "CRST 555A",
@@ -3733,7 +3733,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "CSCS 100",
@@ -6721,7 +6721,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Naeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 101",
@@ -7033,7 +7033,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "MATH 100",
@@ -7693,7 +7693,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "MCOM 403",
@@ -9901,7 +9901,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -11425,7 +11425,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Wasif",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "WRCM 102",
