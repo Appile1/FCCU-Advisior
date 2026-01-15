@@ -49,7 +49,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "ARTS 106",
@@ -4213,7 +4213,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "T Numan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON 100",
@@ -4957,7 +4957,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 120",
@@ -5005,7 +5005,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "EDUC 120",
@@ -5221,7 +5221,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 175",
@@ -7837,7 +7837,7 @@
       "schedule_raw": "T | 16:00 - 19:00",
       "instructor": "A Khan",
       "capacity": "25",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "MCOM 525",
@@ -9997,7 +9997,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "SOCL 220",
