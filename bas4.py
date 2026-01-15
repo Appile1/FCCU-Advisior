@@ -139,26 +139,53 @@ def parse_courses_from_html(html):
 
     def safe(cols, i):
         return cols[i].get_text(strip=True) if i < len(cols) else ""
-
+    a = 0
+    sep = False 
     for row in rows:
         cols = row.find_all("div", class_=lambda x: x and "ui-grid-col-" in x)
-        if len(cols) < 6:
-            continue
+        if a < 2:
+            a += 1 
+            continue 
+        
+        if row.find("hr"):
+            sep = True 
+            continue 
+        if sep:
+            sep = False 
+            schedule_col = cols[2] 
+            schedule_text = schedule_col.get_text("\n", strip=True)
+            schedule_parts = [p.strip() for p in schedule_text.split("\n") if p.strip()]
+            days = ""
+            time = ""
+            for part in schedule_parts:
+                if part.lower().startswith("start:"):
+                    continue
+                if "-" in part:
+                    time = part
+                elif re.match(r"^[A-Z\s]+$", part):
+                    days = part
+
+            schedule_raw = " | ".join(p for p in [days, time] if p)
+            capacity = cols[4].get_text(strip=True) if len(cols) > 4 else ""
+            available = cols[5].get_text(strip=True) if len(cols) > 5 else ""
+
+            courses[-1]["schedule_raw"] += " | " + schedule_raw
+            courses[-1]["capacity"] = capacity
+            courses[-1]["available"] = available
+            continue 
 
         # ---- COURSE COLUMN ----
         course_col = cols[1]
         course_text = course_col.get_text("\n", strip=True)
         parts = [p.strip() for p in course_text.split("\n") if p.strip()]
 
-        if len(parts) < 2:
-            continue
+        
 
         # First line: "ARTS 101 A"
         first_line = parts[0].replace("\xa0", " ")
         tokens = first_line.split()
 
-        if len(tokens) < 2:
-            continue
+       
 
         section = tokens[-1]                      # A
         course_code = " ".join(tokens[:-1])       # ARTS 101
@@ -183,7 +210,9 @@ def parse_courses_from_html(html):
                 days = part
 
         schedule_raw = " | ".join(p for p in [days, time] if p)
-
+        
+        
+            
         instructor = safe(cols, 5)
         if instructor:
             instructors_set.add(instructor)
