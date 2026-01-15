@@ -4273,7 +4273,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON 101",
@@ -4297,7 +4297,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ECON 102",
@@ -4945,7 +4945,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 120",
@@ -5233,7 +5233,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Zia",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 175",
@@ -6073,7 +6073,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 101",
@@ -6421,7 +6421,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M Haider",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "HIST 305",
@@ -7657,7 +7657,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "MCOM 400",
@@ -9205,7 +9205,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "ESchwaiger",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PSYC 245",
@@ -11077,7 +11077,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Zia",
       "capacity": "25",
-      "available": "1"
+      "available": "3"
     },
     {
       "course_code": "WRCM 102",
@@ -11413,7 +11413,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Zia",
       "capacity": "25",
-      "available": "16"
+      "available": "14"
     },
     {
       "course_code": "WRCM 102",
@@ -11425,7 +11425,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Wasif",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "WRCM 102",
