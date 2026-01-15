@@ -373,7 +373,7 @@
       "schedule_raw": "T R | 08:00 - 09:15 | F | 11:00 - 12:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "BIOT 313",
@@ -685,7 +685,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S. Suleman",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 121",
@@ -4333,7 +4333,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ECON 103",
@@ -6169,7 +6169,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Iqbal",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "GEOG 270",
@@ -11077,7 +11077,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Zia",
       "capacity": "25",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "WRCM 102",
