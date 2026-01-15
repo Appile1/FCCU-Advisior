@@ -1129,7 +1129,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "BUSN 225",
@@ -3685,7 +3685,7 @@
       "schedule_raw": "M W | 11:00 - 11:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "CRST 525D",
@@ -4633,7 +4633,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "ECON 411",
@@ -6565,7 +6565,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "S Nazir",
       "capacity": "25",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "HPED 106",
@@ -6661,7 +6661,7 @@
       "schedule_raw": "T R | 08:00 - 08:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "HPED 151",
@@ -7309,7 +7309,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "MATH 111",
@@ -7861,7 +7861,7 @@
       "schedule_raw": "T | 16:00 - 19:00",
       "instructor": "S Saleem",
       "capacity": "15",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "MCOM 699B",
@@ -9985,7 +9985,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "T Fatima",
       "capacity": "30",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "SOCL 220",
@@ -10249,7 +10249,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Hanook",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 100",
@@ -10441,7 +10441,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "STAT 201",
@@ -11425,7 +11425,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Wasif",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "WRCM 102",
