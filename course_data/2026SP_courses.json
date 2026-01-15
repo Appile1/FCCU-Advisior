@@ -721,7 +721,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "K AMAD",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "BUSN 121",
@@ -4273,7 +4273,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ECON 101",
@@ -4321,7 +4321,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "T Numan",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "ECON 102",
@@ -5665,7 +5665,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Machado",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "ENVR 252",
@@ -6541,7 +6541,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "HPED 105",
@@ -6721,7 +6721,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Naeem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
@@ -6817,7 +6817,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ISLM 304",
@@ -9289,7 +9289,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "PSYC 298",
