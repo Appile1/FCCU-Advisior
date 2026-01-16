@@ -1,12 +1,14 @@
 name: Course Seat Notifier
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
+  workflow_run:
+    workflows: ["Course Scraper"]
+    types:
+      - completed
 
 jobs:
   notifier:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
 
     steps:
