@@ -49,7 +49,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "ARTS 106",
@@ -6649,7 +6649,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | M | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "HPED 150",
@@ -6745,7 +6745,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Naeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 101",
@@ -10057,7 +10057,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Amjad",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "SOCL 335",
@@ -10393,7 +10393,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Samuel",
       "capacity": "15",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "STAT 102",
@@ -10597,7 +10597,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "N Mushtaq",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "STAT 414",
@@ -11437,7 +11437,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Wasif",
       "capacity": "25",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "WRCM 102",
