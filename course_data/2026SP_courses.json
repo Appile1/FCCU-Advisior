@@ -157,7 +157,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | R | 11:00 - 12:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 105",
@@ -721,7 +721,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "K AMAD",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "BUSN 121",
@@ -757,7 +757,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 160",
@@ -3829,7 +3829,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | W | 14:00 - 15:50",
       "instructor": "H Latif",
       "capacity": "15",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "CSCS 105",
@@ -7237,7 +7237,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "I Naqvi",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 107",
