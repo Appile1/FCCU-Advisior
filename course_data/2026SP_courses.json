@@ -1129,7 +1129,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "BUSN 225",
@@ -5089,7 +5089,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "J Hassan",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "EDUC 370",
@@ -5413,7 +5413,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Mir",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "ENGL 430",
@@ -6565,7 +6565,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "S Nazir",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "HPED 106",
@@ -6625,7 +6625,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "S Khaliq",
       "capacity": "20",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "HPED 150",
@@ -6637,7 +6637,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | M | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "HPED 150",
@@ -8041,7 +8041,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "PHIL 495K",
@@ -11185,7 +11185,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "WRCM 102",
