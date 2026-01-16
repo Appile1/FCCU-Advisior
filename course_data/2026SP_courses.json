@@ -6097,7 +6097,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "K Shafiqu",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "GEOG 101",
@@ -8101,7 +8101,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | W | 14:00 - 15:50",
       "instructor": "S Zaheer",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 100",
@@ -9937,7 +9937,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Athar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
@@ -11293,7 +11293,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "WRCM 102",
@@ -11425,7 +11425,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Zia",
       "capacity": "25",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "WRCM 102",
