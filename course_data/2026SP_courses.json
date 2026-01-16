@@ -2905,7 +2905,7 @@
       "schedule_raw": "W | 11:00 - 12:50 | F | 11:00 - 12:50",
       "instructor": "A Khanum",
       "capacity": "25",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "COMP 300",
@@ -3085,7 +3085,7 @@
       "schedule_raw": "T | 09:00 - 10:50 | R | 09:00 - 10:50",
       "instructor": "U  Nisar",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "COMP 401",
@@ -3529,7 +3529,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CRST 211",
@@ -4009,7 +4009,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | W | 14:00 - 15:50",
       "instructor": "M Butt",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "CSCS 342",
@@ -4105,7 +4105,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Shaheen",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "CSCS 475",
@@ -4909,7 +4909,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M. Thomas",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 110",
@@ -5965,7 +5965,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Anwar",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "FREN 102",
@@ -8113,7 +8113,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | F | 14:00 - 15:50",
       "instructor": "S Zaheer",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 101",
@@ -8125,7 +8125,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | R | 14:00 - 15:50",
       "instructor": "K Javed",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 101",
@@ -8989,7 +8989,7 @@
       "schedule_raw": "M | 16:00 - 17:00",
       "instructor": "S Sindhu",
       "capacity": "25",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PLSC 504",
@@ -9001,7 +9001,7 @@
       "schedule_raw": "T | 16:00 - 19:00",
       "instructor": "W  Ranjha",
       "capacity": "25",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PLSC 513",
@@ -9013,7 +9013,7 @@
       "schedule_raw": "R | 16:00 - 19:00",
       "instructor": "A Qureshi",
       "capacity": "25",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PLSC 517",
@@ -9037,7 +9037,7 @@
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "M Younis",
       "capacity": "25",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PSYC 100",
