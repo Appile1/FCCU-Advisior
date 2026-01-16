@@ -1249,7 +1249,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 250",
@@ -5233,7 +5233,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 175",
@@ -6397,7 +6397,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 255",
@@ -9157,7 +9157,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 165",
@@ -10081,7 +10081,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "SOCL 450",
