@@ -6157,7 +6157,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "K Shafiqu",
       "capacity": "10",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 220",
@@ -6181,7 +6181,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Iqbal",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "GEOG 270",
@@ -6409,7 +6409,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "HIST 301",
