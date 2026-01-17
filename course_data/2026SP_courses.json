@@ -817,7 +817,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Mughal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 160",
@@ -1249,7 +1249,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 250",
@@ -3229,7 +3229,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "127"
+      "available": "128"
     },
     {
       "course_code": "COMP 497B",
@@ -3241,7 +3241,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "38"
+      "available": "37"
     },
     {
       "course_code": "COMP 504",
@@ -3841,7 +3841,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | T | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "15",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "CSCS 201",
@@ -3889,7 +3889,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "CSCS 202",
@@ -4369,7 +4369,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Z  Iqbal",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "ECON 201",
@@ -8161,7 +8161,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | T | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "20",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "PHYS 103",
@@ -10393,7 +10393,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Samuel",
       "capacity": "15",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "STAT 102",
