@@ -3,6 +3,12 @@ import os
 import json
 from sendgrid import SendGridAPIClient
 from sendgrid.helpers.mail import Mail
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+
+# ---------------- CONFIG ----------------
+
 
 # ---------------- CONFIG (ENV VARS) ----------------
 SUPABASE_URL = os.environ.get("SUPABASE_URL")
@@ -73,19 +79,25 @@ def load_courses_for_term(term_code):
 
 # ---------------- EMAIL ----------------
 def send_email(to_email, subject, body):
-    message = Mail(
-        from_email=FROM_EMAIL,
-        to_emails=to_email,
-        subject=subject,
-        plain_text_content=body
-    )
+    """Send an email using Gmail SMTP."""
+    try:
+        msg = MIMEMultipart()
+        msg['From'] = FROM_EMAIL
+        msg['To'] = to_email
+        msg['Subject'] = subject
+        msg.attach(MIMEText(body, 'plain'))
 
-    sg = SendGridAPIClient(SENDGRID_API_KEY)
-    response = sg.send(message)
-    print(f"✅ Email sent to {to_email} | status: {response.status_code}")
+        server = smtplib.SMTP('smtp.gmail.com', 587)
+        server.starttls()  # Secure connection
+        server.login(FROM_EMAIL, SENDGRID_API_KEY)
+        server.sendmail(FROM_EMAIL, to_email, msg.as_string())
+        server.quit()
+        print(f"✅ Email sent to {to_email}")
+    except Exception as e:
+        print(f"❌ Failed to send email to {to_email} | Error: {e}")
 
 
-# ---------------- MAIN ----------------
+# ---------------- MAIN LOGIC ----------------
 def main():
     term_code = get_latest_term_code()
     print(f"✓ Latest term code: {term_code}")
@@ -111,8 +123,7 @@ def main():
             available = 0
 
         if available > 0:
-            email = f"{roll_number}@formanite.fccollege.edu.pk"
-
+            email = f"{str(roll_number)}@formanite.fccollege.edu.pk"
             subject = f"Seat Available: {course.get('course_name')}"
             body = (
                 f"Good news!\n\n"
