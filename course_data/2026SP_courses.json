@@ -4669,7 +4669,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "G Shabir",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "ECON 417",
@@ -4681,7 +4681,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "G Shabir",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ECON 499A",
@@ -11317,7 +11317,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "T Bokhari",
       "capacity": "25",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "WRCM 102",
