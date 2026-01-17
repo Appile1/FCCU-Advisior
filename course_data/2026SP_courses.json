@@ -5377,7 +5377,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Syeda",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ENGL 331",
@@ -6661,7 +6661,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HPED 151",
@@ -6829,7 +6829,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "ISLM 304",
@@ -6937,7 +6937,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "12"
+      "available": "10"
     },
     {
       "course_code": "LING 304",
@@ -8053,7 +8053,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "PHIL 495K",
@@ -10261,7 +10261,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Hanook",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 100",
@@ -10345,7 +10345,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 101",
@@ -10393,7 +10393,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Samuel",
       "capacity": "15",
-      "available": "6"
+      "available": "4"
     },
     {
       "course_code": "STAT 102",
@@ -10513,7 +10513,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Mughal",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 208",
@@ -11341,7 +11341,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "WRCM 102",
