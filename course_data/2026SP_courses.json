@@ -1129,7 +1129,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "BUSN 225",
@@ -1141,7 +1141,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "BUSN 225",
@@ -1489,7 +1489,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 370",
@@ -1549,7 +1549,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "BUSN 370",
@@ -1669,7 +1669,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "BUSN 453",
@@ -4993,7 +4993,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "EDUC 120",
@@ -5977,7 +5977,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "P Ludivine",
       "capacity": "20",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "FSQM 504",
@@ -6925,7 +6925,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "F Aftab",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "LING 217",
@@ -8677,7 +8677,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 102",
