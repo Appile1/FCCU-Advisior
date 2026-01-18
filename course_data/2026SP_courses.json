@@ -817,7 +817,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Mughal",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 160",
@@ -865,7 +865,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "BUSN 206",
@@ -925,7 +925,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 206",
@@ -3901,7 +3901,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "CSCS 202",
@@ -5245,7 +5245,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Zia",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 175",
@@ -7705,7 +7705,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "MCOM 403",
@@ -7753,7 +7753,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Dr S Abbas",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "MCOM 414",
@@ -8713,7 +8713,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "PLSC 203",
@@ -9865,7 +9865,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
