@@ -1429,7 +1429,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "I yusuf",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "BUSN 368",
@@ -4537,7 +4537,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "U Hanif",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "ECON 315",
@@ -4909,7 +4909,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M. Thomas",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 110",
@@ -5713,7 +5713,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Chung",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "ENVR 311",
@@ -6577,7 +6577,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "S Nazir",
       "capacity": "25",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "HPED 106",
