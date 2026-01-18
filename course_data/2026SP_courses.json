@@ -5005,7 +5005,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Khokhar",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "EDUC 120",
@@ -5053,7 +5053,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "EDUC 315",
@@ -5281,7 +5281,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "J C Imdad",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 214",
@@ -5677,7 +5677,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Machado",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ENVR 252",
@@ -6445,7 +6445,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 306",
@@ -7105,7 +7105,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "MATH 101",
@@ -8053,7 +8053,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "PHIL 495K",
@@ -9121,7 +9121,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "PSYC 150",
@@ -11341,7 +11341,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "WRCM 102",
