@@ -4225,7 +4225,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ECON 100",
@@ -6181,7 +6181,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Iqbal",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "GEOG 270",
@@ -10081,7 +10081,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "SOCL 450",
@@ -11089,7 +11089,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Zia",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "WRCM 102",
@@ -11437,7 +11437,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Wasif",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "WRCM 102",
