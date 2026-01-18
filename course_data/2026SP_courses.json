@@ -4933,7 +4933,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Aslam",
       "capacity": "35",
-      "available": "0"
+      "available": "2"
     },
     {
       "course_code": "EDUC 110",
@@ -6565,7 +6565,7 @@
       "schedule_raw": "M W | 16:00 - 17:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "HPED 105",
@@ -6649,7 +6649,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | M | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "5"
+      "available": "3"
     },
     {
       "course_code": "HPED 150",
@@ -7105,7 +7105,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "MATH 101",
@@ -8677,7 +8677,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 102",
@@ -11425,7 +11425,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Zia",
       "capacity": "25",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "WRCM 102",
