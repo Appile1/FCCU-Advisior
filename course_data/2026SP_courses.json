@@ -3601,7 +3601,7 @@
       "schedule_raw": "F | 12:00 - 12:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "CRST 332",
@@ -3637,7 +3637,7 @@
       "schedule_raw": "F | 11:00 - 11:50",
       "instructor": "G Calib",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "CRST 425",
@@ -4393,7 +4393,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "T Ahmed",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ECON 202",
@@ -5677,7 +5677,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Machado",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "ENVR 252",
@@ -7609,7 +7609,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "MCOM 290",
@@ -7621,7 +7621,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "MCOM 301",
@@ -8161,7 +8161,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | T | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "20",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "PHYS 103",
@@ -10525,7 +10525,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Ayub",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "STAT 212",
@@ -11437,7 +11437,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Wasif",
       "capacity": "25",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "WRCM 102",
