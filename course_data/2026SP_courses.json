@@ -817,7 +817,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Mughal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 160",
@@ -1465,7 +1465,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "BUSN 370",
@@ -1489,7 +1489,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 370",
@@ -6181,7 +6181,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Iqbal",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "GEOG 270",
@@ -6433,7 +6433,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M Haider",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "HIST 305",
