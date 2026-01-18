@@ -2041,7 +2041,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Ramish",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "BUSN 571",
@@ -2053,7 +2053,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Q Khan",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "BUSN 585",
@@ -3205,7 +3205,7 @@
       "schedule_raw": "T | 09:00 - 10:50 | R | 09:00 - 10:50",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "COMP 451",
@@ -3985,7 +3985,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A  Nadeem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CSCS 320",
@@ -4033,7 +4033,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "F Ullah",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "CSCS 367",
@@ -4297,7 +4297,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ECON 102",
@@ -5485,7 +5485,7 @@
       "schedule_raw": "R | 16:00 - 19:00",
       "instructor": "J C Imdad",
       "capacity": "25",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "ENGL 520",
@@ -5497,7 +5497,7 @@
       "schedule_raw": "M | 16:00 - 19:00",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "ENGL 550",
@@ -5533,7 +5533,7 @@
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "S Maqbool",
       "capacity": "25",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ENGL 699A",
@@ -8161,7 +8161,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | T | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "20",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "PHYS 103",
@@ -9565,7 +9565,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Majeed",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 415",
