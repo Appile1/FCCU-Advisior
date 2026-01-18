@@ -925,7 +925,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 206",
@@ -1021,7 +1021,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "BUSN 225",
@@ -3601,7 +3601,7 @@
       "schedule_raw": "F | 12:00 - 12:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "CRST 332",
@@ -7093,7 +7093,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 101",
@@ -8713,7 +8713,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "PLSC 203",
@@ -10513,7 +10513,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Mughal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 208",
