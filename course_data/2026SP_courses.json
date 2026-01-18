@@ -97,7 +97,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "ARTS 211",
@@ -205,7 +205,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | T | 11:00 - 12:50",
       "instructor": "A Maqbool",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "BIOL 212",
@@ -1477,7 +1477,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 370",
@@ -1549,7 +1549,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "BUSN 370",
@@ -4225,7 +4225,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "ECON 100",
@@ -5293,7 +5293,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 301",
@@ -5737,7 +5737,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | T | 14:00 - 15:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "ENVR 330",
@@ -7105,7 +7105,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "MATH 101",
@@ -8161,7 +8161,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | T | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "20",
-      "available": "3"
+      "available": "1"
     },
     {
       "course_code": "PHYS 103",
@@ -8713,7 +8713,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "PLSC 203",
@@ -9205,7 +9205,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 08:00 - 09:15",
       "instructor": "U Ilyas",
       "capacity": "30",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "PSYC 225",
@@ -10009,7 +10009,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "14"
+      "available": "12"
     },
     {
       "course_code": "SOCL 220",
