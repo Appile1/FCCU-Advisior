@@ -97,7 +97,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "ARTS 211",
@@ -1477,7 +1477,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 370",
@@ -5221,7 +5221,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "A Khokhar",
       "capacity": "25",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "ENGL 110",
@@ -5509,7 +5509,7 @@
       "schedule_raw": "T | 16:00 - 19:00",
       "instructor": "S Mir",
       "capacity": "35",
-      "available": "32"
+      "available": "29"
     },
     {
       "course_code": "ENGL 611",
@@ -5521,7 +5521,7 @@
       "schedule_raw": "T | 16:00 - 19:00",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "19"
+      "available": "22"
     },
     {
       "course_code": "ENGL 618",
@@ -6445,7 +6445,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 306",
@@ -8821,7 +8821,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "PLSC 323",
@@ -9301,7 +9301,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 298",
@@ -11389,7 +11389,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Khalid",
       "capacity": "25",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "WRCM 102",
@@ -11437,7 +11437,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Wasif",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "WRCM 102",
