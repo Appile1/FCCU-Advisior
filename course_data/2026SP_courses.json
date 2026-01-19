@@ -421,7 +421,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "K Muaz",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "BIOT 411",
@@ -1873,7 +1873,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 498",
@@ -2701,7 +2701,7 @@
       "schedule_raw": "T | 11:00 - 12:15 | W | 14:00 - 16:50 | R | 11:00 - 12:15",
       "instructor": "U  Nisar",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "COMP 111",
@@ -5797,7 +5797,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Aslam",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "ENVR 413",
@@ -7297,7 +7297,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 111",
@@ -8749,7 +8749,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PLSC 301",
