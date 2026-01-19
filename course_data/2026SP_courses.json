@@ -685,7 +685,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S. Suleman",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 121",
@@ -913,7 +913,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 206",
@@ -1117,7 +1117,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 225",
@@ -2161,7 +2161,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 14:00 - 16:00",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CHEM 100",
@@ -4249,7 +4249,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON 100",
@@ -6133,7 +6133,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "GEOG 133",
@@ -6841,7 +6841,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ISLM 304",
@@ -7225,7 +7225,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Butt",
       "capacity": "20",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "MATH 107",
@@ -10081,7 +10081,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "SOCL 350",
