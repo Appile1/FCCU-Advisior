@@ -2161,7 +2161,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 14:00 - 16:00",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHEM 100",
@@ -2797,7 +2797,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | M | 14:00 - 16:50",
       "instructor": "S Qureshi",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "COMP 200",
@@ -2809,7 +2809,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 14:00 - 16:50",
       "instructor": "S Qureshi",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "COMP 206",
@@ -2869,7 +2869,7 @@
       "schedule_raw": "W | 09:00 - 10:50 | F | 09:00 - 10:50",
       "instructor": "N Sabahat",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "COMP 220",
@@ -2905,7 +2905,7 @@
       "schedule_raw": "W | 11:00 - 12:50 | F | 11:00 - 12:50",
       "instructor": "A Khanum",
       "capacity": "25",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "COMP 300",
@@ -3205,7 +3205,7 @@
       "schedule_raw": "T | 09:00 - 10:50 | R | 09:00 - 10:50",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "COMP 451",
@@ -6601,7 +6601,7 @@
       "schedule_raw": "M W | 16:00 - 17:00",
       "instructor": "S Nazir",
       "capacity": "25",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "HPED 111",
@@ -10345,7 +10345,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 101",
