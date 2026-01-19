@@ -1897,7 +1897,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "B Usman",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 498",
@@ -2173,7 +2173,7 @@
       "schedule_raw": "M | 09:00 - 10:50 | M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CHEM 150",
@@ -2761,7 +2761,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Atique",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "COMP 113",
@@ -2785,7 +2785,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Chaudhry",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "COMP 200",
@@ -9997,7 +9997,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Athar",
       "capacity": "35",
-      "available": "2"
+      "available": "0"
     },
     {
       "course_code": "SOCL 201",
