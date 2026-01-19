@@ -1129,7 +1129,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "BUSN 225",
@@ -1465,7 +1465,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "BUSN 370",
@@ -2725,7 +2725,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | T | 10:00 - 12:50",
       "instructor": "N Ashraf",
       "capacity": "35",
-      "available": "0"
+      "available": "2"
     },
     {
       "course_code": "COMP 111",
@@ -2761,7 +2761,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Atique",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "COMP 113",
@@ -2785,7 +2785,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Chaudhry",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "COMP 200",
@@ -3817,7 +3817,7 @@
       "schedule_raw": "T R | 15:30 - 16:45 | F | 08:00 - 10:50",
       "instructor": "I Iqbal",
       "capacity": "35",
-      "available": "17"
+      "available": "19"
     },
     {
       "course_code": "CSCS 105",
@@ -5653,7 +5653,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "K Shafiqu",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENVR 212",
@@ -7045,7 +7045,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "22"
+      "available": "19"
     },
     {
       "course_code": "MATH 100",
@@ -7105,7 +7105,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "MATH 101",
@@ -8929,7 +8929,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PLSC 402",
@@ -10489,7 +10489,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Hanook",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "STAT 207",
@@ -11197,7 +11197,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "0"
+      "available": "2"
     },
     {
       "course_code": "WRCM 102",
@@ -11293,7 +11293,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "WRCM 102",
