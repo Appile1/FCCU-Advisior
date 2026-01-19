@@ -85,7 +85,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "ARTS 201",
@@ -133,7 +133,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | W | 14:00 - 15:50",
       "instructor": "I Ul Haq",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 100",
@@ -865,7 +865,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "BUSN 206",
@@ -2797,7 +2797,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | M | 14:00 - 16:50",
       "instructor": "S Qureshi",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "COMP 200",
@@ -2809,7 +2809,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 14:00 - 16:50",
       "instructor": "S Qureshi",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "COMP 206",
@@ -4225,7 +4225,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "ECON 100",
@@ -4249,7 +4249,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "ECON 100",
@@ -4297,7 +4297,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "ECON 102",
@@ -4393,7 +4393,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "T Ahmed",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ECON 202",
@@ -4405,7 +4405,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "Z Manzoor",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "ECON 202",
@@ -4441,7 +4441,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Z  Iqbal",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ECON 206",
@@ -5653,7 +5653,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "K Shafiqu",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENVR 212",
@@ -5713,7 +5713,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Chung",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "ENVR 311",
@@ -9805,7 +9805,7 @@
       "schedule_raw": "M W | 14:00 - 15:30",
       "instructor": "S Shahed",
       "capacity": "30",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "PSYC 635",
@@ -9817,7 +9817,7 @@
       "schedule_raw": "T R | 14:00 - 15:30",
       "instructor": "B M Butt",
       "capacity": "30",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "PSYC 670",
@@ -9841,7 +9841,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "A  Nazim",
       "capacity": "30",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "PSYC 699B",
@@ -9853,7 +9853,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Samuel",
       "capacity": "30",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "SOCL 100",
@@ -10345,7 +10345,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 101",
