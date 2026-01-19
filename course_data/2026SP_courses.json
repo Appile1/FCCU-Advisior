@@ -1,7 +1,7 @@
 {
   "term_code": "2026SP",
   "term_name": "2026 Spring",
-  "total_courses": 956,
+  "total_courses": 957,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -4225,7 +4225,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ECON 100",
@@ -5222,6 +5222,18 @@
       "instructor": "A Khokhar",
       "capacity": "25",
       "available": "21"
+    },
+    {
+      "course_code": "EDUC 699E",
+      "section": "A",
+      "unique": "EDUC 699E/A",
+      "course_name": "Thesis",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "A Khokhar",
+      "capacity": "25",
+      "available": "25"
     },
     {
       "course_code": "ENGL 110",
@@ -6589,7 +6601,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "S Nazir",
       "capacity": "25",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "HPED 107",
@@ -7309,7 +7321,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Janjua",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "MATH 111",
@@ -8113,7 +8125,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | F | 14:00 - 15:50",
       "instructor": "S Zaheer",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHYS 101",
@@ -8485,7 +8497,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Zaheer",
       "capacity": "20",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "PHYS 799B",
@@ -10393,7 +10405,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Samuel",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "STAT 102",
@@ -11341,7 +11353,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "WRCM 102",
@@ -11473,7 +11485,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Khalid",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     }
   ]
 }
