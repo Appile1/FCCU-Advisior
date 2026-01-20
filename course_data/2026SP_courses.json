@@ -1729,7 +1729,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Q Khan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 484",
@@ -1861,7 +1861,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 498",
@@ -1945,7 +1945,7 @@
       "schedule_raw": "T R | 10:00 - 11:15",
       "instructor": "W Khan",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "BUSN 506",
@@ -1993,7 +1993,7 @@
       "schedule_raw": "M W | 14:00 - 15:15",
       "instructor": "A George",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BUSN 531",
@@ -2029,7 +2029,7 @@
       "schedule_raw": "M W | 11:30 - 12:45",
       "instructor": "I yusuf",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "BUSN 571",
@@ -2041,7 +2041,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Ramish",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "BUSN 571",
@@ -2173,7 +2173,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | F | 09:00 - 10:50",
       "instructor": "M Asghar",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "CHEM 100",
@@ -3049,7 +3049,7 @@
       "schedule_raw": "W F | 09:00 - 10:50",
       "instructor": "M Mushtaq",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "COMP 311",
@@ -3097,7 +3097,7 @@
       "schedule_raw": "T | 09:00 - 10:50 | R | 09:00 - 10:50",
       "instructor": "U  Nisar",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "COMP 401",
@@ -3865,7 +3865,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "F Janjua",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CSCS 201",
@@ -3913,7 +3913,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "CSCS 202",
@@ -4405,7 +4405,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "T Ahmed",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "ECON 202",
@@ -4417,7 +4417,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "Z Manzoor",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ECON 202",
@@ -4465,7 +4465,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "ECON 210",
@@ -7141,7 +7141,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 101",
@@ -7729,7 +7729,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "MCOM 403",
@@ -8149,7 +8149,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | R | 14:00 - 15:50",
       "instructor": "K Javed",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 101",
@@ -8629,7 +8629,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "PLSC 101",
@@ -8725,7 +8725,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 102",
@@ -9124,6 +9124,18 @@
       "available": "0"
     },
     {
+      "course_code": "PSYC 100",
+      "section": "H",
+      "unique": "PSYC 100/H",
+      "course_name": "Intro to Psychology",
+      "credits": "3",
+      "classroom": "SBLOCKS111",
+      "schedule_raw": "T R | 15:30 - 16:45",
+      "instructor": "A  Ateeq",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
       "course_code": "PSYC 101",
       "section": "A",
       "unique": "PSYC 101/A",
@@ -9182,6 +9194,18 @@
       "instructor": "E Shahid",
       "capacity": "35",
       "available": "0"
+    },
+    {
+      "course_code": "PSYC 150",
+      "section": "C",
+      "unique": "PSYC 150/C",
+      "course_name": "Dev. Psychology - 1",
+      "credits": "3",
+      "classroom": "EBLOCKE241",
+      "schedule_raw": "T R | 09:30 - 10:45",
+      "instructor": "S Jabeen",
+      "capacity": "35",
+      "available": "34"
     },
     {
       "course_code": "PSYC 160",
@@ -9337,7 +9361,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 298",
@@ -9482,18 +9506,6 @@
       "instructor": "S Samuel",
       "capacity": "35",
       "available": "0"
-    },
-    {
-      "course_code": "PSYC 354",
-      "section": "A",
-      "unique": "PSYC 354/A",
-      "course_name": "Cognitive Psychology",
-      "credits": "4",
-      "classroom": "EBLOCKE241",
-      "schedule_raw": "M | 10:00 - 11:50 | T R | 09:30 - 10:45",
-      "instructor": "S Jabeen",
-      "capacity": "35",
-      "available": "31"
     },
     {
       "course_code": "PSYC 354",
@@ -9698,18 +9710,6 @@
       "instructor": "N Khan",
       "capacity": "35",
       "available": "0"
-    },
-    {
-      "course_code": "PSYC 475",
-      "section": "A",
-      "unique": "PSYC 475/A",
-      "course_name": "Entrepreneur in psyc",
-      "credits": "3",
-      "classroom": "SBLOCKS111",
-      "schedule_raw": "T R | 15:30 - 16:45",
-      "instructor": "A  Ateeq",
-      "capacity": "35",
-      "available": "32"
     },
     {
       "course_code": "PSYC 490",
@@ -10141,7 +10141,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "SOCL 494",
@@ -10153,7 +10153,7 @@
       "schedule_raw": "TWRFSU",
       "instructor": "S Athar",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "SOCL 499",
@@ -10525,7 +10525,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Mughal",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "STAT 206",
@@ -11281,7 +11281,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "WRCM 102",
@@ -11533,7 +11533,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Khalid",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     }
   ]
 }
