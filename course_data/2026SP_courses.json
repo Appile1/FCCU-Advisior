@@ -13,7 +13,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS 102",
@@ -5053,7 +5053,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 120",
@@ -6241,7 +6241,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Iqbal",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "GEOG 270",
@@ -6445,7 +6445,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Hayat",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 250",
@@ -7753,7 +7753,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MCOM 401",
@@ -7801,7 +7801,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "MCOM 414",
@@ -7849,7 +7849,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "MCOM 430",
@@ -9817,7 +9817,7 @@
       "schedule_raw": "M W | 14:00 - 15:30",
       "instructor": "N Habib",
       "capacity": "30",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PSYC 503",
@@ -9829,7 +9829,7 @@
       "schedule_raw": "F | 11:00 - 13:00",
       "instructor": "S Samuel",
       "capacity": "30",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "PSYC 511",
@@ -9841,7 +9841,7 @@
       "schedule_raw": "T R | 14:00 - 15:30",
       "instructor": "A  Nazim",
       "capacity": "30",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PSYC 512",
@@ -9853,7 +9853,7 @@
       "schedule_raw": "F | 09:00 - 10:00",
       "instructor": "A  Nazim",
       "capacity": "30",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PSYC 521",
@@ -9865,7 +9865,7 @@
       "schedule_raw": "M W | 15:30 - 17:00 | F | 14:00 - 15:30",
       "instructor": "U Ashiq",
       "capacity": "30",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PSYC 540",
@@ -9877,7 +9877,7 @@
       "schedule_raw": "T R | 15:30 - 17:00",
       "instructor": "S Majeed",
       "capacity": "30",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PSYC 580",
@@ -9889,7 +9889,7 @@
       "schedule_raw": "F | 10:00 - 11:00",
       "instructor": "N Khan",
       "capacity": "30",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "PSYC 620",
@@ -9901,7 +9901,7 @@
       "schedule_raw": "F | 15:30 - 17:00",
       "instructor": "U Ilyas",
       "capacity": "30",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PSYC 630",
@@ -9937,7 +9937,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "A  Nazim",
       "capacity": "30",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "PSYC 672",
@@ -10477,7 +10477,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 101",
@@ -11329,7 +11329,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "WRCM 102",
