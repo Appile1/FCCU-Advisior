@@ -1,7 +1,7 @@
 {
   "term_code": "2026SP",
   "term_name": "2026 Spring",
-  "total_courses": 957,
+  "total_courses": 961,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -1165,7 +1165,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "BUSN 225",
@@ -1177,7 +1177,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BUSN 250",
@@ -1309,7 +1309,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Fateh",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BUSN 250",
@@ -2165,6 +2165,18 @@
     },
     {
       "course_code": "CHEM 100",
+      "section": "D",
+      "unique": "CHEM 100/D",
+      "course_name": "*Intro. to Chemistry",
+      "credits": "4",
+      "classroom": "SBLOCKS210",
+      "schedule_raw": "T R | 09:30 - 10:45 | F | 09:00 - 10:50",
+      "instructor": "M Asghar",
+      "capacity": "35",
+      "available": "2"
+    },
+    {
+      "course_code": "CHEM 100",
       "section": "F",
       "unique": "CHEM 100/F",
       "course_name": "*Intro. to Chemistry",
@@ -2209,7 +2221,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | F | 09:00 - 10:50",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "CHEM 160",
@@ -4225,7 +4237,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "ECON 100",
@@ -4297,7 +4309,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ECON 102",
@@ -4333,7 +4345,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "ECON 103",
@@ -5785,7 +5797,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Machado",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "ENVR 404",
@@ -6121,7 +6133,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "K Shafiqu",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 133",
@@ -6133,7 +6145,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "GEOG 133",
@@ -6997,7 +7009,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Javed",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "LING 413",
@@ -7129,7 +7141,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 101",
@@ -8609,6 +8621,18 @@
     },
     {
       "course_code": "PLSC 101",
+      "section": "A",
+      "unique": "PLSC 101/A",
+      "course_name": "Intro to Pol Science",
+      "credits": "3",
+      "classroom": "EBLOCKE126",
+      "schedule_raw": "M W F | 12:00 - 12:50",
+      "instructor": "A. Indrias",
+      "capacity": "35",
+      "available": "3"
+    },
+    {
+      "course_code": "PLSC 101",
       "section": "B",
       "unique": "PLSC 101/B",
       "course_name": "Intro to Pol Science",
@@ -9229,7 +9253,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "ESchwaiger",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "PSYC 245",
@@ -9953,6 +9977,18 @@
     },
     {
       "course_code": "SOCL 100",
+      "section": "J",
+      "unique": "SOCL 100/J",
+      "course_name": "Intro to Sociology",
+      "credits": "3",
+      "classroom": "EBLOCKE126",
+      "schedule_raw": "T R | 08:00 - 09:15",
+      "instructor": "A  Azeem",
+      "capacity": "35",
+      "available": "5"
+    },
+    {
+      "course_code": "SOCL 100",
       "section": "K",
       "unique": "SOCL 100/K",
       "course_name": "Intro to Sociology",
@@ -10241,6 +10277,18 @@
     },
     {
       "course_code": "STAT 100",
+      "section": "D",
+      "unique": "STAT 100/D",
+      "course_name": "Basic Statistics",
+      "credits": "3",
+      "classroom": "SBLOCKS425",
+      "schedule_raw": "M W F | 11:00 - 11:50",
+      "instructor": "A Tayyab",
+      "capacity": "35",
+      "available": "0"
+    },
+    {
+      "course_code": "STAT 100",
       "section": "E",
       "unique": "STAT 100/E",
       "course_name": "Basic Statistics",
@@ -10405,7 +10453,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Samuel",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 102",
@@ -11233,7 +11281,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "WRCM 102",
@@ -11353,7 +11401,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "WRCM 102",
@@ -11485,7 +11533,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Khalid",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     }
   ]
 }
