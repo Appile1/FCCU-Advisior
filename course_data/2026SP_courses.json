@@ -6901,7 +6901,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 305",
@@ -6997,7 +6997,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "LING 304",
@@ -7105,7 +7105,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "MATH 100",
@@ -9673,7 +9673,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Nazim",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "PSYC 395",
@@ -9721,7 +9721,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M  Niazi",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "PSYC 430",
@@ -9769,7 +9769,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 08:00 - 09:15",
       "instructor": "A aziz",
       "capacity": "30",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "PSYC 465",
@@ -10057,7 +10057,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
@@ -10093,7 +10093,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 101",
