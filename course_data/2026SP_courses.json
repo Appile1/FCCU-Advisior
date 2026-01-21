@@ -1,7 +1,7 @@
 {
   "term_code": "2026SP",
   "term_name": "2026 Spring",
-  "total_courses": 971,
+  "total_courses": 981,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -2656,6 +2656,30 @@
       "available": "35"
     },
     {
+      "course_code": "CHEM 799C",
+      "section": "A",
+      "unique": "CHEM 799C/A",
+      "course_name": "Research Thesis",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "S Azeem",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "CHEM 799D",
+      "section": "A",
+      "unique": "CHEM 799D/A",
+      "course_name": "Research Thesis",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "S Azeem",
+      "capacity": "20",
+      "available": "20"
+    },
+    {
       "course_code": "CHEM 799E",
       "section": "A",
       "unique": "CHEM 799E/A",
@@ -3431,7 +3455,7 @@
       "credits": "3.00",
       "classroom": "TBDTBD",
       "schedule_raw": "MTWRF",
-      "instructor": "S Shafqat",
+      "instructor": "N Khokhar",
       "capacity": "20",
       "available": "17"
     },
@@ -3460,6 +3484,18 @@
       "available": "25"
     },
     {
+      "course_code": "CPPG 799A",
+      "section": "A",
+      "unique": "CPPG 799A/A",
+      "course_name": "Research Thesis",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "N Khokhar",
+      "capacity": "15",
+      "available": "15"
+    },
+    {
       "course_code": "CPPG 799B",
       "section": "A",
       "unique": "CPPG 799B/A",
@@ -3467,9 +3503,33 @@
       "credits": "3.00",
       "classroom": "TBDTBD",
       "schedule_raw": "MTWRF",
-      "instructor": "TBD",
+      "instructor": "N Khokhar",
       "capacity": "10",
       "available": "9"
+    },
+    {
+      "course_code": "CPPG 799C",
+      "section": "A",
+      "unique": "CPPG 799C/A",
+      "course_name": "Research",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "N Khokhar",
+      "capacity": "15",
+      "available": "15"
+    },
+    {
+      "course_code": "CPPG 799D",
+      "section": "A",
+      "unique": "CPPG 799D/A",
+      "course_name": "Research",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "TBD",
+      "capacity": "15",
+      "available": "15"
     },
     {
       "course_code": "CRIM 201",
@@ -3770,6 +3830,30 @@
       "instructor": "R Wetmore",
       "capacity": "35",
       "available": "27"
+    },
+    {
+      "course_code": "CRST 699A",
+      "section": "A",
+      "unique": "CRST 699A/A",
+      "course_name": "Research Dissertatio",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "W Davey",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "CRST 699B",
+      "section": "A",
+      "unique": "CRST 699B/A",
+      "course_name": "Research Dissertatio",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "W Davey",
+      "capacity": "25",
+      "available": "25"
     },
     {
       "course_code": "CSCS 100",
@@ -7972,6 +8056,18 @@
       "available": "13"
     },
     {
+      "course_code": "MCOM 699A",
+      "section": "A",
+      "unique": "MCOM 699A/A",
+      "course_name": "Thesis",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "F Jabeen",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
       "course_code": "MCOM 699B",
       "section": "A",
       "unique": "MCOM 699B/A",
@@ -8101,7 +8197,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHIL 201",
@@ -9196,6 +9292,30 @@
       "available": "21"
     },
     {
+      "course_code": "PLSC 699A",
+      "section": "A",
+      "unique": "PLSC 699A/A",
+      "course_name": "Research Thesis",
+      "credits": "6.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "S Sindhu",
+      "capacity": "25",
+      "available": "23"
+    },
+    {
+      "course_code": "PLSC 699B",
+      "section": "A",
+      "unique": "PLSC 699B/A",
+      "course_name": "Research Thesis",
+      "credits": "6.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "S Sindhu",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
       "course_code": "PSYC 100",
       "section": "A",
       "unique": "PSYC 100/A",
@@ -9277,7 +9397,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "N Asif",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 140",
@@ -9445,7 +9565,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "U Ilyas",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "PSYC 285",
