@@ -313,7 +313,7 @@
       "schedule_raw": "T R | 08:00 - 09:15 | W | 14:00 - 15:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "BIOL 473",
@@ -2785,7 +2785,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | T | 10:00 - 12:50",
       "instructor": "N Ashraf",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "COMP 111",
@@ -2797,7 +2797,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | F | 14:00 - 16:50",
       "instructor": "Q Quraishi",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "COMP 111",
@@ -4801,7 +4801,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "ECON 320",
@@ -4909,7 +4909,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "G Shabir",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "ECON 417",
@@ -5173,7 +5173,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 110",
@@ -5221,7 +5221,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 120",
@@ -7237,7 +7237,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "LING 304",
@@ -7465,7 +7465,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "0"
+      "available": "2"
     },
     {
       "course_code": "MATH 103",
@@ -8377,7 +8377,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "PHIL 495K",
@@ -8605,7 +8605,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "Dr  H Shah",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "PHYS 422",
@@ -9013,7 +9013,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -9073,7 +9073,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 102",
@@ -9517,7 +9517,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M  Niazi",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 100",
@@ -9553,7 +9553,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "U Ashiq",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 100",
@@ -9637,7 +9637,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "PSYC 160",
@@ -9661,7 +9661,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 220",
@@ -10333,7 +10333,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -10549,7 +10549,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 350",
