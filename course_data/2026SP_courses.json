@@ -4189,7 +4189,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A  Nadeem",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "CSCS 320",
@@ -4237,7 +4237,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "F Ullah",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "CSCS 367",
@@ -5233,7 +5233,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "EDUC 120",
@@ -5893,7 +5893,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Ilyas",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENVR 160",
@@ -10765,7 +10765,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 100",
