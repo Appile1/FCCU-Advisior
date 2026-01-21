@@ -721,7 +721,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "K AMAD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 121",
@@ -4525,7 +4525,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ECON 101",
@@ -4573,7 +4573,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "T Numan",
       "capacity": "35",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "ECON 102",
@@ -6961,7 +6961,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HPED 151",
@@ -9205,7 +9205,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "PLSC 321",
@@ -9217,7 +9217,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "PLSC 323",
@@ -9289,7 +9289,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "PLSC 340",
@@ -9445,7 +9445,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Sindhu",
       "capacity": "25",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PLSC 699B",
