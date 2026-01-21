@@ -7921,7 +7921,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "MCOM 301",
@@ -7945,7 +7945,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "MCOM 310",
@@ -7969,7 +7969,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "MCOM 400",
@@ -10333,7 +10333,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
@@ -11929,7 +11929,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Zia",
       "capacity": "25",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "WRCM 102",
