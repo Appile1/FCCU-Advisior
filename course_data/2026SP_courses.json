@@ -1,7 +1,7 @@
 {
   "term_code": "2026SP",
   "term_name": "2026 Spring",
-  "total_courses": 967,
+  "total_courses": 971,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -3412,6 +3412,18 @@
       "available": "19"
     },
     {
+      "course_code": "CPPG 699A",
+      "section": "A",
+      "unique": "CPPG 699A/A",
+      "course_name": "Research",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "N Khokhar",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
       "course_code": "CPPG 699B",
       "section": "A",
       "unique": "CPPG 699B/A",
@@ -3565,7 +3577,7 @@
       "schedule_raw": "M | 12:00 - 12:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "CRST 212",
@@ -4214,6 +4226,30 @@
       "instructor": "M Mushtaq",
       "capacity": "25",
       "available": "23"
+    },
+    {
+      "course_code": "CSSE 699A",
+      "section": "A",
+      "unique": "CSSE 699A/A",
+      "course_name": "Research Thesis",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "M Mushtaq",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "CSSE 699B",
+      "section": "A",
+      "unique": "CSSE 699B/A",
+      "course_name": "Research Thesis",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "M Mushtaq",
+      "capacity": "25",
+      "available": "25"
     },
     {
       "course_code": "ECON 100",
@@ -5761,7 +5797,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Ilyas",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ENVR 309",
@@ -6973,7 +7009,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "R John",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "LING 217",
@@ -6985,7 +7021,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "F Aftab",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "LING 217",
@@ -7105,7 +7141,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "MATH 100",
@@ -8065,7 +8101,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHIL 201",
@@ -8486,6 +8522,18 @@
       "instructor": "S Zaheer",
       "capacity": "30",
       "available": "30"
+    },
+    {
+      "course_code": "PHYS 699A",
+      "section": "A",
+      "unique": "PHYS 699A/A",
+      "course_name": "Research Project",
+      "credits": "7.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "S Zaheer",
+      "capacity": "10",
+      "available": "10"
     },
     {
       "course_code": "PHYS 699B",
@@ -8917,7 +8965,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 321",
@@ -9229,7 +9277,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "N Asif",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 140",
@@ -9277,7 +9325,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PSYC 160",
@@ -9337,7 +9385,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 08:00 - 09:15",
       "instructor": "U Ilyas",
       "capacity": "30",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 225",
@@ -9457,7 +9505,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "PSYC 298",
