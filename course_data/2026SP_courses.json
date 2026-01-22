@@ -7921,7 +7921,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "MCOM 201",
@@ -9241,7 +9241,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "PLSC 321",
@@ -9277,7 +9277,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 336",
@@ -9553,7 +9553,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M  Niazi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 100",
