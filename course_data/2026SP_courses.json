@@ -1453,7 +1453,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Bilal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 370",
@@ -4189,7 +4189,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A  Nadeem",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "CSCS 320",
@@ -7153,7 +7153,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Naeem",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 104",
@@ -8461,7 +8461,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | W | 14:00 - 15:50",
       "instructor": "S Zaheer",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "PHYS 100",
@@ -11017,7 +11017,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Hanook",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "STAT 207",
