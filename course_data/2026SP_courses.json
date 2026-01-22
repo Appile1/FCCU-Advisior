@@ -925,7 +925,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 206",
@@ -5221,7 +5221,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 120",
@@ -6865,7 +6865,7 @@
       "schedule_raw": "M W | 16:00 - 17:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "HPED 105",
@@ -7885,7 +7885,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "MCOM 201",
@@ -7897,7 +7897,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "MCOM 290",
@@ -9517,7 +9517,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M  Niazi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 100",
@@ -10561,7 +10561,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "SOCL 450",
