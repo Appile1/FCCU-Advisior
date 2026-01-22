@@ -3685,7 +3685,7 @@
       "schedule_raw": "M | 12:00 - 12:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "CRST 212",
@@ -4501,7 +4501,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ECON 100",
@@ -9037,7 +9037,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 101",
@@ -10789,7 +10789,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Hanook",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 100",
@@ -10849,7 +10849,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "STAT 101",
@@ -10897,7 +10897,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "STAT 101",
@@ -10921,7 +10921,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Samuel",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 102",
