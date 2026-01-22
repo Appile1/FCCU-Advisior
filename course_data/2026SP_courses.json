@@ -6721,7 +6721,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "HIST 303",
@@ -9229,7 +9229,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 310",
@@ -9241,7 +9241,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 321",
@@ -9373,7 +9373,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 403",
@@ -10489,7 +10489,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 101",
@@ -10849,7 +10849,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "STAT 101",
@@ -11737,7 +11737,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "WRCM 102",
