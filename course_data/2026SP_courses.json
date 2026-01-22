@@ -8125,7 +8125,7 @@
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "Dr S Abbas",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "MCOM 517",
@@ -8137,7 +8137,7 @@
       "schedule_raw": "M | 16:00 - 19:00",
       "instructor": "A  Muzamil",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "MCOM 522",
@@ -8161,7 +8161,7 @@
       "schedule_raw": "R | 16:00 - 19:00",
       "instructor": "F Jabeen",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "MCOM 526",
@@ -8173,7 +8173,7 @@
       "schedule_raw": "T | 16:00 - 19:00",
       "instructor": "S Saleem",
       "capacity": "15",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "MCOM 699A",
@@ -9073,7 +9073,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 102",
@@ -9637,7 +9637,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "PSYC 160",
@@ -9709,7 +9709,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "ESchwaiger",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "PSYC 245",
