@@ -97,7 +97,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "ARTS 211",
@@ -313,7 +313,7 @@
       "schedule_raw": "T R | 08:00 - 09:15 | W | 14:00 - 15:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "BIOL 473",
@@ -3265,7 +3265,7 @@
       "schedule_raw": "T | 09:00 - 10:50 | R | 09:00 - 10:50",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "COMP 451",
@@ -4237,7 +4237,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "F Ullah",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "CSCS 367",
@@ -4453,7 +4453,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "T Ahmed",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ECON 100",
@@ -6373,7 +6373,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "GEOG 101",
@@ -9061,7 +9061,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -9097,7 +9097,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 102",
@@ -9205,7 +9205,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "PLSC 321",
@@ -10081,7 +10081,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M  Niazi",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "PSYC 430",
@@ -11365,7 +11365,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Virk",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "URDU 402",
