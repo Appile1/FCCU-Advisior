@@ -865,7 +865,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "BUSN 206",
@@ -3613,7 +3613,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CRIM 460",
@@ -5209,7 +5209,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Aslam",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 110",
@@ -5233,7 +5233,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 120",
@@ -6373,7 +6373,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 101",
@@ -7381,7 +7381,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "MATH 100",
@@ -8917,7 +8917,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Zaheer",
       "capacity": "20",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "PKST 101",
@@ -9697,7 +9697,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 220",
@@ -10417,7 +10417,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
@@ -11125,7 +11125,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "N Mushtaq",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "STAT 414",
