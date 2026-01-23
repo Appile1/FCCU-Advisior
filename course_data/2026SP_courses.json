@@ -349,7 +349,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | M | 14:00 - 15:50",
       "instructor": "M Irfan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOT 301",
@@ -361,7 +361,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 14:00 - 15:50",
       "instructor": "A  Bashir",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "BIOT 302",
@@ -4525,7 +4525,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON 101",
@@ -4609,7 +4609,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ECON 103",
@@ -5209,7 +5209,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Aslam",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 110",
@@ -5269,7 +5269,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "EDUC 120",
@@ -5893,7 +5893,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Ilyas",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENVR 160",
@@ -6373,7 +6373,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "GEOG 101",
@@ -6805,7 +6805,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Sumbal",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "HIST 320",
@@ -6829,7 +6829,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Sumbal",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "HIST 499",
@@ -6961,7 +6961,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HPED 151",
@@ -7369,7 +7369,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MATH 095",
@@ -7381,7 +7381,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "MATH 100",
@@ -8473,7 +8473,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | F | 14:00 - 15:50",
       "instructor": "S Zaheer",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHYS 101",
