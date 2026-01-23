@@ -2233,7 +2233,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | F | 09:00 - 10:50",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "CHEM 160",
@@ -8269,7 +8269,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "B Sadiq",
       "capacity": "25",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "MPGN 699E",
@@ -9049,7 +9049,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -10801,7 +10801,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "STAT 101",
