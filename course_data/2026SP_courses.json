@@ -61,7 +61,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS 111",
@@ -2233,7 +2233,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | F | 09:00 - 10:50",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "CHEM 160",
@@ -5905,7 +5905,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | T | 09:00 - 10:50",
       "instructor": "S Jelani",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENVR 201",
@@ -7369,7 +7369,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 095",
@@ -9037,7 +9037,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -10369,7 +10369,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -11629,7 +11629,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Zia",
       "capacity": "25",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "WRCM 102",
