@@ -5041,7 +5041,7 @@
       "schedule_raw": "M | 17:00 - 20:00",
       "instructor": "M Bhatti",
       "capacity": "25",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ECON 707",
@@ -5053,7 +5053,7 @@
       "schedule_raw": "W | 17:00 - 20:00",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "ECON 708",
@@ -5065,7 +5065,7 @@
       "schedule_raw": "T | 17:00 - 20:00",
       "instructor": "M Ayyubi",
       "capacity": "10",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ECON 728",
@@ -5077,7 +5077,7 @@
       "schedule_raw": "R | 17:00 - 20:00",
       "instructor": "M Tahir",
       "capacity": "10",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ECON 799A",
@@ -10213,7 +10213,7 @@
       "schedule_raw": "M W | 14:00 - 15:30",
       "instructor": "N Habib",
       "capacity": "30",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "PSYC 503",
@@ -10261,7 +10261,7 @@
       "schedule_raw": "M W | 15:30 - 17:00 | F | 14:00 - 15:30",
       "instructor": "U Ashiq",
       "capacity": "30",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PSYC 540",
