@@ -4309,7 +4309,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Shaheen",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "CSCS 475",
@@ -4465,7 +4465,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "T Numan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON 100",
@@ -5365,7 +5365,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "EDUC 355",
@@ -6001,7 +6001,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
       "instructor": "S Azeem",
       "capacity": "25",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ENVR 323",
@@ -6037,7 +6037,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ENVR 403",
@@ -6049,7 +6049,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Machado",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "ENVR 404",
@@ -6061,7 +6061,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "D Bakker",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "ENVR 405",
@@ -6073,7 +6073,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Aslam",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "ENVR 413",
@@ -6445,7 +6445,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "GEOG 221",
@@ -7021,7 +7021,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Naeem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
@@ -7141,7 +7141,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ISLM 304",
@@ -7153,7 +7153,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 305",
@@ -7501,7 +7501,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Butt",
       "capacity": "20",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "MATH 107",
@@ -8989,7 +8989,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -9097,7 +9097,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 203",
@@ -9193,7 +9193,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "PLSC 321",
@@ -9217,7 +9217,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "PLSC 331",
