@@ -3013,7 +3013,7 @@
       "schedule_raw": "M | 11:00 - 12:50 | F | 11:00 - 12:50",
       "instructor": "M Chaudhry",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "COMP 301",
@@ -4297,7 +4297,7 @@
       "schedule_raw": "M | 11:00 - 12:50 | W | 11:00 - 12:50",
       "instructor": "U  Nisar",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "CSCS 470",
@@ -4681,7 +4681,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Jalil",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "ECON 203",
@@ -4801,7 +4801,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "ECON 320",
@@ -7465,7 +7465,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Nadeem",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "MATH 105",
@@ -7633,7 +7633,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "MATH 204",
