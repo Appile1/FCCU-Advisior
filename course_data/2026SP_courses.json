@@ -2905,7 +2905,7 @@
       "schedule_raw": "M W | 10:00 - 11:50",
       "instructor": "S Abbasi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "COMP 213",
@@ -2917,7 +2917,7 @@
       "schedule_raw": "M W | 14:00 - 15:50",
       "instructor": "S Abbasi",
       "capacity": "25",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "COMP 213",
@@ -3001,7 +3001,7 @@
       "schedule_raw": "M | 09:00 - 10:50 | W | 09:00 - 10:50",
       "instructor": "I Iqbal",
       "capacity": "25",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "COMP 301",
@@ -3613,7 +3613,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CRIM 460",
@@ -4069,7 +4069,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "CSCS 201",
@@ -6697,7 +6697,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "HIST 303",
@@ -9625,7 +9625,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 160",
@@ -9697,7 +9697,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "ESchwaiger",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "PSYC 245",
@@ -10069,7 +10069,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M  Niazi",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "PSYC 430",
