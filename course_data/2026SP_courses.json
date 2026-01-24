@@ -3637,7 +3637,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "CRST 152",
@@ -5857,7 +5857,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENVR 151",
@@ -7141,7 +7141,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "ISLM 304",
@@ -9025,7 +9025,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -9049,7 +9049,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -9589,7 +9589,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "PSYC 150",
@@ -9697,7 +9697,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "ESchwaiger",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PSYC 245",
@@ -10033,7 +10033,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Majeed",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 415",
