@@ -1225,7 +1225,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Chughtai",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "BUSN 250",
@@ -1237,7 +1237,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Chughtai",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "BUSN 250",
@@ -2029,7 +2029,7 @@
       "schedule_raw": "T R | 11:30 - 12:45",
       "instructor": "A Ramish",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "BUSN 560",
@@ -2041,7 +2041,7 @@
       "schedule_raw": "M W | 11:30 - 12:45",
       "instructor": "I yusuf",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "BUSN 571",
@@ -5881,7 +5881,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | T | 09:00 - 10:50",
       "instructor": "S Jelani",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENVR 201",
@@ -6361,7 +6361,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 101",
@@ -6397,7 +6397,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "GEOG 133",
@@ -7141,7 +7141,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "ISLM 304",
@@ -10321,7 +10321,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -10345,7 +10345,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
