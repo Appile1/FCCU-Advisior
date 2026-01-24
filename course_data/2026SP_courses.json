@@ -181,7 +181,7 @@
       "schedule_raw": "M W | 10:00 - 10:50 | R | 08:00 - 09:50",
       "instructor": "S Ali",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "BIOL 201",
@@ -7657,7 +7657,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "I Shafique",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "MATH 301",
