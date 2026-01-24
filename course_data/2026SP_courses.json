@@ -277,7 +277,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "BIOL 412",
@@ -2233,7 +2233,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | F | 09:00 - 10:50",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "CHEM 160",
@@ -3637,7 +3637,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "CRST 152",
@@ -6949,7 +6949,7 @@
       "schedule_raw": "T R | 08:00 - 08:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "HPED 151",
@@ -7141,7 +7141,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ISLM 304",
@@ -7225,7 +7225,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "R John",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "LING 217",
@@ -10069,7 +10069,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M  Niazi",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "PSYC 430",
