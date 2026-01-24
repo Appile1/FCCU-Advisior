@@ -1009,7 +1009,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BUSN 206",
@@ -1249,7 +1249,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 250",
@@ -1285,7 +1285,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "Afaf k",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 250",
@@ -1549,7 +1549,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "BUSN 370",
@@ -2053,7 +2053,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Ramish",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "BUSN 571",
@@ -2917,7 +2917,7 @@
       "schedule_raw": "M W | 14:00 - 15:50",
       "instructor": "S Abbasi",
       "capacity": "25",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "COMP 213",
@@ -2953,7 +2953,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Sabahat",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "COMP 295",
@@ -3001,7 +3001,7 @@
       "schedule_raw": "M | 09:00 - 10:50 | W | 09:00 - 10:50",
       "instructor": "I Iqbal",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "COMP 301",
@@ -3637,7 +3637,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "CRST 152",
@@ -3733,7 +3733,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "CRST 312",
