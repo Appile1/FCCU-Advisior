@@ -5365,7 +5365,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "EDUC 355",
@@ -5725,7 +5725,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Syeda",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "ENGL 499",
@@ -5953,7 +5953,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Machado",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "ENVR 252",
@@ -8365,7 +8365,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PHIL 495K",
@@ -11929,7 +11929,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "WRCM 102",
