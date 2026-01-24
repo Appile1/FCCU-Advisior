@@ -277,7 +277,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "BIOL 412",
@@ -4573,7 +4573,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "T Numan",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "ECON 102",
@@ -4621,7 +4621,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Z  Iqbal",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ECON 201",
@@ -4693,7 +4693,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Z  Iqbal",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "ECON 206",
@@ -5269,7 +5269,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "14"
+      "available": "12"
     },
     {
       "course_code": "EDUC 120",
@@ -5665,7 +5665,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "ENGL 328",
