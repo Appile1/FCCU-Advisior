@@ -1369,7 +1369,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Rao",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 322",
@@ -1381,7 +1381,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M Rao",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "BUSN 353",
@@ -2233,7 +2233,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | F | 09:00 - 10:50",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "CHEM 160",
@@ -4681,7 +4681,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Jalil",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "ECON 203",
@@ -4693,7 +4693,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Z  Iqbal",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "ECON 206",
@@ -4885,7 +4885,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "ECON 411",
@@ -7465,7 +7465,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Nadeem",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "MATH 105",
@@ -8269,7 +8269,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "B Sadiq",
       "capacity": "25",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "MPGN 699E",
@@ -8425,7 +8425,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | F | 14:00 - 15:50",
       "instructor": "S Zaheer",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHYS 101",
@@ -10321,7 +10321,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
@@ -11713,7 +11713,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Zia",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "WRCM 102",
