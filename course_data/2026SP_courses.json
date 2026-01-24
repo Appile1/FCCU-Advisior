@@ -2233,7 +2233,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | F | 09:00 - 10:50",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "CHEM 160",
@@ -3781,7 +3781,7 @@
       "schedule_raw": "F | 11:00 - 11:50",
       "instructor": "G Calib",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "CRST 425",
@@ -5269,7 +5269,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "EDUC 120",
@@ -6697,7 +6697,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "HIST 303",
@@ -6757,7 +6757,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "HIST 313",
@@ -6949,7 +6949,7 @@
       "schedule_raw": "T R | 08:00 - 08:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "HPED 151",
@@ -8425,7 +8425,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | F | 14:00 - 15:50",
       "instructor": "S Zaheer",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 101",
@@ -10321,7 +10321,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -10345,7 +10345,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -11329,7 +11329,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khokhar",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "URDU 301",
@@ -11353,7 +11353,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Virk",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "URDU 402",
@@ -11857,7 +11857,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Karim",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "WRCM 102",
