@@ -4009,7 +4009,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | R | 08:00 - 10:50",
       "instructor": "I Iqbal",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "CSCS 105",
@@ -5221,7 +5221,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 120",
@@ -5269,7 +5269,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "EDUC 120",
@@ -5977,7 +5977,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Ilyas",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ENVR 309",
@@ -7225,7 +7225,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "R John",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "LING 217",
@@ -8029,7 +8029,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "MCOM 414",
@@ -8461,7 +8461,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | W | 14:00 - 15:50",
       "instructor": "H Latif",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 102",
@@ -10909,7 +10909,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "I Naqvi",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "STAT 115",
