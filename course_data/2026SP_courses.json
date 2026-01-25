@@ -3265,7 +3265,7 @@
       "schedule_raw": "T | 09:00 - 10:50 | R | 09:00 - 10:50",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "COMP 451",
@@ -9805,7 +9805,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "PSYC 298",
@@ -10441,7 +10441,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 101",
