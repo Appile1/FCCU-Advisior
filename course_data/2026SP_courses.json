@@ -3625,7 +3625,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "CRST 151",
@@ -6013,7 +6013,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | T | 14:00 - 15:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "ENVR 330",
@@ -10033,7 +10033,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Majeed",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 415",
