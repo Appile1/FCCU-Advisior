@@ -5209,7 +5209,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Aslam",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 110",
@@ -7729,7 +7729,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "MATH 311",
