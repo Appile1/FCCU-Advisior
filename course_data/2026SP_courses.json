@@ -289,7 +289,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "Team",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BIOL 415",
@@ -1177,7 +1177,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BUSN 250",
@@ -3673,7 +3673,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CRST 211",
@@ -6109,7 +6109,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "D Bakker",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "ENVR 511",
