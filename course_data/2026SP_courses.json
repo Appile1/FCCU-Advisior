@@ -2965,7 +2965,7 @@
       "schedule_raw": "W | 11:00 - 12:50 | F | 11:00 - 12:50",
       "instructor": "A Khanum",
       "capacity": "25",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "COMP 300",
@@ -4537,7 +4537,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "T Ahmed",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON 101",
@@ -5617,7 +5617,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 307",
@@ -6901,7 +6901,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Nazir",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HPED 112",
