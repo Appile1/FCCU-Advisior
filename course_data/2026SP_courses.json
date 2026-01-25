@@ -2233,7 +2233,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | F | 09:00 - 10:50",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "CHEM 160",
@@ -7609,7 +7609,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "MATH 111",
