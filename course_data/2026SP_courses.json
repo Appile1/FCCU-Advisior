@@ -4201,7 +4201,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CSCS 321",
@@ -4309,7 +4309,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Shaheen",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "CSCS 475",
@@ -5269,7 +5269,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "EDUC 120",
@@ -9121,7 +9121,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PLSC 212",
@@ -9205,7 +9205,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PLSC 323",
@@ -10933,7 +10933,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "STAT 201",
