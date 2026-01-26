@@ -181,7 +181,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | T | 08:30 - 10:20",
       "instructor": "S Butt",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOL 100",
@@ -7561,7 +7561,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "MATH 101",
@@ -7585,7 +7585,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Nadeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 101",
@@ -8161,7 +8161,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "MCOM 403",
