@@ -6889,7 +6889,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "20",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "HPED 111",
@@ -6913,7 +6913,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "S Khaliq",
       "capacity": "20",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "HPED 150",
@@ -10345,7 +10345,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -11605,7 +11605,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R John",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "WRCM 101",
@@ -11855,7 +11855,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE227",
       "schedule_raw": "T R | 14:00 - 15:15",
-      "instructor": "A Karim",
+      "instructor": "TBD",
       "capacity": "25",
       "available": "0"
     },
