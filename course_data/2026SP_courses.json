@@ -1945,7 +1945,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 506",
@@ -2728,16 +2728,16 @@
       "available": "0"
     },
     {
-      "course_code": "CHIN 102",
-      "section": "A",
-      "unique": "CHIN 102/A",
-      "course_name": "Chinese II",
+      "course_code": "CHIN 101",
+      "section": "C",
+      "unique": "CHIN 101/C",
+      "course_name": "Chinese I",
       "credits": "3.00",
       "classroom": "EBLOCKE244",
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Wei",
       "capacity": "20",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "COMP 102",
@@ -2749,7 +2749,7 @@
       "schedule_raw": "T R | 08:00 - 09:15 | F | 14:00 - 16:50",
       "instructor": "F Shaheen",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "COMP 102",
@@ -3025,7 +3025,7 @@
       "schedule_raw": "T R | 11:00 - 12:50",
       "instructor": "M Butt",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "COMP 302",
@@ -4957,7 +4957,7 @@
       "schedule_raw": "M W | 11:30 - 13:00",
       "instructor": "A  Anwar",
       "capacity": "30",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ECON 600",
@@ -4993,7 +4993,7 @@
       "schedule_raw": "T R | 12:30 - 14:00",
       "instructor": "Z  Iqbal",
       "capacity": "25",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "ECON 699A",
@@ -5305,7 +5305,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 240",
@@ -6592,16 +6592,16 @@
       "available": "0"
     },
     {
-      "course_code": "GRMN 102",
-      "section": "A",
-      "unique": "GRMN 102/A",
-      "course_name": "German II",
+      "course_code": "GRMN 101",
+      "section": "D",
+      "unique": "GRMN 101/D",
+      "course_name": "German I",
       "credits": "3.00",
       "classroom": "EBLOCKE140",
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Qurit U An",
       "capacity": "20",
-      "available": "16"
+      "available": "19"
     },
     {
       "course_code": "HIST 101",
@@ -7204,16 +7204,16 @@
       "available": "0"
     },
     {
-      "course_code": "KORN 102",
-      "section": "A",
-      "unique": "KORN 102/A",
-      "course_name": "Korean II",
+      "course_code": "KORN 101",
+      "section": "C",
+      "unique": "KORN 101/C",
+      "course_name": "Korean I",
       "credits": "3.00",
       "classroom": "EBLOCKE230",
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "J Park",
       "capacity": "20",
-      "available": "17"
+      "available": "20"
     },
     {
       "course_code": "LING 207",
@@ -7609,7 +7609,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "MATH 111",
@@ -8869,7 +8869,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Zaheer",
       "capacity": "20",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "PKST 101",
@@ -9589,7 +9589,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PSYC 150",
@@ -10069,7 +10069,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M  Niazi",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "PSYC 430",
@@ -10345,7 +10345,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
@@ -10969,7 +10969,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Hanook",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 207",
@@ -11629,7 +11629,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Pervez",
       "capacity": "25",
-      "available": "0"
+      "available": "2"
     },
     {
       "course_code": "WRCM 101",
