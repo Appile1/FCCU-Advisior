@@ -6013,7 +6013,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | T | 09:00 - 10:50",
       "instructor": "S Jelani",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENVR 201",
@@ -7537,7 +7537,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "MATH 100",
@@ -9229,7 +9229,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "PLSC 101",
@@ -9265,7 +9265,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "PLSC 101",
@@ -9373,7 +9373,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 203",
@@ -12061,7 +12061,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Saeed",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "WRCM 102",
