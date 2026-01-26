@@ -49,7 +49,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS 106",
@@ -1297,7 +1297,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Chughtai",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "BUSN 250",
@@ -3793,7 +3793,7 @@
       "schedule_raw": "M | 12:00 - 12:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "CRST 212",
@@ -4897,7 +4897,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "U Hanif",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ECON 315",
@@ -6493,7 +6493,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 101",
@@ -7045,7 +7045,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "S Khaliq",
       "capacity": "20",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "HPED 150",
@@ -7345,7 +7345,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "J Park",
       "capacity": "20",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "LING 207",
@@ -7381,7 +7381,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "LING 304",
@@ -8509,7 +8509,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHIL 221",
@@ -9241,7 +9241,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "PLSC 101",
@@ -9373,7 +9373,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 203",
@@ -9385,7 +9385,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PLSC 212",
@@ -9457,7 +9457,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 321",
@@ -9577,7 +9577,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "PLSC 402",
@@ -10645,7 +10645,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Athar",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "SOCL 100",
