@@ -2245,7 +2245,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 14:00 - 16:00",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "CHEM 100",
@@ -3793,7 +3793,7 @@
       "schedule_raw": "M | 12:00 - 12:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "CRST 212",
@@ -5761,7 +5761,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "ENGL 310",
@@ -6097,7 +6097,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Aslam",
       "capacity": "35",
-      "available": "3"
+      "available": "1"
     },
     {
       "course_code": "ENVR 252",
@@ -6973,7 +6973,7 @@
       "schedule_raw": "M W | 16:00 - 17:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "HPED 105",
@@ -7261,7 +7261,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Naeem",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 104",
@@ -7345,7 +7345,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "J Park",
       "capacity": "20",
-      "available": "6"
+      "available": "4"
     },
     {
       "course_code": "LING 207",
@@ -9241,7 +9241,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "17"
+      "available": "15"
     },
     {
       "course_code": "PLSC 101",
@@ -9253,7 +9253,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "0"
+      "available": "2"
     },
     {
       "course_code": "PLSC 101",
@@ -9301,7 +9301,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 101",
@@ -9397,7 +9397,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "PLSC 301",
@@ -9553,7 +9553,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "PLSC 400",
@@ -10357,7 +10357,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A  Ateeq",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PSYC 440",
