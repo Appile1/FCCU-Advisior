@@ -4225,7 +4225,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Minhas",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "CSCS 100",
@@ -4837,7 +4837,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "ECON 100",
@@ -5653,7 +5653,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 120",
@@ -6445,7 +6445,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "ENVR 403",
@@ -6505,7 +6505,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | F | 08:00 - 09:50",
       "instructor": "S Chung",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "ENVR 499B",
@@ -7333,7 +7333,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "S Khaliq",
       "capacity": "20",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "HPED 150",
@@ -7549,7 +7549,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "H Ghani",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ISLM 103",
@@ -7849,7 +7849,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "MATH 101",
@@ -8917,7 +8917,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 11:00 - 12:15",
       "instructor": "Ab Rahman",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "PHYS 100",
@@ -10177,7 +10177,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PSYC 150",
@@ -10357,7 +10357,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "PSYC 298",
@@ -10441,7 +10441,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "PSYC 305",
@@ -11089,7 +11089,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "SOCL 100",
@@ -11689,7 +11689,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Mughal",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 208",
@@ -12073,7 +12073,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 104",
@@ -12673,7 +12673,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "T Bokhari",
       "capacity": "25",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "WRCM 102",
