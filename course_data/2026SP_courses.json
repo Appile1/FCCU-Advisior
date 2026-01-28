@@ -3889,7 +3889,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "CRIM 460",
@@ -4849,7 +4849,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "ECON 100",
@@ -4921,7 +4921,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "ECON 101",
@@ -4945,7 +4945,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "ECON 102",
@@ -5629,7 +5629,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 110",
@@ -7585,7 +7585,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "4"
+      "available": "2"
     },
     {
       "course_code": "ISLM 304",
@@ -7789,7 +7789,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Janjua",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 100",
@@ -10993,7 +10993,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "3"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -11005,7 +11005,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Athar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
@@ -12097,7 +12097,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Samuel",
       "capacity": "35",
-      "available": "3"
+      "available": "1"
     },
     {
       "course_code": "URDU 208",
