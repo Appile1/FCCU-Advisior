@@ -5617,7 +5617,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Aslam",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "EDUC 110",
@@ -9589,7 +9589,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 101",
@@ -10357,7 +10357,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "PSYC 295",
@@ -10417,7 +10417,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A  Nazim",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "PSYC 300",
@@ -11593,7 +11593,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Bashir",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 102",
@@ -12493,7 +12493,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Zia",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "WRCM 102",
