@@ -229,7 +229,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50 | R | 14:00 - 15:50",
       "instructor": "S Butt",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 201",
@@ -3889,7 +3889,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "CRIM 460",
@@ -5029,7 +5029,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ECON 201",
@@ -6793,7 +6793,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "GEOG 101",
@@ -6997,7 +6997,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Mahmood",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GRMN 101",
@@ -7345,7 +7345,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "S Khaliq",
       "capacity": "20",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "HPED 150",
@@ -9001,7 +9001,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | W | 14:00 - 15:50",
       "instructor": "H Latif",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 102",
@@ -9025,7 +9025,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
       "instructor": "H Latif",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "PHYS 103",
@@ -9577,7 +9577,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "PLSC 101",
@@ -9673,7 +9673,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 102",
@@ -10225,7 +10225,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 160",
