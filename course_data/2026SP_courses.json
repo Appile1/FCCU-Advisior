@@ -1441,7 +1441,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Chughtai",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "BUSN 250",
@@ -2305,7 +2305,7 @@
       "schedule_raw": "F | 09:00 - 12:00",
       "instructor": "A Nawaz",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BUSN 585",
@@ -5773,7 +5773,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "EDUC 355",
@@ -7765,7 +7765,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "MATH 100",
@@ -10405,7 +10405,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Nazim",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PSYC 300",
@@ -11893,7 +11893,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "N Jamal",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "URDU 101",
@@ -12073,7 +12073,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 104",
