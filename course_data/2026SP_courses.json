@@ -145,7 +145,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | M | 14:00 - 15:50",
       "instructor": "M Imran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 100",
@@ -265,7 +265,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | T | 11:00 - 12:50",
       "instructor": "A Maqbool",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOL 212",
@@ -493,7 +493,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 14:00 - 15:15",
       "instructor": "A  Bashir",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "BIOT 409",
@@ -877,7 +877,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "K AMAD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 121",
@@ -1213,7 +1213,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "BUSN 206",
@@ -1597,7 +1597,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Fateh",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "BUSN 250",
@@ -2545,7 +2545,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | F | 14:00 - 15:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHEM 150",
@@ -3517,7 +3517,7 @@
       "schedule_raw": "T R | 11:00 - 12:50",
       "instructor": "S Abbasi",
       "capacity": "25",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "COMP 410",
@@ -4957,7 +4957,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Jalil",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "ECON 101",
@@ -5617,7 +5617,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Khokhar",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "EDUC 110",
@@ -6013,7 +6013,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Zia",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 175",
@@ -6721,7 +6721,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "P Ludivine",
       "capacity": "20",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "FSQM 504",
@@ -6841,7 +6841,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "GEOG 101",
@@ -7369,7 +7369,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Nazir",
       "capacity": "25",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "HPED 112",
@@ -7873,7 +7873,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "I Shafique",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 100",
@@ -8125,7 +8125,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "MATH 111",
@@ -8953,7 +8953,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | W | 14:00 - 15:50",
       "instructor": "S Zaheer",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHYS 100",
@@ -9709,7 +9709,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "PLSC 102",
@@ -11149,7 +11149,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "SOCL 100",
