@@ -1,8 +1,6 @@
 name: Course Scraper
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"   # runs every 30 minutes
   workflow_dispatch:         # manual trigger
 
 # ✅ IMPORTANT: allow github-actions to push
