@@ -2965,7 +2965,7 @@
       "schedule_raw": "M W | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "CHEM 745",
@@ -2977,7 +2977,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Abbas",
       "capacity": "25",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "CHEM 763",
@@ -2989,7 +2989,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "AY khan",
       "capacity": "10",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "CHEM 799A",
@@ -10153,7 +10153,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Sindhu",
       "capacity": "25",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PSYC 100",
