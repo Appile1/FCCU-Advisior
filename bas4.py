@@ -5,6 +5,8 @@ import os
 import re
 import random
 import urllib3
+from collections import defaultdict
+
 
 # ================= SSL FIX =================
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -21,10 +23,38 @@ DEPART_FILE = "depart.txt"
 INSTRUCTORS_FILE = os.path.join(DATA_DIR, "instructors.json")
 
 USER_AGENTS = [
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/143.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_4) Chrome/116.0 Safari/605.1.15",
-    "Mozilla/5.0 (X11; Linux x86_64) Chrome/116.0 Safari/537.36",
-    "Mozilla/5.0 (Windows NT 10.0; WOW64) Firefox/116.0",
+    # Windows Chrome
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.129 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.91 Safari/537.36",
+
+    # Windows Edge
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.129 Safari/537.36 Edg/122.0.2365.80",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.91 Safari/537.36 Edg/124.0.2478.67",
+
+    # Windows Firefox
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0",
+
+    # Mac Chrome
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.122 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.184 Safari/537.36",
+
+    # Mac Safari
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15",
+
+    # Linux Chrome
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.86 Safari/537.36",
+    "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0",
+
+    # Android Chrome
+    "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.86 Mobile Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 12; Samsung Galaxy S21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36",
+
+    # iPhone Safari
+    "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Mobile/15E148 Safari/604.1",
+
+    # iPad Safari
+    "Mozilla/5.0 (iPad; CPU OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1"
 ]
 
 HEADERS_TEMPLATE = {
@@ -91,7 +121,7 @@ def fetch_latest_term():
     for opt in select.find_all("option"):
         val = opt.get("value", "").strip()
         txt = opt.get_text(strip=True)
-        if val:
+        if val == "2026FA":
             print(f"✓ Latest term: {txt} ({val})")
             return txt, val
 
@@ -126,7 +156,113 @@ def fetch_courses(session, token, term):
     print(f"✓ HTML size received: {len(html):,} characters")
 
     return html
+# ================= build_instructor_course_data  =================
+def build_instructor_course_data():
 
+    # Directory where all scraped data is stored
+    DATA_DIR = "course_data"
+
+    # File that stores the latest term code (example: 2026FA)
+    LATEST_TERM_FILE = os.path.join(DATA_DIR, "latest_term.json")
+
+    # -------- Load the latest term --------
+    # This tells us which course file to read
+    with open(LATEST_TERM_FILE, "r", encoding="utf-8") as f:
+        latest = json.load(f)
+
+    term_code = latest["term_code"]
+
+    # Build the filename for the courses of that term
+    # Example: course_data/2026FA_courses.json
+    course_file = os.path.join(DATA_DIR, f"{term_code}_courses.json")
+
+    print(f"→ Loading course file: {course_file}")
+
+    # Load all courses for that term
+    with open(course_file, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    courses = data["courses"]
+
+    print(f"✓ Courses loaded: {len(courses)}")
+
+    # -------- Instructor Mapping --------
+    # defaultdict automatically creates the structure
+    # when we encounter a new instructor
+    instructors = defaultdict(lambda: {
+        "name": "",              # instructor name
+        "departments": set(),    # departments they teach in (set avoids duplicates)
+        "current_courses": [],   # courses they teach this semester
+        "all_courses": set()     # unique course codes they teach
+    })
+
+    # Loop through every course in the dataset
+    for course in courses:
+
+        # Clean instructor name
+        instructor = course["instructor"].strip()
+
+        # Skip courses with no instructor
+        if not instructor:
+            continue
+
+        # Example course code: "CS 210"
+        course_code = course["course_code"]
+
+        # Department is the first part of the course code
+        # Example: "CS 210" -> "CS"
+        dept = course_code.split()[0]
+
+        # IMPORTANT:
+        # Use instructor + department as key
+        # This prevents merging different instructors
+        # who share the same name
+        key = f"{instructor}|{dept}"
+
+        # Store instructor name
+        instructors[key]["name"] = instructor
+
+        # Add department to the department set
+        instructors[key]["departments"].add(dept)
+
+        # Add detailed course information for the current semester
+        instructors[key]["current_courses"].append({
+            "course_code": course_code,
+            "section": course["section"],
+            "course_name": course["course_name"],
+            "schedule": course.get("schedule_raw", ""),  # class days/time
+            "classroom": course.get("classroom", ""),    # room location
+            "unique": course["unique"]                   # unique course identifier
+        })
+
+        # Store only the course code in the "all_courses" list
+        # Using a set ensures duplicates are removed
+        instructors[key]["all_courses"].add(course_code)
+
+    print(f"✓ Instructor records created: {len(instructors)}")
+
+    # -------- Convert sets to lists --------
+    # JSON cannot store sets, so we convert them
+    instructor_list = []
+
+    for inst in instructors.values():
+
+        inst["departments"] = sorted(list(inst["departments"]))
+        inst["all_courses"] = sorted(list(inst["all_courses"]))
+
+        instructor_list.append(inst)
+
+    # Output file that will store instructor data
+    output_file = os.path.join(DATA_DIR, f"{term_code}_instructors.json")
+
+    # Save instructor data
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(instructor_list, f, indent=2, ensure_ascii=False)
+
+    print(f"✓ Instructor data saved → {output_file}")
+
+    # Return the instructor data in case we want to use it elsewhere
+    return instructor_list
 # ================= PARSER =================
 def parse_courses_from_html(html):
     soup = BeautifulSoup(html, "html.parser")
@@ -283,6 +419,8 @@ def main():
     save_latest_term(term_code, term_name)
 
     print(f"✅ DONE — {total} course rows saved")
+    
+    build_instructor_course_data()
 
 # ================= RUN =================
 if __name__ == "__main__":
