@@ -139,7 +139,7 @@
         "section": "B",
         "course_name": "*Intro.  Biology",
         "schedule": "T R | 09:30 - 10:45 | W | 11:00 - 12:50",
-        "classroom": "SBLOCKS413",
+        "classroom": "SBLOCKS413 | SBLOCKS341",
         "unique": "BIOL 100/B"
       },
       {
@@ -147,7 +147,7 @@
         "section": "F",
         "course_name": "*Intro.  Biology",
         "schedule": "M W F | 14:00 - 14:50 | T | 14:00 - 15:50",
-        "classroom": "SBLOCKS313",
+        "classroom": "SBLOCKS313 | SBLOCKS341",
         "unique": "BIOL 100/F"
       },
       {
@@ -155,7 +155,7 @@
         "section": "B",
         "course_name": "*General Zoology",
         "schedule": "T R | 11:00 - 12:15 | R | 14:00 - 15:50",
-        "classroom": "SBLOCKS313",
+        "classroom": "SBLOCKS313 | SBLOCKS341",
         "unique": "BIOL 105/B"
       }
     ],
@@ -175,7 +175,7 @@
         "section": "C",
         "course_name": "*Intro.  Biology",
         "schedule": "M W F | 15:00 - 15:50 | R | 08:30 - 10:20",
-        "classroom": "SBLOCKS312",
+        "classroom": "SBLOCKS312 | SBLOCKS331",
         "unique": "BIOL 100/C"
       }
     ],
@@ -194,7 +194,7 @@
         "section": "E",
         "course_name": "*Intro.  Biology",
         "schedule": "T R | 09:30 - 10:45 | F | 14:00 - 15:50",
-        "classroom": "SBLOCKS341",
+        "classroom": "SBLOCKS341 | SBLOCKS321",
         "unique": "BIOL 100/E"
       }
     ],
@@ -213,7 +213,7 @@
         "section": "G",
         "course_name": "*Intro.  Biology",
         "schedule": "M | 11:00 - 12:50 | T R | 12:30 - 13:45",
-        "classroom": "SBLOCKS321",
+        "classroom": "SBLOCKS321 | SBLOCKS341",
         "unique": "BIOL 100/G"
       }
     ],
@@ -232,7 +232,7 @@
         "section": "H",
         "course_name": "*Intro.  Biology",
         "schedule": "M W F | 10:00 - 10:50 | T | 08:30 - 10:20",
-        "classroom": "SBLOCKS413",
+        "classroom": "SBLOCKS413 | SBLOCKS321",
         "unique": "BIOL 100/H"
       }
     ],
@@ -251,7 +251,7 @@
         "section": "I",
         "course_name": "*Intro.  Biology",
         "schedule": "M | 11:00 - 12:50 | T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS341",
+        "classroom": "SBLOCKS341 | SBLOCKS312",
         "unique": "BIOL 100/I"
       }
     ],
@@ -278,7 +278,7 @@
         "section": "A",
         "course_name": "*Plant Form & Fun.",
         "schedule": "M W F | 10:00 - 10:50 | T | 11:00 - 12:50",
-        "classroom": "SBLOCKS313",
+        "classroom": "SBLOCKS313 | SBLOCKS331",
         "unique": "BIOL 221/A"
       }
     ],
@@ -298,7 +298,7 @@
         "section": "A",
         "course_name": "*General Zoology",
         "schedule": "M W F | 09:00 - 09:50 | T | 14:00 - 15:50",
-        "classroom": "SBLOCKS312",
+        "classroom": "SBLOCKS312 | SBLOCKS321",
         "unique": "BIOL 105/A"
       },
       {
@@ -306,7 +306,7 @@
         "section": "A",
         "course_name": "*Animal Form & Fun.",
         "schedule": "M W F | 11:00 - 11:50 | W | 14:00 - 15:50",
-        "classroom": "SBLOCKS313",
+        "classroom": "SBLOCKS313 | SBLOCKS341",
         "unique": "BIOL 222/A"
       },
       {
@@ -344,7 +344,7 @@
         "section": "A",
         "course_name": "*Cell Biology",
         "schedule": "M W | 08:00 - 08:50 | F | 14:00 - 15:50",
-        "classroom": "SBLOCKS313",
+        "classroom": "SBLOCKS313 | SBLOCKS331",
         "unique": "BIOL 201/A"
       }
     ],
@@ -363,7 +363,7 @@
         "section": "A",
         "course_name": "*General Genetics",
         "schedule": "M W | 09:00 - 09:50 | F | 09:00 - 10:50",
-        "classroom": "SBLOCKS331",
+        "classroom": "SBLOCKS331 | SBLOCKS321",
         "unique": "BIOL 203/A"
       }
     ],
@@ -401,7 +401,7 @@
         "section": "A",
         "course_name": "*Biochemistry",
         "schedule": "M W F | 10:00 - 10:50 | W | 14:00 - 15:50",
-        "classroom": "SBLOCKS312",
+        "classroom": "SBLOCKS312 | SBLOCKS329",
         "unique": "BIOL 313/A"
       }
     ],
@@ -420,7 +420,7 @@
         "section": "A",
         "course_name": "*Fun of Microbiology",
         "schedule": "M W F | 11:00 - 11:50 | R | 14:00 - 15:50",
-        "classroom": "SBLOCKS413",
+        "classroom": "SBLOCKS413 | SBLOCKS321",
         "unique": "BIOL 315/A"
       }
     ],
@@ -439,7 +439,7 @@
         "section": "A",
         "course_name": "*Ecology & Evolution",
         "schedule": "M | 09:00 - 10:50 | M W F | 15:00 - 15:50",
-        "classroom": "SBLOCKS135",
+        "classroom": "SBLOCKS135 | SBLOCKS425",
         "unique": "BIOL 323/A"
       }
     ],
@@ -496,7 +496,7 @@
         "section": "A",
         "course_name": "*Intro. to biotech.",
         "schedule": "M W | 10:00 - 10:50 | F | 09:00 - 10:50",
-        "classroom": "SBLOCKS321",
+        "classroom": "SBLOCKS321 | SBLOCKS331",
         "unique": "BIOT 201/A"
       },
       {
@@ -533,7 +533,7 @@
         "section": "B",
         "course_name": "*Intro. to biotech.",
         "schedule": "T R | 12:30 - 13:45 | W | 14:00 - 15:50",
-        "classroom": "SBLOCKS313",
+        "classroom": "SBLOCKS313 | SBLOCKS331",
         "unique": "BIOT 201/B"
       },
       {
@@ -541,7 +541,7 @@
         "section": "A",
         "course_name": "*BioSaf. & BioSec",
         "schedule": "M W | 12:00 - 12:50 | F | 14:00 - 15:50",
-        "classroom": "SBLOCKS413",
+        "classroom": "SBLOCKS413 | SBLOCKS341",
         "unique": "BIOT 211/A"
       },
       {
@@ -570,7 +570,7 @@
         "section": "A",
         "course_name": "*Prot, Cell & Tissue",
         "schedule": "T R | 09:30 - 10:45 | W | 11:00 - 12:50",
-        "classroom": "SBLOCKS313",
+        "classroom": "SBLOCKS313 | SBLOCKS329",
         "unique": "BIOT 202/A"
       },
       {
@@ -578,7 +578,7 @@
         "section": "A",
         "course_name": "*Molecular Biology",
         "schedule": "M | 11:00 - 12:50 | T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS329",
+        "classroom": "SBLOCKS329 | SBLOCKS331",
         "unique": "BIOT 313/A"
       }
     ],
@@ -598,7 +598,7 @@
         "section": "A",
         "course_name": "*Fund. of Enzymology",
         "schedule": "M W F | 12:00 - 12:50 | R | 11:00 - 12:50",
-        "classroom": "SBLOCKS312",
+        "classroom": "SBLOCKS312 | SBLOCKS329",
         "unique": "BIOT 302/A"
       }
     ],
@@ -674,7 +674,7 @@
         "section": "A",
         "course_name": "*Genomics and Tools",
         "schedule": "M W F | 14:00 - 14:50 | F | 09:00 - 10:50",
-        "classroom": "SBLOCKS312",
+        "classroom": "SBLOCKS312 | SBLOCKS219",
         "unique": "BIOT 315/A"
       },
       {
@@ -739,7 +739,7 @@
         "section": "A",
         "course_name": "*Recomb. DNA Tech.",
         "schedule": "M | 14:00 - 15:50 | T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS321",
+        "classroom": "SBLOCKS321 | SBLOCKS312",
         "unique": "BIOT 408/A"
       },
       {
@@ -2916,7 +2916,7 @@
         "section": "A",
         "course_name": "*Intro. to Chemistry",
         "schedule": "T | 11:00 - 12:50 | T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS148",
+        "classroom": "SBLOCKS148 | SBLOCKS126",
         "unique": "CHEM 100/A"
       }
     ],
@@ -2935,7 +2935,7 @@
         "section": "B",
         "course_name": "*Intro. to Chemistry",
         "schedule": "T R | 09:30 - 10:45 | F | 11:00 - 12:50",
-        "classroom": "SBLOCKS109",
+        "classroom": "SBLOCKS109 | SBLOCKS148",
         "unique": "CHEM 100/B"
       },
       {
@@ -2943,7 +2943,7 @@
         "section": "E",
         "course_name": "*Intro. to Chemistry",
         "schedule": "T R | 12:30 - 13:45 | R | 11:00 - 12:50",
-        "classroom": "SBLOCKS213",
+        "classroom": "SBLOCKS213 | SBLOCKS135",
         "unique": "CHEM 100/E"
       },
       {
@@ -2951,7 +2951,7 @@
         "section": "A",
         "course_name": "*Organic Chemistry I",
         "schedule": "M W F | 09:00 - 09:50 | M | 11:00 - 12:50",
-        "classroom": "SBLOCKS210",
+        "classroom": "SBLOCKS210 | SBLOCKS135",
         "unique": "CHEM 261/A"
       },
       {
@@ -2980,7 +2980,7 @@
         "section": "C",
         "course_name": "*Intro. to Chemistry",
         "schedule": "M W F | 11:00 - 11:50 | W | 09:00 - 10:50",
-        "classroom": "SBLOCKS210",
+        "classroom": "SBLOCKS210 | SBLOCKS148",
         "unique": "CHEM 100/C"
       },
       {
@@ -2988,7 +2988,7 @@
         "section": "B",
         "course_name": "*Intro. Inorg. Chem",
         "schedule": "T R | 09:30 - 10:45 | T | 11:00 - 12:50",
-        "classroom": "SBLOCKS212",
+        "classroom": "SBLOCKS212 | SBLOCKS138",
         "unique": "CHEM 150/B"
       },
       {
@@ -2996,7 +2996,7 @@
         "section": "A",
         "course_name": "*Fund Analy. Chem",
         "schedule": "M W F | 15:00 - 15:50 | R | 14:00 - 15:50",
-        "classroom": "SBLOCKS213",
+        "classroom": "SBLOCKS213 | SBLOCKS138",
         "unique": "CHEM 311/A"
       },
       {
@@ -3026,7 +3026,7 @@
         "section": "D",
         "course_name": "*Intro. to Chemistry",
         "schedule": "T R | 11:00 - 12:15 | F | 14:00 - 15:45",
-        "classroom": "SBLOCKS119",
+        "classroom": "SBLOCKS119 | SBLOCKS148",
         "unique": "CHEM 100/D"
       },
       {
@@ -3034,7 +3034,7 @@
         "section": "B",
         "course_name": "*Intro. Org  Biochem",
         "schedule": "M W F | 10:00 - 10:50 | F | 11:00 - 12:45",
-        "classroom": "SBLOCKS212",
+        "classroom": "SBLOCKS212 | SBLOCKS135",
         "unique": "CHEM 160/B"
       }
     ],
@@ -3054,7 +3054,7 @@
         "section": "F",
         "course_name": "*Intro. to Chemistry",
         "schedule": "M W F | 10:00 - 10:50 | W | 14:00 - 16:50",
-        "classroom": "SBLOCKS213",
+        "classroom": "SBLOCKS213 | SBLOCKS148",
         "unique": "CHEM 100/F"
       },
       {
@@ -3062,7 +3062,7 @@
         "section": "C",
         "course_name": "*Intro. Inorg. Chem",
         "schedule": "M W F | 12:00 - 12:50 | R | 11:00 - 12:50",
-        "classroom": "SBLOCKS210",
+        "classroom": "SBLOCKS210 | SBLOCKS138",
         "unique": "CHEM 150/C"
       },
       {
@@ -3070,7 +3070,7 @@
         "section": "A",
         "course_name": "*Industrial Chem",
         "schedule": "M W F | 09:00 - 09:50 | T | 14:00 - 15:50",
-        "classroom": "SBLOCKS212",
+        "classroom": "SBLOCKS212 | SBLOCKS138",
         "unique": "CHEM 320/A"
       }
     ],
@@ -3091,7 +3091,7 @@
         "section": "A",
         "course_name": "*Intro. Inorg. Chem",
         "schedule": "M W F | 10:00 - 10:50 | W | 11:00 - 12:50",
-        "classroom": "SBLOCKS111",
+        "classroom": "SBLOCKS111 | SBLOCKS138",
         "unique": "CHEM 150/A"
       },
       {
@@ -3099,7 +3099,7 @@
         "section": "A",
         "course_name": "*Coordination Chem",
         "schedule": "T R | 11:00 - 12:15 | F | 11:00 - 12:50",
-        "classroom": "SBLOCKS112",
+        "classroom": "SBLOCKS112 | SBLOCKS138",
         "unique": "CHEM 350/A"
       },
       {
@@ -3235,7 +3235,7 @@
         "section": "A",
         "course_name": "*Intro. Org  Biochem",
         "schedule": "T R | 12:30 - 13:45 | F | 14:00 - 15:50",
-        "classroom": "SBLOCKS316",
+        "classroom": "SBLOCKS316 | SBLOCKS135",
         "unique": "CHEM 160/A"
       },
       {
@@ -3251,7 +3251,7 @@
         "section": "A",
         "course_name": "*Advanced Org. Chem",
         "schedule": "T R | 14:00 - 15:15 | F | 09:00 - 10:50",
-        "classroom": "SBLOCKS213",
+        "classroom": "SBLOCKS213 | SBLOCKS135",
         "unique": "CHEM 464/A"
       },
       {
@@ -3281,7 +3281,7 @@
         "section": "A",
         "course_name": "*Inro. Physical Chem",
         "schedule": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
-        "classroom": "SBLOCKS213",
+        "classroom": "SBLOCKS213 | SBLOCKS148",
         "unique": "CHEM 170/A"
       },
       {
@@ -3289,7 +3289,7 @@
         "section": "A",
         "course_name": "*Thermodyna Equilib",
         "schedule": "M W F | 12:00 - 12:50 | R | 11:00 - 12:50",
-        "classroom": "SBLOCKS212",
+        "classroom": "SBLOCKS212 | SBLOCKS148",
         "unique": "CHEM 270/A"
       },
       {
@@ -3355,7 +3355,7 @@
         "section": "A",
         "course_name": "*Kinetic & Mechanism",
         "schedule": "M | 11:00 - 12:50 | T R | 12:30 - 13:45",
-        "classroom": "SBLOCKS148",
+        "classroom": "SBLOCKS148 | SBLOCKS212",
         "unique": "CHEM 370/A"
       },
       {
@@ -3512,7 +3512,7 @@
         "section": "A",
         "course_name": "Programming Fundamen",
         "schedule": "T R | 08:00 - 09:15 | W | 14:00 - 16:50",
-        "classroom": "SBLOCKS219",
+        "classroom": "SBLOCKS219 | SBLOCKS218",
         "unique": "COMP 102/A"
       },
       {
@@ -3548,7 +3548,7 @@
         "section": "C",
         "course_name": "Programming Fundamen",
         "schedule": "M W F | 12:00 - 12:50 | M | 14:00 - 16:50",
-        "classroom": "SBLOCKS120",
+        "classroom": "SBLOCKS120 | SBLOCKS219",
         "unique": "COMP 102/C"
       },
       {
@@ -3556,7 +3556,7 @@
         "section": "C",
         "course_name": "Data Struc. & Algor.",
         "schedule": "M W F | 09:00 - 09:50 | W | 14:00 - 16:50",
-        "classroom": "SBLOCKS215",
+        "classroom": "SBLOCKS215 | SBLOCKS319",
         "unique": "COMP 200/C"
       }
     ],
@@ -3576,7 +3576,7 @@
         "section": "D",
         "course_name": "Programming Fundamen",
         "schedule": "M W F | 10:00 - 10:50 | W | 14:00 - 16:50",
-        "classroom": "SBLOCKS316",
+        "classroom": "SBLOCKS316 | SBLOCKS219",
         "unique": "COMP 102/D"
       },
       {
@@ -3584,7 +3584,7 @@
         "section": "B",
         "course_name": "Introduction to AI",
         "schedule": "T | 09:00 - 10:50 | R | 09:00 - 10:50",
-        "classroom": "SBLOCKS215",
+        "classroom": "SBLOCKS215 | SBLOCKS319",
         "unique": "COMP 360/B"
       }
     ],
@@ -3604,7 +3604,7 @@
         "section": "E",
         "course_name": "Programming Fundamen",
         "schedule": "M | 14:00 - 16:50 | T R | 08:00 - 09:15",
-        "classroom": "SBLOCKS319",
+        "classroom": "SBLOCKS319 | SBLOCKS120",
         "unique": "COMP 102/E"
       },
       {
@@ -3612,7 +3612,7 @@
         "section": "A",
         "course_name": "Introduction to AI",
         "schedule": "T | 11:00 - 12:50 | R | 11:00 - 12:50",
-        "classroom": "SBLOCKS215",
+        "classroom": "SBLOCKS215 | SBLOCKS320",
         "unique": "COMP 360/A"
       }
     ],
@@ -3632,7 +3632,7 @@
         "section": "F",
         "course_name": "Programming Fundamen",
         "schedule": "M W F | 16:00 - 16:50 | F | 08:00 - 10:50",
-        "classroom": "SBLOCKS320",
+        "classroom": "SBLOCKS320 | SBLOCKS218",
         "unique": "COMP 102/F"
       }
     ],
@@ -3651,7 +3651,7 @@
         "section": "A",
         "course_name": "Programming II",
         "schedule": "M W F | 11:00 - 11:50 | F | 14:00 - 16:50",
-        "classroom": "SBLOCKS120",
+        "classroom": "SBLOCKS120 | SBLOCKS218",
         "unique": "COMP 111/A"
       },
       {
@@ -3659,7 +3659,7 @@
         "section": "A",
         "course_name": "Data Struc. & Algor.",
         "schedule": "M W F | 09:00 - 09:50 | M | 14:00 - 16:50",
-        "classroom": "SBLOCKS317",
+        "classroom": "SBLOCKS317 | SBLOCKS218",
         "unique": "COMP 200/A"
       },
       {
@@ -3667,7 +3667,7 @@
         "section": "B",
         "course_name": "Data Struc. & Algor.",
         "schedule": "M W F | 12:00 - 12:50 | T | 08:00 - 10:50",
-        "classroom": "SBLOCKS317",
+        "classroom": "SBLOCKS317 | SBLOCKS319",
         "unique": "COMP 200/B"
       }
     ],
@@ -3703,7 +3703,7 @@
         "section": "B",
         "course_name": "Operating Systems",
         "schedule": "M | 11:00 - 12:50 | F | 11:00 - 12:50",
-        "classroom": "SBLOCKS319",
+        "classroom": "SBLOCKS319 | SBLOCKS219",
         "unique": "COMP 301/B"
       }
     ],
@@ -3731,7 +3731,7 @@
         "section": "B",
         "course_name": "Digital Logic Design",
         "schedule": "T | 14:00 - 15:50 | R | 14:00 - 15:50",
-        "classroom": "SBLOCKS027",
+        "classroom": "SBLOCKS027 | SBLOCKS215",
         "unique": "COMP 206/B"
       },
       {
@@ -3785,7 +3785,7 @@
         "section": "C",
         "course_name": "Database Systems",
         "schedule": "M | 09:00 - 10:50 | F | 09:00 - 10:50",
-        "classroom": "SBLOCKS120",
+        "classroom": "SBLOCKS120 | SBLOCKS319",
         "unique": "COMP 213/C"
       },
       {
@@ -3879,7 +3879,7 @@
         "section": "C",
         "course_name": "Operating Systems",
         "schedule": "T | 11:00 - 12:50 | R | 11:00 - 12:50",
-        "classroom": "SBLOCKS320",
+        "classroom": "SBLOCKS320 | SBLOCKS215",
         "unique": "COMP 301/C"
       },
       {
@@ -3887,7 +3887,7 @@
         "section": "B",
         "course_name": "Compiler Constructio",
         "schedule": "T | 13:00 - 14:50 | R | 13:00 - 14:50",
-        "classroom": "SBLOCKS219",
+        "classroom": "SBLOCKS219 | SBLOCKS317",
         "unique": "COMP 451/B"
       }
     ],
@@ -4387,34 +4387,6 @@
     "all_courses": [
       "CPPG 799C",
       "CPPG 799D"
-    ]
-  },
-  {
-    "name": "M Ali",
-    "departments": [
-      "CRIM"
-    ],
-    "current_courses": [
-      {
-        "course_code": "CRIM 110",
-        "section": "A",
-        "course_name": "Criminal Law&Justice",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE041",
-        "unique": "CRIM 110/A"
-      },
-      {
-        "course_code": "CRIM 230",
-        "section": "A",
-        "course_name": "Mass Media and Crime",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE040",
-        "unique": "CRIM 230/A"
-      }
-    ],
-    "all_courses": [
-      "CRIM 110",
-      "CRIM 230"
     ]
   },
   {
@@ -4964,7 +4936,7 @@
         "section": "C",
         "course_name": "*Basic Electronics",
         "schedule": "M | 14:00 - 15:50 | T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS027B",
+        "classroom": "SBLOCKS027B | SBLOCKS029",
         "unique": "CSCS 105/C"
       }
     ],
@@ -4983,7 +4955,7 @@
         "section": "D",
         "course_name": "*Basic Electronics",
         "schedule": "T R | 12:30 - 13:45 | W | 14:00 - 15:50",
-        "classroom": "SBLOCKS029",
+        "classroom": "SBLOCKS029 | SBLOCKS027B",
         "unique": "CSCS 105/D"
       }
     ],
@@ -5272,87 +5244,12 @@
         "section": "A",
         "course_name": "Mob App Deveolopment",
         "schedule": "M | 11:00 - 12:50 | W | 11:00 - 12:50",
-        "classroom": "SBLOCKS216",
+        "classroom": "SBLOCKS216 | SBLOCKS319",
         "unique": "CSCS 468/A"
       }
     ],
     "all_courses": [
       "CSCS 468"
-    ]
-  },
-  {
-    "name": "F Ullah",
-    "departments": [
-      "CSDS"
-    ],
-    "current_courses": [
-      {
-        "course_code": "CSDS 553",
-        "section": "A",
-        "course_name": "Adv.Nat.Lang.Process",
-        "schedule": "F | 17:30 - 20:15",
-        "classroom": "SBLOCKS216",
-        "unique": "CSDS 553/A"
-      }
-    ],
-    "all_courses": [
-      "CSDS 553"
-    ]
-  },
-  {
-    "name": "A Khan",
-    "departments": [
-      "CSDS"
-    ],
-    "current_courses": [
-      {
-        "course_code": "CSDS 605",
-        "section": "A",
-        "course_name": "Computational intell",
-        "schedule": "W | 17:30 - 20:15",
-        "classroom": "SBLOCKS215",
-        "unique": "CSDS 605/A"
-      }
-    ],
-    "all_courses": [
-      "CSDS 605"
-    ]
-  },
-  {
-    "name": "M Mushtaq",
-    "departments": [
-      "CSDS"
-    ],
-    "current_courses": [
-      {
-        "course_code": "CSDS 699A",
-        "section": "A",
-        "course_name": "Research Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "CSDS 699A/A"
-      },
-      {
-        "course_code": "CSDS 699B",
-        "section": "A",
-        "course_name": "Research Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "CSDS 699B/A"
-      },
-      {
-        "course_code": "CSDS 699E",
-        "section": "A",
-        "course_name": "Research Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "CSDS 699E/A"
-      }
-    ],
-    "all_courses": [
-      "CSDS 699A",
-      "CSDS 699B",
-      "CSDS 699E"
     ]
   },
   {
@@ -5428,2454 +5325,6 @@
       "CSSE 699A",
       "CSSE 699B",
       "CSSE 699E"
-    ]
-  },
-  {
-    "name": "S Lodhi",
-    "departments": [
-      "ECON"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ECON 100",
-        "section": "A",
-        "course_name": "Principles of Econ.",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE203",
-        "unique": "ECON 100/A"
-      },
-      {
-        "course_code": "ECON 100",
-        "section": "E",
-        "course_name": "Principles of Econ.",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE205",
-        "unique": "ECON 100/E"
-      },
-      {
-        "course_code": "ECON 300",
-        "section": "B",
-        "course_name": "Fundam. of Econometr",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE204",
-        "unique": "ECON 300/B"
-      },
-      {
-        "course_code": "ECON 302",
-        "section": "A",
-        "course_name": "Res  Meth. & Com. Ap",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "EBLOCKE241",
-        "unique": "ECON 302/A"
-      }
-    ],
-    "all_courses": [
-      "ECON 100",
-      "ECON 300",
-      "ECON 302"
-    ]
-  },
-  {
-    "name": "M Noor",
-    "departments": [
-      "ECON"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ECON 100",
-        "section": "B",
-        "course_name": "Principles of Econ.",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE205",
-        "unique": "ECON 100/B"
-      },
-      {
-        "course_code": "ECON 100",
-        "section": "N",
-        "course_name": "Principles of Econ.",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE204",
-        "unique": "ECON 100/N"
-      },
-      {
-        "course_code": "ECON 102",
-        "section": "A",
-        "course_name": "Pri. of Macroeconomi",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE205",
-        "unique": "ECON 102/A"
-      },
-      {
-        "course_code": "ECON 203",
-        "section": "A",
-        "course_name": "Statistics for Econ.",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE204",
-        "unique": "ECON 203/A"
-      },
-      {
-        "course_code": "ECON 304",
-        "section": "IS",
-        "course_name": "Managerial Economics",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ECON 304/IS"
-      }
-    ],
-    "all_courses": [
-      "ECON 100",
-      "ECON 102",
-      "ECON 203",
-      "ECON 304"
-    ]
-  },
-  {
-    "name": "Z Manzoor",
-    "departments": [
-      "ECON"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ECON 100",
-        "section": "C",
-        "course_name": "Principles of Econ.",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE205",
-        "unique": "ECON 100/C"
-      },
-      {
-        "course_code": "ECON 100",
-        "section": "J",
-        "course_name": "Principles of Econ.",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE204",
-        "unique": "ECON 100/J"
-      },
-      {
-        "course_code": "ECON 100",
-        "section": "K",
-        "course_name": "Principles of Econ.",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE202",
-        "unique": "ECON 100/K"
-      },
-      {
-        "course_code": "ECON 202",
-        "section": "A",
-        "course_name": "Intr. Macroecnomics",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE204",
-        "unique": "ECON 202/A"
-      }
-    ],
-    "all_courses": [
-      "ECON 100",
-      "ECON 202"
-    ]
-  },
-  {
-    "name": "N Ishtiaq",
-    "departments": [
-      "ECON"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ECON 100",
-        "section": "D",
-        "course_name": "Principles of Econ.",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE203",
-        "unique": "ECON 100/D"
-      },
-      {
-        "course_code": "ECON 100",
-        "section": "I",
-        "course_name": "Principles of Econ.",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "EBLOCKE203",
-        "unique": "ECON 100/I"
-      },
-      {
-        "course_code": "ECON 102",
-        "section": "B",
-        "course_name": "Pri. of Macroeconomi",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE202",
-        "unique": "ECON 102/B"
-      },
-      {
-        "course_code": "ECON 311",
-        "section": "B",
-        "course_name": "Dev and Growth",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE204",
-        "unique": "ECON 311/B"
-      }
-    ],
-    "all_courses": [
-      "ECON 100",
-      "ECON 102",
-      "ECON 311"
-    ]
-  },
-  {
-    "name": "A  Batool",
-    "departments": [
-      "ECON"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ECON 100",
-        "section": "F",
-        "course_name": "Principles of Econ.",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE203",
-        "unique": "ECON 100/F"
-      },
-      {
-        "course_code": "ECON 101",
-        "section": "C",
-        "course_name": "Prin. of Microeconom",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE205",
-        "unique": "ECON 101/C"
-      },
-      {
-        "course_code": "ECON 103",
-        "section": "A",
-        "course_name": "Mathematics for Econ",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE203",
-        "unique": "ECON 103/A"
-      },
-      {
-        "course_code": "ECON 625",
-        "section": "IS",
-        "course_name": "ECONMETRICS FORECAST",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ECON 625/IS"
-      }
-    ],
-    "all_courses": [
-      "ECON 100",
-      "ECON 101",
-      "ECON 103",
-      "ECON 625"
-    ]
-  },
-  {
-    "name": "A  Jalil",
-    "departments": [
-      "ECON"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ECON 100",
-        "section": "M",
-        "course_name": "Principles of Econ.",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE203",
-        "unique": "ECON 100/M"
-      },
-      {
-        "course_code": "ECON 323",
-        "section": "A",
-        "course_name": "Digital Economics",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE222",
-        "unique": "ECON 323/A"
-      },
-      {
-        "course_code": "ECON 716",
-        "section": "A",
-        "course_name": "Financial Economics",
-        "schedule": "M | 17:00 - 20:00",
-        "classroom": "EBLOCKE201",
-        "unique": "ECON 716/A"
-      }
-    ],
-    "all_courses": [
-      "ECON 100",
-      "ECON 323",
-      "ECON 716"
-    ]
-  },
-  {
-    "name": "T Numan",
-    "departments": [
-      "ECON"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ECON 100",
-        "section": "O",
-        "course_name": "Principles of Econ.",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE202",
-        "unique": "ECON 100/O"
-      },
-      {
-        "course_code": "ECON 305",
-        "section": "A",
-        "course_name": "Pub Sector Economics",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE204",
-        "unique": "ECON 305/A"
-      },
-      {
-        "course_code": "ECON 711",
-        "section": "A",
-        "course_name": "Issues in Public Sec",
-        "schedule": "R | 17:00 - 20:00",
-        "classroom": "EBLOCKE201",
-        "unique": "ECON 711/A"
-      }
-    ],
-    "all_courses": [
-      "ECON 100",
-      "ECON 305",
-      "ECON 711"
-    ]
-  },
-  {
-    "name": "A  Anwar",
-    "departments": [
-      "ECON"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ECON 101",
-        "section": "A",
-        "course_name": "Prin. of Microeconom",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE205",
-        "unique": "ECON 101/A"
-      },
-      {
-        "course_code": "ECON 201",
-        "section": "B",
-        "course_name": "Intr. Microeconomics",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE202",
-        "unique": "ECON 201/B"
-      },
-      {
-        "course_code": "ECON 401",
-        "section": "A",
-        "course_name": "Labor Economics",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE203",
-        "unique": "ECON 401/A"
-      }
-    ],
-    "all_courses": [
-      "ECON 101",
-      "ECON 201",
-      "ECON 401"
-    ]
-  },
-  {
-    "name": "H  Ahsan",
-    "departments": [
-      "ECON"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ECON 101",
-        "section": "B",
-        "course_name": "Prin. of Microeconom",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE202",
-        "unique": "ECON 101/B"
-      },
-      {
-        "course_code": "ECON 103",
-        "section": "B",
-        "course_name": "Mathematics for Econ",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "EBLOCKE204",
-        "unique": "ECON 103/B"
-      },
-      {
-        "course_code": "ECON 501",
-        "section": "A",
-        "course_name": "ADV. MICROECONOMICS",
-        "schedule": "M W | 11:00 - 12:30",
-        "classroom": "EBLOCKE201",
-        "unique": "ECON 501/A"
-      }
-    ],
-    "all_courses": [
-      "ECON 101",
-      "ECON 103",
-      "ECON 501"
-    ]
-  },
-  {
-    "name": "M Ayyubi",
-    "departments": [
-      "ECON"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ECON 102",
-        "section": "C",
-        "course_name": "Pri. of Macroeconomi",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE205",
-        "unique": "ECON 102/C"
-      },
-      {
-        "course_code": "ECON 311",
-        "section": "A",
-        "course_name": "Dev and Growth",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE203",
-        "unique": "ECON 311/A"
-      },
-      {
-        "course_code": "ECON 605",
-        "section": "A",
-        "course_name": "DEVELOPMENT ECONOMIC",
-        "schedule": "T R | 11:30 - 13:00",
-        "classroom": "EBLOCKE201",
-        "unique": "ECON 605/A"
-      }
-    ],
-    "all_courses": [
-      "ECON 102",
-      "ECON 311",
-      "ECON 605"
-    ]
-  },
-  {
-    "name": "Z  Iqbal",
-    "departments": [
-      "ECON"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ECON 103",
-        "section": "C",
-        "course_name": "Mathematics for Econ",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE202",
-        "unique": "ECON 103/C"
-      },
-      {
-        "course_code": "ECON 203",
-        "section": "B",
-        "course_name": "Statistics for Econ.",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE203",
-        "unique": "ECON 203/B"
-      },
-      {
-        "course_code": "ECON 300",
-        "section": "A",
-        "course_name": "Fundam. of Econometr",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "EBLOCKE202",
-        "unique": "ECON 300/A"
-      }
-    ],
-    "all_courses": [
-      "ECON 103",
-      "ECON 203",
-      "ECON 300"
-    ]
-  },
-  {
-    "name": "T Ahmed",
-    "departments": [
-      "ECON"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ECON 201",
-        "section": "A",
-        "course_name": "Intr. Microeconomics",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE202",
-        "unique": "ECON 201/A"
-      },
-      {
-        "course_code": "ECON 505",
-        "section": "A",
-        "course_name": "APPLIED ECONOMETRICS",
-        "schedule": "M W | 09:00 - 10:30",
-        "classroom": "EBLOCKE201",
-        "unique": "ECON 505/A"
-      },
-      {
-        "course_code": "ECON 703",
-        "section": "A",
-        "course_name": "Top.inAd.Econometric",
-        "schedule": "T | 17:00 - 20:00",
-        "classroom": "EBLOCKE201",
-        "unique": "ECON 703/A"
-      }
-    ],
-    "all_courses": [
-      "ECON 201",
-      "ECON 505",
-      "ECON 703"
-    ]
-  },
-  {
-    "name": "M Tahir",
-    "departments": [
-      "ECON"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ECON 202",
-        "section": "B",
-        "course_name": "Intr. Macroecnomics",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE202",
-        "unique": "ECON 202/B"
-      },
-      {
-        "course_code": "ECON 302",
-        "section": "B",
-        "course_name": "Res  Meth. & Com. Ap",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE241",
-        "unique": "ECON 302/B"
-      },
-      {
-        "course_code": "ECON 313",
-        "section": "A",
-        "course_name": "Monetary Theory",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE204",
-        "unique": "ECON 313/A"
-      }
-    ],
-    "all_courses": [
-      "ECON 202",
-      "ECON 302",
-      "ECON 313"
-    ]
-  },
-  {
-    "name": "U Hanif",
-    "departments": [
-      "ECON"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ECON 303",
-        "section": "A",
-        "course_name": "Environ Economics",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE205",
-        "unique": "ECON 303/A"
-      },
-      {
-        "course_code": "ECON 303",
-        "section": "B",
-        "course_name": "Environ Economics",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "EBLOCKE205",
-        "unique": "ECON 303/B"
-      },
-      {
-        "course_code": "ECON 303",
-        "section": "C",
-        "course_name": "Environ Economics",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE203",
-        "unique": "ECON 303/C"
-      }
-    ],
-    "all_courses": [
-      "ECON 303"
-    ]
-  },
-  {
-    "name": "G Shabir",
-    "departments": [
-      "ECON"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ECON 307",
-        "section": "A",
-        "course_name": "Intern. Trade Theo.",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE204",
-        "unique": "ECON 307/A"
-      },
-      {
-        "course_code": "ECON 307",
-        "section": "B",
-        "course_name": "Intern. Trade Theo.",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE205",
-        "unique": "ECON 307/B"
-      },
-      {
-        "course_code": "ECON 701",
-        "section": "A",
-        "course_name": "Topics in Microecono",
-        "schedule": "W | 17:00 - 20:00",
-        "classroom": "EBLOCKE201",
-        "unique": "ECON 701/A"
-      }
-    ],
-    "all_courses": [
-      "ECON 307",
-      "ECON 701"
-    ]
-  },
-  {
-    "name": "M Bhatti",
-    "departments": [
-      "ECON"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ECON 322",
-        "section": "A",
-        "course_name": "Data Analy for Econo",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE241",
-        "unique": "ECON 322/A"
-      },
-      {
-        "course_code": "ECON 499A",
-        "section": "A",
-        "course_name": "Research Prj & Paper",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ECON 499A/A"
-      },
-      {
-        "course_code": "ECON 499B",
-        "section": "A",
-        "course_name": "Research Prj & Paper",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ECON 499B/A"
-      },
-      {
-        "course_code": "ECON 502",
-        "section": "A",
-        "course_name": "ADV. MACROECONOMICS",
-        "schedule": "T R | 09:30 - 11:00",
-        "classroom": "EBLOCKE201",
-        "unique": "ECON 502/A"
-      },
-      {
-        "course_code": "ECON 699A",
-        "section": "A",
-        "course_name": "Research Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ECON 699A/A"
-      },
-      {
-        "course_code": "ECON 699B",
-        "section": "A",
-        "course_name": "Research Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ECON 699B/A"
-      },
-      {
-        "course_code": "ECON 699E",
-        "section": "A",
-        "course_name": "Research Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ECON 699E/A"
-      },
-      {
-        "course_code": "ECON 799A",
-        "section": "A",
-        "course_name": "Research Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ECON 799A/A"
-      },
-      {
-        "course_code": "ECON 799B",
-        "section": "A",
-        "course_name": "Research Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ECON 799B/A"
-      },
-      {
-        "course_code": "ECON 799C",
-        "section": "A",
-        "course_name": "Research Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ECON 799C/A"
-      },
-      {
-        "course_code": "ECON 799D",
-        "section": "A",
-        "course_name": "Research Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ECON 799D/A"
-      },
-      {
-        "course_code": "ECON 799E",
-        "section": "A",
-        "course_name": "Reserach Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ECON 799E/A"
-      },
-      {
-        "course_code": "ECON COMP",
-        "section": "A",
-        "course_name": "Comprehensive Exam",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ECON COMP/A"
-      }
-    ],
-    "all_courses": [
-      "ECON 322",
-      "ECON 499A",
-      "ECON 499B",
-      "ECON 502",
-      "ECON 699A",
-      "ECON 699B",
-      "ECON 699E",
-      "ECON 799A",
-      "ECON 799B",
-      "ECON 799C",
-      "ECON 799D",
-      "ECON 799E",
-      "ECON COMP"
-    ]
-  },
-  {
-    "name": "R Ahmed",
-    "departments": [
-      "ECON"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ECON 325",
-        "section": "A",
-        "course_name": "Islamic Economics",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE203",
-        "unique": "ECON 325/A"
-      },
-      {
-        "course_code": "ECON 402",
-        "section": "A",
-        "course_name": "Proj  Plan & Apprais",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE204",
-        "unique": "ECON 402/A"
-      },
-      {
-        "course_code": "ECON 402",
-        "section": "B",
-        "course_name": "Proj  Plan & Apprais",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE202",
-        "unique": "ECON 402/B"
-      }
-    ],
-    "all_courses": [
-      "ECON 325",
-      "ECON 402"
-    ]
-  },
-  {
-    "name": "A Khokhar",
-    "departments": [
-      "EDUC"
-    ],
-    "current_courses": [
-      {
-        "course_code": "EDUC 110",
-        "section": "A",
-        "course_name": "Foundations of Educ.",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE140",
-        "unique": "EDUC 110/A"
-      },
-      {
-        "course_code": "EDUC 505",
-        "section": "A",
-        "course_name": "Theoretical Perspect",
-        "schedule": "M | 16:00 - 19:00",
-        "classroom": "EBLOCKE105",
-        "unique": "EDUC 505/A"
-      },
-      {
-        "course_code": "EDUC 510",
-        "section": "A",
-        "course_name": "Educational Policy",
-        "schedule": "W | 16:00 - 19:00",
-        "classroom": "EBLOCKE105",
-        "unique": "EDUC 510/A"
-      },
-      {
-        "course_code": "EDUC 699A",
-        "section": "A",
-        "course_name": "Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "EDUC 699A/A"
-      },
-      {
-        "course_code": "EDUC 699B",
-        "section": "A",
-        "course_name": "Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "EDUC 699B/A"
-      },
-      {
-        "course_code": "EDUC 699E",
-        "section": "A",
-        "course_name": "Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "EDUC 699E/A"
-      }
-    ],
-    "all_courses": [
-      "EDUC 110",
-      "EDUC 505",
-      "EDUC 510",
-      "EDUC 699A",
-      "EDUC 699B",
-      "EDUC 699E"
-    ]
-  },
-  {
-    "name": "J Hassan",
-    "departments": [
-      "EDUC"
-    ],
-    "current_courses": [
-      {
-        "course_code": "EDUC 110",
-        "section": "B",
-        "course_name": "Foundations of Educ.",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE121",
-        "unique": "EDUC 110/B"
-      },
-      {
-        "course_code": "EDUC 110",
-        "section": "H",
-        "course_name": "Foundations of Educ.",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE121",
-        "unique": "EDUC 110/H"
-      },
-      {
-        "course_code": "EDUC 355",
-        "section": "IS",
-        "course_name": "Teaching of English",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "EDUC 355/IS"
-      },
-      {
-        "course_code": "EDUC 360",
-        "section": "A",
-        "course_name": "Teaching Science",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE140",
-        "unique": "EDUC 360/A"
-      }
-    ],
-    "all_courses": [
-      "EDUC 110",
-      "EDUC 355",
-      "EDUC 360"
-    ]
-  },
-  {
-    "name": "A Khan",
-    "departments": [
-      "EDUC"
-    ],
-    "current_courses": [
-      {
-        "course_code": "EDUC 110",
-        "section": "C",
-        "course_name": "Foundations of Educ.",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE121",
-        "unique": "EDUC 110/C"
-      },
-      {
-        "course_code": "EDUC 120",
-        "section": "D",
-        "course_name": "Educ Psychology",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE121",
-        "unique": "EDUC 120/D"
-      },
-      {
-        "course_code": "EDUC 210",
-        "section": "A",
-        "course_name": "Educ Policies of Pak",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE121",
-        "unique": "EDUC 210/A"
-      },
-      {
-        "course_code": "EDUC 380",
-        "section": "A",
-        "course_name": "Teaching Mathematics",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE121",
-        "unique": "EDUC 380/A"
-      }
-    ],
-    "all_courses": [
-      "EDUC 110",
-      "EDUC 120",
-      "EDUC 210",
-      "EDUC 380"
-    ]
-  },
-  {
-    "name": "A Aslam",
-    "departments": [
-      "EDUC"
-    ],
-    "current_courses": [
-      {
-        "course_code": "EDUC 110",
-        "section": "D",
-        "course_name": "Foundations of Educ.",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE140",
-        "unique": "EDUC 110/D"
-      },
-      {
-        "course_code": "EDUC 110",
-        "section": "E",
-        "course_name": "Foundations of Educ.",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE140",
-        "unique": "EDUC 110/E"
-      },
-      {
-        "course_code": "EDUC 240",
-        "section": "A",
-        "course_name": "Technology in Educat",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE242",
-        "unique": "EDUC 240/A"
-      },
-      {
-        "course_code": "EDUC 300",
-        "section": "A",
-        "course_name": "Inst. Mthds & Strate",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "EBLOCKE121",
-        "unique": "EDUC 300/A"
-      }
-    ],
-    "all_courses": [
-      "EDUC 110",
-      "EDUC 240",
-      "EDUC 300"
-    ]
-  },
-  {
-    "name": "R. Farooq",
-    "departments": [
-      "EDUC"
-    ],
-    "current_courses": [
-      {
-        "course_code": "EDUC 110",
-        "section": "F",
-        "course_name": "Foundations of Educ.",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE140",
-        "unique": "EDUC 110/F"
-      },
-      {
-        "course_code": "EDUC 120",
-        "section": "A",
-        "course_name": "Educ Psychology",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE140",
-        "unique": "EDUC 120/A"
-      },
-      {
-        "course_code": "EDUC 310",
-        "section": "A",
-        "course_name": "Curr.  Development",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE121",
-        "unique": "EDUC 310/A"
-      },
-      {
-        "course_code": "EDUC 699A",
-        "section": "E",
-        "course_name": "Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "EDUC 699A/E"
-      }
-    ],
-    "all_courses": [
-      "EDUC 110",
-      "EDUC 120",
-      "EDUC 310",
-      "EDUC 699A"
-    ]
-  },
-  {
-    "name": "M Raza",
-    "departments": [
-      "EDUC"
-    ],
-    "current_courses": [
-      {
-        "course_code": "EDUC 110",
-        "section": "G",
-        "course_name": "Foundations of Educ.",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE121",
-        "unique": "EDUC 110/G"
-      },
-      {
-        "course_code": "EDUC 120",
-        "section": "B",
-        "course_name": "Educ Psychology",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE121",
-        "unique": "EDUC 120/B"
-      },
-      {
-        "course_code": "EDUC 350",
-        "section": "A",
-        "course_name": "Classroom Management",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE140",
-        "unique": "EDUC 350/A"
-      },
-      {
-        "course_code": "EDUC 699A",
-        "section": "C",
-        "course_name": "Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "EDUC 699A/C"
-      },
-      {
-        "course_code": "EDUC 699B",
-        "section": "C",
-        "course_name": "Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "EDUC 699B/C"
-      },
-      {
-        "course_code": "EDUC 699E",
-        "section": "C",
-        "course_name": "Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "EDUC 699E/C"
-      }
-    ],
-    "all_courses": [
-      "EDUC 110",
-      "EDUC 120",
-      "EDUC 350",
-      "EDUC 699A",
-      "EDUC 699B",
-      "EDUC 699E"
-    ]
-  },
-  {
-    "name": "S Burhan",
-    "departments": [
-      "EDUC"
-    ],
-    "current_courses": [
-      {
-        "course_code": "EDUC 120",
-        "section": "E",
-        "course_name": "Educ Psychology",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE121",
-        "unique": "EDUC 120/E"
-      },
-      {
-        "course_code": "EDUC 120",
-        "section": "F",
-        "course_name": "Educ Psychology",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE121",
-        "unique": "EDUC 120/F"
-      },
-      {
-        "course_code": "EDUC 315",
-        "section": "A",
-        "course_name": "Learning Theories",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE140",
-        "unique": "EDUC 315/A"
-      },
-      {
-        "course_code": "EDUC 373",
-        "section": "IS",
-        "course_name": "Teaching Reading",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "EDUC 373/IS"
-      },
-      {
-        "course_code": "EDUC 498",
-        "section": "A",
-        "course_name": "Student Teaching Exp",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "EDUC 498/A"
-      },
-      {
-        "course_code": "EDUC 699A",
-        "section": "D",
-        "course_name": "Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "EDUC 699A/D"
-      },
-      {
-        "course_code": "EDUC 699B",
-        "section": "D",
-        "course_name": "Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "EDUC 699B/D"
-      }
-    ],
-    "all_courses": [
-      "EDUC 120",
-      "EDUC 315",
-      "EDUC 373",
-      "EDUC 498",
-      "EDUC 699A",
-      "EDUC 699B"
-    ]
-  },
-  {
-    "name": "M. Thomas",
-    "departments": [
-      "EDUC"
-    ],
-    "current_courses": [
-      {
-        "course_code": "EDUC 515",
-        "section": "A",
-        "course_name": "Research Methods",
-        "schedule": "F | 16:00 - 19:00",
-        "classroom": "EBLOCKE105",
-        "unique": "EDUC 515/A"
-      },
-      {
-        "course_code": "EDUC 520",
-        "section": "A",
-        "course_name": "Qualitative Research",
-        "schedule": "T | 16:00 - 19:00",
-        "classroom": "EBLOCKE105",
-        "unique": "EDUC 520/A"
-      },
-      {
-        "course_code": "EDUC 699A",
-        "section": "B",
-        "course_name": "Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "EDUC 699A/B"
-      },
-      {
-        "course_code": "EDUC 699B",
-        "section": "B",
-        "course_name": "Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "EDUC 699B/B"
-      },
-      {
-        "course_code": "EDUC 699E",
-        "section": "B",
-        "course_name": "Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "EDUC 699E/B"
-      }
-    ],
-    "all_courses": [
-      "EDUC 515",
-      "EDUC 520",
-      "EDUC 699A",
-      "EDUC 699B",
-      "EDUC 699E"
-    ]
-  },
-  {
-    "name": "A Zia",
-    "departments": [
-      "ENGL"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 110",
-        "section": "A",
-        "course_name": "Contemp Short Story",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS210",
-        "unique": "ENGL 110/A"
-      }
-    ],
-    "all_courses": [
-      "ENGL 110"
-    ]
-  },
-  {
-    "name": "N Ahmad",
-    "departments": [
-      "ENGL"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 110",
-        "section": "B",
-        "course_name": "Contemp Short Story",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 110/B"
-      }
-    ],
-    "all_courses": [
-      "ENGL 110"
-    ]
-  },
-  {
-    "name": "S Hanif",
-    "departments": [
-      "ENGL"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 175",
-        "section": "A",
-        "course_name": "Crit. Think.&Reading",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 175/A"
-      },
-      {
-        "course_code": "ENGL 501",
-        "section": "A",
-        "course_name": "Research Methods",
-        "schedule": "M | 16:00 - 19:00",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 501/A"
-      }
-    ],
-    "all_courses": [
-      "ENGL 175",
-      "ENGL 501"
-    ]
-  },
-  {
-    "name": "I Sayed",
-    "departments": [
-      "ENGL"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 175",
-        "section": "B",
-        "course_name": "Crit. Think.&Reading",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 175/B"
-      },
-      {
-        "course_code": "ENGL 301",
-        "section": "A",
-        "course_name": "19th Ctry Engl Novel",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 301/A"
-      },
-      {
-        "course_code": "ENGL 307",
-        "section": "A",
-        "course_name": "Classical Drama",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE222",
-        "unique": "ENGL 307/A"
-      },
-      {
-        "course_code": "ENGL 308",
-        "section": "A",
-        "course_name": "Elizabethan Drama",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE222",
-        "unique": "ENGL 308/A"
-      }
-    ],
-    "all_courses": [
-      "ENGL 175",
-      "ENGL 301",
-      "ENGL 307",
-      "ENGL 308"
-    ]
-  },
-  {
-    "name": "T Bokhari",
-    "departments": [
-      "ENGL"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 201",
-        "section": "A",
-        "course_name": "Intro to English lit",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 201/A"
-      },
-      {
-        "course_code": "ENGL 204",
-        "section": "IS",
-        "course_name": "English Prose",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ENGL 204/IS"
-      }
-    ],
-    "all_courses": [
-      "ENGL 201",
-      "ENGL 204"
-    ]
-  },
-  {
-    "name": "S Maqbool",
-    "departments": [
-      "ENGL"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 201",
-        "section": "B",
-        "course_name": "Intro to English lit",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE228",
-        "unique": "ENGL 201/B"
-      },
-      {
-        "course_code": "ENGL 315",
-        "section": "A",
-        "course_name": "Poetry I",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE227",
-        "unique": "ENGL 315/A"
-      },
-      {
-        "course_code": "ENGL 526",
-        "section": "A",
-        "course_name": "Hydropoetics",
-        "schedule": "W | 16:00 - 19:00",
-        "classroom": "EBLOCKE214",
-        "unique": "ENGL 526/A"
-      }
-    ],
-    "all_courses": [
-      "ENGL 201",
-      "ENGL 315",
-      "ENGL 526"
-    ]
-  },
-  {
-    "name": "F Zaheer",
-    "departments": [
-      "ENGL"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 201",
-        "section": "C",
-        "course_name": "Intro to English lit",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 201/C"
-      },
-      {
-        "course_code": "ENGL 214",
-        "section": "IS",
-        "course_name": "18th Century Novel",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ENGL 214/IS"
-      },
-      {
-        "course_code": "ENGL 322",
-        "section": "A",
-        "course_name": "American Prose & Fic",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE222",
-        "unique": "ENGL 322/A"
-      },
-      {
-        "course_code": "ENGL 325",
-        "section": "A",
-        "course_name": "American Drama",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE222",
-        "unique": "ENGL 325/A"
-      },
-      {
-        "course_code": "ENGL 690",
-        "section": "A",
-        "course_name": "Special Res Seminar",
-        "schedule": "M | 16:00 - 19:00",
-        "classroom": "EBLOCKE214",
-        "unique": "ENGL 690/A"
-      }
-    ],
-    "all_courses": [
-      "ENGL 201",
-      "ENGL 214",
-      "ENGL 322",
-      "ENGL 325",
-      "ENGL 690"
-    ]
-  },
-  {
-    "name": "F Syeda",
-    "departments": [
-      "ENGL"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 207",
-        "section": "A",
-        "course_name": "Media and Literature",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 207/A"
-      },
-      {
-        "course_code": "ENGL 407",
-        "section": "A",
-        "course_name": "Pakistani Literature",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE214",
-        "unique": "ENGL 407/A"
-      },
-      {
-        "course_code": "ENGL 410",
-        "section": "A",
-        "course_name": "Intr. to Digi.Lit.St",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 410/A"
-      },
-      {
-        "course_code": "ENGL 499",
-        "section": "A",
-        "course_name": "Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ENGL 499/A"
-      },
-      {
-        "course_code": "ENGL 610",
-        "section": "A",
-        "course_name": "Digit.Appr to. Lit.",
-        "schedule": "W | 16:00 - 19:00",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 610/A"
-      },
-      {
-        "course_code": "ENGL 699A",
-        "section": "A",
-        "course_name": "Thesis and Viva",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ENGL 699A/A"
-      },
-      {
-        "course_code": "ENGL 699E",
-        "section": "A",
-        "course_name": "Thesis and Viva",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ENGL 699E/A"
-      }
-    ],
-    "all_courses": [
-      "ENGL 207",
-      "ENGL 407",
-      "ENGL 410",
-      "ENGL 499",
-      "ENGL 610",
-      "ENGL 699A",
-      "ENGL 699E"
-    ]
-  },
-  {
-    "name": "Quratulaen",
-    "departments": [
-      "ENGL"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 209",
-        "section": "A",
-        "course_name": "Childrens Literature",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE222",
-        "unique": "ENGL 209/A"
-      },
-      {
-        "course_code": "ENGL 403",
-        "section": "A",
-        "course_name": "Cont Liter. Criticis",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE222",
-        "unique": "ENGL 403/A"
-      },
-      {
-        "course_code": "ENGL 617",
-        "section": "A",
-        "course_name": "Modern to Contempora",
-        "schedule": "R | 16:00 - 19:00",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 617/A"
-      }
-    ],
-    "all_courses": [
-      "ENGL 209",
-      "ENGL 403",
-      "ENGL 617"
-    ]
-  },
-  {
-    "name": "M Shahid",
-    "departments": [
-      "ENGL"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 250",
-        "section": "A",
-        "course_name": "Creative Writing",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE229",
-        "unique": "ENGL 250/A"
-      }
-    ],
-    "all_courses": [
-      "ENGL 250"
-    ]
-  },
-  {
-    "name": "Team",
-    "departments": [
-      "ENGL"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 270",
-        "section": "A",
-        "course_name": "City & Story",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "SBLOCKS210",
-        "unique": "ENGL 270/A"
-      }
-    ],
-    "all_courses": [
-      "ENGL 270"
-    ]
-  },
-  {
-    "name": "R Wasif",
-    "departments": [
-      "ENGL"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 300",
-        "section": "A",
-        "course_name": "Russian Literature",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE227",
-        "unique": "ENGL 300/A"
-      }
-    ],
-    "all_courses": [
-      "ENGL 300"
-    ]
-  },
-  {
-    "name": "S Mir",
-    "departments": [
-      "ENGL"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 318",
-        "section": "A",
-        "course_name": "Creative Nonfiction",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE214",
-        "unique": "ENGL 318/A"
-      },
-      {
-        "course_code": "ENGL 331",
-        "section": "A",
-        "course_name": "Research Methods",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE041",
-        "unique": "ENGL 331/A"
-      },
-      {
-        "course_code": "ENGL 510",
-        "section": "A",
-        "course_name": "Transcultural Lite",
-        "schedule": "T | 16:00 - 19:00",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 510/A"
-      }
-    ],
-    "all_courses": [
-      "ENGL 318",
-      "ENGL 331",
-      "ENGL 510"
-    ]
-  },
-  {
-    "name": "A  Javed",
-    "departments": [
-      "ENGL"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 525",
-        "section": "A",
-        "course_name": "Literary Stylistics",
-        "schedule": "R | 16:00 - 19:00",
-        "classroom": "EBLOCKE040",
-        "unique": "ENGL 525/A"
-      }
-    ],
-    "all_courses": [
-      "ENGL 525"
-    ]
-  },
-  {
-    "name": "M Saleh",
-    "departments": [
-      "ENGL"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 620",
-        "section": "A",
-        "course_name": "Trauma Lit.&Theory",
-        "schedule": "F | 16:00 - 19:00",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 620/A"
-      }
-    ],
-    "all_courses": [
-      "ENGL 620"
-    ]
-  },
-  {
-    "name": "S Shah",
-    "departments": [
-      "ENVR"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENVR 151",
-        "section": "A",
-        "course_name": "Intro to Sources",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "SBLOCKS039",
-        "unique": "ENVR 151/A"
-      }
-    ],
-    "all_courses": [
-      "ENVR 151"
-    ]
-  },
-  {
-    "name": "D Bakker",
-    "departments": [
-      "ENVR"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENVR 151",
-        "section": "B",
-        "course_name": "Intro to Sources",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS416",
-        "unique": "ENVR 151/B"
-      },
-      {
-        "course_code": "ENVR 499",
-        "section": "A",
-        "course_name": "Project/Research",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ENVR 499/A"
-      },
-      {
-        "course_code": "ENVR 499A",
-        "section": "A",
-        "course_name": "Project/Research",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ENVR 499A/A"
-      },
-      {
-        "course_code": "ENVR 505",
-        "section": "A",
-        "course_name": "E&H Risk Assess.",
-        "schedule": "T | 17:30 - 18:45 | F | 17:30 - 18:45",
-        "classroom": "SBLOCKS424",
-        "unique": "ENVR 505/A"
-      },
-      {
-        "course_code": "ENVR 699A",
-        "section": "A",
-        "course_name": "Research",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ENVR 699A/A"
-      },
-      {
-        "course_code": "ENVR 699B",
-        "section": "A",
-        "course_name": "Research",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ENVR 699B/A"
-      },
-      {
-        "course_code": "ENVR 699E",
-        "section": "A",
-        "course_name": "Research",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ENVR 699E/A"
-      }
-    ],
-    "all_courses": [
-      "ENVR 151",
-      "ENVR 499",
-      "ENVR 499A",
-      "ENVR 505",
-      "ENVR 699A",
-      "ENVR 699B",
-      "ENVR 699E"
-    ]
-  },
-  {
-    "name": "D Ahmed",
-    "departments": [
-      "ENVR"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENVR 160",
-        "section": "A",
-        "course_name": "*Intro. Org  Biochem",
-        "schedule": "T R | 12:30 - 13:45 | F | 14:00 - 15:50",
-        "classroom": "SBLOCKS316",
-        "unique": "ENVR 160/A"
-      }
-    ],
-    "all_courses": [
-      "ENVR 160"
-    ]
-  },
-  {
-    "name": "S Ilyas",
-    "departments": [
-      "ENVR"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENVR 201",
-        "section": "A",
-        "course_name": "*Intro Env Sciences",
-        "schedule": "M | 10:00 - 11:50 | T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS039",
-        "unique": "ENVR 201/A"
-      },
-      {
-        "course_code": "ENVR 502",
-        "section": "A",
-        "course_name": "WWW Management",
-        "schedule": "M | 16:00 - 17:15 | W | 16:00 - 17:15",
-        "classroom": "SBLOCKS424",
-        "unique": "ENVR 502/A"
-      },
-      {
-        "course_code": "ENVR 696",
-        "section": "A",
-        "course_name": "Seminar",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ENVR 696/A"
-      }
-    ],
-    "all_courses": [
-      "ENVR 201",
-      "ENVR 502",
-      "ENVR 696"
-    ]
-  },
-  {
-    "name": "S Machado",
-    "departments": [
-      "ENVR"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENVR 201",
-        "section": "B",
-        "course_name": "*Intro Env Sciences",
-        "schedule": "M W F | 10:00 - 10:50 | F | 14:00 - 15:50",
-        "classroom": "SBLOCKS424",
-        "unique": "ENVR 201/B"
-      },
-      {
-        "course_code": "ENVR 345",
-        "section": "A",
-        "course_name": "Envr. Impact Assess",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "SBLOCKS424",
-        "unique": "ENVR 345/A"
-      },
-      {
-        "course_code": "ENVR 504",
-        "section": "A",
-        "course_name": "RS and GIS app.",
-        "schedule": "R | 16:00 - 18:45",
-        "classroom": "SBLOCKS417",
-        "unique": "ENVR 504/A"
-      }
-    ],
-    "all_courses": [
-      "ENVR 201",
-      "ENVR 345",
-      "ENVR 504"
-    ]
-  },
-  {
-    "name": "S Chung",
-    "departments": [
-      "ENVR"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENVR 201",
-        "section": "C",
-        "course_name": "*Intro Env Sciences",
-        "schedule": "T R | 15:30 - 16:45 | W | 14:00 - 15:50",
-        "classroom": "SBLOCKS424",
-        "unique": "ENVR 201/C"
-      }
-    ],
-    "all_courses": [
-      "ENVR 201"
-    ]
-  },
-  {
-    "name": "K Shafiqu",
-    "departments": [
-      "ENVR"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENVR 210",
-        "section": "A",
-        "course_name": "Earth's Physl Realms",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE242",
-        "unique": "ENVR 210/A"
-      }
-    ],
-    "all_courses": [
-      "ENVR 210"
-    ]
-  },
-  {
-    "name": "S Hanook",
-    "departments": [
-      "ENVR"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENVR 212",
-        "section": "A",
-        "course_name": "*Res Methds and Stat",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "SBLOCKS320",
-        "unique": "ENVR 212/A"
-      }
-    ],
-    "all_courses": [
-      "ENVR 212"
-    ]
-  },
-  {
-    "name": "S Shabbir",
-    "departments": [
-      "ENVR"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENVR 221",
-        "section": "A",
-        "course_name": "*Elect. & Magnetism",
-        "schedule": "M W F | 11:00 - 11:50 | R | 14:00 - 15:50",
-        "classroom": "SBLOCKS016",
-        "unique": "ENVR 221/A"
-      }
-    ],
-    "all_courses": [
-      "ENVR 221"
-    ]
-  },
-  {
-    "name": "M Shahbaz",
-    "departments": [
-      "ENVR"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENVR 252",
-        "section": "A",
-        "course_name": "Environ. Pollution",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS424",
-        "unique": "ENVR 252/A"
-      },
-      {
-        "course_code": "ENVR 340",
-        "section": "A",
-        "course_name": "Envr. Chem. Funda.",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS417",
-        "unique": "ENVR 340/A"
-      },
-      {
-        "course_code": "ENVR 503",
-        "section": "A",
-        "course_name": "Adv Env Analyt Tec",
-        "schedule": "T | 16:00 - 17:15 | F | 16:00 - 17:15",
-        "classroom": "SBLOCKS417",
-        "unique": "ENVR 503/A"
-      }
-    ],
-    "all_courses": [
-      "ENVR 252",
-      "ENVR 340",
-      "ENVR 503"
-    ]
-  },
-  {
-    "name": "S Aslam",
-    "departments": [
-      "ENVR"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENVR 252",
-        "section": "B",
-        "course_name": "Environ. Pollution",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS424",
-        "unique": "ENVR 252/B"
-      },
-      {
-        "course_code": "ENVR 411",
-        "section": "A",
-        "course_name": "*Envr. Microbiology",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "SBLOCKS413",
-        "unique": "ENVR 411/A"
-      },
-      {
-        "course_code": "ENVR 501",
-        "section": "A",
-        "course_name": "WFW Cons Managment",
-        "schedule": "M W | 17:30 - 18:45",
-        "classroom": "SBLOCKS424",
-        "unique": "ENVR 501/A"
-      }
-    ],
-    "all_courses": [
-      "ENVR 252",
-      "ENVR 411",
-      "ENVR 501"
-    ]
-  },
-  {
-    "name": "S Akram",
-    "departments": [
-      "ENVR"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENVR 305",
-        "section": "A",
-        "course_name": "Pop. Dynamics & Urbn",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "SBLOCKS424",
-        "unique": "ENVR 305/A"
-      },
-      {
-        "course_code": "ENVR 323",
-        "section": "A",
-        "course_name": "Ecology & Evolution",
-        "schedule": "M | 09:00 - 10:50 | M W F | 15:00 - 15:50",
-        "classroom": "SBLOCKS135",
-        "unique": "ENVR 323/A"
-      },
-      {
-        "course_code": "ENVR 414",
-        "section": "A",
-        "course_name": "Sustainable Develop",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "SBLOCKS424",
-        "unique": "ENVR 414/A"
-      }
-    ],
-    "all_courses": [
-      "ENVR 305",
-      "ENVR 323",
-      "ENVR 414"
-    ]
-  },
-  {
-    "name": "M Asghar",
-    "departments": [
-      "ENVR"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENVR 311",
-        "section": "A",
-        "course_name": "*Fund Analy. Chem",
-        "schedule": "M W F | 15:00 - 15:50 | R | 14:00 - 15:50",
-        "classroom": "SBLOCKS213",
-        "unique": "ENVR 311/A"
-      }
-    ],
-    "all_courses": [
-      "ENVR 311"
-    ]
-  },
-  {
-    "name": "H Abid",
-    "departments": [
-      "ENVR"
-    ],
-    "current_courses": [
-      {
-        "course_code": "ENVR 320",
-        "section": "A",
-        "course_name": "*Industrial Chem",
-        "schedule": "M W F | 09:00 - 09:50 | T | 14:00 - 15:50",
-        "classroom": "SBLOCKS109",
-        "unique": "ENVR 320/A"
-      }
-    ],
-    "all_courses": [
-      "ENVR 320"
-    ]
-  },
-  {
-    "name": "P Ludivine",
-    "departments": [
-      "FREN"
-    ],
-    "current_courses": [
-      {
-        "course_code": "FREN 101",
-        "section": "A",
-        "course_name": "French 1",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE227",
-        "unique": "FREN 101/A"
-      },
-      {
-        "course_code": "FREN 101",
-        "section": "B",
-        "course_name": "French 1",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE227",
-        "unique": "FREN 101/B"
-      }
-    ],
-    "all_courses": [
-      "FREN 101"
-    ]
-  },
-  {
-    "name": "A Anwar",
-    "departments": [
-      "FREN"
-    ],
-    "current_courses": [
-      {
-        "course_code": "FREN 101",
-        "section": "C",
-        "course_name": "French 1",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE227",
-        "unique": "FREN 101/C"
-      }
-    ],
-    "all_courses": [
-      "FREN 101"
-    ]
-  },
-  {
-    "name": "I Ul Haq",
-    "departments": [
-      "FSQM"
-    ],
-    "current_courses": [
-      {
-        "course_code": "FSQM 501",
-        "section": "A",
-        "course_name": "Food Saf Ql Mang",
-        "schedule": "R | 16:00 - 19:00",
-        "classroom": "SBLOCKS312",
-        "unique": "FSQM 501/A"
-      }
-    ],
-    "all_courses": [
-      "FSQM 501"
-    ]
-  },
-  {
-    "name": "B Sadiq",
-    "departments": [
-      "FSQM"
-    ],
-    "current_courses": [
-      {
-        "course_code": "FSQM 502",
-        "section": "A",
-        "course_name": "Food Microb Toxi",
-        "schedule": "T | 16:00 - 19:00",
-        "classroom": "SBLOCKS312",
-        "unique": "FSQM 502/A"
-      },
-      {
-        "course_code": "FSQM 699A",
-        "section": "A",
-        "course_name": "Research Thesis",
-        "schedule": "MTWRF | 08:00 - 16:00",
-        "classroom": "SBLOCKS445",
-        "unique": "FSQM 699A/A"
-      },
-      {
-        "course_code": "FSQM 699A",
-        "section": "B",
-        "course_name": "Research",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "FSQM 699A/B"
-      },
-      {
-        "course_code": "FSQM 699E",
-        "section": "A",
-        "course_name": "Reserach Thesis",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "FSQM 699E/A"
-      }
-    ],
-    "all_courses": [
-      "FSQM 502",
-      "FSQM 699A",
-      "FSQM 699E"
-    ]
-  },
-  {
-    "name": "K Muaz",
-    "departments": [
-      "FSQM"
-    ],
-    "current_courses": [
-      {
-        "course_code": "FSQM 505",
-        "section": "A",
-        "course_name": "safe food & sup. mgt",
-        "schedule": "M | 16:00 - 19:00",
-        "classroom": "SBLOCKS312",
-        "unique": "FSQM 505/A"
-      }
-    ],
-    "all_courses": [
-      "FSQM 505"
-    ]
-  },
-  {
-    "name": "S Hanook",
-    "departments": [
-      "FSQM"
-    ],
-    "current_courses": [
-      {
-        "course_code": "FSQM 506",
-        "section": "A",
-        "course_name": "Res. Meth & Biostat",
-        "schedule": "W | 16:00 - 19:00",
-        "classroom": "SBLOCKS312",
-        "unique": "FSQM 506/A"
-      }
-    ],
-    "all_courses": [
-      "FSQM 506"
-    ]
-  },
-  {
-    "name": "K Shakrul",
-    "departments": [
-      "GEOG"
-    ],
-    "current_courses": [
-      {
-        "course_code": "GEOG 101",
-        "section": "A",
-        "course_name": "Funda of Geography",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE104",
-        "unique": "GEOG 101/A"
-      },
-      {
-        "course_code": "GEOG 101",
-        "section": "C",
-        "course_name": "Funda of Geography",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE228",
-        "unique": "GEOG 101/C"
-      },
-      {
-        "course_code": "GEOG 101",
-        "section": "D",
-        "course_name": "Funda of Geography",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE228",
-        "unique": "GEOG 101/D"
-      },
-      {
-        "course_code": "GEOG 499",
-        "section": "A",
-        "course_name": "Directed Project",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "GEOG 499/A"
-      },
-      {
-        "course_code": "GEOG 499",
-        "section": "B",
-        "course_name": "Directed Project",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "GEOG 499/B"
-      }
-    ],
-    "all_courses": [
-      "GEOG 101",
-      "GEOG 499"
-    ]
-  },
-  {
-    "name": "A Iqbal",
-    "departments": [
-      "GEOG"
-    ],
-    "current_courses": [
-      {
-        "course_code": "GEOG 101",
-        "section": "B",
-        "course_name": "Funda of Geography",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE228",
-        "unique": "GEOG 101/B"
-      },
-      {
-        "course_code": "GEOG 133",
-        "section": "A",
-        "course_name": "Geog Prof. of Pak.",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE228",
-        "unique": "GEOG 133/A"
-      },
-      {
-        "course_code": "GEOG 274",
-        "section": "IS",
-        "course_name": "Cgrapy Fund F Survey",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "GEOG 274/IS"
-      },
-      {
-        "course_code": "GEOG 371",
-        "section": "IS",
-        "course_name": "Digital Cartography",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "GEOG 371/IS"
-      },
-      {
-        "course_code": "GEOG 372",
-        "section": "IS",
-        "course_name": "Web GIS",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "GEOG 372/IS"
-      },
-      {
-        "course_code": "GEOG 374",
-        "section": "A",
-        "course_name": "Aerial & Sate. Imagi",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE242",
-        "unique": "GEOG 374/A"
-      }
-    ],
-    "all_courses": [
-      "GEOG 101",
-      "GEOG 133",
-      "GEOG 274",
-      "GEOG 371",
-      "GEOG 372",
-      "GEOG 374"
-    ]
-  },
-  {
-    "name": "K Shafiqu",
-    "departments": [
-      "GEOG"
-    ],
-    "current_courses": [
-      {
-        "course_code": "GEOG 101",
-        "section": "E",
-        "course_name": "Funda of Geography",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE228",
-        "unique": "GEOG 101/E"
-      },
-      {
-        "course_code": "GEOG 210",
-        "section": "A",
-        "course_name": "Earth's Physl Realms",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE242",
-        "unique": "GEOG 210/A"
-      },
-      {
-        "course_code": "GEOG 301",
-        "section": "A",
-        "course_name": "Wkshp Geog Thgt Conc",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "EBLOCKE242",
-        "unique": "GEOG 301/A"
-      }
-    ],
-    "all_courses": [
-      "GEOG 101",
-      "GEOG 210",
-      "GEOG 301"
-    ]
-  },
-  {
-    "name": "D Amjad",
-    "departments": [
-      "GEOG"
-    ],
-    "current_courses": [
-      {
-        "course_code": "GEOG 201",
-        "section": "A",
-        "course_name": "Intro to GIS & Tech.",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE242",
-        "unique": "GEOG 201/A"
-      }
-    ],
-    "all_courses": [
-      "GEOG 201"
-    ]
-  },
-  {
-    "name": "S Afzal",
-    "departments": [
-      "GRMN"
-    ],
-    "current_courses": [
-      {
-        "course_code": "GRMN 101",
-        "section": "A",
-        "course_name": "German I",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE140",
-        "unique": "GRMN 101/A"
-      },
-      {
-        "course_code": "GRMN 101",
-        "section": "AU",
-        "course_name": "German I",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "EBLOCKE140",
-        "unique": "GRMN 101/AU"
-      },
-      {
-        "course_code": "GRMN 101",
-        "section": "B",
-        "course_name": "German I",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE140",
-        "unique": "GRMN 101/B"
-      },
-      {
-        "course_code": "GRMN 101",
-        "section": "C",
-        "course_name": "German I",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "EBLOCKE140",
-        "unique": "GRMN 101/C"
-      }
-    ],
-    "all_courses": [
-      "GRMN 101"
     ]
   },
   {
@@ -8033,166 +5482,6 @@
       "HIST 202",
       "HIST 310",
       "HIST 313"
-    ]
-  },
-  {
-    "name": "S Khaliq",
-    "departments": [
-      "HPED"
-    ],
-    "current_courses": [
-      {
-        "course_code": "HPED 102",
-        "section": "A",
-        "course_name": "Football (Girls)",
-        "schedule": "T R | 16:00 - 17:30",
-        "classroom": "GROUNDGROUND",
-        "unique": "HPED 102/A"
-      },
-      {
-        "course_code": "HPED 107",
-        "section": "A",
-        "course_name": "Athletics (Girls)",
-        "schedule": "T R | 15:00 - 16:00",
-        "classroom": "ATRACKATRACK",
-        "unique": "HPED 107/A"
-      },
-      {
-        "course_code": "HPED 107",
-        "section": "IA",
-        "course_name": "Athletics",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "HPED 107/IA"
-      },
-      {
-        "course_code": "HPED 108",
-        "section": "A",
-        "course_name": "Table Tennis(For Gir",
-        "schedule": "M W | 16:00 - 17:00",
-        "classroom": "LUCASTTROOM",
-        "unique": "HPED 108/A"
-      },
-      {
-        "course_code": "HPED 110",
-        "section": "A",
-        "course_name": "Basketbal(Girls)",
-        "schedule": "M W | 15:00 - 16:00",
-        "classroom": "BCOURTBCOURT",
-        "unique": "HPED 110/A"
-      }
-    ],
-    "all_courses": [
-      "HPED 102",
-      "HPED 107",
-      "HPED 108",
-      "HPED 110"
-    ]
-  },
-  {
-    "name": "S Nazir",
-    "departments": [
-      "HPED"
-    ],
-    "current_courses": [
-      {
-        "course_code": "HPED 102",
-        "section": "B",
-        "course_name": "Football",
-        "schedule": "M W | 16:00 - 17:00",
-        "classroom": "GROUNDGROUND",
-        "unique": "HPED 102/B"
-      },
-      {
-        "course_code": "HPED 105",
-        "section": "A",
-        "course_name": "Volleyball(Boys)",
-        "schedule": "T R | 16:00 - 17:00",
-        "classroom": "VCOURTVCOURT",
-        "unique": "HPED 105/A"
-      },
-      {
-        "course_code": "HPED 106",
-        "section": "A",
-        "course_name": "Phys.Exer.(Boys)",
-        "schedule": "T R | 15:00 - 16:00",
-        "classroom": "GYMGYM",
-        "unique": "HPED 106/A"
-      },
-      {
-        "course_code": "HPED 107",
-        "section": "B",
-        "course_name": "Athletics (Boys)",
-        "schedule": "M W | 15:00 - 16:00",
-        "classroom": "ATRACKATRACK",
-        "unique": "HPED 107/B"
-      },
-      {
-        "course_code": "HPED 107",
-        "section": "IS",
-        "course_name": "Athletics",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "HPED 107/IS"
-      }
-    ],
-    "all_courses": [
-      "HPED 102",
-      "HPED 105",
-      "HPED 106",
-      "HPED 107"
-    ]
-  },
-  {
-    "name": "Z Nisa",
-    "departments": [
-      "HPED"
-    ],
-    "current_courses": [
-      {
-        "course_code": "HPED 150",
-        "section": "A",
-        "course_name": "Advanced first Aid",
-        "schedule": "M W F | 08:00 - 08:50 | M | 15:00 - 16:50",
-        "classroom": "EBLOCKE102",
-        "unique": "HPED 150/A"
-      },
-      {
-        "course_code": "HPED 150",
-        "section": "B",
-        "course_name": "Advanced first Aid",
-        "schedule": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
-        "classroom": "EBLOCKE102",
-        "unique": "HPED 150/B"
-      },
-      {
-        "course_code": "HPED 151",
-        "section": "A",
-        "course_name": "Sports Injuries",
-        "schedule": "T R | 08:00 - 08:50",
-        "classroom": "EBLOCKE102",
-        "unique": "HPED 151/A"
-      },
-      {
-        "course_code": "HPED 151",
-        "section": "B",
-        "course_name": "Sports Injuries",
-        "schedule": "T R | 09:30 - 10:20",
-        "classroom": "EBLOCKE102",
-        "unique": "HPED 151/B"
-      },
-      {
-        "course_code": "HPED 151",
-        "section": "IS",
-        "course_name": "Sports Injuries",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "HPED 151/IS"
-      }
-    ],
-    "all_courses": [
-      "HPED 150",
-      "HPED 151"
     ]
   },
   {
@@ -9917,7 +7206,7 @@
         "section": "A",
         "course_name": "*Intro. to Physics",
         "schedule": "T R | 14:00 - 15:15 | W | 14:00 - 15:50",
-        "classroom": "SBLOCKS007",
+        "classroom": "SBLOCKS007 | SBLOCKS027",
         "unique": "PHYS 100/A"
       },
       {
@@ -9925,7 +7214,7 @@
         "section": "A",
         "course_name": "General Physics II",
         "schedule": "M | 14:00 - 15:50 | T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS039",
+        "classroom": "SBLOCKS039 | SBLOCKS029",
         "unique": "PHYS 102/A"
       },
       {
@@ -9933,7 +7222,7 @@
         "section": "A",
         "course_name": "*Mechanics",
         "schedule": "M W F | 11:00 - 11:50 | W | 08:00 - 09:50",
-        "classroom": "SBLOCKS007",
+        "classroom": "SBLOCKS007 | SBLOCKS029",
         "unique": "PHYS 103/A"
       },
       {
@@ -9963,7 +7252,7 @@
         "section": "B",
         "course_name": "*Intro. to Physics",
         "schedule": "M | 14:00 - 15:50 | T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS027",
+        "classroom": "SBLOCKS027 | SBLOCKS039",
         "unique": "PHYS 100/B"
       },
       {
@@ -10009,7 +7298,7 @@
         "section": "C",
         "course_name": "*Intro. to Physics",
         "schedule": "T R | 12:30 - 13:45 | F | 10:00 - 11:50",
-        "classroom": "SBLOCKS016A",
+        "classroom": "SBLOCKS016A | SBLOCKS027",
         "unique": "PHYS 100/C"
       },
       {
@@ -10046,7 +7335,7 @@
         "section": "D",
         "course_name": "*Intro. to Physics",
         "schedule": "M W F | 10:00 - 10:50 | R | 14:00 - 15:50",
-        "classroom": "SBLOCKS007",
+        "classroom": "SBLOCKS007 | SBLOCKS027",
         "unique": "PHYS 100/D"
       }
     ],
@@ -10065,7 +7354,7 @@
         "section": "A",
         "course_name": "*General Physics I",
         "schedule": "T R | 09:30 - 10:45 | F | 14:00 - 15:50",
-        "classroom": "SBLOCKS039",
+        "classroom": "SBLOCKS039 | SBLOCKS029",
         "unique": "PHYS 101/A"
       },
       {
@@ -10139,7 +7428,7 @@
         "section": "A",
         "course_name": "Elect. & Magnetism",
         "schedule": "M W F | 11:00 - 11:50 | M | 14:00 - 15:50",
-        "classroom": "SBLOCKS016",
+        "classroom": "SBLOCKS016 | SBLOCKS016B",
         "unique": "PHYS 221/A"
       },
       {
@@ -10147,7 +7436,7 @@
         "section": "A",
         "course_name": "*Electronics I",
         "schedule": "M W F | 09:00 - 09:50 | F | 14:00 - 15:50",
-        "classroom": "SBLOCKS027",
+        "classroom": "SBLOCKS027 | SBLOCKS027B",
         "unique": "PHYS 331/A"
       },
       {
@@ -11071,7 +8360,7 @@
         "section": "B",
         "course_name": "Cognitive Psyc Lab",
         "schedule": "M W F | 12:00 - 12:50 | F | 14:00 - 15:50",
-        "classroom": "EBLOCKE244",
+        "classroom": "EBLOCKE244 | EBLOCKE241",
         "unique": "PSYC 315/B"
       },
       {
@@ -11171,7 +8460,7 @@
         "section": "A",
         "course_name": "Psych Testing & Mea",
         "schedule": "M W F | 14:00 - 14:50 | T | 14:00 - 15:50",
-        "classroom": "EBLOCKE244",
+        "classroom": "EBLOCKE244 | EBLOCKE241",
         "unique": "PSYC 360/A"
       }
     ],
@@ -11496,7 +8785,7 @@
         "section": "A",
         "course_name": "Stat. for Psychology",
         "schedule": "M W F | 08:00 - 08:50 | M | 10:00 - 11:50",
-        "classroom": "EBLOCKE244",
+        "classroom": "EBLOCKE244 | EBLOCKE241",
         "unique": "PSYC 220/A"
       }
     ],
@@ -11515,7 +8804,7 @@
         "section": "B",
         "course_name": "Stat. for Psychology",
         "schedule": "M W F | 09:00 - 09:50 | W | 10:00 - 11:50",
-        "classroom": "EBLOCKE244",
+        "classroom": "EBLOCKE244 | EBLOCKE241",
         "unique": "PSYC 220/B"
       },
       {
@@ -11577,7 +8866,7 @@
         "section": "A",
         "course_name": "Clinical Psyc",
         "schedule": "T R | 08:00 - 09:15 | F | 10:00 - 11:50",
-        "classroom": "EBLOCKE244",
+        "classroom": "EBLOCKE244 | EBLOCKE241",
         "unique": "PSYC 465/A"
       }
     ],
@@ -11622,7 +8911,7 @@
         "section": "B",
         "course_name": "Psych Testing & Mea",
         "schedule": "M | 14:00 - 15:50 | T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE241",
+        "classroom": "EBLOCKE241 | EBLOCKE244",
         "unique": "PSYC 360/B"
       }
     ],
@@ -11713,7 +9002,7 @@
         "section": "A",
         "course_name": "Cognitive Psyc Lab",
         "schedule": "M W F | 10:00 - 10:50 | W | 14:00 - 15:50",
-        "classroom": "EBLOCKE244",
+        "classroom": "EBLOCKE244 | EBLOCKE241",
         "unique": "PSYC 315/A"
       }
     ],
@@ -11835,7 +9124,7 @@
         "section": "B",
         "course_name": "Clinical Psyc",
         "schedule": "M W F | 15:00 - 15:50 | R | 14:00 - 15:50",
-        "classroom": "EBLOCKE244",
+        "classroom": "EBLOCKE244 | EBLOCKE241",
         "unique": "PSYC 465/B"
       },
       {

@@ -304,11 +304,16 @@ def parse_courses_from_html(html):
             schedule_raw = " | ".join(p for p in [days, time] if p)
             capacity = cols[4].get_text(strip=True) if len(cols) > 4 else ""
             available = cols[5].get_text(strip=True) if len(cols) > 5 else ""
-
+            classroom = cols[1].get_text(strip=True) if len(cols) > 1 else ""
+            
+            classROOMS = courses[-1]["classroom"].split(" | ")
+            if classroom not in classROOMS :
+                courses[-1]["classroom"] += " | " + classroom
             courses[-1]["schedule_raw"] += " | " + schedule_raw
             courses[-1]["capacity"] = capacity
             courses[-1]["available"] = available
             continue 
+             
 
         # ---- COURSE COLUMN ----
         course_col = cols[1]
