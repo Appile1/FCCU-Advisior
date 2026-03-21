@@ -6,6 +6,7 @@ import re
 import random
 import urllib3
 from collections import defaultdict
+from datetime import datetime
 
 
 # ================= SSL FIX =================
@@ -176,7 +177,7 @@ def build_instructor_course_data():
     # Example: course_data/2026FA_courses.json
     course_file = os.path.join(DATA_DIR, f"{term_code}_courses.json")
 
-    print(f"→ Loading course file: {course_file}")
+    print(f"\n\n\n  → Loading course file: {course_file}")
 
     # Load all courses for that term
     with open(course_file, "r", encoding="utf-8") as f:
@@ -263,6 +264,90 @@ def build_instructor_course_data():
 
     # Return the instructor data in case we want to use it elsewhere
     return instructor_list
+
+
+def track_course_changes(new_courses, term_code):
+ 
+    DATA_DIR = "course_data"
+    changes_file = os.path.join(DATA_DIR, "latestterm_changes.json")
+    old_file = os.path.join(DATA_DIR, f"{term_code}_courses.json")
+
+    # ================= LOAD OLD DATA =================
+    # If previous file doesn't exist, we cannot compare
+    if not os.path.exists(old_file):
+        print("⚠ No previous data found → skipping change tracking")
+        return
+
+    with open(old_file, "r", encoding="utf-8") as f:
+        old_data = json.load(f)
+
+    old_courses = old_data.get("courses", [])
+
+    # ================= CREATE LOOKUP MAPS =================
+    # Use "unique" (course_code + section) as identifier
+    old_map = {c["unique"]: c for c in old_courses}
+    new_map = {c["unique"]: c for c in new_courses}
+
+    # This will store only meaningful changes
+    changes = []
+
+    # ================= COMPARE COURSES =================
+    for unique, new_course in new_map.items():
+        old_course = old_map.get(unique)
+
+        # -------- NEW SECTION ADDED --------
+        # If course doesn't exist in old data → it's new
+        if not old_course:
+            changes.append({
+                "type": "NEW_SECTION",
+                "message": f"New section added: {new_course['course_code']} ({new_course['section']}) - {new_course['instructor']}",
+                "course_code": new_course["course_code"],
+                "section": new_course["section"],
+                "instructor": new_course["instructor"],
+                "timestamp": datetime.now().isoformat()
+            })
+            continue
+
+        # -------- INSTRUCTOR CHANGED --------
+        # Compare old vs new instructor
+        old_inst = (old_course.get("instructor") or "").strip()
+        new_inst = (new_course.get("instructor") or "").strip()
+
+        if old_inst != new_inst:
+            changes.append({
+                "type": "INSTRUCTOR_CHANGED",
+                "message": f"Instructor changed for {new_course['course_code']} ({new_course['section']}): {old_inst} → {new_inst}",
+                "course_code": new_course["course_code"],
+                "section": new_course["section"],
+                "instructor": new_inst,  # only keep latest instructor
+                "timestamp": datetime.now().isoformat()
+            })
+
+    # ================= NO CHANGES =================
+    if not changes:
+        print("\n\n\n  ✓ No new sections or instructor changes found \n\n\n  ")
+        return
+
+    # ================= LOAD EXISTING CHANGE HISTORY =================
+    # If file exists → load it, otherwise start empty
+    if os.path.exists(changes_file):
+        with open(changes_file, "r", encoding="utf-8") as f:
+            try:
+                history = json.load(f)
+            except:
+                history = []
+    else:
+        history = []
+
+    # ================= APPEND CHANGES =================
+    # This keeps full history in chronological order
+    history.extend(changes)
+
+    # ================= SAVE FILE =================
+    with open(changes_file, "w", encoding="utf-8") as f:
+        json.dump(history, f, indent=2, ensure_ascii=False)
+
+    print(f"\n\n\n ✓ {len(changes)} changes appended → latestterm_changes.json \n\n\n  ") 
 # ================= PARSER =================
 def parse_courses_from_html(html):
     soup = BeautifulSoup(html, "html.parser")
@@ -403,6 +488,7 @@ def main():
     html = fetch_courses(session, token, term_code)
 
     courses = parse_courses_from_html(html)
+    track_course_changes(courses, term_code)
 
     with open(os.path.join(DATA_DIR, f"{term_code}_courses.json"), "w", encoding="utf-8") as f:
         json.dump({

@@ -2673,9 +2673,9 @@
       "unique": "CHEM 100/B",
       "course_name": "*Intro. to Chemistry",
       "credits": "4.00",
-      "classroom": "SBLOCKS109 | SBLOCKS148",
-      "schedule_raw": "T R | 09:30 - 10:45 | F | 11:00 - 12:50",
-      "instructor": "S Jelani",
+      "classroom": "SBLOCKS112 | SBLOCKS148",
+      "schedule_raw": "MTWRF | 11:30 - 13:00 | T | 13:15 - 15:15",
+      "instructor": "M Qamar",
       "capacity": "35",
       "available": "35"
     },

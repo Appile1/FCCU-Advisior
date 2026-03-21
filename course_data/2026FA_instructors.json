@@ -2925,7 +2925,7 @@
     ]
   },
   {
-    "name": "S Jelani",
+    "name": "M Qamar",
     "departments": [
       "CHEM"
     ],
@@ -2934,39 +2934,58 @@
         "course_code": "CHEM 100",
         "section": "B",
         "course_name": "*Intro. to Chemistry",
-        "schedule": "T R | 09:30 - 10:45 | F | 11:00 - 12:50",
-        "classroom": "SBLOCKS109 | SBLOCKS148",
+        "schedule": "MTWRF | 11:30 - 13:00 | T | 13:15 - 15:15",
+        "classroom": "SBLOCKS112 | SBLOCKS148",
         "unique": "CHEM 100/B"
       },
       {
-        "course_code": "CHEM 100",
-        "section": "E",
-        "course_name": "*Intro. to Chemistry",
-        "schedule": "T R | 12:30 - 13:45 | R | 11:00 - 12:50",
-        "classroom": "SBLOCKS213 | SBLOCKS135",
-        "unique": "CHEM 100/E"
-      },
-      {
-        "course_code": "CHEM 261",
+        "course_code": "CHEM 370",
         "section": "A",
-        "course_name": "*Organic Chemistry I",
-        "schedule": "M W F | 09:00 - 09:50 | M | 11:00 - 12:50",
-        "classroom": "SBLOCKS210 | SBLOCKS135",
-        "unique": "CHEM 261/A"
+        "course_name": "*Kinetic & Mechanism",
+        "schedule": "M | 11:00 - 12:50 | T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS148 | SBLOCKS212",
+        "unique": "CHEM 370/A"
       },
       {
-        "course_code": "CHEM 330",
-        "section": "IS",
-        "course_name": "*Biochemistry",
+        "course_code": "CHEM 470",
+        "section": "IA",
+        "course_name": "Polymer Chemistry",
         "schedule": "MTWRF",
         "classroom": "TBDTBD",
-        "unique": "CHEM 330/IS"
+        "unique": "CHEM 470/IA"
+      },
+      {
+        "course_code": "CHEM 473",
+        "section": "IS",
+        "course_name": "*Surf, Sld Stat Chem",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "CHEM 473/IS"
+      },
+      {
+        "course_code": "CHEM 562",
+        "section": "A",
+        "course_name": "Chemistry of Advance",
+        "schedule": "M W | 15:30 - 16:45",
+        "classroom": "SBLOCKS138",
+        "unique": "CHEM 562/A"
+      },
+      {
+        "course_code": "CHEM 704",
+        "section": "A",
+        "course_name": "Recent Trends in Che",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS135",
+        "unique": "CHEM 704/A"
       }
     ],
     "all_courses": [
       "CHEM 100",
-      "CHEM 261",
-      "CHEM 330"
+      "CHEM 370",
+      "CHEM 470",
+      "CHEM 473",
+      "CHEM 562",
+      "CHEM 704"
     ]
   },
   {
@@ -3041,6 +3060,43 @@
     "all_courses": [
       "CHEM 100",
       "CHEM 160"
+    ]
+  },
+  {
+    "name": "S Jelani",
+    "departments": [
+      "CHEM"
+    ],
+    "current_courses": [
+      {
+        "course_code": "CHEM 100",
+        "section": "E",
+        "course_name": "*Intro. to Chemistry",
+        "schedule": "T R | 12:30 - 13:45 | R | 11:00 - 12:50",
+        "classroom": "SBLOCKS213 | SBLOCKS135",
+        "unique": "CHEM 100/E"
+      },
+      {
+        "course_code": "CHEM 261",
+        "section": "A",
+        "course_name": "*Organic Chemistry I",
+        "schedule": "M W F | 09:00 - 09:50 | M | 11:00 - 12:50",
+        "classroom": "SBLOCKS210 | SBLOCKS135",
+        "unique": "CHEM 261/A"
+      },
+      {
+        "course_code": "CHEM 330",
+        "section": "IS",
+        "course_name": "*Biochemistry",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "CHEM 330/IS"
+      }
+    ],
+    "all_courses": [
+      "CHEM 100",
+      "CHEM 261",
+      "CHEM 330"
     ]
   },
   {
@@ -3342,61 +3398,6 @@
       "CHEM 250",
       "CHEM 525",
       "CHEM 762"
-    ]
-  },
-  {
-    "name": "M Qamar",
-    "departments": [
-      "CHEM"
-    ],
-    "current_courses": [
-      {
-        "course_code": "CHEM 370",
-        "section": "A",
-        "course_name": "*Kinetic & Mechanism",
-        "schedule": "M | 11:00 - 12:50 | T R | 12:30 - 13:45",
-        "classroom": "SBLOCKS148 | SBLOCKS212",
-        "unique": "CHEM 370/A"
-      },
-      {
-        "course_code": "CHEM 470",
-        "section": "IA",
-        "course_name": "Polymer Chemistry",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "CHEM 470/IA"
-      },
-      {
-        "course_code": "CHEM 473",
-        "section": "IS",
-        "course_name": "*Surf, Sld Stat Chem",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "CHEM 473/IS"
-      },
-      {
-        "course_code": "CHEM 562",
-        "section": "A",
-        "course_name": "Chemistry of Advance",
-        "schedule": "M W | 15:30 - 16:45",
-        "classroom": "SBLOCKS138",
-        "unique": "CHEM 562/A"
-      },
-      {
-        "course_code": "CHEM 704",
-        "section": "A",
-        "course_name": "Recent Trends in Che",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "SBLOCKS135",
-        "unique": "CHEM 704/A"
-      }
-    ],
-    "all_courses": [
-      "CHEM 370",
-      "CHEM 470",
-      "CHEM 473",
-      "CHEM 562",
-      "CHEM 704"
     ]
   },
   {

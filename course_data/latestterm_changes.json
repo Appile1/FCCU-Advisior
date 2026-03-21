@@ -1,0 +1,10 @@
+[
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CHEM 100 (B): S Jelani → M Qamar",
+    "course_code": "CHEM 100",
+    "section": "B",
+    "instructor": "M Qamar",
+    "timestamp": "2026-03-22T01:05:21.544450"
+  }
+]
