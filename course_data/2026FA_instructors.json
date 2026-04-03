@@ -1,9 +1,7 @@
 [
   {
     "name": "S Kamran",
-    "departments": [
-      "ARTS"
-    ],
+    "departments": ["ARTS"],
     "current_courses": [
       {
         "course_code": "ARTS 101",
@@ -22,18 +20,11 @@
         "unique": "ARTS 200/A"
       }
     ],
-    "all_courses": [
-      "ARTS 101",
-      "ARTS 105",
-      "ARTS 106",
-      "ARTS 200"
-    ]
+    "all_courses": ["ARTS 101", "ARTS 105", "ARTS 106", "ARTS 200"]
   },
   {
     "name": "S Ahmad",
-    "departments": [
-      "ARTS"
-    ],
+    "departments": ["ARTS"],
     "current_courses": [
       {
         "course_code": "ARTS 102",
@@ -52,17 +43,11 @@
         "unique": "ARTS 111/A"
       }
     ],
-    "all_courses": [
-      "ARTS 102",
-      "ARTS 103",
-      "ARTS 111"
-    ]
+    "all_courses": ["ARTS 102", "ARTS 103", "ARTS 111"]
   },
   {
     "name": "S Naeem",
-    "departments": [
-      "ARTS"
-    ],
+    "departments": ["ARTS"],
     "current_courses": [
       {
         "course_code": "ARTS 103",
@@ -89,19 +74,11 @@
         "unique": "ARTS 201/A"
       }
     ],
-    "all_courses": [
-      "ARTS 102",
-      "ARTS 103",
-      "ARTS 121",
-      "ARTS 201",
-      "ARTS 211"
-    ]
+    "all_courses": ["ARTS 102", "ARTS 103", "ARTS 121", "ARTS 201", "ARTS 211"]
   },
   {
     "name": "I  Khokhar",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [
       {
         "course_code": "BIOL 100",
@@ -128,18 +105,11 @@
         "unique": "BIOL 319/A"
       }
     ],
-    "all_courses": [
-      "BIOL 100",
-      "BIOL 221",
-      "BIOL 319",
-      "BIOL 469"
-    ]
+    "all_courses": ["BIOL 100", "BIOL 221", "BIOL 319", "BIOL 469"]
   },
   {
     "name": "S Dogar",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [
       {
         "course_code": "BIOL 100",
@@ -166,17 +136,11 @@
         "unique": "BIOL 105/B"
       }
     ],
-    "all_courses": [
-      "BIOL 100",
-      "BIOL 105",
-      "BIOL 201"
-    ]
+    "all_courses": ["BIOL 100", "BIOL 105", "BIOL 201"]
   },
   {
     "name": "R Hassan",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [
       {
         "course_code": "BIOL 100",
@@ -187,15 +151,11 @@
         "unique": "BIOL 100/C"
       }
     ],
-    "all_courses": [
-      "BIOL 100"
-    ]
+    "all_courses": ["BIOL 100"]
   },
   {
     "name": "B Sadiq",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [
       {
         "course_code": "BIOL 100",
@@ -206,16 +166,11 @@
         "unique": "BIOL 100/E"
       }
     ],
-    "all_courses": [
-      "BIOL 100",
-      "BIOL 415"
-    ]
+    "all_courses": ["BIOL 100", "BIOL 415"]
   },
   {
     "name": "I Ul Haq",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [
       {
         "course_code": "BIOL 100",
@@ -226,15 +181,11 @@
         "unique": "BIOL 100/G"
       }
     ],
-    "all_courses": [
-      "BIOL 100"
-    ]
+    "all_courses": ["BIOL 100"]
   },
   {
     "name": "M Imran",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [
       {
         "course_code": "BIOL 100",
@@ -245,16 +196,11 @@
         "unique": "BIOL 100/H"
       }
     ],
-    "all_courses": [
-      "BIOL 100",
-      "BIOL 473"
-    ]
+    "all_courses": ["BIOL 100", "BIOL 473"]
   },
   {
     "name": "K Muaz",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [
       {
         "course_code": "BIOL 100",
@@ -265,15 +211,11 @@
         "unique": "BIOL 100/I"
       }
     ],
-    "all_courses": [
-      "BIOL 100"
-    ]
+    "all_courses": ["BIOL 100"]
   },
   {
     "name": "A Khan",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [
       {
         "course_code": "BIOL 102",
@@ -292,17 +234,11 @@
         "unique": "BIOL 221/A"
       }
     ],
-    "all_courses": [
-      "BIOL 102",
-      "BIOL 221",
-      "BIOL 403"
-    ]
+    "all_courses": ["BIOL 102", "BIOL 221", "BIOL 403"]
   },
   {
     "name": "S Butt",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [
       {
         "course_code": "BIOL 105",
@@ -337,19 +273,11 @@
         "unique": "BIOL 329/IS"
       }
     ],
-    "all_courses": [
-      "BIOL 100",
-      "BIOL 105",
-      "BIOL 222",
-      "BIOL 325",
-      "BIOL 329"
-    ]
+    "all_courses": ["BIOL 100", "BIOL 105", "BIOL 222", "BIOL 325", "BIOL 329"]
   },
   {
     "name": "Team",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [
       {
         "course_code": "BIOL 201",
@@ -360,16 +288,11 @@
         "unique": "BIOL 201/A"
       }
     ],
-    "all_courses": [
-      "BIOL 201",
-      "BIOL 412"
-    ]
+    "all_courses": ["BIOL 201", "BIOL 412"]
   },
   {
     "name": "A Maqbool",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [
       {
         "course_code": "BIOL 203",
@@ -380,15 +303,11 @@
         "unique": "BIOL 203/A"
       }
     ],
-    "all_courses": [
-      "BIOL 203"
-    ]
+    "all_courses": ["BIOL 203"]
   },
   {
     "name": "S Hanook",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [
       {
         "course_code": "BIOL 212",
@@ -399,15 +318,11 @@
         "unique": "BIOL 212/A"
       }
     ],
-    "all_courses": [
-      "BIOL 212"
-    ]
+    "all_courses": ["BIOL 212"]
   },
   {
     "name": "M Hussain",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [
       {
         "course_code": "BIOL 313",
@@ -418,16 +333,11 @@
         "unique": "BIOL 313/A"
       }
     ],
-    "all_courses": [
-      "BIOL 102",
-      "BIOL 313"
-    ]
+    "all_courses": ["BIOL 102", "BIOL 313"]
   },
   {
     "name": "S Mehnaz",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [
       {
         "course_code": "BIOL 315",
@@ -438,16 +348,11 @@
         "unique": "BIOL 315/A"
       }
     ],
-    "all_courses": [
-      "BIOL 315",
-      "BIOL 331"
-    ]
+    "all_courses": ["BIOL 315", "BIOL 331"]
   },
   {
     "name": "S Akram",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [
       {
         "course_code": "BIOL 323",
@@ -458,15 +363,11 @@
         "unique": "BIOL 323/A"
       }
     ],
-    "all_courses": [
-      "BIOL 323"
-    ]
+    "all_courses": ["BIOL 323"]
   },
   {
     "name": "A  Arshad",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [
       {
         "course_code": "BIOL 330",
@@ -477,15 +378,11 @@
         "unique": "BIOL 330/A"
       }
     ],
-    "all_courses": [
-      "BIOL 330"
-    ]
+    "all_courses": ["BIOL 330"]
   },
   {
     "name": "S Aslam",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [
       {
         "course_code": "BIOL 411",
@@ -496,15 +393,11 @@
         "unique": "BIOL 411/A"
       }
     ],
-    "all_courses": [
-      "BIOL 411"
-    ]
+    "all_courses": ["BIOL 411"]
   },
   {
     "name": "S Ali",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [
       {
         "course_code": "BIOT 201",
@@ -531,17 +424,11 @@
         "unique": "BIOT 309/A"
       }
     ],
-    "all_courses": [
-      "BIOT 201",
-      "BIOT 301",
-      "BIOT 309"
-    ]
+    "all_courses": ["BIOT 201", "BIOT 301", "BIOT 309"]
   },
   {
     "name": "M Imran",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [
       {
         "course_code": "BIOT 201",
@@ -568,17 +455,11 @@
         "unique": "BIOT 706/A"
       }
     ],
-    "all_courses": [
-      "BIOT 201",
-      "BIOT 211",
-      "BIOT 706"
-    ]
+    "all_courses": ["BIOT 201", "BIOT 211", "BIOT 706"]
   },
   {
     "name": "A Maqbool",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [
       {
         "course_code": "BIOT 202",
@@ -597,16 +478,11 @@
         "unique": "BIOT 313/A"
       }
     ],
-    "all_courses": [
-      "BIOT 202",
-      "BIOT 313"
-    ]
+    "all_courses": ["BIOT 202", "BIOT 313"]
   },
   {
     "name": "M Hussain",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [
       {
         "course_code": "BIOT 302",
@@ -617,15 +493,11 @@
         "unique": "BIOT 302/A"
       }
     ],
-    "all_courses": [
-      "BIOT 302"
-    ]
+    "all_courses": ["BIOT 302"]
   },
   {
     "name": "K Malik",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [
       {
         "course_code": "BIOT 305",
@@ -636,15 +508,11 @@
         "unique": "BIOT 305/A"
       }
     ],
-    "all_courses": [
-      "BIOT 305"
-    ]
+    "all_courses": ["BIOT 305"]
   },
   {
     "name": "A  Arshad",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [
       {
         "course_code": "BIOT 307",
@@ -655,16 +523,11 @@
         "unique": "BIOT 307/A"
       }
     ],
-    "all_courses": [
-      "BIOT 307",
-      "BIOT 609"
-    ]
+    "all_courses": ["BIOT 307", "BIOT 609"]
   },
   {
     "name": "A Khan",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [
       {
         "course_code": "BIOT 314",
@@ -675,15 +538,11 @@
         "unique": "BIOT 314/A"
       }
     ],
-    "all_courses": [
-      "BIOT 314"
-    ]
+    "all_courses": ["BIOT 314"]
   },
   {
     "name": "M Irfan",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [
       {
         "course_code": "BIOT 315",
@@ -710,18 +569,11 @@
         "unique": "BIOT 504/A"
       }
     ],
-    "all_courses": [
-      "BIOT 301",
-      "BIOT 315",
-      "BIOT 411",
-      "BIOT 504"
-    ]
+    "all_courses": ["BIOT 301", "BIOT 315", "BIOT 411", "BIOT 504"]
   },
   {
     "name": "M Yousaf",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [
       {
         "course_code": "BIOT 316",
@@ -740,17 +592,11 @@
         "unique": "BIOT 412/A"
       }
     ],
-    "all_courses": [
-      "BIOT 313",
-      "BIOT 316",
-      "BIOT 412"
-    ]
+    "all_courses": ["BIOT 313", "BIOT 316", "BIOT 412"]
   },
   {
     "name": "A  Bashir",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [
       {
         "course_code": "BIOT 408",
@@ -769,18 +615,11 @@
         "unique": "BIOT 608/A"
       }
     ],
-    "all_courses": [
-      "BIOT 201",
-      "BIOT 301",
-      "BIOT 408",
-      "BIOT 608"
-    ]
+    "all_courses": ["BIOT 201", "BIOT 301", "BIOT 408", "BIOT 608"]
   },
   {
     "name": "I Ul Haq",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [
       {
         "course_code": "BIOT 409",
@@ -791,15 +630,11 @@
         "unique": "BIOT 409/A"
       }
     ],
-    "all_courses": [
-      "BIOT 409"
-    ]
+    "all_courses": ["BIOT 409"]
   },
   {
     "name": "B Sadiq",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [
       {
         "course_code": "BIOT 499",
@@ -939,9 +774,7 @@
   },
   {
     "name": "S Mehnaz",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [
       {
         "course_code": "BIOT 502",
@@ -952,16 +785,11 @@
         "unique": "BIOT 502/A"
       }
     ],
-    "all_courses": [
-      "BIOT 502",
-      "BIOT 710"
-    ]
+    "all_courses": ["BIOT 502", "BIOT 710"]
   },
   {
     "name": "R Hassan",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [
       {
         "course_code": "BIOT 601",
@@ -972,16 +800,11 @@
         "unique": "BIOT 601/A"
       }
     ],
-    "all_courses": [
-      "BIOT 601",
-      "BIOT 611"
-    ]
+    "all_courses": ["BIOT 601", "BIOT 611"]
   },
   {
     "name": "Team",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [
       {
         "course_code": "BIOT 701",
@@ -1000,19 +823,11 @@
         "unique": "BIOT 707/A"
       }
     ],
-    "all_courses": [
-      "BIOT 511",
-      "BIOT 701",
-      "BIOT 707",
-      "BIOT 712",
-      "BIOT 713"
-    ]
+    "all_courses": ["BIOT 511", "BIOT 701", "BIOT 707", "BIOT 712", "BIOT 713"]
   },
   {
     "name": "A Saddiqa",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 101",
@@ -1039,15 +854,11 @@
         "unique": "BUSN 101/C"
       }
     ],
-    "all_courses": [
-      "BUSN 101"
-    ]
+    "all_courses": ["BUSN 101"]
   },
   {
     "name": "H Walter",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 101",
@@ -1058,15 +869,11 @@
         "unique": "BUSN 101/D"
       }
     ],
-    "all_courses": [
-      "BUSN 101"
-    ]
+    "all_courses": ["BUSN 101"]
   },
   {
     "name": "H Dawood",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 101",
@@ -1093,15 +900,11 @@
         "unique": "BUSN 101/G"
       }
     ],
-    "all_courses": [
-      "BUSN 101"
-    ]
+    "all_courses": ["BUSN 101"]
   },
   {
     "name": "A Shahzad",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 101",
@@ -1120,15 +923,11 @@
         "unique": "BUSN 101/I"
       }
     ],
-    "all_courses": [
-      "BUSN 101"
-    ]
+    "all_courses": ["BUSN 101"]
   },
   {
     "name": "Q Zafar",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 101",
@@ -1171,19 +970,11 @@
         "unique": "BUSN 498/IS"
       }
     ],
-    "all_courses": [
-      "BUSN 101",
-      "BUSN 201",
-      "BUSN 321",
-      "BUSN 490",
-      "BUSN 498"
-    ]
+    "all_courses": ["BUSN 101", "BUSN 201", "BUSN 321", "BUSN 490", "BUSN 498"]
   },
   {
     "name": "M Usman",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 101",
@@ -1202,15 +993,11 @@
         "unique": "BUSN 101/O"
       }
     ],
-    "all_courses": [
-      "BUSN 101"
-    ]
+    "all_courses": ["BUSN 101"]
   },
   {
     "name": "S Hussain",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 170",
@@ -1237,16 +1024,11 @@
         "unique": "BUSN 170/C"
       }
     ],
-    "all_courses": [
-      "BUSN 170",
-      "BUSN 250"
-    ]
+    "all_courses": ["BUSN 170", "BUSN 250"]
   },
   {
     "name": "H Haroon",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 170",
@@ -1257,15 +1039,11 @@
         "unique": "BUSN 170/F"
       }
     ],
-    "all_courses": [
-      "BUSN 170"
-    ]
+    "all_courses": ["BUSN 170"]
   },
   {
     "name": "S Azariah",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 170",
@@ -1292,15 +1070,11 @@
         "unique": "BUSN 170/I"
       }
     ],
-    "all_courses": [
-      "BUSN 170"
-    ]
+    "all_courses": ["BUSN 170"]
   },
   {
     "name": "S Ephraim",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 170",
@@ -1311,15 +1085,11 @@
         "unique": "BUSN 170/J"
       }
     ],
-    "all_courses": [
-      "BUSN 170"
-    ]
+    "all_courses": ["BUSN 170"]
   },
   {
     "name": "K Kamran",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 170",
@@ -1330,15 +1100,11 @@
         "unique": "BUSN 170/K"
       }
     ],
-    "all_courses": [
-      "BUSN 170"
-    ]
+    "all_courses": ["BUSN 170"]
   },
   {
     "name": "S John",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 170",
@@ -1349,15 +1115,11 @@
         "unique": "BUSN 170/L"
       }
     ],
-    "all_courses": [
-      "BUSN 170"
-    ]
+    "all_courses": ["BUSN 170"]
   },
   {
     "name": "F Idrees",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 170",
@@ -1384,17 +1146,11 @@
         "unique": "BUSN 485/B"
       }
     ],
-    "all_courses": [
-      "BUSN 170",
-      "BUSN 370",
-      "BUSN 485"
-    ]
+    "all_courses": ["BUSN 170", "BUSN 370", "BUSN 485"]
   },
   {
     "name": "M Habib",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 170",
@@ -1413,16 +1169,11 @@
         "unique": "BUSN 170/O"
       }
     ],
-    "all_courses": [
-      "BUSN 170",
-      "BUSN 225"
-    ]
+    "all_courses": ["BUSN 170", "BUSN 225"]
   },
   {
     "name": "A Fateh",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 170",
@@ -1457,18 +1208,11 @@
         "unique": "BUSN 450/A"
       }
     ],
-    "all_courses": [
-      "BUSN 170",
-      "BUSN 250",
-      "BUSN 280",
-      "BUSN 450"
-    ]
+    "all_courses": ["BUSN 170", "BUSN 250", "BUSN 280", "BUSN 450"]
   },
   {
     "name": "K AMAD",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 201",
@@ -1487,16 +1231,11 @@
         "unique": "BUSN 201/C"
       }
     ],
-    "all_courses": [
-      "BUSN 121",
-      "BUSN 201"
-    ]
+    "all_courses": ["BUSN 121", "BUSN 201"]
   },
   {
     "name": "S Hamid",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 201",
@@ -1507,16 +1246,11 @@
         "unique": "BUSN 201/D"
       }
     ],
-    "all_courses": [
-      "BUSN 201",
-      "BUSN 305"
-    ]
+    "all_courses": ["BUSN 201", "BUSN 305"]
   },
   {
     "name": "A Ali",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 201",
@@ -1527,15 +1261,11 @@
         "unique": "BUSN 201/F"
       }
     ],
-    "all_courses": [
-      "BUSN 201"
-    ]
+    "all_courses": ["BUSN 201"]
   },
   {
     "name": "U Sharif",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 201",
@@ -1570,16 +1300,11 @@
         "unique": "BUSN 201/J"
       }
     ],
-    "all_courses": [
-      "BUSN 201",
-      "BUSN 225"
-    ]
+    "all_courses": ["BUSN 201", "BUSN 225"]
   },
   {
     "name": "A Rashid",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 201",
@@ -1614,17 +1339,11 @@
         "unique": "BUSN 404/B"
       }
     ],
-    "all_courses": [
-      "BUSN 201",
-      "BUSN 206",
-      "BUSN 404"
-    ]
+    "all_courses": ["BUSN 201", "BUSN 206", "BUSN 404"]
   },
   {
     "name": "A George",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 206",
@@ -1667,17 +1386,11 @@
         "unique": "BUSN 321/I"
       }
     ],
-    "all_courses": [
-      "BUSN 206",
-      "BUSN 321",
-      "BUSN 531"
-    ]
+    "all_courses": ["BUSN 206", "BUSN 321", "BUSN 531"]
   },
   {
     "name": "R John",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 230",
@@ -1712,16 +1425,11 @@
         "unique": "BUSN 230/D"
       }
     ],
-    "all_courses": [
-      "BUSN 160",
-      "BUSN 230"
-    ]
+    "all_courses": ["BUSN 160", "BUSN 230"]
   },
   {
     "name": "Ambreen K",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 230",
@@ -1756,16 +1464,11 @@
         "unique": "BUSN 230/H"
       }
     ],
-    "all_courses": [
-      "BUSN 121",
-      "BUSN 230"
-    ]
+    "all_courses": ["BUSN 121", "BUSN 230"]
   },
   {
     "name": "Afaf k",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 230",
@@ -1792,17 +1495,11 @@
         "unique": "BUSN 550/B"
       }
     ],
-    "all_courses": [
-      "BUSN 230",
-      "BUSN 250",
-      "BUSN 550"
-    ]
+    "all_courses": ["BUSN 230", "BUSN 250", "BUSN 550"]
   },
   {
     "name": "B Usman",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 230",
@@ -1845,18 +1542,11 @@
         "unique": "BUSN 570/A"
       }
     ],
-    "all_courses": [
-      "BUSN 230",
-      "BUSN 498",
-      "BUSN 570",
-      "BUSN 625"
-    ]
+    "all_courses": ["BUSN 230", "BUSN 498", "BUSN 570", "BUSN 625"]
   },
   {
     "name": "A Sharif",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 280",
@@ -1883,15 +1573,11 @@
         "unique": "BUSN 280/J"
       }
     ],
-    "all_courses": [
-      "BUSN 280"
-    ]
+    "all_courses": ["BUSN 280"]
   },
   {
     "name": "U Javaid",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 280",
@@ -1910,17 +1596,11 @@
         "unique": "BUSN 280/C"
       }
     ],
-    "all_courses": [
-      "BUSN 280",
-      "BUSN 382",
-      "BUSN 484"
-    ]
+    "all_courses": ["BUSN 280", "BUSN 382", "BUSN 484"]
   },
   {
     "name": "E Akhtar",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 280",
@@ -1931,15 +1611,11 @@
         "unique": "BUSN 280/D"
       }
     ],
-    "all_courses": [
-      "BUSN 280"
-    ]
+    "all_courses": ["BUSN 280"]
   },
   {
     "name": "N Akhtar",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 280",
@@ -1950,15 +1626,11 @@
         "unique": "BUSN 280/E"
       }
     ],
-    "all_courses": [
-      "BUSN 280"
-    ]
+    "all_courses": ["BUSN 280"]
   },
   {
     "name": "A Aman",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 280",
@@ -1977,15 +1649,11 @@
         "unique": "BUSN 280/G"
       }
     ],
-    "all_courses": [
-      "BUSN 280"
-    ]
+    "all_courses": ["BUSN 280"]
   },
   {
     "name": "K Mahmood",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 280",
@@ -2012,16 +1680,11 @@
         "unique": "BUSN 383/C"
       }
     ],
-    "all_courses": [
-      "BUSN 280",
-      "BUSN 383"
-    ]
+    "all_courses": ["BUSN 280", "BUSN 383"]
   },
   {
     "name": "T Alvi",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 280",
@@ -2048,18 +1711,11 @@
         "unique": "BUSN 385/D"
       }
     ],
-    "all_courses": [
-      "BUSN 250",
-      "BUSN 280",
-      "BUSN 382",
-      "BUSN 385"
-    ]
+    "all_courses": ["BUSN 250", "BUSN 280", "BUSN 382", "BUSN 385"]
   },
   {
     "name": "I Nasir",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 280",
@@ -2094,19 +1750,11 @@
         "unique": "BUSN 385/B"
       }
     ],
-    "all_courses": [
-      "BUSN 160",
-      "BUSN 280",
-      "BUSN 382",
-      "BUSN 385",
-      "BUSN 484"
-    ]
+    "all_courses": ["BUSN 160", "BUSN 280", "BUSN 382", "BUSN 385", "BUSN 484"]
   },
   {
     "name": "A Ali Shah",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 301",
@@ -2141,19 +1789,11 @@
         "unique": "BUSN 501/B"
       }
     ],
-    "all_courses": [
-      "BUSN 206",
-      "BUSN 301",
-      "BUSN 410",
-      "BUSN 501",
-      "BUSN 506"
-    ]
+    "all_courses": ["BUSN 206", "BUSN 301", "BUSN 410", "BUSN 501", "BUSN 506"]
   },
   {
     "name": "S Ehsan",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 321",
@@ -2164,15 +1804,11 @@
         "unique": "BUSN 321/A"
       }
     ],
-    "all_courses": [
-      "BUSN 321"
-    ]
+    "all_courses": ["BUSN 321"]
   },
   {
     "name": "M Rao",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 321",
@@ -2207,19 +1843,11 @@
         "unique": "BUSN 501/A"
       }
     ],
-    "all_courses": [
-      "BUSN 206",
-      "BUSN 321",
-      "BUSN 322",
-      "BUSN 501",
-      "BUSN 531"
-    ]
+    "all_courses": ["BUSN 206", "BUSN 321", "BUSN 322", "BUSN 501", "BUSN 531"]
   },
   {
     "name": "A Chughtai",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 350",
@@ -2238,17 +1866,11 @@
         "unique": "BUSN 550/A"
       }
     ],
-    "all_courses": [
-      "BUSN 250",
-      "BUSN 350",
-      "BUSN 550"
-    ]
+    "all_courses": ["BUSN 250", "BUSN 350", "BUSN 550"]
   },
   {
     "name": "I yusuf",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 360",
@@ -2296,9 +1918,7 @@
   },
   {
     "name": "S Ashgar",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 360",
@@ -2309,15 +1929,11 @@
         "unique": "BUSN 360/C"
       }
     ],
-    "all_courses": [
-      "BUSN 360"
-    ]
+    "all_courses": ["BUSN 360"]
   },
   {
     "name": "S Nazir",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 360",
@@ -2343,9 +1959,7 @@
   },
   {
     "name": "A Ramish",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 360",
@@ -2364,17 +1978,11 @@
         "unique": "BUSN 360/F"
       }
     ],
-    "all_courses": [
-      "BUSN 360",
-      "BUSN 560",
-      "BUSN 571"
-    ]
+    "all_courses": ["BUSN 360", "BUSN 560", "BUSN 571"]
   },
   {
     "name": "S Bilal",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 360",
@@ -2409,17 +2017,11 @@
         "unique": "BUSN 360/J"
       }
     ],
-    "all_courses": [
-      "BUSN 360",
-      "BUSN 361",
-      "BUSN 368"
-    ]
+    "all_courses": ["BUSN 360", "BUSN 361", "BUSN 368"]
   },
   {
     "name": "A Mughal",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 364",
@@ -2446,17 +2048,11 @@
         "unique": "BUSN 510/A"
       }
     ],
-    "all_courses": [
-      "BUSN 160",
-      "BUSN 364",
-      "BUSN 510"
-    ]
+    "all_courses": ["BUSN 160", "BUSN 364", "BUSN 510"]
   },
   {
     "name": "M Q Khan",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 383",
@@ -2502,9 +2098,7 @@
   },
   {
     "name": "F Mazhar",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 383",
@@ -2515,15 +2109,11 @@
         "unique": "BUSN 383/E"
       }
     ],
-    "all_courses": [
-      "BUSN 383"
-    ]
+    "all_courses": ["BUSN 383"]
   },
   {
     "name": "Z Khan",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 385",
@@ -2534,15 +2124,11 @@
         "unique": "BUSN 385/E"
       }
     ],
-    "all_courses": [
-      "BUSN 385"
-    ]
+    "all_courses": ["BUSN 385"]
   },
   {
     "name": "I Ahmed",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 404",
@@ -2561,18 +2147,11 @@
         "unique": "BUSN 622/A"
       }
     ],
-    "all_courses": [
-      "BUSN 404",
-      "BUSN 601",
-      "BUSN 622",
-      "BUSN 695"
-    ]
+    "all_courses": ["BUSN 404", "BUSN 601", "BUSN 622", "BUSN 695"]
   },
   {
     "name": "J Akhtar",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 410",
@@ -2583,15 +2162,11 @@
         "unique": "BUSN 410/A"
       }
     ],
-    "all_courses": [
-      "BUSN 410"
-    ]
+    "all_courses": ["BUSN 410"]
   },
   {
     "name": "F Tasneem",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 451",
@@ -2610,19 +2185,11 @@
         "unique": "BUSN 650/A"
       }
     ],
-    "all_courses": [
-      "BUSN 353",
-      "BUSN 354",
-      "BUSN 451",
-      "BUSN 453",
-      "BUSN 650"
-    ]
+    "all_courses": ["BUSN 353", "BUSN 354", "BUSN 451", "BUSN 453", "BUSN 650"]
   },
   {
     "name": "A Malik",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 460",
@@ -2633,15 +2200,11 @@
         "unique": "BUSN 460/A"
       }
     ],
-    "all_courses": [
-      "BUSN 460"
-    ]
+    "all_courses": ["BUSN 460"]
   },
   {
     "name": "S haroon",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 460",
@@ -2652,15 +2215,11 @@
         "unique": "BUSN 460/C"
       }
     ],
-    "all_courses": [
-      "BUSN 460"
-    ]
+    "all_courses": ["BUSN 460"]
   },
   {
     "name": "H Arshad",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 460",
@@ -2671,15 +2230,11 @@
         "unique": "BUSN 460/D"
       }
     ],
-    "all_courses": [
-      "BUSN 460"
-    ]
+    "all_courses": ["BUSN 460"]
   },
   {
     "name": "R Hussain",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 460",
@@ -2690,15 +2245,11 @@
         "unique": "BUSN 460/E"
       }
     ],
-    "all_courses": [
-      "BUSN 460"
-    ]
+    "all_courses": ["BUSN 460"]
   },
   {
     "name": "Naumaan Ch",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 460",
@@ -2733,16 +2284,11 @@
         "unique": "BUSN 460/I"
       }
     ],
-    "all_courses": [
-      "BUSN 305",
-      "BUSN 460"
-    ]
+    "all_courses": ["BUSN 305", "BUSN 460"]
   },
   {
     "name": "A Ibrahim",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 461",
@@ -2753,15 +2299,11 @@
         "unique": "BUSN 461/A"
       }
     ],
-    "all_courses": [
-      "BUSN 461"
-    ]
+    "all_courses": ["BUSN 461"]
   },
   {
     "name": "F Malik",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 461",
@@ -2788,18 +2330,11 @@
         "unique": "BUSN 469/IS"
       }
     ],
-    "all_courses": [
-      "BUSN 461",
-      "BUSN 464",
-      "BUSN 469",
-      "BUSN 670"
-    ]
+    "all_courses": ["BUSN 461", "BUSN 464", "BUSN 469", "BUSN 670"]
   },
   {
     "name": "M Farrukh",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 480",
@@ -2818,15 +2353,11 @@
         "unique": "BUSN 480/B"
       }
     ],
-    "all_courses": [
-      "BUSN 480"
-    ]
+    "all_courses": ["BUSN 480"]
   },
   {
     "name": "A Nawaz",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 480",
@@ -2845,16 +2376,11 @@
         "unique": "BUSN 480/D"
       }
     ],
-    "all_courses": [
-      "BUSN 480",
-      "BUSN 585"
-    ]
+    "all_courses": ["BUSN 480", "BUSN 585"]
   },
   {
     "name": "S Ahmed",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 485",
@@ -2881,17 +2407,11 @@
         "unique": "BUSN 630/A"
       }
     ],
-    "all_courses": [
-      "BUSN 370",
-      "BUSN 485",
-      "BUSN 630"
-    ]
+    "all_courses": ["BUSN 370", "BUSN 485", "BUSN 630"]
   },
   {
     "name": "M Khalid",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 490",
@@ -2918,17 +2438,11 @@
         "unique": "BUSN 521/B"
       }
     ],
-    "all_courses": [
-      "BUSN 490",
-      "BUSN 521",
-      "BUSN 522"
-    ]
+    "all_courses": ["BUSN 490", "BUSN 521", "BUSN 522"]
   },
   {
     "name": "I Munir",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 570",
@@ -2939,15 +2453,11 @@
         "unique": "BUSN 570/B"
       }
     ],
-    "all_courses": [
-      "BUSN 570"
-    ]
+    "all_courses": ["BUSN 570"]
   },
   {
     "name": "W Khan",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 640",
@@ -2966,19 +2476,11 @@
         "unique": "BUSN 690/A"
       }
     ],
-    "all_courses": [
-      "BUSN 506",
-      "BUSN 605",
-      "BUSN 640",
-      "BUSN 690",
-      "BUSN 692"
-    ]
+    "all_courses": ["BUSN 506", "BUSN 605", "BUSN 640", "BUSN 690", "BUSN 692"]
   },
   {
     "name": "R Hashim",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [
       {
         "course_code": "BUSN 660",
@@ -2989,15 +2491,11 @@
         "unique": "BUSN 660/A"
       }
     ],
-    "all_courses": [
-      "BUSN 660"
-    ]
+    "all_courses": ["BUSN 660"]
   },
   {
     "name": "S Nazir",
-    "departments": [
-      "CHEM"
-    ],
+    "departments": ["CHEM"],
     "current_courses": [
       {
         "course_code": "CHEM 100",
@@ -3008,15 +2506,11 @@
         "unique": "CHEM 100/A"
       }
     ],
-    "all_courses": [
-      "CHEM 100"
-    ]
+    "all_courses": ["CHEM 100"]
   },
   {
     "name": "M Qamar",
-    "departments": [
-      "CHEM"
-    ],
+    "departments": ["CHEM"],
     "current_courses": [
       {
         "course_code": "CHEM 100",
@@ -3080,9 +2574,7 @@
   },
   {
     "name": "M Asghar",
-    "departments": [
-      "CHEM"
-    ],
+    "departments": ["CHEM"],
     "current_courses": [
       {
         "course_code": "CHEM 100",
@@ -3128,9 +2620,7 @@
   },
   {
     "name": "RChaudhery",
-    "departments": [
-      "CHEM"
-    ],
+    "departments": ["CHEM"],
     "current_courses": [
       {
         "course_code": "CHEM 100",
@@ -3149,16 +2639,11 @@
         "unique": "CHEM 160/B"
       }
     ],
-    "all_courses": [
-      "CHEM 100",
-      "CHEM 160"
-    ]
+    "all_courses": ["CHEM 100", "CHEM 160"]
   },
   {
     "name": "S Jelani",
-    "departments": [
-      "CHEM"
-    ],
+    "departments": ["CHEM"],
     "current_courses": [
       {
         "course_code": "CHEM 100",
@@ -3196,9 +2681,7 @@
   },
   {
     "name": "H Abid",
-    "departments": [
-      "CHEM"
-    ],
+    "departments": ["CHEM"],
     "current_courses": [
       {
         "course_code": "CHEM 100",
@@ -3225,17 +2708,11 @@
         "unique": "CHEM 320/A"
       }
     ],
-    "all_courses": [
-      "CHEM 100",
-      "CHEM 150",
-      "CHEM 320"
-    ]
+    "all_courses": ["CHEM 100", "CHEM 150", "CHEM 320"]
   },
   {
     "name": "S Azeem",
-    "departments": [
-      "CHEM"
-    ],
+    "departments": ["CHEM"],
     "current_courses": [
       {
         "course_code": "CHEM 150",
@@ -3379,9 +2856,7 @@
   },
   {
     "name": "D Ahmed",
-    "departments": [
-      "CHEM"
-    ],
+    "departments": ["CHEM"],
     "current_courses": [
       {
         "course_code": "CHEM 160",
@@ -3428,9 +2903,7 @@
   },
   {
     "name": "A Hussain",
-    "departments": [
-      "CHEM"
-    ],
+    "departments": ["CHEM"],
     "current_courses": [
       {
         "course_code": "CHEM 170",
@@ -3457,19 +2930,11 @@
         "unique": "CHEM 566/A"
       }
     ],
-    "all_courses": [
-      "CHEM 100",
-      "CHEM 170",
-      "CHEM 270",
-      "CHEM 473",
-      "CHEM 566"
-    ]
+    "all_courses": ["CHEM 100", "CHEM 170", "CHEM 270", "CHEM 473", "CHEM 566"]
   },
   {
     "name": "M Rashida",
-    "departments": [
-      "CHEM"
-    ],
+    "departments": ["CHEM"],
     "current_courses": [
       {
         "course_code": "CHEM 250",
@@ -3507,9 +2972,7 @@
   },
   {
     "name": "M Iqbal",
-    "departments": [
-      "CHEM"
-    ],
+    "departments": ["CHEM"],
     "current_courses": [
       {
         "course_code": "CHEM 413",
@@ -3536,18 +2999,11 @@
         "unique": "CHEM 703/A"
       }
     ],
-    "all_courses": [
-      "CHEM 250",
-      "CHEM 413",
-      "CHEM 526",
-      "CHEM 703"
-    ]
+    "all_courses": ["CHEM 250", "CHEM 413", "CHEM 526", "CHEM 703"]
   },
   {
     "name": "Team",
-    "departments": [
-      "CHEM"
-    ],
+    "departments": ["CHEM"],
     "current_courses": [
       {
         "course_code": "CHEM 799E",
@@ -3558,15 +3014,11 @@
         "unique": "CHEM 799E/E"
       }
     ],
-    "all_courses": [
-      "CHEM 799E"
-    ]
+    "all_courses": ["CHEM 799E"]
   },
   {
     "name": "Z Kexin",
-    "departments": [
-      "CHIN"
-    ],
+    "departments": ["CHIN"],
     "current_courses": [
       {
         "course_code": "CHIN 101",
@@ -3577,15 +3029,11 @@
         "unique": "CHIN 101/A"
       }
     ],
-    "all_courses": [
-      "CHIN 101"
-    ]
+    "all_courses": ["CHIN 101"]
   },
   {
     "name": "M Wei",
-    "departments": [
-      "CHIN"
-    ],
+    "departments": ["CHIN"],
     "current_courses": [
       {
         "course_code": "CHIN 101",
@@ -3604,15 +3052,11 @@
         "unique": "CHIN 101/C"
       }
     ],
-    "all_courses": [
-      "CHIN 101"
-    ]
+    "all_courses": ["CHIN 101"]
   },
   {
     "name": "F Shaheen",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 102",
@@ -3639,17 +3083,11 @@
         "unique": "COMP 113/B"
       }
     ],
-    "all_courses": [
-      "COMP 102",
-      "COMP 111",
-      "COMP 113"
-    ]
+    "all_courses": ["COMP 102", "COMP 111", "COMP 113"]
   },
   {
     "name": "S Qureshi",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 102",
@@ -3668,16 +3106,11 @@
         "unique": "COMP 200/C"
       }
     ],
-    "all_courses": [
-      "COMP 102",
-      "COMP 200"
-    ]
+    "all_courses": ["COMP 102", "COMP 200"]
   },
   {
     "name": "Q Quraishi",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 102",
@@ -3696,18 +3129,11 @@
         "unique": "COMP 360/B"
       }
     ],
-    "all_courses": [
-      "COMP 102",
-      "COMP 111",
-      "COMP 360",
-      "COMP 552"
-    ]
+    "all_courses": ["COMP 102", "COMP 111", "COMP 360", "COMP 552"]
   },
   {
     "name": "U  Nisar",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 102",
@@ -3726,16 +3152,11 @@
         "unique": "COMP 360/A"
       }
     ],
-    "all_courses": [
-      "COMP 102",
-      "COMP 360"
-    ]
+    "all_courses": ["COMP 102", "COMP 360"]
   },
   {
     "name": "Z Malik",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 102",
@@ -3746,15 +3167,11 @@
         "unique": "COMP 102/F"
       }
     ],
-    "all_courses": [
-      "COMP 102"
-    ]
+    "all_courses": ["COMP 102"]
   },
   {
     "name": "N Ashraf",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 111",
@@ -3781,17 +3198,11 @@
         "unique": "COMP 200/B"
       }
     ],
-    "all_courses": [
-      "ARTS 102",
-      "COMP 111",
-      "COMP 200"
-    ]
+    "all_courses": ["COMP 111", "COMP 200"]
   },
   {
     "name": "M Chaudhry",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 113",
@@ -3818,16 +3229,11 @@
         "unique": "COMP 301/B"
       }
     ],
-    "all_courses": [
-      "COMP 113",
-      "COMP 301"
-    ]
+    "all_courses": ["COMP 113", "COMP 301"]
   },
   {
     "name": "S Minhas",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 206",
@@ -3854,15 +3260,11 @@
         "unique": "COMP 206/C"
       }
     ],
-    "all_courses": [
-      "COMP 206"
-    ]
+    "all_courses": ["COMP 206"]
   },
   {
     "name": "S Abbasi",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 213",
@@ -3881,16 +3283,11 @@
         "unique": "COMP 213/B"
       }
     ],
-    "all_courses": [
-      "COMP 213",
-      "COMP 405"
-    ]
+    "all_courses": ["COMP 213", "COMP 405"]
   },
   {
     "name": "N Sabahat",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 213",
@@ -3909,16 +3306,11 @@
         "unique": "COMP 220/A"
       }
     ],
-    "all_courses": [
-      "COMP 213",
-      "COMP 220"
-    ]
+    "all_courses": ["COMP 213", "COMP 220"]
   },
   {
     "name": "S Toor",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 220",
@@ -3929,15 +3321,11 @@
         "unique": "COMP 220/B"
       }
     ],
-    "all_courses": [
-      "COMP 220"
-    ]
+    "all_courses": ["COMP 220"]
   },
   {
     "name": "A Khan",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 300",
@@ -3948,16 +3336,11 @@
         "unique": "COMP 300/A"
       }
     ],
-    "all_courses": [
-      "COMP 300",
-      "COMP 664"
-    ]
+    "all_courses": ["COMP 300", "COMP 664"]
   },
   {
     "name": "I Iqbal",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 300",
@@ -3976,16 +3359,11 @@
         "unique": "COMP 410/A"
       }
     ],
-    "all_courses": [
-      "COMP 300",
-      "COMP 410"
-    ]
+    "all_courses": ["COMP 300", "COMP 410"]
   },
   {
     "name": "M Butt",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 301",
@@ -4004,17 +3382,11 @@
         "unique": "COMP 451/B"
       }
     ],
-    "all_courses": [
-      "COMP 301",
-      "COMP 421",
-      "COMP 451"
-    ]
+    "all_courses": ["COMP 301", "COMP 421", "COMP 451"]
   },
   {
     "name": "A Yousaf",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 302",
@@ -4033,15 +3405,11 @@
         "unique": "COMP 302/B"
       }
     ],
-    "all_courses": [
-      "COMP 302"
-    ]
+    "all_courses": ["COMP 302"]
   },
   {
     "name": "R Bqa",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 302",
@@ -4076,17 +3444,11 @@
         "unique": "COMP 502/IS"
       }
     ],
-    "all_courses": [
-      "COMP 302",
-      "COMP 303",
-      "COMP 502"
-    ]
+    "all_courses": ["COMP 302", "COMP 303", "COMP 502"]
   },
   {
     "name": "M Mushtaq",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 311",
@@ -4165,9 +3527,7 @@
   },
   {
     "name": "A Basharat",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 311",
@@ -4202,17 +3562,11 @@
         "unique": "COMP 451/A"
       }
     ],
-    "all_courses": [
-      "COMP 311",
-      "COMP 421",
-      "COMP 451"
-    ]
+    "all_courses": ["COMP 311", "COMP 421", "COMP 451"]
   },
   {
     "name": "S Nasim",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 401",
@@ -4247,16 +3601,11 @@
         "unique": "COMP 410/B"
       }
     ],
-    "all_courses": [
-      "COMP 401",
-      "COMP 410"
-    ]
+    "all_courses": ["COMP 401", "COMP 410"]
   },
   {
     "name": "S Saleem",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 421",
@@ -4267,15 +3616,11 @@
         "unique": "COMP 421/B"
       }
     ],
-    "all_courses": [
-      "COMP 421"
-    ]
+    "all_courses": ["COMP 421"]
   },
   {
     "name": "F Ullah",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [
       {
         "course_code": "COMP 554",
@@ -4286,15 +3631,11 @@
         "unique": "COMP 554/A"
       }
     ],
-    "all_courses": [
-      "COMP 554"
-    ]
+    "all_courses": ["COMP 554"]
   },
   {
     "name": "R Chaudhry",
-    "departments": [
-      "CPPG"
-    ],
+    "departments": ["CPPG"],
     "current_courses": [
       {
         "course_code": "CPPG 601",
@@ -4313,18 +3654,11 @@
         "unique": "CPPG 615/A"
       }
     ],
-    "all_courses": [
-      "CPPG 601",
-      "CPPG 615",
-      "CPPG 618",
-      "CPPG 677"
-    ]
+    "all_courses": ["CPPG 601", "CPPG 615", "CPPG 618", "CPPG 677"]
   },
   {
     "name": "M Rovidad",
-    "departments": [
-      "CPPG"
-    ],
+    "departments": ["CPPG"],
     "current_courses": [
       {
         "course_code": "CPPG 602",
@@ -4343,18 +3677,11 @@
         "unique": "CPPG 617/A"
       }
     ],
-    "all_courses": [
-      "CPPG 602",
-      "CPPG 616",
-      "CPPG 617",
-      "CPPG 704"
-    ]
+    "all_courses": ["CPPG 602", "CPPG 616", "CPPG 617", "CPPG 704"]
   },
   {
     "name": "W Azim",
-    "departments": [
-      "CPPG"
-    ],
+    "departments": ["CPPG"],
     "current_courses": [
       {
         "course_code": "CPPG 626",
@@ -4373,18 +3700,11 @@
         "unique": "CPPG 679/A"
       }
     ],
-    "all_courses": [
-      "CPPG 606",
-      "CPPG 626",
-      "CPPG 679",
-      "CPPG 701"
-    ]
+    "all_courses": ["CPPG 606", "CPPG 626", "CPPG 679", "CPPG 701"]
   },
   {
     "name": "A Khoso",
-    "departments": [
-      "CPPG"
-    ],
+    "departments": ["CPPG"],
     "current_courses": [
       {
         "course_code": "CPPG 647",
@@ -4403,18 +3723,11 @@
         "unique": "CPPG 651/A"
       }
     ],
-    "all_courses": [
-      "CPPG 604",
-      "CPPG 642",
-      "CPPG 647",
-      "CPPG 651"
-    ]
+    "all_courses": ["CPPG 604", "CPPG 642", "CPPG 647", "CPPG 651"]
   },
   {
     "name": "N Khokhar",
-    "departments": [
-      "CPPG"
-    ],
+    "departments": ["CPPG"],
     "current_courses": [
       {
         "course_code": "CPPG 699A",
@@ -4486,9 +3799,7 @@
   },
   {
     "name": "S Shafqat",
-    "departments": [
-      "CPPG"
-    ],
+    "departments": ["CPPG"],
     "current_courses": [
       {
         "course_code": "CPPG 799C",
@@ -4507,18 +3818,11 @@
         "unique": "CPPG 799D/A"
       }
     ],
-    "all_courses": [
-      "CPPG 699E",
-      "CPPG 799C",
-      "CPPG 799D",
-      "CPPG 799E"
-    ]
+    "all_courses": ["CPPG 699E", "CPPG 799C", "CPPG 799D", "CPPG 799E"]
   },
   {
     "name": "R Wetmore",
-    "departments": [
-      "CRST"
-    ],
+    "departments": ["CRST"],
     "current_courses": [
       {
         "course_code": "CRST 151",
@@ -4582,9 +3886,7 @@
   },
   {
     "name": "Z West",
-    "departments": [
-      "CRST"
-    ],
+    "departments": ["CRST"],
     "current_courses": [
       {
         "course_code": "CRST 152",
@@ -4611,19 +3913,11 @@
         "unique": "CRST 271/A"
       }
     ],
-    "all_courses": [
-      "CRST 152",
-      "CRST 231",
-      "CRST 271",
-      "CRST 272",
-      "CRST 425"
-    ]
+    "all_courses": ["CRST 152", "CRST 231", "CRST 271", "CRST 272", "CRST 425"]
   },
   {
     "name": "D Ephraim",
-    "departments": [
-      "CRST"
-    ],
+    "departments": ["CRST"],
     "current_courses": [
       {
         "course_code": "CRST 152",
@@ -4650,17 +3944,11 @@
         "unique": "CRST 439B/A"
       }
     ],
-    "all_courses": [
-      "CRST 152",
-      "CRST 281",
-      "CRST 439B"
-    ]
+    "all_courses": ["CRST 152", "CRST 281", "CRST 439B"]
   },
   {
     "name": "K Pervaiz",
-    "departments": [
-      "CRST"
-    ],
+    "departments": ["CRST"],
     "current_courses": [
       {
         "course_code": "CRST 155",
@@ -4697,9 +3985,7 @@
   },
   {
     "name": "D Lanz",
-    "departments": [
-      "CRST"
-    ],
+    "departments": ["CRST"],
     "current_courses": [
       {
         "course_code": "CRST 331",
@@ -4746,9 +4032,7 @@
   },
   {
     "name": "W Davey",
-    "departments": [
-      "CRST"
-    ],
+    "departments": ["CRST"],
     "current_courses": [
       {
         "course_code": "CRST 371",
@@ -4812,9 +4096,7 @@
   },
   {
     "name": "S Toor",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 100",
@@ -4833,16 +4115,11 @@
         "unique": "CSCS 313/A"
       }
     ],
-    "all_courses": [
-      "CSCS 100",
-      "CSCS 313"
-    ]
+    "all_courses": ["CSCS 100", "CSCS 313"]
   },
   {
     "name": "S Saleem",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 100",
@@ -4861,16 +4138,11 @@
         "unique": "CSCS 482/A"
       }
     ],
-    "all_courses": [
-      "CSCS 100",
-      "CSCS 482"
-    ]
+    "all_courses": ["CSCS 100", "CSCS 482"]
   },
   {
     "name": "S Nasim",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 100",
@@ -4881,15 +4153,11 @@
         "unique": "CSCS 100/C"
       }
     ],
-    "all_courses": [
-      "CSCS 100"
-    ]
+    "all_courses": ["CSCS 100"]
   },
   {
     "name": "I Iqbal",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 100",
@@ -4900,16 +4168,11 @@
         "unique": "CSCS 100/D"
       }
     ],
-    "all_courses": [
-      "CSCS 100",
-      "CSCS 105"
-    ]
+    "all_courses": ["CSCS 100", "CSCS 105"]
   },
   {
     "name": "A Atique",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 100",
@@ -4936,16 +4199,11 @@
         "unique": "CSCS 290/A"
       }
     ],
-    "all_courses": [
-      "CSCS 100",
-      "CSCS 290"
-    ]
+    "all_courses": ["CSCS 100", "CSCS 290"]
   },
   {
     "name": "M Mushtaq",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 100",
@@ -4956,15 +4214,11 @@
         "unique": "CSCS 100/F"
       }
     ],
-    "all_courses": [
-      "CSCS 100"
-    ]
+    "all_courses": ["CSCS 100"]
   },
   {
     "name": "A Khan",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 100",
@@ -4975,15 +4229,11 @@
         "unique": "CSCS 100/H"
       }
     ],
-    "all_courses": [
-      "CSCS 100"
-    ]
+    "all_courses": ["CSCS 100"]
   },
   {
     "name": "N Sabahat",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 100",
@@ -4994,15 +4244,11 @@
         "unique": "CSCS 100/I"
       }
     ],
-    "all_courses": [
-      "CSCS 100"
-    ]
+    "all_courses": ["CSCS 100"]
   },
   {
     "name": "S Abbasi",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 100",
@@ -5013,15 +4259,11 @@
         "unique": "CSCS 100/J"
       }
     ],
-    "all_courses": [
-      "CSCS 100"
-    ]
+    "all_courses": ["CSCS 100"]
   },
   {
     "name": "Z Malik",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 100",
@@ -5040,17 +4282,11 @@
         "unique": "CSCS 405/A"
       }
     ],
-    "all_courses": [
-      "CSCS 100",
-      "CSCS 405",
-      "CSCS 475"
-    ]
+    "all_courses": ["CSCS 100", "CSCS 405", "CSCS 475"]
   },
   {
     "name": "Q Quraishi",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 100",
@@ -5061,16 +4297,11 @@
         "unique": "CSCS 100/L"
       }
     ],
-    "all_courses": [
-      "CSCS 100",
-      "CSCS 460"
-    ]
+    "all_courses": ["CSCS 100", "CSCS 460"]
   },
   {
     "name": "H Latif",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 105",
@@ -5081,15 +4312,11 @@
         "unique": "CSCS 105/C"
       }
     ],
-    "all_courses": [
-      "CSCS 105"
-    ]
+    "all_courses": ["CSCS 105"]
   },
   {
     "name": "A Rehman",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 105",
@@ -5100,15 +4327,11 @@
         "unique": "CSCS 105/D"
       }
     ],
-    "all_courses": [
-      "CSCS 105"
-    ]
+    "all_courses": ["CSCS 105"]
   },
   {
     "name": "F Jamil",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 201",
@@ -5119,16 +4342,11 @@
         "unique": "CSCS 201/A"
       }
     ],
-    "all_courses": [
-      "CSCS 201",
-      "CSCS 202"
-    ]
+    "all_courses": ["CSCS 201", "CSCS 202"]
   },
   {
     "name": "K Azhar",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 201",
@@ -5147,16 +4365,11 @@
         "unique": "CSCS 201/C"
       }
     ],
-    "all_courses": [
-      "CSCS 201",
-      "CSCS 320"
-    ]
+    "all_courses": ["CSCS 201", "CSCS 320"]
   },
   {
     "name": "F Ibraheem",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 202",
@@ -5183,17 +4396,11 @@
         "unique": "CSCS 320/B"
       }
     ],
-    "all_courses": [
-      "CSCS 202",
-      "CSCS 203",
-      "CSCS 320"
-    ]
+    "all_courses": ["CSCS 202", "CSCS 203", "CSCS 320"]
   },
   {
     "name": "F Janjua",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 202",
@@ -5204,16 +4411,11 @@
         "unique": "CSCS 202/B"
       }
     ],
-    "all_courses": [
-      "CSCS 201",
-      "CSCS 202"
-    ]
+    "all_courses": ["CSCS 201", "CSCS 202"]
   },
   {
     "name": "S Iqbal",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 202",
@@ -5224,17 +4426,11 @@
         "unique": "CSCS 202/C"
       }
     ],
-    "all_courses": [
-      "CSCS 202",
-      "CSCS 203",
-      "CSCS 320"
-    ]
+    "all_courses": ["CSCS 202", "CSCS 203", "CSCS 320"]
   },
   {
     "name": "B Haq",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 203",
@@ -5245,16 +4441,11 @@
         "unique": "CSCS 203/A"
       }
     ],
-    "all_courses": [
-      "CSCS 201",
-      "CSCS 203"
-    ]
+    "all_courses": ["CSCS 201", "CSCS 203"]
   },
   {
     "name": "W Hussain",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 203",
@@ -5273,15 +4464,11 @@
         "unique": "CSCS 203/C"
       }
     ],
-    "all_courses": [
-      "CSCS 203"
-    ]
+    "all_courses": ["CSCS 203"]
   },
   {
     "name": "A  Nadeem",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 320",
@@ -5292,15 +4479,11 @@
         "unique": "CSCS 320/C"
       }
     ],
-    "all_courses": [
-      "CSCS 320"
-    ]
+    "all_courses": ["CSCS 320"]
   },
   {
     "name": "M Butt",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 321",
@@ -5311,15 +4494,11 @@
         "unique": "CSCS 321/A"
       }
     ],
-    "all_courses": [
-      "CSCS 321"
-    ]
+    "all_courses": ["CSCS 321"]
   },
   {
     "name": "A Yousaf",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 342",
@@ -5330,15 +4509,11 @@
         "unique": "CSCS 342/A"
       }
     ],
-    "all_courses": [
-      "CSCS 342"
-    ]
+    "all_courses": ["CSCS 342"]
   },
   {
     "name": "S Qureshi",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 367",
@@ -5349,15 +4524,11 @@
         "unique": "CSCS 367/A"
       }
     ],
-    "all_courses": [
-      "CSCS 367"
-    ]
+    "all_courses": ["CSCS 367"]
   },
   {
     "name": "F Ullah",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 456",
@@ -5376,17 +4547,11 @@
         "unique": "CSCS 460/A"
       }
     ],
-    "all_courses": [
-      "CSCS 366",
-      "CSCS 456",
-      "CSCS 460"
-    ]
+    "all_courses": ["CSCS 366", "CSCS 456", "CSCS 460"]
   },
   {
     "name": "U  Nisar",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [
       {
         "course_code": "CSCS 468",
@@ -5397,15 +4562,11 @@
         "unique": "CSCS 468/A"
       }
     ],
-    "all_courses": [
-      "CSCS 468"
-    ]
+    "all_courses": ["CSCS 468"]
   },
   {
     "name": "S Toor",
-    "departments": [
-      "CSSE"
-    ],
+    "departments": ["CSSE"],
     "current_courses": [
       {
         "course_code": "CSSE 520",
@@ -5416,15 +4577,11 @@
         "unique": "CSSE 520/IS"
       }
     ],
-    "all_courses": [
-      "CSSE 520"
-    ]
+    "all_courses": ["CSSE 520"]
   },
   {
     "name": "N Sabahat",
-    "departments": [
-      "CSSE"
-    ],
+    "departments": ["CSSE"],
     "current_courses": [
       {
         "course_code": "CSSE 601",
@@ -5435,15 +4592,11 @@
         "unique": "CSSE 601/IS"
       }
     ],
-    "all_courses": [
-      "CSSE 601"
-    ]
+    "all_courses": ["CSSE 601"]
   },
   {
     "name": "M Mushtaq",
-    "departments": [
-      "CSSE"
-    ],
+    "departments": ["CSSE"],
     "current_courses": [
       {
         "course_code": "CSSE 699A",
@@ -5470,17 +4623,11 @@
         "unique": "CSSE 699E/A"
       }
     ],
-    "all_courses": [
-      "CSSE 699A",
-      "CSSE 699B",
-      "CSSE 699E"
-    ]
+    "all_courses": ["CSSE 699A", "CSSE 699B", "CSSE 699E"]
   },
   {
     "name": "F Masih",
-    "departments": [
-      "HIST"
-    ],
+    "departments": ["HIST"],
     "current_courses": [
       {
         "course_code": "HIST 101",
@@ -5499,17 +4646,11 @@
         "unique": "HIST 305/A"
       }
     ],
-    "all_courses": [
-      "HIST 101",
-      "HIST 305",
-      "HIST 499"
-    ]
+    "all_courses": ["HIST 101", "HIST 305", "HIST 499"]
   },
   {
     "name": "U Ibad",
-    "departments": [
-      "HIST"
-    ],
+    "departments": ["HIST"],
     "current_courses": [
       {
         "course_code": "HIST 102",
@@ -5574,9 +4715,7 @@
   },
   {
     "name": "S Hayat",
-    "departments": [
-      "HIST"
-    ],
+    "departments": ["HIST"],
     "current_courses": [
       {
         "course_code": "HIST 201",
@@ -5595,17 +4734,11 @@
         "unique": "HIST 400/A"
       }
     ],
-    "all_courses": [
-      "HIST 201",
-      "HIST 204",
-      "HIST 400"
-    ]
+    "all_courses": ["HIST 201", "HIST 204", "HIST 400"]
   },
   {
     "name": "S Sumbal",
-    "departments": [
-      "HIST"
-    ],
+    "departments": ["HIST"],
     "current_courses": [
       {
         "course_code": "HIST 202",
@@ -5632,19 +4765,11 @@
         "unique": "HIST 313/A"
       }
     ],
-    "all_courses": [
-      "HIST 202",
-      "HIST 310",
-      "HIST 313",
-      "HIST 315",
-      "HIST 410"
-    ]
+    "all_courses": ["HIST 202", "HIST 310", "HIST 313", "HIST 315", "HIST 410"]
   },
   {
     "name": "TBD",
-    "departments": [
-      "ISEP"
-    ],
+    "departments": ["ISEP"],
     "current_courses": [
       {
         "course_code": "ISEP 200",
@@ -5655,15 +4780,11 @@
         "unique": "ISEP 200/A"
       }
     ],
-    "all_courses": [
-      "ISEP 200"
-    ]
+    "all_courses": ["ISEP 200"]
   },
   {
     "name": "H Ahmad",
-    "departments": [
-      "ISLM"
-    ],
+    "departments": ["ISLM"],
     "current_courses": [
       {
         "course_code": "ISLM 101",
@@ -5698,16 +4819,11 @@
         "unique": "ISLM 201/A"
       }
     ],
-    "all_courses": [
-      "ISLM 101",
-      "ISLM 201"
-    ]
+    "all_courses": ["ISLM 101", "ISLM 201"]
   },
   {
     "name": "A Naeem",
-    "departments": [
-      "ISLM"
-    ],
+    "departments": ["ISLM"],
     "current_courses": [
       {
         "course_code": "ISLM 101",
@@ -5742,17 +4858,11 @@
         "unique": "ISLM 202/A"
       }
     ],
-    "all_courses": [
-      "ISLM 101",
-      "ISLM 103",
-      "ISLM 202"
-    ]
+    "all_courses": ["ISLM 101", "ISLM 103", "ISLM 202"]
   },
   {
     "name": "N Ahmad",
-    "departments": [
-      "ISLM"
-    ],
+    "departments": ["ISLM"],
     "current_courses": [
       {
         "course_code": "ISLM 101",
@@ -5787,16 +4897,11 @@
         "unique": "ISLM 301/A"
       }
     ],
-    "all_courses": [
-      "ISLM 101",
-      "ISLM 301"
-    ]
+    "all_courses": ["ISLM 101", "ISLM 301"]
   },
   {
     "name": "Z Azam",
-    "departments": [
-      "ISLM"
-    ],
+    "departments": ["ISLM"],
     "current_courses": [
       {
         "course_code": "ISLM 101",
@@ -5831,16 +4936,11 @@
         "unique": "ISLM 305/A"
       }
     ],
-    "all_courses": [
-      "ISLM 101",
-      "ISLM 305"
-    ]
+    "all_courses": ["ISLM 101", "ISLM 305"]
   },
   {
     "name": "H Ghani",
-    "departments": [
-      "ISLM"
-    ],
+    "departments": ["ISLM"],
     "current_courses": [
       {
         "course_code": "ISLM 101",
@@ -5867,16 +4967,11 @@
         "unique": "ISLM 401/A"
       }
     ],
-    "all_courses": [
-      "ISLM 101",
-      "ISLM 401"
-    ]
+    "all_courses": ["ISLM 101", "ISLM 401"]
   },
   {
     "name": "A  Rehman",
-    "departments": [
-      "ISLM"
-    ],
+    "departments": ["ISLM"],
     "current_courses": [
       {
         "course_code": "ISLM 101",
@@ -5895,17 +4990,11 @@
         "unique": "ISLM 304/A"
       }
     ],
-    "all_courses": [
-      "ISLM 101",
-      "ISLM 104",
-      "ISLM 304"
-    ]
+    "all_courses": ["ISLM 101", "ISLM 104", "ISLM 304"]
   },
   {
     "name": "S K Sook",
-    "departments": [
-      "KORN"
-    ],
+    "departments": ["KORN"],
     "current_courses": [
       {
         "course_code": "KORN 101",
@@ -5924,15 +5013,11 @@
         "unique": "KORN 101/B"
       }
     ],
-    "all_courses": [
-      "KORN 101"
-    ]
+    "all_courses": ["KORN 101"]
   },
   {
     "name": "J Park",
-    "departments": [
-      "KORN"
-    ],
+    "departments": ["KORN"],
     "current_courses": [
       {
         "course_code": "KORN 102",
@@ -5943,16 +5028,11 @@
         "unique": "KORN 102/A"
       }
     ],
-    "all_courses": [
-      "KORN 101",
-      "KORN 102"
-    ]
+    "all_courses": ["KORN 101", "KORN 102"]
   },
   {
     "name": "R John",
-    "departments": [
-      "LING"
-    ],
+    "departments": ["LING"],
     "current_courses": [
       {
         "course_code": "LING 207",
@@ -5963,15 +5043,11 @@
         "unique": "LING 207/A"
       }
     ],
-    "all_courses": [
-      "LING 207"
-    ]
+    "all_courses": ["LING 207"]
   },
   {
     "name": "F Aftab",
-    "departments": [
-      "LING"
-    ],
+    "departments": ["LING"],
     "current_courses": [
       {
         "course_code": "LING 217",
@@ -5990,16 +5066,11 @@
         "unique": "LING 302/A"
       }
     ],
-    "all_courses": [
-      "LING 217",
-      "LING 302"
-    ]
+    "all_courses": ["LING 217", "LING 302"]
   },
   {
     "name": "A Alphonce",
-    "departments": [
-      "LING"
-    ],
+    "departments": ["LING"],
     "current_courses": [
       {
         "course_code": "LING 217",
@@ -6010,16 +5081,11 @@
         "unique": "LING 217/B"
       }
     ],
-    "all_courses": [
-      "LING 217",
-      "LING 413"
-    ]
+    "all_courses": ["LING 217", "LING 413"]
   },
   {
     "name": "N Justin",
-    "departments": [
-      "LING"
-    ],
+    "departments": ["LING"],
     "current_courses": [
       {
         "course_code": "LING 301",
@@ -6038,17 +5104,11 @@
         "unique": "LING 319/A"
       }
     ],
-    "all_courses": [
-      "LING 301",
-      "LING 304",
-      "LING 319"
-    ]
+    "all_courses": ["LING 301", "LING 304", "LING 319"]
   },
   {
     "name": "A Wasim",
-    "departments": [
-      "LING"
-    ],
+    "departments": ["LING"],
     "current_courses": [
       {
         "course_code": "LING 410",
@@ -6059,16 +5119,11 @@
         "unique": "LING 410/A"
       }
     ],
-    "all_courses": [
-      "LING 308",
-      "LING 410"
-    ]
+    "all_courses": ["LING 308", "LING 410"]
   },
   {
     "name": "A  Khalid",
-    "departments": [
-      "LING"
-    ],
+    "departments": ["LING"],
     "current_courses": [
       {
         "course_code": "LING 415",
@@ -6079,16 +5134,11 @@
         "unique": "LING 415/A"
       }
     ],
-    "all_courses": [
-      "LING 415",
-      "LING 495"
-    ]
+    "all_courses": ["LING 415", "LING 495"]
   },
   {
     "name": "F Syeda",
-    "departments": [
-      "LING"
-    ],
+    "departments": ["LING"],
     "current_courses": [
       {
         "course_code": "LING 499",
@@ -6099,15 +5149,11 @@
         "unique": "LING 499/A"
       }
     ],
-    "all_courses": [
-      "LING 499"
-    ]
+    "all_courses": ["LING 499"]
   },
   {
     "name": "R Malik",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 095",
@@ -6126,15 +5172,11 @@
         "unique": "MATH 095/B"
       }
     ],
-    "all_courses": [
-      "MATH 095"
-    ]
+    "all_courses": ["MATH 095"]
   },
   {
     "name": "G Mehak",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 100",
@@ -6161,17 +5203,11 @@
         "unique": "MATH 101/B"
       }
     ],
-    "all_courses": [
-      "MATH 100",
-      "MATH 101",
-      "MATH 111"
-    ]
+    "all_courses": ["MATH 100", "MATH 101", "MATH 111"]
   },
   {
     "name": "F Jamil",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 100",
@@ -6190,16 +5226,11 @@
         "unique": "MATH 111/B"
       }
     ],
-    "all_courses": [
-      "MATH 100",
-      "MATH 111"
-    ]
+    "all_courses": ["MATH 100", "MATH 111"]
   },
   {
     "name": "A  Nadeem",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 100",
@@ -6226,18 +5257,11 @@
         "unique": "MATH 111/A"
       }
     ],
-    "all_courses": [
-      "MATH 100",
-      "MATH 101",
-      "MATH 103",
-      "MATH 111"
-    ]
+    "all_courses": ["MATH 100", "MATH 101", "MATH 103", "MATH 111"]
   },
   {
     "name": "S Iqbal",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 100",
@@ -6264,16 +5288,11 @@
         "unique": "MATH 101/IS"
       }
     ],
-    "all_courses": [
-      "MATH 100",
-      "MATH 101"
-    ]
+    "all_courses": ["MATH 100", "MATH 101"]
   },
   {
     "name": "F Janjua",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 100",
@@ -6292,17 +5311,11 @@
         "unique": "MATH 101/D"
       }
     ],
-    "all_courses": [
-      "MATH 100",
-      "MATH 101",
-      "MATH 111"
-    ]
+    "all_courses": ["MATH 100", "MATH 101", "MATH 111"]
   },
   {
     "name": "B Haq",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 100",
@@ -6340,9 +5353,7 @@
   },
   {
     "name": "I Shafique",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 102",
@@ -6361,19 +5372,11 @@
         "unique": "MATH 309/A"
       }
     ],
-    "all_courses": [
-      "MATH 100",
-      "MATH 102",
-      "MATH 204",
-      "MATH 210",
-      "MATH 309"
-    ]
+    "all_courses": ["MATH 100", "MATH 102", "MATH 204", "MATH 210", "MATH 309"]
   },
   {
     "name": "K Azhar",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 103",
@@ -6392,17 +5395,11 @@
         "unique": "MATH 312/A"
       }
     ],
-    "all_courses": [
-      "MATH 100",
-      "MATH 103",
-      "MATH 312"
-    ]
+    "all_courses": ["MATH 100", "MATH 103", "MATH 312"]
   },
   {
     "name": "S Bashir",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 105",
@@ -6421,16 +5418,11 @@
         "unique": "MATH 314/A"
       }
     ],
-    "all_courses": [
-      "MATH 105",
-      "MATH 314"
-    ]
+    "all_courses": ["MATH 105", "MATH 314"]
   },
   {
     "name": "S Ayub",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 105",
@@ -6449,16 +5441,11 @@
         "unique": "MATH 107/G"
       }
     ],
-    "all_courses": [
-      "MATH 105",
-      "MATH 107"
-    ]
+    "all_courses": ["MATH 105", "MATH 107"]
   },
   {
     "name": "A Tayyab",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 107",
@@ -6469,15 +5456,11 @@
         "unique": "MATH 107/A"
       }
     ],
-    "all_courses": [
-      "MATH 107"
-    ]
+    "all_courses": ["MATH 107"]
   },
   {
     "name": "A Sarwar",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 107",
@@ -6496,15 +5479,11 @@
         "unique": "MATH 107/D"
       }
     ],
-    "all_courses": [
-      "MATH 107"
-    ]
+    "all_courses": ["MATH 107"]
   },
   {
     "name": "S Samuel",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 107",
@@ -6515,15 +5494,11 @@
         "unique": "MATH 107/C"
       }
     ],
-    "all_courses": [
-      "MATH 107"
-    ]
+    "all_courses": ["MATH 107"]
   },
   {
     "name": "H Rehman",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 107",
@@ -6534,15 +5509,11 @@
         "unique": "MATH 107/E"
       }
     ],
-    "all_courses": [
-      "MATH 107"
-    ]
+    "all_courses": ["MATH 107"]
   },
   {
     "name": "M Raza",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 107",
@@ -6553,16 +5524,11 @@
         "unique": "MATH 107/F"
       }
     ],
-    "all_courses": [
-      "MATH 107",
-      "MATH 304"
-    ]
+    "all_courses": ["MATH 107", "MATH 304"]
   },
   {
     "name": "A Qureshi",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 201",
@@ -6581,18 +5547,11 @@
         "unique": "MATH 212/A"
       }
     ],
-    "all_courses": [
-      "MATH 201",
-      "MATH 212",
-      "MATH 303",
-      "MATH 404"
-    ]
+    "all_courses": ["MATH 201", "MATH 212", "MATH 303", "MATH 404"]
   },
   {
     "name": "S Malik",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 203",
@@ -6619,19 +5578,11 @@
         "unique": "MATH 311/A"
       }
     ],
-    "all_courses": [
-      "MATH 102",
-      "MATH 203",
-      "MATH 301",
-      "MATH 307",
-      "MATH 311"
-    ]
+    "all_courses": ["MATH 102", "MATH 203", "MATH 301", "MATH 307", "MATH 311"]
   },
   {
     "name": "W Hussain",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 209",
@@ -6642,17 +5593,11 @@
         "unique": "MATH 209/A"
       }
     ],
-    "all_courses": [
-      "MATH 202",
-      "MATH 209",
-      "MATH 302"
-    ]
+    "all_courses": ["MATH 202", "MATH 209", "MATH 302"]
   },
   {
     "name": "F Ibraheem",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 213",
@@ -6663,16 +5608,11 @@
         "unique": "MATH 213/A"
       }
     ],
-    "all_courses": [
-      "MATH 213",
-      "MATH 310"
-    ]
+    "all_courses": ["MATH 213", "MATH 310"]
   },
   {
     "name": "S Zaheer",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [
       {
         "course_code": "MATH 410",
@@ -6683,16 +5623,11 @@
         "unique": "MATH 410/A"
       }
     ],
-    "all_courses": [
-      "MATH 410",
-      "MATH 411"
-    ]
+    "all_courses": ["MATH 410", "MATH 411"]
   },
   {
     "name": "Dr S Abbas",
-    "departments": [
-      "MCOM"
-    ],
+    "departments": ["MCOM"],
     "current_courses": [
       {
         "course_code": "MCOM 101",
@@ -6727,18 +5662,11 @@
         "unique": "MCOM 524/A"
       }
     ],
-    "all_courses": [
-      "MCOM 101",
-      "MCOM 414",
-      "MCOM 512",
-      "MCOM 524"
-    ]
+    "all_courses": ["MCOM 101", "MCOM 414", "MCOM 512", "MCOM 524"]
   },
   {
     "name": "Z Masood",
-    "departments": [
-      "MCOM"
-    ],
+    "departments": ["MCOM"],
     "current_courses": [
       {
         "course_code": "MCOM 101",
@@ -6773,18 +5701,11 @@
         "unique": "MCOM 304/B"
       }
     ],
-    "all_courses": [
-      "MCOM 101",
-      "MCOM 200",
-      "MCOM 304",
-      "MCOM 415"
-    ]
+    "all_courses": ["MCOM 101", "MCOM 200", "MCOM 304", "MCOM 415"]
   },
   {
     "name": "A Malik",
-    "departments": [
-      "MCOM"
-    ],
+    "departments": ["MCOM"],
     "current_courses": [
       {
         "course_code": "MCOM 101",
@@ -6830,9 +5751,7 @@
   },
   {
     "name": "F Jabeen",
-    "departments": [
-      "MCOM"
-    ],
+    "departments": ["MCOM"],
     "current_courses": [
       {
         "course_code": "MCOM 101",
@@ -6895,9 +5814,7 @@
   },
   {
     "name": "S. Zehra",
-    "departments": [
-      "MCOM"
-    ],
+    "departments": ["MCOM"],
     "current_courses": [
       {
         "course_code": "MCOM 101",
@@ -6924,19 +5841,11 @@
         "unique": "MCOM 310/B"
       }
     ],
-    "all_courses": [
-      "MCOM 101",
-      "MCOM 290",
-      "MCOM 302",
-      "MCOM 310",
-      "MCOM 401"
-    ]
+    "all_courses": ["MCOM 101", "MCOM 290", "MCOM 302", "MCOM 310", "MCOM 401"]
   },
   {
     "name": "M Batool",
-    "departments": [
-      "MCOM"
-    ],
+    "departments": ["MCOM"],
     "current_courses": [
       {
         "course_code": "MCOM 200",
@@ -6963,19 +5872,11 @@
         "unique": "MCOM 308/A"
       }
     ],
-    "all_courses": [
-      "MCOM 101",
-      "MCOM 200",
-      "MCOM 303",
-      "MCOM 308",
-      "MCOM 400"
-    ]
+    "all_courses": ["MCOM 101", "MCOM 200", "MCOM 303", "MCOM 308", "MCOM 400"]
   },
   {
     "name": "A  Amir",
-    "departments": [
-      "MCOM"
-    ],
+    "departments": ["MCOM"],
     "current_courses": [
       {
         "course_code": "MCOM 201",
@@ -7021,9 +5922,7 @@
   },
   {
     "name": "S A Naeem",
-    "departments": [
-      "MCOM"
-    ],
+    "departments": ["MCOM"],
     "current_courses": [
       {
         "course_code": "MCOM 202",
@@ -7069,9 +5968,7 @@
   },
   {
     "name": "S Saleem",
-    "departments": [
-      "MCOM"
-    ],
+    "departments": ["MCOM"],
     "current_courses": [
       {
         "course_code": "MCOM 203",
@@ -7126,9 +6023,7 @@
   },
   {
     "name": "A Khan",
-    "departments": [
-      "MCOM"
-    ],
+    "departments": ["MCOM"],
     "current_courses": [
       {
         "course_code": "MCOM 301",
@@ -7147,18 +6042,11 @@
         "unique": "MCOM 527/A"
       }
     ],
-    "all_courses": [
-      "MCOM 301",
-      "MCOM 403",
-      "MCOM 522",
-      "MCOM 527"
-    ]
+    "all_courses": ["MCOM 301", "MCOM 403", "MCOM 522", "MCOM 527"]
   },
   {
     "name": "A  Muzamil",
-    "departments": [
-      "MCOM"
-    ],
+    "departments": ["MCOM"],
     "current_courses": [
       {
         "course_code": "MCOM 310",
@@ -7177,17 +6065,11 @@
         "unique": "MCOM 520/A"
       }
     ],
-    "all_courses": [
-      "MCOM 310",
-      "MCOM 517",
-      "MCOM 520"
-    ]
+    "all_courses": ["MCOM 310", "MCOM 517", "MCOM 520"]
   },
   {
     "name": "R Hassan",
-    "departments": [
-      "MPGN"
-    ],
+    "departments": ["MPGN"],
     "current_courses": [
       {
         "course_code": "MPGN 501",
@@ -7198,16 +6080,11 @@
         "unique": "MPGN 501/A"
       }
     ],
-    "all_courses": [
-      "MPGN 501",
-      "MPGN 604"
-    ]
+    "all_courses": ["MPGN 501", "MPGN 604"]
   },
   {
     "name": "M Yousaf",
-    "departments": [
-      "MPGN"
-    ],
+    "departments": ["MPGN"],
     "current_courses": [
       {
         "course_code": "MPGN 503",
@@ -7218,16 +6095,11 @@
         "unique": "MPGN 503/A"
       }
     ],
-    "all_courses": [
-      "MPGN 503",
-      "MPGN 603"
-    ]
+    "all_courses": ["MPGN 503", "MPGN 603"]
   },
   {
     "name": "A  Arshad",
-    "departments": [
-      "MPGN"
-    ],
+    "departments": ["MPGN"],
     "current_courses": [
       {
         "course_code": "MPGN 504",
@@ -7238,16 +6110,11 @@
         "unique": "MPGN 504/A"
       }
     ],
-    "all_courses": [
-      "MPGN 504",
-      "MPGN 613"
-    ]
+    "all_courses": ["MPGN 504", "MPGN 613"]
   },
   {
     "name": "S Hanook",
-    "departments": [
-      "MPGN"
-    ],
+    "departments": ["MPGN"],
     "current_courses": [
       {
         "course_code": "MPGN 506",
@@ -7258,15 +6125,11 @@
         "unique": "MPGN 506/A"
       }
     ],
-    "all_courses": [
-      "MPGN 506"
-    ]
+    "all_courses": ["MPGN 506"]
   },
   {
     "name": "B Sadiq",
-    "departments": [
-      "MPGN"
-    ],
+    "departments": ["MPGN"],
     "current_courses": [
       {
         "course_code": "MPGN 699A",
@@ -7293,17 +6156,11 @@
         "unique": "MPGN 699E/A"
       }
     ],
-    "all_courses": [
-      "MPGN 699A",
-      "MPGN 699B",
-      "MPGN 699E"
-    ]
+    "all_courses": ["MPGN 699A", "MPGN 699B", "MPGN 699E"]
   },
   {
     "name": "M Shaggan",
-    "departments": [
-      "MUSC"
-    ],
+    "departments": ["MUSC"],
     "current_courses": [
       {
         "course_code": "MUSC 101",
@@ -7322,16 +6179,11 @@
         "unique": "MUSC 250/A"
       }
     ],
-    "all_courses": [
-      "MUSC 101",
-      "MUSC 250"
-    ]
+    "all_courses": ["MUSC 101", "MUSC 250"]
   },
   {
     "name": "G Irfan",
-    "departments": [
-      "PHIL"
-    ],
+    "departments": ["PHIL"],
     "current_courses": [
       {
         "course_code": "PHIL 101",
@@ -7358,19 +6210,11 @@
         "unique": "PHIL 325/A"
       }
     ],
-    "all_courses": [
-      "PHIL 101",
-      "PHIL 201",
-      "PHIL 325",
-      "PHIL 331",
-      "PHIL 499"
-    ]
+    "all_courses": ["PHIL 101", "PHIL 201", "PHIL 325", "PHIL 331", "PHIL 499"]
   },
   {
     "name": "T Farouk",
-    "departments": [
-      "PHIL"
-    ],
+    "departments": ["PHIL"],
     "current_courses": [
       {
         "course_code": "PHIL 202",
@@ -7407,9 +6251,7 @@
   },
   {
     "name": "H Latif",
-    "departments": [
-      "PHYS"
-    ],
+    "departments": ["PHYS"],
     "current_courses": [
       {
         "course_code": "PHYS 100",
@@ -7444,19 +6286,11 @@
         "unique": "PHYS 713/A"
       }
     ],
-    "all_courses": [
-      "PHYS 100",
-      "PHYS 102",
-      "PHYS 103",
-      "PHYS 510",
-      "PHYS 713"
-    ]
+    "all_courses": ["PHYS 100", "PHYS 102", "PHYS 103", "PHYS 510", "PHYS 713"]
   },
   {
     "name": "K Javed",
-    "departments": [
-      "PHYS"
-    ],
+    "departments": ["PHYS"],
     "current_courses": [
       {
         "course_code": "PHYS 100",
@@ -7502,9 +6336,7 @@
   },
   {
     "name": "L Kahlon",
-    "departments": [
-      "PHYS"
-    ],
+    "departments": ["PHYS"],
     "current_courses": [
       {
         "course_code": "PHYS 100",
@@ -7543,9 +6375,7 @@
   },
   {
     "name": "Ab Rahman",
-    "departments": [
-      "PHYS"
-    ],
+    "departments": ["PHYS"],
     "current_courses": [
       {
         "course_code": "PHYS 100",
@@ -7556,15 +6386,11 @@
         "unique": "PHYS 100/D"
       }
     ],
-    "all_courses": [
-      "PHYS 100"
-    ]
+    "all_courses": ["PHYS 100"]
   },
   {
     "name": "S Shah",
-    "departments": [
-      "PHYS"
-    ],
+    "departments": ["PHYS"],
     "current_courses": [
       {
         "course_code": "PHYS 101",
@@ -7602,9 +6428,7 @@
   },
   {
     "name": "A Rehman",
-    "departments": [
-      "PHYS"
-    ],
+    "departments": ["PHYS"],
     "current_courses": [
       {
         "course_code": "PHYS 101",
@@ -7631,18 +6455,11 @@
         "unique": "PHYS 255/IS"
       }
     ],
-    "all_courses": [
-      "PHYS 101",
-      "PHYS 102",
-      "PHYS 103",
-      "PHYS 255"
-    ]
+    "all_courses": ["PHYS 101", "PHYS 102", "PHYS 103", "PHYS 255"]
   },
   {
     "name": "S Shabbir",
-    "departments": [
-      "PHYS"
-    ],
+    "departments": ["PHYS"],
     "current_courses": [
       {
         "course_code": "PHYS 221",
@@ -7677,18 +6494,11 @@
         "unique": "PHYS 509/A"
       }
     ],
-    "all_courses": [
-      "PHYS 221",
-      "PHYS 331",
-      "PHYS 481",
-      "PHYS 509"
-    ]
+    "all_courses": ["PHYS 221", "PHYS 331", "PHYS 481", "PHYS 509"]
   },
   {
     "name": "Dr  H Shah",
-    "departments": [
-      "PHYS"
-    ],
+    "departments": ["PHYS"],
     "current_courses": [
       {
         "course_code": "PHYS 334",
@@ -7707,19 +6517,11 @@
         "unique": "PHYS 702/A"
       }
     ],
-    "all_courses": [
-      "PHYS 334",
-      "PHYS 353",
-      "PHYS 524",
-      "PHYS 701",
-      "PHYS 702"
-    ]
+    "all_courses": ["PHYS 334", "PHYS 353", "PHYS 524", "PHYS 701", "PHYS 702"]
   },
   {
     "name": "S Zaheer",
-    "departments": [
-      "PHYS"
-    ],
+    "departments": ["PHYS"],
     "current_courses": [
       {
         "course_code": "PHYS 461",
@@ -7861,9 +6663,7 @@
   },
   {
     "name": "TBD",
-    "departments": [
-      "PHYS"
-    ],
+    "departments": ["PHYS"],
     "current_courses": [
       {
         "course_code": "PHYS 499B",
@@ -7874,15 +6674,11 @@
         "unique": "PHYS 499B/A"
       }
     ],
-    "all_courses": [
-      "PHYS 499B"
-    ]
+    "all_courses": ["PHYS 499B"]
   },
   {
     "name": "Z Iqbal",
-    "departments": [
-      "PHYS"
-    ],
+    "departments": ["PHYS"],
     "current_courses": [
       {
         "course_code": "PHYS 503",
@@ -7893,17 +6689,11 @@
         "unique": "PHYS 503/A"
       }
     ],
-    "all_courses": [
-      "PHYS 100",
-      "PHYS 234",
-      "PHYS 503"
-    ]
+    "all_courses": ["PHYS 100", "PHYS 234", "PHYS 503"]
   },
   {
     "name": "F Masih",
-    "departments": [
-      "PKST"
-    ],
+    "departments": ["PKST"],
     "current_courses": [
       {
         "course_code": "PKST 101",
@@ -7914,15 +6704,11 @@
         "unique": "PKST 101/A"
       }
     ],
-    "all_courses": [
-      "PKST 101"
-    ]
+    "all_courses": ["PKST 101"]
   },
   {
     "name": "U Ibad",
-    "departments": [
-      "PKST"
-    ],
+    "departments": ["PKST"],
     "current_courses": [
       {
         "course_code": "PKST 101",
@@ -7933,15 +6719,11 @@
         "unique": "PKST 101/B"
       }
     ],
-    "all_courses": [
-      "PKST 101"
-    ]
+    "all_courses": ["PKST 101"]
   },
   {
     "name": "S Sumbal",
-    "departments": [
-      "PKST"
-    ],
+    "departments": ["PKST"],
     "current_courses": [
       {
         "course_code": "PKST 101",
@@ -7952,15 +6734,11 @@
         "unique": "PKST 101/C"
       }
     ],
-    "all_courses": [
-      "PKST 101"
-    ]
+    "all_courses": ["PKST 101"]
   },
   {
     "name": "A Ijaz",
-    "departments": [
-      "PKST"
-    ],
+    "departments": ["PKST"],
     "current_courses": [
       {
         "course_code": "PKST 101",
@@ -7979,15 +6757,11 @@
         "unique": "PKST 101/F"
       }
     ],
-    "all_courses": [
-      "PKST 101"
-    ]
+    "all_courses": ["PKST 101"]
   },
   {
     "name": "M Haider",
-    "departments": [
-      "PKST"
-    ],
+    "departments": ["PKST"],
     "current_courses": [
       {
         "course_code": "PKST 101",
@@ -8014,15 +6788,11 @@
         "unique": "PKST 101/J"
       }
     ],
-    "all_courses": [
-      "PKST 101"
-    ]
+    "all_courses": ["PKST 101"]
   },
   {
     "name": "M Shafqat",
-    "departments": [
-      "PKST"
-    ],
+    "departments": ["PKST"],
     "current_courses": [
       {
         "course_code": "PKST 101",
@@ -8041,15 +6811,11 @@
         "unique": "PKST 101/K"
       }
     ],
-    "all_courses": [
-      "PKST 101"
-    ]
+    "all_courses": ["PKST 101"]
   },
   {
     "name": "Z Hassan",
-    "departments": [
-      "PKST"
-    ],
+    "departments": ["PKST"],
     "current_courses": [
       {
         "course_code": "PKST 101",
@@ -8060,15 +6826,11 @@
         "unique": "PKST 101/I"
       }
     ],
-    "all_courses": [
-      "PKST 101"
-    ]
+    "all_courses": ["PKST 101"]
   },
   {
     "name": "M Mirza",
-    "departments": [
-      "PLSC"
-    ],
+    "departments": ["PLSC"],
     "current_courses": [
       {
         "course_code": "PLSC 101",
@@ -8103,17 +6865,11 @@
         "unique": "PLSC 212/A"
       }
     ],
-    "all_courses": [
-      "PLSC 101",
-      "PLSC 102",
-      "PLSC 212"
-    ]
+    "all_courses": ["PLSC 101", "PLSC 102", "PLSC 212"]
   },
   {
     "name": "Q Memon",
-    "departments": [
-      "PLSC"
-    ],
+    "departments": ["PLSC"],
     "current_courses": [
       {
         "course_code": "PLSC 101",
@@ -8140,19 +6896,11 @@
         "unique": "PLSC 403/B"
       }
     ],
-    "all_courses": [
-      "PLSC 101",
-      "PLSC 302",
-      "PLSC 303",
-      "PLSC 400",
-      "PLSC 403"
-    ]
+    "all_courses": ["PLSC 101", "PLSC 302", "PLSC 303", "PLSC 400", "PLSC 403"]
   },
   {
     "name": "A. Indrias",
-    "departments": [
-      "PLSC"
-    ],
+    "departments": ["PLSC"],
     "current_courses": [
       {
         "course_code": "PLSC 101",
@@ -8198,9 +6946,7 @@
   },
   {
     "name": "M A Imran",
-    "departments": [
-      "PLSC"
-    ],
+    "departments": ["PLSC"],
     "current_courses": [
       {
         "course_code": "PLSC 101",
@@ -8227,19 +6973,11 @@
         "unique": "PLSC 321/A"
       }
     ],
-    "all_courses": [
-      "PLSC 101",
-      "PLSC 202",
-      "PLSC 310",
-      "PLSC 321",
-      "PLSC 340"
-    ]
+    "all_courses": ["PLSC 101", "PLSC 202", "PLSC 310", "PLSC 321", "PLSC 340"]
   },
   {
     "name": "S Awan",
-    "departments": [
-      "PLSC"
-    ],
+    "departments": ["PLSC"],
     "current_courses": [
       {
         "course_code": "PLSC 101",
@@ -8266,16 +7004,11 @@
         "unique": "PLSC 102/C"
       }
     ],
-    "all_courses": [
-      "PLSC 101",
-      "PLSC 102"
-    ]
+    "all_courses": ["PLSC 101", "PLSC 102"]
   },
   {
     "name": "K Khan",
-    "departments": [
-      "PLSC"
-    ],
+    "departments": ["PLSC"],
     "current_courses": [
       {
         "course_code": "PLSC 101",
@@ -8310,18 +7043,11 @@
         "unique": "PLSC 302/A"
       }
     ],
-    "all_courses": [
-      "PLSC 101",
-      "PLSC 301",
-      "PLSC 302",
-      "PLSC 336"
-    ]
+    "all_courses": ["PLSC 101", "PLSC 301", "PLSC 302", "PLSC 336"]
   },
   {
     "name": "M U Farooq",
-    "departments": [
-      "PLSC"
-    ],
+    "departments": ["PLSC"],
     "current_courses": [
       {
         "course_code": "PLSC 101",
@@ -8348,17 +7074,11 @@
         "unique": "PLSC 311/A"
       }
     ],
-    "all_courses": [
-      "PLSC 101",
-      "PLSC 305",
-      "PLSC 311"
-    ]
+    "all_courses": ["PLSC 101", "PLSC 305", "PLSC 311"]
   },
   {
     "name": "S Sindhu",
-    "departments": [
-      "PLSC"
-    ],
+    "departments": ["PLSC"],
     "current_courses": [
       {
         "course_code": "PLSC 101",
@@ -8426,9 +7146,7 @@
   },
   {
     "name": "M Farooqi",
-    "departments": [
-      "PLSC"
-    ],
+    "departments": ["PLSC"],
     "current_courses": [
       {
         "course_code": "PLSC 203",
@@ -8482,9 +7200,7 @@
   },
   {
     "name": "A Qureshi",
-    "departments": [
-      "PLSC"
-    ],
+    "departments": ["PLSC"],
     "current_courses": [
       {
         "course_code": "PLSC 204",
@@ -8530,9 +7246,7 @@
   },
   {
     "name": "M Younis",
-    "departments": [
-      "PLSC"
-    ],
+    "departments": ["PLSC"],
     "current_courses": [
       {
         "course_code": "PLSC 322",
@@ -8578,9 +7292,7 @@
   },
   {
     "name": "W  Ranjha",
-    "departments": [
-      "PLSC"
-    ],
+    "departments": ["PLSC"],
     "current_courses": [
       {
         "course_code": "PLSC 520",
@@ -8591,16 +7303,11 @@
         "unique": "PLSC 520/A"
       }
     ],
-    "all_courses": [
-      "PLSC 504",
-      "PLSC 520"
-    ]
+    "all_courses": ["PLSC 504", "PLSC 520"]
   },
   {
     "name": "N Asif",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 100",
@@ -8646,9 +7353,7 @@
   },
   {
     "name": "E Shahid",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 100",
@@ -8683,19 +7388,11 @@
         "unique": "PSYC 505/A"
       }
     ],
-    "all_courses": [
-      "PSYC 100",
-      "PSYC 101",
-      "PSYC 150",
-      "PSYC 301",
-      "PSYC 505"
-    ]
+    "all_courses": ["PSYC 100", "PSYC 101", "PSYC 150", "PSYC 301", "PSYC 505"]
   },
   {
     "name": "U Rizwan",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 100",
@@ -8722,18 +7419,11 @@
         "unique": "PSYC 360/A"
       }
     ],
-    "all_courses": [
-      "PSYC 100",
-      "PSYC 165",
-      "PSYC 340",
-      "PSYC 360"
-    ]
+    "all_courses": ["PSYC 100", "PSYC 165", "PSYC 340", "PSYC 360"]
   },
   {
     "name": "U Ashiq",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 100",
@@ -8787,9 +7477,7 @@
   },
   {
     "name": "A aziz",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 100",
@@ -8835,9 +7523,7 @@
   },
   {
     "name": "Asajid",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 100",
@@ -8883,9 +7569,7 @@
   },
   {
     "name": "M  Niazi",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 100",
@@ -8912,19 +7596,11 @@
         "unique": "PSYC 415/A"
       }
     ],
-    "all_courses": [
-      "PSYC 100",
-      "PSYC 140",
-      "PSYC 340",
-      "PSYC 415",
-      "PSYC 425"
-    ]
+    "all_courses": ["PSYC 100", "PSYC 140", "PSYC 340", "PSYC 415", "PSYC 425"]
   },
   {
     "name": "A Malik",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 100",
@@ -8935,16 +7611,11 @@
         "unique": "PSYC 100/H"
       }
     ],
-    "all_courses": [
-      "PSYC 100",
-      "PSYC 360"
-    ]
+    "all_courses": ["PSYC 100", "PSYC 360"]
   },
   {
     "name": "A  Ateeq",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 175",
@@ -8983,9 +7654,7 @@
   },
   {
     "name": "A  Nazim",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 180",
@@ -9051,9 +7720,7 @@
   },
   {
     "name": "K Safdar",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 220",
@@ -9064,15 +7731,11 @@
         "unique": "PSYC 220/A"
       }
     ],
-    "all_courses": [
-      "PSYC 220"
-    ]
+    "all_courses": ["PSYC 220"]
   },
   {
     "name": "U Ilyas",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 220",
@@ -9107,19 +7770,11 @@
         "unique": "PSYC 620/A"
       }
     ],
-    "all_courses": [
-      "PSYC 220",
-      "PSYC 280",
-      "PSYC 305",
-      "PSYC 310",
-      "PSYC 620"
-    ]
+    "all_courses": ["PSYC 220", "PSYC 280", "PSYC 305", "PSYC 310", "PSYC 620"]
   },
   {
     "name": "N Khan",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 240",
@@ -9146,18 +7801,11 @@
         "unique": "PSYC 465/A"
       }
     ],
-    "all_courses": [
-      "PSYC 240",
-      "PSYC 440",
-      "PSYC 465",
-      "PSYC 580"
-    ]
+    "all_courses": ["PSYC 240", "PSYC 440", "PSYC 465", "PSYC 580"]
   },
   {
     "name": "I Batool",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 275",
@@ -9192,19 +7840,11 @@
         "unique": "PSYC 360/B"
       }
     ],
-    "all_courses": [
-      "PSYC 275",
-      "PSYC 285",
-      "PSYC 298",
-      "PSYC 301",
-      "PSYC 360"
-    ]
+    "all_courses": ["PSYC 275", "PSYC 285", "PSYC 298", "PSYC 301", "PSYC 360"]
   },
   {
     "name": "M Munir",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 280",
@@ -9239,19 +7879,11 @@
         "unique": "PSYC 415/B"
       }
     ],
-    "all_courses": [
-      "PSYC 100",
-      "PSYC 140",
-      "PSYC 280",
-      "PSYC 290",
-      "PSYC 415"
-    ]
+    "all_courses": ["PSYC 100", "PSYC 140", "PSYC 280", "PSYC 290", "PSYC 415"]
   },
   {
     "name": "S Jabeen",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 290",
@@ -9297,9 +7929,7 @@
   },
   {
     "name": "S Samuel",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 350",
@@ -9355,9 +7985,7 @@
   },
   {
     "name": "S Shahed",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 375",
@@ -9395,9 +8023,7 @@
   },
   {
     "name": "S Majeed",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 385",
@@ -9435,9 +8061,7 @@
   },
   {
     "name": "L Azhar",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 501",
@@ -9448,15 +8072,11 @@
         "unique": "PSYC 501/A"
       }
     ],
-    "all_courses": [
-      "PSYC 501"
-    ]
+    "all_courses": ["PSYC 501"]
   },
   {
     "name": "ESchwaiger",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 530",
@@ -9467,16 +8087,11 @@
         "unique": "PSYC 530/A"
       }
     ],
-    "all_courses": [
-      "PSYC 225",
-      "PSYC 530"
-    ]
+    "all_courses": ["PSYC 225", "PSYC 530"]
   },
   {
     "name": "K Ishfaq",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [
       {
         "course_code": "PSYC 680",
@@ -9487,15 +8102,11 @@
         "unique": "PSYC 680/A"
       }
     ],
-    "all_courses": [
-      "PSYC 680"
-    ]
+    "all_courses": ["PSYC 680"]
   },
   {
     "name": "T Ashraf",
-    "departments": [
-      "SOCL"
-    ],
+    "departments": ["SOCL"],
     "current_courses": [
       {
         "course_code": "SOCL 100",
@@ -9530,19 +8141,11 @@
         "unique": "SOCL 445/A"
       }
     ],
-    "all_courses": [
-      "SOCL 100",
-      "SOCL 110",
-      "SOCL 223",
-      "SOCL 335",
-      "SOCL 445"
-    ]
+    "all_courses": ["SOCL 100", "SOCL 110", "SOCL 223", "SOCL 335", "SOCL 445"]
   },
   {
     "name": "S Athar",
-    "departments": [
-      "SOCL"
-    ],
+    "departments": ["SOCL"],
     "current_courses": [
       {
         "course_code": "SOCL 100",
@@ -9630,9 +8233,7 @@
   },
   {
     "name": "Team",
-    "departments": [
-      "SOCL"
-    ],
+    "departments": ["SOCL"],
     "current_courses": [
       {
         "course_code": "SOCL 100",
@@ -9659,16 +8260,11 @@
         "unique": "SOCL 270/A"
       }
     ],
-    "all_courses": [
-      "SOCL 100",
-      "SOCL 270"
-    ]
+    "all_courses": ["SOCL 100", "SOCL 270"]
   },
   {
     "name": "A  Azeem",
-    "departments": [
-      "SOCL"
-    ],
+    "departments": ["SOCL"],
     "current_courses": [
       {
         "course_code": "SOCL 100",
@@ -9711,18 +8307,11 @@
         "unique": "SOCL 220/A"
       }
     ],
-    "all_courses": [
-      "SOCL 100",
-      "SOCL 220",
-      "SOCL 350",
-      "SOCL 504"
-    ]
+    "all_courses": ["SOCL 100", "SOCL 220", "SOCL 350", "SOCL 504"]
   },
   {
     "name": "M Ali",
-    "departments": [
-      "SOCL"
-    ],
+    "departments": ["SOCL"],
     "current_courses": [
       {
         "course_code": "SOCL 100",
@@ -9741,16 +8330,11 @@
         "unique": "SOCL 100/J"
       }
     ],
-    "all_courses": [
-      "SOCL 100",
-      "SOCL 501"
-    ]
+    "all_courses": ["SOCL 100", "SOCL 501"]
   },
   {
     "name": "A Amjad",
-    "departments": [
-      "SOCL"
-    ],
+    "departments": ["SOCL"],
     "current_courses": [
       {
         "course_code": "SOCL 100",
@@ -9785,19 +8369,11 @@
         "unique": "SOCL 435/A"
       }
     ],
-    "all_courses": [
-      "SOCL 100",
-      "SOCL 201",
-      "SOCL 325",
-      "SOCL 435",
-      "SOCL 502"
-    ]
+    "all_courses": ["SOCL 100", "SOCL 201", "SOCL 325", "SOCL 435", "SOCL 502"]
   },
   {
     "name": "A Yasir",
-    "departments": [
-      "SOCL"
-    ],
+    "departments": ["SOCL"],
     "current_courses": [
       {
         "course_code": "SOCL 100",
@@ -9824,17 +8400,11 @@
         "unique": "SOCL 390/A"
       }
     ],
-    "all_courses": [
-      "SOCL 100",
-      "SOCL 301",
-      "SOCL 390"
-    ]
+    "all_courses": ["SOCL 100", "SOCL 301", "SOCL 390"]
   },
   {
     "name": "G  Clark",
-    "departments": [
-      "SOCL"
-    ],
+    "departments": ["SOCL"],
     "current_courses": [
       {
         "course_code": "SOCL 100",
@@ -9861,16 +8431,11 @@
         "unique": "SOCL 325/A"
       }
     ],
-    "all_courses": [
-      "SOCL 100",
-      "SOCL 325"
-    ]
+    "all_courses": ["SOCL 100", "SOCL 325"]
   },
   {
     "name": "J parra",
-    "departments": [
-      "SPAN"
-    ],
+    "departments": ["SPAN"],
     "current_courses": [
       {
         "course_code": "SPAN 101",
@@ -9889,15 +8454,11 @@
         "unique": "SPAN 101/B"
       }
     ],
-    "all_courses": [
-      "SPAN 101"
-    ]
+    "all_courses": ["SPAN 101"]
   },
   {
     "name": "R Butt",
-    "departments": [
-      "STAT"
-    ],
+    "departments": ["STAT"],
     "current_courses": [
       {
         "course_code": "STAT 100",
@@ -9924,16 +8485,11 @@
         "unique": "STAT 100/G"
       }
     ],
-    "all_courses": [
-      "STAT 100",
-      "STAT 101"
-    ]
+    "all_courses": ["STAT 100", "STAT 101"]
   },
   {
     "name": "N Mushtaq",
-    "departments": [
-      "STAT"
-    ],
+    "departments": ["STAT"],
     "current_courses": [
       {
         "course_code": "STAT 100",
@@ -9979,9 +8535,7 @@
   },
   {
     "name": "M Raza",
-    "departments": [
-      "STAT"
-    ],
+    "departments": ["STAT"],
     "current_courses": [
       {
         "course_code": "STAT 100",
@@ -10008,18 +8562,11 @@
         "unique": "STAT 516/A"
       }
     ],
-    "all_courses": [
-      "STAT 100",
-      "STAT 101",
-      "STAT 313",
-      "STAT 516"
-    ]
+    "all_courses": ["STAT 100", "STAT 101", "STAT 313", "STAT 516"]
   },
   {
     "name": "A Tayyab",
-    "departments": [
-      "STAT"
-    ],
+    "departments": ["STAT"],
     "current_courses": [
       {
         "course_code": "STAT 100",
@@ -10054,16 +8601,11 @@
         "unique": "STAT 101/A"
       }
     ],
-    "all_courses": [
-      "STAT 100",
-      "STAT 101"
-    ]
+    "all_courses": ["STAT 100", "STAT 101"]
   },
   {
     "name": "S Samuel",
-    "departments": [
-      "STAT"
-    ],
+    "departments": ["STAT"],
     "current_courses": [
       {
         "course_code": "STAT 100",
@@ -10098,17 +8640,11 @@
         "unique": "STAT 115/A"
       }
     ],
-    "all_courses": [
-      "STAT 100",
-      "STAT 101",
-      "STAT 115"
-    ]
+    "all_courses": ["STAT 100", "STAT 101", "STAT 115"]
   },
   {
     "name": "S Ayub",
-    "departments": [
-      "STAT"
-    ],
+    "departments": ["STAT"],
     "current_courses": [
       {
         "course_code": "STAT 100",
@@ -10135,19 +8671,11 @@
         "unique": "STAT 102/B"
       }
     ],
-    "all_courses": [
-      "STAT 100",
-      "STAT 101",
-      "STAT 102",
-      "STAT 208",
-      "STAT 508"
-    ]
+    "all_courses": ["STAT 100", "STAT 101", "STAT 102", "STAT 208", "STAT 508"]
   },
   {
     "name": "A Sarwar",
-    "departments": [
-      "STAT"
-    ],
+    "departments": ["STAT"],
     "current_courses": [
       {
         "course_code": "STAT 101",
@@ -10182,18 +8710,11 @@
         "unique": "STAT 115/C"
       }
     ],
-    "all_courses": [
-      "STAT 100",
-      "STAT 101",
-      "STAT 103",
-      "STAT 115"
-    ]
+    "all_courses": ["STAT 100", "STAT 101", "STAT 103", "STAT 115"]
   },
   {
     "name": "H Rehman",
-    "departments": [
-      "STAT"
-    ],
+    "departments": ["STAT"],
     "current_courses": [
       {
         "course_code": "STAT 101",
@@ -10204,15 +8725,11 @@
         "unique": "STAT 101/E"
       }
     ],
-    "all_courses": [
-      "STAT 101"
-    ]
+    "all_courses": ["STAT 101"]
   },
   {
     "name": "S Bashir",
-    "departments": [
-      "STAT"
-    ],
+    "departments": ["STAT"],
     "current_courses": [
       {
         "course_code": "STAT 102",
@@ -10247,19 +8764,11 @@
         "unique": "STAT 501/A"
       }
     ],
-    "all_courses": [
-      "STAT 102",
-      "STAT 206",
-      "STAT 304",
-      "STAT 403",
-      "STAT 501"
-    ]
+    "all_courses": ["STAT 102", "STAT 206", "STAT 304", "STAT 403", "STAT 501"]
   },
   {
     "name": "M Mughal",
-    "departments": [
-      "STAT"
-    ],
+    "departments": ["STAT"],
     "current_courses": [
       {
         "course_code": "STAT 201",
@@ -10294,17 +8803,11 @@
         "unique": "STAT 315/A"
       }
     ],
-    "all_courses": [
-      "STAT 201",
-      "STAT 207",
-      "STAT 315"
-    ]
+    "all_courses": ["STAT 201", "STAT 207", "STAT 315"]
   },
   {
     "name": "S Hanook",
-    "departments": [
-      "STAT"
-    ],
+    "departments": ["STAT"],
     "current_courses": [
       {
         "course_code": "STAT 206",
@@ -10377,9 +8880,7 @@
   },
   {
     "name": "I Naqvi",
-    "departments": [
-      "STAT"
-    ],
+    "departments": ["STAT"],
     "current_courses": [
       {
         "course_code": "STAT 302",
@@ -10406,19 +8907,11 @@
         "unique": "STAT 503/A"
       }
     ],
-    "all_courses": [
-      "STAT 101",
-      "STAT 115",
-      "STAT 302",
-      "STAT 317",
-      "STAT 503"
-    ]
+    "all_courses": ["STAT 101", "STAT 115", "STAT 302", "STAT 317", "STAT 503"]
   },
   {
     "name": "R Durrani",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10429,15 +8922,11 @@
         "unique": "UNIV 100/A"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "S Athar",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10448,15 +8937,11 @@
         "unique": "UNIV 100/AA"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "A  Azeem",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10467,15 +8952,11 @@
         "unique": "UNIV 100/B"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "A Khan",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10486,15 +8967,11 @@
         "unique": "UNIV 100/BB"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "N Justin",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10505,15 +8982,11 @@
         "unique": "UNIV 100/C"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "J Hassan",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10524,15 +8997,11 @@
         "unique": "UNIV 100/CC"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "H Ahmad",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10543,15 +9012,11 @@
         "unique": "UNIV 100/D"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "R. Farooq",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10562,15 +9027,11 @@
         "unique": "UNIV 100/DD"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "A  Amir",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10581,15 +9042,11 @@
         "unique": "UNIV 100/EE"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "A  Nadeem",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10600,15 +9057,11 @@
         "unique": "UNIV 100/F"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "S Lodhi",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10619,15 +9072,11 @@
         "unique": "UNIV 100/FF"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "S Ali",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10638,15 +9087,11 @@
         "unique": "UNIV 100/G"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "S Jelani",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10657,15 +9102,11 @@
         "unique": "UNIV 100/H"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "M Raza",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10676,15 +9117,11 @@
         "unique": "UNIV 100/J"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "I  Khokhar",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10695,15 +9132,11 @@
         "unique": "UNIV 100/JJ"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "S U Rehman",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10714,15 +9147,11 @@
         "unique": "UNIV 100/K"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "Q Zafar",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10733,15 +9162,11 @@
         "unique": "UNIV 100/KK"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "A Yaqub",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10752,15 +9177,11 @@
         "unique": "UNIV 100/L"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "F Saeed",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10771,15 +9192,11 @@
         "unique": "UNIV 100/LL"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "A Wasim",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10790,15 +9207,11 @@
         "unique": "UNIV 100/M"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "M Ali",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10809,15 +9222,11 @@
         "unique": "UNIV 100/MM"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "M Kabir",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10828,15 +9237,11 @@
         "unique": "UNIV 100/N"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "S Samson",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10847,15 +9252,11 @@
         "unique": "UNIV 100/NN"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "G Ayub",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10866,15 +9267,11 @@
         "unique": "UNIV 100/P"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "R Wasif",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10885,15 +9282,11 @@
         "unique": "UNIV 100/Q"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "S. Zehra",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10904,15 +9297,11 @@
         "unique": "UNIV 100/R"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "Saman Ali",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10923,15 +9312,11 @@
         "unique": "UNIV 100/S"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "M Khalil",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10942,15 +9327,11 @@
         "unique": "UNIV 100/T"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "R Javaid",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10961,15 +9342,11 @@
         "unique": "UNIV 100/U"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "N Khan",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10980,15 +9357,11 @@
         "unique": "UNIV 100/V"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "K Shakrul",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -10999,15 +9372,11 @@
         "unique": "UNIV 100/W"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "TBD",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [
       {
         "course_code": "UNIV 100",
@@ -11018,15 +9387,11 @@
         "unique": "UNIV 100/X"
       }
     ],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "A Samuel",
-    "departments": [
-      "URDU"
-    ],
+    "departments": ["URDU"],
     "current_courses": [
       {
         "course_code": "URDU 101",
@@ -11096,9 +9461,7 @@
   },
   {
     "name": "A Virk",
-    "departments": [
-      "URDU"
-    ],
+    "departments": ["URDU"],
     "current_courses": [
       {
         "course_code": "URDU 101",
@@ -11125,18 +9488,11 @@
         "unique": "URDU 506/A"
       }
     ],
-    "all_courses": [
-      "URDU 101",
-      "URDU 303",
-      "URDU 501",
-      "URDU 506"
-    ]
+    "all_courses": ["URDU 101", "URDU 303", "URDU 501", "URDU 506"]
   },
   {
     "name": "S Ashraf",
-    "departments": [
-      "URDU"
-    ],
+    "departments": ["URDU"],
     "current_courses": [
       {
         "course_code": "URDU 101",
@@ -11171,17 +9527,11 @@
         "unique": "URDU 304/A"
       }
     ],
-    "all_courses": [
-      "URDU 101",
-      "URDU 304",
-      "URDU 519"
-    ]
+    "all_courses": ["URDU 101", "URDU 304", "URDU 519"]
   },
   {
     "name": "A  Anwar",
-    "departments": [
-      "URDU"
-    ],
+    "departments": ["URDU"],
     "current_courses": [
       {
         "course_code": "URDU 101",
@@ -11216,18 +9566,11 @@
         "unique": "URDU 518/A"
       }
     ],
-    "all_courses": [
-      "URDU 101",
-      "URDU 206",
-      "URDU 301",
-      "URDU 518"
-    ]
+    "all_courses": ["URDU 101", "URDU 206", "URDU 301", "URDU 518"]
   },
   {
     "name": "M Tahir",
-    "departments": [
-      "URDU"
-    ],
+    "departments": ["URDU"],
     "current_courses": [
       {
         "course_code": "URDU 101",
@@ -11262,17 +9605,11 @@
         "unique": "URDU 507/A"
       }
     ],
-    "all_courses": [
-      "URDU 101",
-      "URDU 204",
-      "URDU 507"
-    ]
+    "all_courses": ["URDU 101", "URDU 204", "URDU 507"]
   },
   {
     "name": "S Tahir",
-    "departments": [
-      "URDU"
-    ],
+    "departments": ["URDU"],
     "current_courses": [
       {
         "course_code": "URDU 101",
@@ -11299,16 +9636,11 @@
         "unique": "URDU 101/O"
       }
     ],
-    "all_courses": [
-      "URDU 101",
-      "URDU 517"
-    ]
+    "all_courses": ["URDU 101", "URDU 517"]
   },
   {
     "name": "N Jamal",
-    "departments": [
-      "URDU"
-    ],
+    "departments": ["URDU"],
     "current_courses": [
       {
         "course_code": "URDU 101",
@@ -11343,19 +9675,11 @@
         "unique": "URDU 505/A"
       }
     ],
-    "all_courses": [
-      "URDU 101",
-      "URDU 104",
-      "URDU 302",
-      "URDU 502",
-      "URDU 505"
-    ]
+    "all_courses": ["URDU 101", "URDU 104", "URDU 302", "URDU 502", "URDU 505"]
   },
   {
     "name": "N Khokhar",
-    "departments": [
-      "URDU"
-    ],
+    "departments": ["URDU"],
     "current_courses": [
       {
         "course_code": "URDU 208",
@@ -11401,9 +9725,7 @@
   },
   {
     "name": "F Aftab",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 101",
@@ -11430,15 +9752,11 @@
         "unique": "WRCM 101/G"
       }
     ],
-    "all_courses": [
-      "WRCM 101"
-    ]
+    "all_courses": ["WRCM 101"]
   },
   {
     "name": "F Saeed",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 101",
@@ -11473,16 +9791,11 @@
         "unique": "WRCM 101/B"
       }
     ],
-    "all_courses": [
-      "WRCM 101",
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 101", "WRCM 102"]
   },
   {
     "name": "M Zia",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 101",
@@ -11517,16 +9830,11 @@
         "unique": "WRCM 101/T"
       }
     ],
-    "all_courses": [
-      "WRCM 101",
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 101", "WRCM 102"]
   },
   {
     "name": "R Wasif",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 101",
@@ -11553,16 +9861,11 @@
         "unique": "WRCM 102/H"
       }
     ],
-    "all_courses": [
-      "WRCM 101",
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 101", "WRCM 102"]
   },
   {
     "name": "Team",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 101",
@@ -11573,15 +9876,11 @@
         "unique": "WRCM 101/D"
       }
     ],
-    "all_courses": [
-      "WRCM 101"
-    ]
+    "all_courses": ["WRCM 101"]
   },
   {
     "name": "R John",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 101",
@@ -11608,15 +9907,11 @@
         "unique": "WRCM 101/J"
       }
     ],
-    "all_courses": [
-      "WRCM 101"
-    ]
+    "all_courses": ["WRCM 101"]
   },
   {
     "name": "A Fareed",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 101",
@@ -11643,16 +9938,11 @@
         "unique": "WRCM 101/Y"
       }
     ],
-    "all_courses": [
-      "WRCM 101",
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 101", "WRCM 102"]
   },
   {
     "name": "A Alphonce",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 101",
@@ -11671,16 +9961,11 @@
         "unique": "WRCM 101/HH"
       }
     ],
-    "all_courses": [
-      "WRCM 101",
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 101", "WRCM 102"]
   },
   {
     "name": "S Pervez",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 101",
@@ -11715,16 +10000,11 @@
         "unique": "WRCM 102/P"
       }
     ],
-    "all_courses": [
-      "WRCM 101",
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 101", "WRCM 102"]
   },
   {
     "name": "A  Khalid",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 101",
@@ -11743,16 +10023,11 @@
         "unique": "WRCM 101/NN"
       }
     ],
-    "all_courses": [
-      "WRCM 101",
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 101", "WRCM 102"]
   },
   {
     "name": "N Ahmad",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 101",
@@ -11771,16 +10046,11 @@
         "unique": "WRCM 101/S"
       }
     ],
-    "all_courses": [
-      "WRCM 101",
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 101", "WRCM 102"]
   },
   {
     "name": "N Justin",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 101",
@@ -11799,16 +10069,11 @@
         "unique": "WRCM 101/TT"
       }
     ],
-    "all_courses": [
-      "WRCM 101",
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 101", "WRCM 102"]
   },
   {
     "name": "T Bokhari",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 101",
@@ -11827,16 +10092,11 @@
         "unique": "WRCM 101/Q"
       }
     ],
-    "all_courses": [
-      "WRCM 101",
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 101", "WRCM 102"]
   },
   {
     "name": "A Zia",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 101",
@@ -11863,15 +10123,11 @@
         "unique": "WRCM 101/RR"
       }
     ],
-    "all_courses": [
-      "WRCM 101"
-    ]
+    "all_courses": ["WRCM 101"]
   },
   {
     "name": "M Saleh",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 101",
@@ -11890,16 +10146,11 @@
         "unique": "WRCM 101/V"
       }
     ],
-    "all_courses": [
-      "WRCM 101",
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 101", "WRCM 102"]
   },
   {
     "name": "Quratulaen",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 102",
@@ -11910,15 +10161,11 @@
         "unique": "WRCM 102/B"
       }
     ],
-    "all_courses": [
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 102"]
   },
   {
     "name": "S Mir",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 102",
@@ -11929,15 +10176,11 @@
         "unique": "WRCM 102/C"
       }
     ],
-    "all_courses": [
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 102"]
   },
   {
     "name": "A Wasim",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 102",
@@ -11964,15 +10207,11 @@
         "unique": "WRCM 102/G"
       }
     ],
-    "all_courses": [
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 102"]
   },
   {
     "name": "J C Imdad",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 102",
@@ -11999,16 +10238,11 @@
         "unique": "WRCM 102/K"
       }
     ],
-    "all_courses": [
-      "WRCM 101",
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 101", "WRCM 102"]
   },
   {
     "name": "A  Javed",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 102",
@@ -12027,15 +10261,11 @@
         "unique": "WRCM 102/R"
       }
     ],
-    "all_courses": [
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 102"]
   },
   {
     "name": "S Hanif",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [
       {
         "course_code": "WRCM 102",
@@ -12054,67 +10284,41 @@
         "unique": "WRCM 102/Q"
       }
     ],
-    "all_courses": [
-      "WRCM 101",
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 101", "WRCM 102"]
   },
   {
     "name": "TBD",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [],
-    "all_courses": [
-      "BIOL 100"
-    ]
+    "all_courses": ["BIOL 100"]
   },
   {
     "name": "S Ali",
-    "departments": [
-      "BIOL"
-    ],
+    "departments": ["BIOL"],
     "current_courses": [],
-    "all_courses": [
-      "BIOL 201",
-      "BIOL 313"
-    ]
+    "all_courses": ["BIOL 201", "BIOL 313"]
   },
   {
     "name": "K Muaz",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [],
-    "all_courses": [
-      "BIOT 409"
-    ]
+    "all_courses": ["BIOT 409"]
   },
   {
     "name": "S Hanook",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [],
-    "all_courses": [
-      "BIOT 506"
-    ]
+    "all_courses": ["BIOT 506"]
   },
   {
     "name": "B Usman",
-    "departments": [
-      "BIOT"
-    ],
+    "departments": ["BIOT"],
     "current_courses": [],
-    "all_courses": [
-      "BIOT 605"
-    ]
+    "all_courses": ["BIOT 605"]
   },
   {
     "name": "TBD",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [],
     "all_courses": [
       "BUSN 101",
@@ -12128,401 +10332,223 @@
   },
   {
     "name": "S. Suleman",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [],
-    "all_courses": [
-      "BUSN 121"
-    ]
+    "all_courses": ["BUSN 121"]
   },
   {
     "name": "S Gul",
-    "departments": [
-      "BUSN"
-    ],
+    "departments": ["BUSN"],
     "current_courses": [],
-    "all_courses": [
-      "BUSN 121"
-    ]
+    "all_courses": ["BUSN 121"]
   },
   {
     "name": "TBD",
-    "departments": [
-      "CHEM"
-    ],
+    "departments": ["CHEM"],
     "current_courses": [],
-    "all_courses": [
-      "CHEM 100",
-      "CHEM 160",
-      "CHEM 260",
-      "CHEM 524",
-      "CHEM 705"
-    ]
+    "all_courses": ["CHEM 100", "CHEM 160", "CHEM 260", "CHEM 524", "CHEM 705"]
   },
   {
     "name": "AY khan",
-    "departments": [
-      "CHEM"
-    ],
+    "departments": ["CHEM"],
     "current_courses": [],
-    "all_courses": [
-      "CHEM 170",
-      "CHEM 471",
-      "CHEM 763"
-    ]
+    "all_courses": ["CHEM 170", "CHEM 471", "CHEM 763"]
   },
   {
     "name": "M Abbas",
-    "departments": [
-      "CHEM"
-    ],
+    "departments": ["CHEM"],
     "current_courses": [],
-    "all_courses": [
-      "CHEM 261",
-      "CHEM 331",
-      "CHEM 745"
-    ]
+    "all_courses": ["CHEM 261", "CHEM 331", "CHEM 745"]
   },
   {
     "name": "A Atique",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [],
-    "all_courses": [
-      "COMP 113"
-    ]
+    "all_courses": ["COMP 113"]
   },
   {
     "name": "A Khanum",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [],
-    "all_courses": [
-      "COMP 295",
-      "COMP 360"
-    ]
+    "all_courses": ["COMP 295", "COMP 360"]
   },
   {
     "name": "TBD",
-    "departments": [
-      "COMP"
-    ],
+    "departments": ["COMP"],
     "current_courses": [],
-    "all_courses": [
-      "COMP 504"
-    ]
+    "all_courses": ["COMP 504"]
   },
   {
     "name": "R Haque",
-    "departments": [
-      "CPPG"
-    ],
+    "departments": ["CPPG"],
     "current_courses": [],
-    "all_courses": [
-      "CPPG 603",
-      "CPPG 656"
-    ]
+    "all_courses": ["CPPG 603", "CPPG 656"]
   },
   {
     "name": "TBD",
-    "departments": [
-      "CPPG"
-    ],
+    "departments": ["CPPG"],
     "current_courses": [],
-    "all_courses": [
-      "CPPG 799D"
-    ]
+    "all_courses": ["CPPG 799D"]
   },
   {
     "name": "T Fatima",
-    "departments": [
-      "CRIM"
-    ],
+    "departments": ["CRIM"],
     "current_courses": [],
-    "all_courses": [
-      "CRIM 201"
-    ]
+    "all_courses": ["CRIM 201"]
   },
   {
     "name": "A  Azeem",
-    "departments": [
-      "CRIM"
-    ],
+    "departments": ["CRIM"],
     "current_courses": [],
-    "all_courses": [
-      "CRIM 220"
-    ]
+    "all_courses": ["CRIM 220"]
   },
   {
     "name": "M Ali",
-    "departments": [
-      "CRIM"
-    ],
+    "departments": ["CRIM"],
     "current_courses": [],
-    "all_courses": [
-      "CRIM 310",
-      "CRIM 460"
-    ]
+    "all_courses": ["CRIM 310", "CRIM 460"]
   },
   {
     "name": "G Calib",
-    "departments": [
-      "CRST"
-    ],
+    "departments": ["CRST"],
     "current_courses": [],
-    "all_courses": [
-      "CRST 412"
-    ]
+    "all_courses": ["CRST 412"]
   },
   {
     "name": "S Minhas",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [],
-    "all_courses": [
-      "CSCS 100"
-    ]
+    "all_courses": ["CSCS 100"]
   },
   {
     "name": "R Bqa",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [],
-    "all_courses": [
-      "CSCS 100"
-    ]
+    "all_courses": ["CSCS 100"]
   },
   {
     "name": "TBD",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [],
-    "all_courses": [
-      "CSCS 100"
-    ]
+    "all_courses": ["CSCS 100"]
   },
   {
     "name": "G Mehak",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [],
-    "all_courses": [
-      "CSCS 202"
-    ]
+    "all_courses": ["CSCS 202"]
   },
   {
     "name": "N Ashraf",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [],
-    "all_courses": [
-      "CSCS 457"
-    ]
+    "all_courses": ["CSCS 457"]
   },
   {
     "name": "F Shaheen",
-    "departments": [
-      "CSCS"
-    ],
+    "departments": ["CSCS"],
     "current_courses": [],
-    "all_courses": [
-      "CSCS 470"
-    ]
+    "all_courses": ["CSCS 470"]
   },
   {
     "name": "Q Quraishi",
-    "departments": [
-      "CSDS"
-    ],
+    "departments": ["CSDS"],
     "current_courses": [],
-    "all_courses": [
-      "CSDS 503"
-    ]
+    "all_courses": ["CSDS 503"]
   },
   {
     "name": "F Ullah",
-    "departments": [
-      "CSDS"
-    ],
+    "departments": ["CSDS"],
     "current_courses": [],
-    "all_courses": [
-      "CSDS 552"
-    ]
+    "all_courses": ["CSDS 552"]
   },
   {
     "name": "A Khan",
-    "departments": [
-      "CSDS"
-    ],
+    "departments": ["CSDS"],
     "current_courses": [],
-    "all_courses": [
-      "CSDS 611"
-    ]
+    "all_courses": ["CSDS 611"]
   },
   {
     "name": "M Mushtaq",
-    "departments": [
-      "CSDS"
-    ],
+    "departments": ["CSDS"],
     "current_courses": [],
-    "all_courses": [
-      "CSDS 699A",
-      "CSDS 699B",
-      "CSDS 699E"
-    ]
+    "all_courses": ["CSDS 699A", "CSDS 699B", "CSDS 699E"]
   },
   {
     "name": "S Lodhi",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
-    "all_courses": [
-      "ECON 100",
-      "ECON 302",
-      "ECON 320"
-    ]
+    "all_courses": ["ECON 100", "ECON 302", "ECON 320"]
   },
   {
     "name": "T Ahmed",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
-    "all_courses": [
-      "ECON 100",
-      "ECON 101",
-      "ECON 201"
-    ]
+    "all_courses": ["ECON 100", "ECON 101", "ECON 201"]
   },
   {
     "name": "T Numan",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
-    "all_courses": [
-      "ECON 100",
-      "ECON 102"
-    ]
+    "all_courses": ["ECON 100", "ECON 102"]
   },
   {
     "name": "S Waqar",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
-    "all_courses": [
-      "ECON 100",
-      "ECON 322"
-    ]
+    "all_courses": ["ECON 100", "ECON 322"]
   },
   {
     "name": "M Noor",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
-    "all_courses": [
-      "ECON 100",
-      "ECON 103"
-    ]
+    "all_courses": ["ECON 100", "ECON 103"]
   },
   {
     "name": "N Ishtiaq",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
-    "all_courses": [
-      "ECON 100",
-      "ECON 102",
-      "ECON 206"
-    ]
+    "all_courses": ["ECON 100", "ECON 102", "ECON 206"]
   },
   {
     "name": "A  Jalil",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
-    "all_courses": [
-      "ECON 100",
-      "ECON 203",
-      "ECON 323"
-    ]
+    "all_courses": ["ECON 100", "ECON 203", "ECON 323"]
   },
   {
     "name": "A  Anwar",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
-    "all_courses": [
-      "ECON 101",
-      "ECON 201",
-      "ECON 560"
-    ]
+    "all_courses": ["ECON 101", "ECON 201", "ECON 560"]
   },
   {
     "name": "H  Ahsan",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
-    "all_courses": [
-      "ECON 101",
-      "ECON 103",
-      "ECON 315"
-    ]
+    "all_courses": ["ECON 101", "ECON 103", "ECON 315"]
   },
   {
     "name": "Z Manzoor",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
-    "all_courses": [
-      "ECON 102",
-      "ECON 202"
-    ]
+    "all_courses": ["ECON 102", "ECON 202"]
   },
   {
     "name": "Z  Iqbal",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
-    "all_courses": [
-      "ECON 103",
-      "ECON 203",
-      "ECON 655"
-    ]
+    "all_courses": ["ECON 103", "ECON 203", "ECON 655"]
   },
   {
     "name": "R Ahmed",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
-    "all_courses": [
-      "ECON 210",
-      "ECON 325"
-    ]
+    "all_courses": ["ECON 210", "ECON 325"]
   },
   {
     "name": "M Bhatti",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
     "all_courses": [
       "ECON 300",
@@ -12541,78 +10567,43 @@
   },
   {
     "name": "U Hanif",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
-    "all_courses": [
-      "ECON 300",
-      "ECON 304",
-      "ECON 620"
-    ]
+    "all_courses": ["ECON 300", "ECON 304", "ECON 620"]
   },
   {
     "name": "M Tahir",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
-    "all_courses": [
-      "ECON 302",
-      "ECON 400",
-      "ECON 728"
-    ]
+    "all_courses": ["ECON 302", "ECON 400", "ECON 728"]
   },
   {
     "name": "M Ayyubi",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
-    "all_courses": [
-      "ECON 400",
-      "ECON 411",
-      "ECON 708"
-    ]
+    "all_courses": ["ECON 400", "ECON 411", "ECON 708"]
   },
   {
     "name": "A  Batool",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
-    "all_courses": [
-      "ECON 406",
-      "ECON 707"
-    ]
+    "all_courses": ["ECON 406", "ECON 707"]
   },
   {
     "name": "G Shabir",
-    "departments": [
-      "ECON"
-    ],
+    "departments": ["ECON"],
     "current_courses": [],
-    "all_courses": [
-      "ECON 417",
-      "ECON 600"
-    ]
+    "all_courses": ["ECON 417", "ECON 600"]
   },
   {
     "name": "J Hassan",
-    "departments": [
-      "EDUC"
-    ],
+    "departments": ["EDUC"],
     "current_courses": [],
-    "all_courses": [
-      "EDUC 110",
-      "EDUC 355"
-    ]
+    "all_courses": ["EDUC 110", "EDUC 355"]
   },
   {
     "name": "A Khokhar",
-    "departments": [
-      "EDUC"
-    ],
+    "departments": ["EDUC"],
     "current_courses": [],
     "all_courses": [
       "EDUC 110",
@@ -12626,202 +10617,109 @@
   },
   {
     "name": "A Khan",
-    "departments": [
-      "EDUC"
-    ],
+    "departments": ["EDUC"],
     "current_courses": [],
-    "all_courses": [
-      "EDUC 110",
-      "EDUC 120",
-      "EDUC 350",
-      "EDUC 390"
-    ]
+    "all_courses": ["EDUC 110", "EDUC 120", "EDUC 350", "EDUC 390"]
   },
   {
     "name": "M. Thomas",
-    "departments": [
-      "EDUC"
-    ],
+    "departments": ["EDUC"],
     "current_courses": [],
-    "all_courses": [
-      "EDUC 110",
-      "EDUC 540",
-      "EDUC 640"
-    ]
+    "all_courses": ["EDUC 110", "EDUC 540", "EDUC 640"]
   },
   {
     "name": "A Aslam",
-    "departments": [
-      "EDUC"
-    ],
+    "departments": ["EDUC"],
     "current_courses": [],
-    "all_courses": [
-      "EDUC 110",
-      "EDUC 240",
-      "EDUC 315",
-      "EDUC 370"
-    ]
+    "all_courses": ["EDUC 110", "EDUC 240", "EDUC 315", "EDUC 370"]
   },
   {
     "name": "M Raza",
-    "departments": [
-      "EDUC"
-    ],
+    "departments": ["EDUC"],
     "current_courses": [],
-    "all_courses": [
-      "EDUC 110",
-      "EDUC 120",
-      "EDUC 645"
-    ]
+    "all_courses": ["EDUC 110", "EDUC 120", "EDUC 645"]
   },
   {
     "name": "R. Farooq",
-    "departments": [
-      "EDUC"
-    ],
+    "departments": ["EDUC"],
     "current_courses": [],
-    "all_courses": [
-      "EDUC 120"
-    ]
+    "all_courses": ["EDUC 120"]
   },
   {
     "name": "S Burhan",
-    "departments": [
-      "EDUC"
-    ],
+    "departments": ["EDUC"],
     "current_courses": [],
-    "all_courses": [
-      "EDUC 120",
-      "EDUC 300",
-      "EDUC 340"
-    ]
+    "all_courses": ["EDUC 120", "EDUC 300", "EDUC 340"]
   },
   {
     "name": "Team",
-    "departments": [
-      "EDUC"
-    ],
+    "departments": ["EDUC"],
     "current_courses": [],
-    "all_courses": [
-      "EDUC 497",
-      "EDUC 498"
-    ]
+    "all_courses": ["EDUC 497", "EDUC 498"]
   },
   {
     "name": "N Ahmad",
-    "departments": [
-      "ENGL"
-    ],
+    "departments": ["ENGL"],
     "current_courses": [],
-    "all_courses": [
-      "ENGL 110"
-    ]
+    "all_courses": ["ENGL 110"]
   },
   {
     "name": "A Zia",
-    "departments": [
-      "ENGL"
-    ],
+    "departments": ["ENGL"],
     "current_courses": [],
-    "all_courses": [
-      "ENGL 175"
-    ]
+    "all_courses": ["ENGL 175"]
   },
   {
     "name": "S Hanif",
-    "departments": [
-      "ENGL"
-    ],
+    "departments": ["ENGL"],
     "current_courses": [],
-    "all_courses": [
-      "ENGL 175"
-    ]
+    "all_courses": ["ENGL 175"]
   },
   {
     "name": "R Wasif",
-    "departments": [
-      "ENGL"
-    ],
+    "departments": ["ENGL"],
     "current_courses": [],
-    "all_courses": [
-      "ENGL 201"
-    ]
+    "all_courses": ["ENGL 201"]
   },
   {
     "name": "J C Imdad",
-    "departments": [
-      "ENGL"
-    ],
+    "departments": ["ENGL"],
     "current_courses": [],
-    "all_courses": [
-      "ENGL 201",
-      "ENGL 517"
-    ]
+    "all_courses": ["ENGL 201", "ENGL 517"]
   },
   {
     "name": "I Sayed",
-    "departments": [
-      "ENGL"
-    ],
+    "departments": ["ENGL"],
     "current_courses": [],
-    "all_courses": [
-      "ENGL 214",
-      "ENGL 307",
-      "ENGL 323"
-    ]
+    "all_courses": ["ENGL 214", "ENGL 307", "ENGL 323"]
   },
   {
     "name": "F Zaheer",
-    "departments": [
-      "ENGL"
-    ],
+    "departments": ["ENGL"],
     "current_courses": [],
-    "all_courses": [
-      "ENGL 301",
-      "ENGL 400",
-      "ENGL 520"
-    ]
+    "all_courses": ["ENGL 301", "ENGL 400", "ENGL 520"]
   },
   {
     "name": "Quratulaen",
-    "departments": [
-      "ENGL"
-    ],
+    "departments": ["ENGL"],
     "current_courses": [],
-    "all_courses": [
-      "ENGL 303",
-      "ENGL 403",
-      "ENGL 611"
-    ]
+    "all_courses": ["ENGL 303", "ENGL 403", "ENGL 611"]
   },
   {
     "name": "S Mir",
-    "departments": [
-      "ENGL"
-    ],
+    "departments": ["ENGL"],
     "current_courses": [],
-    "all_courses": [
-      "ENGL 310",
-      "ENGL 331",
-      "ENGL 550"
-    ]
+    "all_courses": ["ENGL 310", "ENGL 331", "ENGL 550"]
   },
   {
     "name": "S Maqbool",
-    "departments": [
-      "ENGL"
-    ],
+    "departments": ["ENGL"],
     "current_courses": [],
-    "all_courses": [
-      "ENGL 315",
-      "ENGL 618"
-    ]
+    "all_courses": ["ENGL 315", "ENGL 618"]
   },
   {
     "name": "F Syeda",
-    "departments": [
-      "ENGL"
-    ],
+    "departments": ["ENGL"],
     "current_courses": [],
     "all_courses": [
       "ENGL 328",
@@ -12835,55 +10733,31 @@
   },
   {
     "name": "S Akram",
-    "departments": [
-      "ENVR"
-    ],
+    "departments": ["ENVR"],
     "current_courses": [],
-    "all_courses": [
-      "ENVR 151",
-      "ENVR 323",
-      "ENVR 402"
-    ]
+    "all_courses": ["ENVR 151", "ENVR 323", "ENVR 402"]
   },
   {
     "name": "S Ilyas",
-    "departments": [
-      "ENVR"
-    ],
+    "departments": ["ENVR"],
     "current_courses": [],
-    "all_courses": [
-      "ENVR 151",
-      "ENVR 252",
-      "ENVR 602"
-    ]
+    "all_courses": ["ENVR 151", "ENVR 252", "ENVR 602"]
   },
   {
     "name": "S Jelani",
-    "departments": [
-      "ENVR"
-    ],
+    "departments": ["ENVR"],
     "current_courses": [],
-    "all_courses": [
-      "ENVR 160"
-    ]
+    "all_courses": ["ENVR 160"]
   },
   {
     "name": "M Shahbaz",
-    "departments": [
-      "ENVR"
-    ],
+    "departments": ["ENVR"],
     "current_courses": [],
-    "all_courses": [
-      "ENVR 201",
-      "ENVR 413",
-      "ENVR 511"
-    ]
+    "all_courses": ["ENVR 201", "ENVR 413", "ENVR 511"]
   },
   {
     "name": "D Bakker",
-    "departments": [
-      "ENVR"
-    ],
+    "departments": ["ENVR"],
     "current_courses": [],
     "all_courses": [
       "ENVR 201",
@@ -12897,193 +10771,109 @@
   },
   {
     "name": "S Aslam",
-    "departments": [
-      "ENVR"
-    ],
+    "departments": ["ENVR"],
     "current_courses": [],
-    "all_courses": [
-      "ENVR 201",
-      "ENVR 252",
-      "ENVR 405"
-    ]
+    "all_courses": ["ENVR 201", "ENVR 252", "ENVR 405"]
   },
   {
     "name": "K Shafiqu",
-    "departments": [
-      "ENVR"
-    ],
+    "departments": ["ENVR"],
     "current_courses": [],
-    "all_courses": [
-      "ENVR 210"
-    ]
+    "all_courses": ["ENVR 210"]
   },
   {
     "name": "S Hanook",
-    "departments": [
-      "ENVR"
-    ],
+    "departments": ["ENVR"],
     "current_courses": [],
-    "all_courses": [
-      "ENVR 212"
-    ]
+    "all_courses": ["ENVR 212"]
   },
   {
     "name": "S Machado",
-    "departments": [
-      "ENVR"
-    ],
+    "departments": ["ENVR"],
     "current_courses": [],
-    "all_courses": [
-      "ENVR 250",
-      "ENVR 403"
-    ]
+    "all_courses": ["ENVR 250", "ENVR 403"]
   },
   {
     "name": "S Chung",
-    "departments": [
-      "ENVR"
-    ],
+    "departments": ["ENVR"],
     "current_courses": [],
-    "all_courses": [
-      "ENVR 309",
-      "ENVR 416"
-    ]
+    "all_courses": ["ENVR 309", "ENVR 416"]
   },
   {
     "name": "S Azeem",
-    "departments": [
-      "ENVR"
-    ],
+    "departments": ["ENVR"],
     "current_courses": [],
-    "all_courses": [
-      "ENVR 311"
-    ]
+    "all_courses": ["ENVR 311"]
   },
   {
     "name": "D Ahmed",
-    "departments": [
-      "ENVR"
-    ],
+    "departments": ["ENVR"],
     "current_courses": [],
-    "all_courses": [
-      "ENVR 330"
-    ]
+    "all_courses": ["ENVR 330"]
   },
   {
     "name": "B Usman",
-    "departments": [
-      "ENVR"
-    ],
+    "departments": ["ENVR"],
     "current_courses": [],
-    "all_courses": [
-      "ENVR 604"
-    ]
+    "all_courses": ["ENVR 604"]
   },
   {
     "name": "Team",
-    "departments": [
-      "ENVR"
-    ],
+    "departments": ["ENVR"],
     "current_courses": [],
-    "all_courses": [
-      "ENVR 605"
-    ]
+    "all_courses": ["ENVR 605"]
   },
   {
     "name": "A Anwar",
-    "departments": [
-      "FREN"
-    ],
+    "departments": ["FREN"],
     "current_courses": [],
-    "all_courses": [
-      "FREN 101"
-    ]
+    "all_courses": ["FREN 101"]
   },
   {
     "name": "P Ludivine",
-    "departments": [
-      "FREN"
-    ],
+    "departments": ["FREN"],
     "current_courses": [],
-    "all_courses": [
-      "FREN 101",
-      "FREN 102"
-    ]
+    "all_courses": ["FREN 101", "FREN 102"]
   },
   {
     "name": "I Ul Haq",
-    "departments": [
-      "FSQM"
-    ],
+    "departments": ["FSQM"],
     "current_courses": [],
-    "all_courses": [
-      "FSQM 504"
-    ]
+    "all_courses": ["FSQM 504"]
   },
   {
     "name": "R John",
-    "departments": [
-      "FSQM"
-    ],
+    "departments": ["FSQM"],
     "current_courses": [],
-    "all_courses": [
-      "FSQM 603"
-    ]
+    "all_courses": ["FSQM 603"]
   },
   {
     "name": "B Sadiq",
-    "departments": [
-      "FSQM"
-    ],
+    "departments": ["FSQM"],
     "current_courses": [],
-    "all_courses": [
-      "FSQM 606",
-      "FSQM 699A",
-      "FSQM 699B",
-      "FSQM 699E"
-    ]
+    "all_courses": ["FSQM 606", "FSQM 699A", "FSQM 699B", "FSQM 699E"]
   },
   {
     "name": "K Muaz",
-    "departments": [
-      "FSQM"
-    ],
+    "departments": ["FSQM"],
     "current_courses": [],
-    "all_courses": [
-      "FSQM 607"
-    ]
+    "all_courses": ["FSQM 607"]
   },
   {
     "name": "K Shakrul",
-    "departments": [
-      "GEOG"
-    ],
+    "departments": ["GEOG"],
     "current_courses": [],
-    "all_courses": [
-      "GEOG 101",
-      "GEOG 133",
-      "GEOG 220",
-      "GEOG 313",
-      "GEOG 499"
-    ]
+    "all_courses": ["GEOG 101", "GEOG 133", "GEOG 220", "GEOG 313", "GEOG 499"]
   },
   {
     "name": "K Shafiqu",
-    "departments": [
-      "GEOG"
-    ],
+    "departments": ["GEOG"],
     "current_courses": [],
-    "all_courses": [
-      "GEOG 101",
-      "GEOG 210",
-      "GEOG 326"
-    ]
+    "all_courses": ["GEOG 101", "GEOG 210", "GEOG 326"]
   },
   {
     "name": "A Iqbal",
-    "departments": [
-      "GEOG"
-    ],
+    "departments": ["GEOG"],
     "current_courses": [],
     "all_courses": [
       "GEOG 133",
@@ -13097,267 +10887,152 @@
   },
   {
     "name": "H Mahmood",
-    "departments": [
-      "GRMN"
-    ],
+    "departments": ["GRMN"],
     "current_courses": [],
-    "all_courses": [
-      "GRMN 101"
-    ]
+    "all_courses": ["GRMN 101"]
   },
   {
     "name": "Qurit U An",
-    "departments": [
-      "GRMN"
-    ],
+    "departments": ["GRMN"],
     "current_courses": [],
-    "all_courses": [
-      "GRMN 101"
-    ]
+    "all_courses": ["GRMN 101"]
   },
   {
     "name": "M Haider",
-    "departments": [
-      "HIST"
-    ],
+    "departments": ["HIST"],
     "current_courses": [],
-    "all_courses": [
-      "HIST 102",
-      "HIST 303"
-    ]
+    "all_courses": ["HIST 102", "HIST 303"]
   },
   {
     "name": "A Ijaz",
-    "departments": [
-      "HIST"
-    ],
+    "departments": ["HIST"],
     "current_courses": [],
-    "all_courses": [
-      "HIST 250",
-      "HIST 301",
-      "HIST 312"
-    ]
+    "all_courses": ["HIST 250", "HIST 301", "HIST 312"]
   },
   {
     "name": "M Shafqat",
-    "departments": [
-      "HIST"
-    ],
+    "departments": ["HIST"],
     "current_courses": [],
-    "all_courses": [
-      "HIST 255",
-      "HIST 308"
-    ]
+    "all_courses": ["HIST 255", "HIST 308"]
   },
   {
     "name": "S Khaliq",
-    "departments": [
-      "HPED"
-    ],
+    "departments": ["HPED"],
     "current_courses": [],
-    "all_courses": [
-      "HPED 101",
-      "HPED 105",
-      "HPED 111",
-      "HPED 112"
-    ]
+    "all_courses": ["HPED 101", "HPED 105", "HPED 111", "HPED 112"]
   },
   {
     "name": "S Nazir",
-    "departments": [
-      "HPED"
-    ],
+    "departments": ["HPED"],
     "current_courses": [],
-    "all_courses": [
-      "HPED 105",
-      "HPED 106",
-      "HPED 107",
-      "HPED 111"
-    ]
+    "all_courses": ["HPED 105", "HPED 106", "HPED 107", "HPED 111"]
   },
   {
     "name": "Z Nisa",
-    "departments": [
-      "HPED"
-    ],
+    "departments": ["HPED"],
     "current_courses": [],
-    "all_courses": [
-      "HPED 150",
-      "HPED 151"
-    ]
+    "all_courses": ["HPED 150", "HPED 151"]
   },
   {
     "name": "A  Javed",
-    "departments": [
-      "LING"
-    ],
+    "departments": ["LING"],
     "current_courses": [],
-    "all_courses": [
-      "LING 370"
-    ]
+    "all_courses": ["LING 370"]
   },
   {
     "name": "R Butt",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [],
-    "all_courses": [
-      "MATH 107"
-    ]
+    "all_courses": ["MATH 107"]
   },
   {
     "name": "I Naqvi",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [],
-    "all_courses": [
-      "MATH 107"
-    ]
+    "all_courses": ["MATH 107"]
   },
   {
     "name": "S Hanook",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [],
-    "all_courses": [
-      "MATH 107"
-    ]
+    "all_courses": ["MATH 107"]
   },
   {
     "name": "L Kahlon",
-    "departments": [
-      "MATH"
-    ],
+    "departments": ["MATH"],
     "current_courses": [],
-    "all_courses": [
-      "MATH 316"
-    ]
+    "all_courses": ["MATH 316"]
   },
   {
     "name": "TBD",
-    "departments": [
-      "MPGN"
-    ],
+    "departments": ["MPGN"],
     "current_courses": [],
-    "all_courses": [
-      "MPGN 505"
-    ]
+    "all_courses": ["MPGN 505"]
   },
   {
     "name": "N Habib",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [],
-    "all_courses": [
-      "PSYC 502"
-    ]
+    "all_courses": ["PSYC 502"]
   },
   {
     "name": "B M Butt",
-    "departments": [
-      "PSYC"
-    ],
+    "departments": ["PSYC"],
     "current_courses": [],
-    "all_courses": [
-      "PSYC 635"
-    ]
+    "all_courses": ["PSYC 635"]
   },
   {
     "name": "T Fatima",
-    "departments": [
-      "SOCL"
-    ],
+    "departments": ["SOCL"],
     "current_courses": [],
-    "all_courses": [
-      "SOCL 100",
-      "SOCL 201",
-      "SOCL 450"
-    ]
+    "all_courses": ["SOCL 100", "SOCL 201", "SOCL 450"]
   },
   {
     "name": "S Shahid",
-    "departments": [
-      "SOCL"
-    ],
+    "departments": ["SOCL"],
     "current_courses": [],
-    "all_courses": [
-      "SOCL 100",
-      "SOCL 223"
-    ]
+    "all_courses": ["SOCL 100", "SOCL 223"]
   },
   {
     "name": "TBD",
-    "departments": [
-      "SOCL"
-    ],
+    "departments": ["SOCL"],
     "current_courses": [],
-    "all_courses": [
-      "SOCL 503"
-    ]
+    "all_courses": ["SOCL 503"]
   },
   {
     "name": "N Medel",
-    "departments": [
-      "SPAN"
-    ],
+    "departments": ["SPAN"],
     "current_courses": [],
-    "all_courses": [
-      "SPAN 101"
-    ]
+    "all_courses": ["SPAN 101"]
   },
   {
     "name": "TBD",
-    "departments": [
-      "STAT"
-    ],
+    "departments": ["STAT"],
     "current_courses": [],
-    "all_courses": [
-      "STAT 507"
-    ]
+    "all_courses": ["STAT 507"]
   },
   {
     "name": "S Saleem",
-    "departments": [
-      "UNIV"
-    ],
+    "departments": ["UNIV"],
     "current_courses": [],
-    "all_courses": [
-      "UNIV 100"
-    ]
+    "all_courses": ["UNIV 100"]
   },
   {
     "name": "TBD",
-    "departments": [
-      "URDU"
-    ],
+    "departments": ["URDU"],
     "current_courses": [],
-    "all_courses": [
-      "URDU 101"
-    ]
+    "all_courses": ["URDU 101"]
   },
   {
     "name": "TBD",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [],
-    "all_courses": [
-      "WRCM 101",
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 101", "WRCM 102"]
   },
   {
     "name": "S Maqbool",
-    "departments": [
-      "WRCM"
-    ],
+    "departments": ["WRCM"],
     "current_courses": [],
-    "all_courses": [
-      "WRCM 102"
-    ]
+    "all_courses": ["WRCM 102"]
   }
 ]
