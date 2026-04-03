@@ -24,6 +24,8 @@
     ],
     "all_courses": [
       "ARTS 101",
+      "ARTS 105",
+      "ARTS 106",
       "ARTS 200"
     ]
   },
@@ -52,6 +54,7 @@
     ],
     "all_courses": [
       "ARTS 102",
+      "ARTS 103",
       "ARTS 111"
     ]
   },
@@ -87,9 +90,11 @@
       }
     ],
     "all_courses": [
+      "ARTS 102",
       "ARTS 103",
       "ARTS 121",
-      "ARTS 201"
+      "ARTS 201",
+      "ARTS 211"
     ]
   },
   {
@@ -125,7 +130,9 @@
     ],
     "all_courses": [
       "BIOL 100",
-      "BIOL 319"
+      "BIOL 221",
+      "BIOL 319",
+      "BIOL 469"
     ]
   },
   {
@@ -161,7 +168,8 @@
     ],
     "all_courses": [
       "BIOL 100",
-      "BIOL 105"
+      "BIOL 105",
+      "BIOL 201"
     ]
   },
   {
@@ -199,7 +207,8 @@
       }
     ],
     "all_courses": [
-      "BIOL 100"
+      "BIOL 100",
+      "BIOL 415"
     ]
   },
   {
@@ -237,7 +246,8 @@
       }
     ],
     "all_courses": [
-      "BIOL 100"
+      "BIOL 100",
+      "BIOL 473"
     ]
   },
   {
@@ -284,7 +294,8 @@
     ],
     "all_courses": [
       "BIOL 102",
-      "BIOL 221"
+      "BIOL 221",
+      "BIOL 403"
     ]
   },
   {
@@ -327,6 +338,7 @@
       }
     ],
     "all_courses": [
+      "BIOL 100",
       "BIOL 105",
       "BIOL 222",
       "BIOL 325",
@@ -349,7 +361,8 @@
       }
     ],
     "all_courses": [
-      "BIOL 201"
+      "BIOL 201",
+      "BIOL 412"
     ]
   },
   {
@@ -406,6 +419,7 @@
       }
     ],
     "all_courses": [
+      "BIOL 102",
       "BIOL 313"
     ]
   },
@@ -425,7 +439,8 @@
       }
     ],
     "all_courses": [
-      "BIOL 315"
+      "BIOL 315",
+      "BIOL 331"
     ]
   },
   {
@@ -641,7 +656,8 @@
       }
     ],
     "all_courses": [
-      "BIOT 307"
+      "BIOT 307",
+      "BIOT 609"
     ]
   },
   {
@@ -695,6 +711,7 @@
       }
     ],
     "all_courses": [
+      "BIOT 301",
       "BIOT 315",
       "BIOT 411",
       "BIOT 504"
@@ -724,6 +741,7 @@
       }
     ],
     "all_courses": [
+      "BIOT 313",
       "BIOT 316",
       "BIOT 412"
     ]
@@ -752,6 +770,8 @@
       }
     ],
     "all_courses": [
+      "BIOT 201",
+      "BIOT 301",
       "BIOT 408",
       "BIOT 608"
     ]
@@ -903,6 +923,7 @@
       }
     ],
     "all_courses": [
+      "BIOT 412",
       "BIOT 499",
       "BIOT 699A",
       "BIOT 699B",
@@ -932,7 +953,8 @@
       }
     ],
     "all_courses": [
-      "BIOT 502"
+      "BIOT 502",
+      "BIOT 710"
     ]
   },
   {
@@ -951,7 +973,8 @@
       }
     ],
     "all_courses": [
-      "BIOT 601"
+      "BIOT 601",
+      "BIOT 611"
     ]
   },
   {
@@ -978,8 +1001,11 @@
       }
     ],
     "all_courses": [
+      "BIOT 511",
       "BIOT 701",
-      "BIOT 707"
+      "BIOT 707",
+      "BIOT 712",
+      "BIOT 713"
     ]
   },
   {
@@ -1149,6 +1175,7 @@
       "BUSN 101",
       "BUSN 201",
       "BUSN 321",
+      "BUSN 490",
       "BUSN 498"
     ]
   },
@@ -1211,7 +1238,8 @@
       }
     ],
     "all_courses": [
-      "BUSN 170"
+      "BUSN 170",
+      "BUSN 250"
     ]
   },
   {
@@ -1358,6 +1386,7 @@
     ],
     "all_courses": [
       "BUSN 170",
+      "BUSN 370",
       "BUSN 485"
     ]
   },
@@ -1385,7 +1414,8 @@
       }
     ],
     "all_courses": [
-      "BUSN 170"
+      "BUSN 170",
+      "BUSN 225"
     ]
   },
   {
@@ -1429,6 +1459,7 @@
     ],
     "all_courses": [
       "BUSN 170",
+      "BUSN 250",
       "BUSN 280",
       "BUSN 450"
     ]
@@ -1457,6 +1488,7 @@
       }
     ],
     "all_courses": [
+      "BUSN 121",
       "BUSN 201"
     ]
   },
@@ -1476,7 +1508,8 @@
       }
     ],
     "all_courses": [
-      "BUSN 201"
+      "BUSN 201",
+      "BUSN 305"
     ]
   },
   {
@@ -1538,7 +1571,8 @@
       }
     ],
     "all_courses": [
-      "BUSN 201"
+      "BUSN 201",
+      "BUSN 225"
     ]
   },
   {
@@ -1582,6 +1616,7 @@
     ],
     "all_courses": [
       "BUSN 201",
+      "BUSN 206",
       "BUSN 404"
     ]
   },
@@ -1634,7 +1669,8 @@
     ],
     "all_courses": [
       "BUSN 206",
-      "BUSN 321"
+      "BUSN 321",
+      "BUSN 531"
     ]
   },
   {
@@ -1677,6 +1713,7 @@
       }
     ],
     "all_courses": [
+      "BUSN 160",
       "BUSN 230"
     ]
   },
@@ -1720,6 +1757,7 @@
       }
     ],
     "all_courses": [
+      "BUSN 121",
       "BUSN 230"
     ]
   },
@@ -1756,6 +1794,7 @@
     ],
     "all_courses": [
       "BUSN 230",
+      "BUSN 250",
       "BUSN 550"
     ]
   },
@@ -1809,7 +1848,8 @@
     "all_courses": [
       "BUSN 230",
       "BUSN 498",
-      "BUSN 570"
+      "BUSN 570",
+      "BUSN 625"
     ]
   },
   {
@@ -1871,7 +1911,9 @@
       }
     ],
     "all_courses": [
-      "BUSN 280"
+      "BUSN 280",
+      "BUSN 382",
+      "BUSN 484"
     ]
   },
   {
@@ -2007,7 +2049,9 @@
       }
     ],
     "all_courses": [
+      "BUSN 250",
       "BUSN 280",
+      "BUSN 382",
       "BUSN 385"
     ]
   },
@@ -2051,9 +2095,11 @@
       }
     ],
     "all_courses": [
+      "BUSN 160",
       "BUSN 280",
       "BUSN 382",
-      "BUSN 385"
+      "BUSN 385",
+      "BUSN 484"
     ]
   },
   {
@@ -2096,9 +2142,11 @@
       }
     ],
     "all_courses": [
+      "BUSN 206",
       "BUSN 301",
       "BUSN 410",
-      "BUSN 501"
+      "BUSN 501",
+      "BUSN 506"
     ]
   },
   {
@@ -2160,8 +2208,11 @@
       }
     ],
     "all_courses": [
+      "BUSN 206",
       "BUSN 321",
-      "BUSN 501"
+      "BUSN 322",
+      "BUSN 501",
+      "BUSN 531"
     ]
   },
   {
@@ -2188,6 +2239,7 @@
       }
     ],
     "all_courses": [
+      "BUSN 250",
       "BUSN 350",
       "BUSN 550"
     ]
@@ -2232,9 +2284,14 @@
       }
     ],
     "all_courses": [
+      "BUSN 170",
       "BUSN 360",
+      "BUSN 361",
+      "BUSN 364",
       "BUSN 464",
-      "BUSN 510"
+      "BUSN 469",
+      "BUSN 510",
+      "BUSN 560"
     ]
   },
   {
@@ -2272,7 +2329,16 @@
       }
     ],
     "all_courses": [
-      "BUSN 360"
+      "BUSN 121",
+      "BUSN 160",
+      "BUSN 170",
+      "BUSN 206",
+      "BUSN 225",
+      "BUSN 360",
+      "BUSN 370",
+      "BUSN 401",
+      "BUSN 484",
+      "BUSN 490"
     ]
   },
   {
@@ -2299,7 +2365,9 @@
       }
     ],
     "all_courses": [
-      "BUSN 360"
+      "BUSN 360",
+      "BUSN 560",
+      "BUSN 571"
     ]
   },
   {
@@ -2342,7 +2410,9 @@
       }
     ],
     "all_courses": [
-      "BUSN 360"
+      "BUSN 360",
+      "BUSN 361",
+      "BUSN 368"
     ]
   },
   {
@@ -2377,6 +2447,7 @@
       }
     ],
     "all_courses": [
+      "BUSN 160",
       "BUSN 364",
       "BUSN 510"
     ]
@@ -2422,6 +2493,10 @@
     ],
     "all_courses": [
       "BUSN 383",
+      "BUSN 480",
+      "BUSN 484",
+      "BUSN 498",
+      "BUSN 571",
       "BUSN 580"
     ]
   },
@@ -2488,7 +2563,9 @@
     ],
     "all_courses": [
       "BUSN 404",
-      "BUSN 622"
+      "BUSN 601",
+      "BUSN 622",
+      "BUSN 695"
     ]
   },
   {
@@ -2534,7 +2611,10 @@
       }
     ],
     "all_courses": [
+      "BUSN 353",
+      "BUSN 354",
       "BUSN 451",
+      "BUSN 453",
       "BUSN 650"
     ]
   },
@@ -2654,6 +2734,7 @@
       }
     ],
     "all_courses": [
+      "BUSN 305",
       "BUSN 460"
     ]
   },
@@ -2710,7 +2791,8 @@
     "all_courses": [
       "BUSN 461",
       "BUSN 464",
-      "BUSN 469"
+      "BUSN 469",
+      "BUSN 670"
     ]
   },
   {
@@ -2764,7 +2846,8 @@
       }
     ],
     "all_courses": [
-      "BUSN 480"
+      "BUSN 480",
+      "BUSN 585"
     ]
   },
   {
@@ -2799,6 +2882,7 @@
       }
     ],
     "all_courses": [
+      "BUSN 370",
       "BUSN 485",
       "BUSN 630"
     ]
@@ -2836,7 +2920,8 @@
     ],
     "all_courses": [
       "BUSN 490",
-      "BUSN 521"
+      "BUSN 521",
+      "BUSN 522"
     ]
   },
   {
@@ -2882,8 +2967,11 @@
       }
     ],
     "all_courses": [
+      "BUSN 506",
+      "BUSN 605",
       "BUSN 640",
-      "BUSN 690"
+      "BUSN 690",
+      "BUSN 692"
     ]
   },
   {
@@ -2981,10 +3069,12 @@
     ],
     "all_courses": [
       "CHEM 100",
+      "CHEM 270",
       "CHEM 370",
       "CHEM 470",
       "CHEM 473",
       "CHEM 562",
+      "CHEM 563",
       "CHEM 704"
     ]
   },
@@ -3031,6 +3121,8 @@
       "CHEM 100",
       "CHEM 150",
       "CHEM 311",
+      "CHEM 350",
+      "CHEM 520",
       "CHEM 799E"
     ]
   },
@@ -3095,8 +3187,11 @@
     ],
     "all_courses": [
       "CHEM 100",
+      "CHEM 160",
       "CHEM 261",
-      "CHEM 330"
+      "CHEM 330",
+      "CHEM 361",
+      "CHEM 546"
     ]
   },
   {
@@ -3265,7 +3360,9 @@
     ],
     "all_courses": [
       "CHEM 150",
+      "CHEM 311",
       "CHEM 350",
+      "CHEM 499",
       "CHEM 499A",
       "CHEM 499B",
       "CHEM 696",
@@ -3321,8 +3418,11 @@
     ],
     "all_courses": [
       "CHEM 160",
+      "CHEM 330",
       "CHEM 361",
       "CHEM 464",
+      "CHEM 465",
+      "CHEM 542",
       "CHEM 543"
     ]
   },
@@ -3358,8 +3458,10 @@
       }
     ],
     "all_courses": [
+      "CHEM 100",
       "CHEM 170",
       "CHEM 270",
+      "CHEM 473",
       "CHEM 566"
     ]
   },
@@ -3395,8 +3497,11 @@
       }
     ],
     "all_courses": [
+      "CHEM 150",
       "CHEM 250",
+      "CHEM 450",
       "CHEM 525",
+      "CHEM 549",
       "CHEM 762"
     ]
   },
@@ -3432,6 +3537,7 @@
       }
     ],
     "all_courses": [
+      "CHEM 250",
       "CHEM 413",
       "CHEM 526",
       "CHEM 703"
@@ -3535,6 +3641,7 @@
     ],
     "all_courses": [
       "COMP 102",
+      "COMP 111",
       "COMP 113"
     ]
   },
@@ -3591,7 +3698,9 @@
     ],
     "all_courses": [
       "COMP 102",
-      "COMP 360"
+      "COMP 111",
+      "COMP 360",
+      "COMP 552"
     ]
   },
   {
@@ -3673,6 +3782,7 @@
       }
     ],
     "all_courses": [
+      "ARTS 102",
       "COMP 111",
       "COMP 200"
     ]
@@ -3772,7 +3882,8 @@
       }
     ],
     "all_courses": [
-      "COMP 213"
+      "COMP 213",
+      "COMP 405"
     ]
   },
   {
@@ -3838,7 +3949,8 @@
       }
     ],
     "all_courses": [
-      "COMP 300"
+      "COMP 300",
+      "COMP 664"
     ]
   },
   {
@@ -3894,6 +4006,7 @@
     ],
     "all_courses": [
       "COMP 301",
+      "COMP 421",
       "COMP 451"
     ]
   },
@@ -4202,7 +4315,9 @@
     ],
     "all_courses": [
       "CPPG 601",
-      "CPPG 615"
+      "CPPG 615",
+      "CPPG 618",
+      "CPPG 677"
     ]
   },
   {
@@ -4230,7 +4345,9 @@
     ],
     "all_courses": [
       "CPPG 602",
-      "CPPG 617"
+      "CPPG 616",
+      "CPPG 617",
+      "CPPG 704"
     ]
   },
   {
@@ -4257,8 +4374,10 @@
       }
     ],
     "all_courses": [
+      "CPPG 606",
       "CPPG 626",
-      "CPPG 679"
+      "CPPG 679",
+      "CPPG 701"
     ]
   },
   {
@@ -4285,6 +4404,8 @@
       }
     ],
     "all_courses": [
+      "CPPG 604",
+      "CPPG 642",
       "CPPG 647",
       "CPPG 651"
     ]
@@ -4358,6 +4479,7 @@
       "CPPG 699E",
       "CPPG 799A",
       "CPPG 799B",
+      "CPPG 799C",
       "CPPG 799E",
       "CPPG COMP"
     ]
@@ -4386,8 +4508,10 @@
       }
     ],
     "all_courses": [
+      "CPPG 699E",
       "CPPG 799C",
-      "CPPG 799D"
+      "CPPG 799D",
+      "CPPG 799E"
     ]
   },
   {
@@ -4450,7 +4574,10 @@
       "CRST 211",
       "CRST 212",
       "CRST 291",
-      "CRST 311"
+      "CRST 311",
+      "CRST 312",
+      "CRST 498",
+      "CRST 585E"
     ]
   },
   {
@@ -4487,7 +4614,9 @@
     "all_courses": [
       "CRST 152",
       "CRST 231",
-      "CRST 271"
+      "CRST 271",
+      "CRST 272",
+      "CRST 425"
     ]
   },
   {
@@ -4523,6 +4652,7 @@
     ],
     "all_courses": [
       "CRST 152",
+      "CRST 281",
       "CRST 439B"
     ]
   },
@@ -4559,6 +4689,8 @@
     ],
     "all_courses": [
       "CRST 155",
+      "CRST 455A",
+      "CRST 471D",
       "CRST 575D",
       "CRST 691"
     ]
@@ -4603,8 +4735,11 @@
       }
     ],
     "all_courses": [
+      "CRST 232",
       "CRST 331",
+      "CRST 332",
       "CRST 525B",
+      "CRST 525D",
       "CRST 535A",
       "CRST 535E"
     ]
@@ -4666,7 +4801,9 @@
     ],
     "all_courses": [
       "CRST 371",
+      "CRST 372",
       "CRST 555A",
+      "CRST 555C",
       "CRST 575C",
       "CRST 699A",
       "CRST 699B",
@@ -4764,7 +4901,8 @@
       }
     ],
     "all_courses": [
-      "CSCS 100"
+      "CSCS 100",
+      "CSCS 105"
     ]
   },
   {
@@ -4904,7 +5042,8 @@
     ],
     "all_courses": [
       "CSCS 100",
-      "CSCS 405"
+      "CSCS 405",
+      "CSCS 475"
     ]
   },
   {
@@ -4923,7 +5062,8 @@
       }
     ],
     "all_courses": [
-      "CSCS 100"
+      "CSCS 100",
+      "CSCS 460"
     ]
   },
   {
@@ -4980,7 +5120,8 @@
       }
     ],
     "all_courses": [
-      "CSCS 201"
+      "CSCS 201",
+      "CSCS 202"
     ]
   },
   {
@@ -5007,7 +5148,8 @@
       }
     ],
     "all_courses": [
-      "CSCS 201"
+      "CSCS 201",
+      "CSCS 320"
     ]
   },
   {
@@ -5043,6 +5185,7 @@
     ],
     "all_courses": [
       "CSCS 202",
+      "CSCS 203",
       "CSCS 320"
     ]
   },
@@ -5062,6 +5205,7 @@
       }
     ],
     "all_courses": [
+      "CSCS 201",
       "CSCS 202"
     ]
   },
@@ -5081,7 +5225,9 @@
       }
     ],
     "all_courses": [
-      "CSCS 202"
+      "CSCS 202",
+      "CSCS 203",
+      "CSCS 320"
     ]
   },
   {
@@ -5100,6 +5246,7 @@
       }
     ],
     "all_courses": [
+      "CSCS 201",
       "CSCS 203"
     ]
   },
@@ -5230,6 +5377,7 @@
       }
     ],
     "all_courses": [
+      "CSCS 366",
       "CSCS 456",
       "CSCS 460"
     ]
@@ -5353,7 +5501,8 @@
     ],
     "all_courses": [
       "HIST 101",
-      "HIST 305"
+      "HIST 305",
+      "HIST 499"
     ]
   },
   {
@@ -5413,9 +5562,12 @@
     ],
     "all_courses": [
       "HIST 102",
+      "HIST 201",
       "HIST 301",
+      "HIST 306",
       "HIST 308",
       "HIST 311",
+      "HIST 320",
       "HIST 410",
       "HIST 499"
     ]
@@ -5445,6 +5597,7 @@
     ],
     "all_courses": [
       "HIST 201",
+      "HIST 204",
       "HIST 400"
     ]
   },
@@ -5482,7 +5635,9 @@
     "all_courses": [
       "HIST 202",
       "HIST 310",
-      "HIST 313"
+      "HIST 313",
+      "HIST 315",
+      "HIST 410"
     ]
   },
   {
@@ -5589,6 +5744,7 @@
     ],
     "all_courses": [
       "ISLM 101",
+      "ISLM 103",
       "ISLM 202"
     ]
   },
@@ -5741,6 +5897,7 @@
     ],
     "all_courses": [
       "ISLM 101",
+      "ISLM 104",
       "ISLM 304"
     ]
   },
@@ -5787,6 +5944,7 @@
       }
     ],
     "all_courses": [
+      "KORN 101",
       "KORN 102"
     ]
   },
@@ -5853,7 +6011,8 @@
       }
     ],
     "all_courses": [
-      "LING 217"
+      "LING 217",
+      "LING 413"
     ]
   },
   {
@@ -5881,6 +6040,7 @@
     ],
     "all_courses": [
       "LING 301",
+      "LING 304",
       "LING 319"
     ]
   },
@@ -5900,6 +6060,7 @@
       }
     ],
     "all_courses": [
+      "LING 308",
       "LING 410"
     ]
   },
@@ -5919,7 +6080,8 @@
       }
     ],
     "all_courses": [
-      "LING 415"
+      "LING 415",
+      "LING 495"
     ]
   },
   {
@@ -6001,7 +6163,8 @@
     ],
     "all_courses": [
       "MATH 100",
-      "MATH 101"
+      "MATH 101",
+      "MATH 111"
     ]
   },
   {
@@ -6066,6 +6229,7 @@
     "all_courses": [
       "MATH 100",
       "MATH 101",
+      "MATH 103",
       "MATH 111"
     ]
   },
@@ -6130,7 +6294,8 @@
     ],
     "all_courses": [
       "MATH 100",
-      "MATH 101"
+      "MATH 101",
+      "MATH 111"
     ]
   },
   {
@@ -6166,8 +6331,11 @@
     ],
     "all_courses": [
       "MATH 100",
+      "MATH 101",
       "MATH 102",
-      "MATH 111"
+      "MATH 111",
+      "MATH 307",
+      "MATH 313"
     ]
   },
   {
@@ -6194,7 +6362,10 @@
       }
     ],
     "all_courses": [
+      "MATH 100",
       "MATH 102",
+      "MATH 204",
+      "MATH 210",
       "MATH 309"
     ]
   },
@@ -6222,6 +6393,7 @@
       }
     ],
     "all_courses": [
+      "MATH 100",
       "MATH 103",
       "MATH 312"
     ]
@@ -6382,7 +6554,8 @@
       }
     ],
     "all_courses": [
-      "MATH 107"
+      "MATH 107",
+      "MATH 304"
     ]
   },
   {
@@ -6410,7 +6583,9 @@
     ],
     "all_courses": [
       "MATH 201",
-      "MATH 212"
+      "MATH 212",
+      "MATH 303",
+      "MATH 404"
     ]
   },
   {
@@ -6445,7 +6620,9 @@
       }
     ],
     "all_courses": [
+      "MATH 102",
       "MATH 203",
+      "MATH 301",
       "MATH 307",
       "MATH 311"
     ]
@@ -6466,7 +6643,9 @@
       }
     ],
     "all_courses": [
-      "MATH 209"
+      "MATH 202",
+      "MATH 209",
+      "MATH 302"
     ]
   },
   {
@@ -6485,7 +6664,8 @@
       }
     ],
     "all_courses": [
-      "MATH 213"
+      "MATH 213",
+      "MATH 310"
     ]
   },
   {
@@ -6504,7 +6684,8 @@
       }
     ],
     "all_courses": [
-      "MATH 410"
+      "MATH 410",
+      "MATH 411"
     ]
   },
   {
@@ -6549,6 +6730,7 @@
     "all_courses": [
       "MCOM 101",
       "MCOM 414",
+      "MCOM 512",
       "MCOM 524"
     ]
   },
@@ -6594,7 +6776,8 @@
     "all_courses": [
       "MCOM 101",
       "MCOM 200",
-      "MCOM 304"
+      "MCOM 304",
+      "MCOM 415"
     ]
   },
   {
@@ -6638,9 +6821,11 @@
     ],
     "all_courses": [
       "MCOM 101",
+      "MCOM 202",
       "MCOM 290",
       "MCOM 301",
-      "MCOM 302"
+      "MCOM 302",
+      "MCOM 310"
     ]
   },
   {
@@ -6702,6 +6887,7 @@
       "MCOM 101",
       "MCOM 409",
       "MCOM 515",
+      "MCOM 525",
       "MCOM 699A",
       "MCOM 699B",
       "MCOM 699E"
@@ -6740,8 +6926,10 @@
     ],
     "all_courses": [
       "MCOM 101",
+      "MCOM 290",
       "MCOM 302",
-      "MCOM 310"
+      "MCOM 310",
+      "MCOM 401"
     ]
   },
   {
@@ -6776,9 +6964,11 @@
       }
     ],
     "all_courses": [
+      "MCOM 101",
       "MCOM 200",
       "MCOM 303",
-      "MCOM 308"
+      "MCOM 308",
+      "MCOM 400"
     ]
   },
   {
@@ -6821,8 +7011,11 @@
       }
     ],
     "all_courses": [
+      "MCOM 101",
       "MCOM 201",
+      "MCOM 290",
       "MCOM 402",
+      "MCOM 410",
       "MCOM 510"
     ]
   },
@@ -6866,7 +7059,10 @@
       }
     ],
     "all_courses": [
+      "MCOM 101",
+      "MCOM 201",
       "MCOM 202",
+      "MCOM 301",
       "MCOM 303",
       "MCOM 404"
     ]
@@ -6922,8 +7118,10 @@
       "MCOM 203",
       "MCOM 290",
       "MCOM 402",
+      "MCOM 415",
       "MCOM 430",
-      "MCOM 499"
+      "MCOM 499",
+      "MCOM 526"
     ]
   },
   {
@@ -6951,6 +7149,8 @@
     ],
     "all_courses": [
       "MCOM 301",
+      "MCOM 403",
+      "MCOM 522",
       "MCOM 527"
     ]
   },
@@ -6979,6 +7179,7 @@
     ],
     "all_courses": [
       "MCOM 310",
+      "MCOM 517",
       "MCOM 520"
     ]
   },
@@ -6998,7 +7199,8 @@
       }
     ],
     "all_courses": [
-      "MPGN 501"
+      "MPGN 501",
+      "MPGN 604"
     ]
   },
   {
@@ -7017,7 +7219,8 @@
       }
     ],
     "all_courses": [
-      "MPGN 503"
+      "MPGN 503",
+      "MPGN 603"
     ]
   },
   {
@@ -7036,7 +7239,8 @@
       }
     ],
     "all_courses": [
-      "MPGN 504"
+      "MPGN 504",
+      "MPGN 613"
     ]
   },
   {
@@ -7156,7 +7360,10 @@
     ],
     "all_courses": [
       "PHIL 101",
-      "PHIL 325"
+      "PHIL 201",
+      "PHIL 325",
+      "PHIL 331",
+      "PHIL 499"
     ]
   },
   {
@@ -7193,6 +7400,8 @@
     "all_courses": [
       "PHIL 202",
       "PHIL 221",
+      "PHIL 495K",
+      "PHIL 495P",
       "PHIL 499"
     ]
   },
@@ -7239,6 +7448,7 @@
       "PHYS 100",
       "PHYS 102",
       "PHYS 103",
+      "PHYS 510",
       "PHYS 713"
     ]
   },
@@ -7284,6 +7494,8 @@
     "all_courses": [
       "PHYS 100",
       "PHYS 101",
+      "PHYS 483",
+      "PHYS 504",
       "PHYS 520",
       "PHYS 712"
     ]
@@ -7321,8 +7533,12 @@
     ],
     "all_courses": [
       "PHYS 100",
+      "PHYS 301",
+      "PHYS 321",
+      "PHYS 341",
       "PHYS 352",
-      "PHYS 511"
+      "PHYS 511",
+      "PHYS 717"
     ]
   },
   {
@@ -7378,6 +7594,9 @@
     "all_courses": [
       "PHYS 101",
       "PHYS 151",
+      "PHYS 222",
+      "PHYS 422",
+      "PHYS 709",
       "PHYS 710"
     ]
   },
@@ -7415,6 +7634,7 @@
     "all_courses": [
       "PHYS 101",
       "PHYS 102",
+      "PHYS 103",
       "PHYS 255"
     ]
   },
@@ -7489,6 +7709,9 @@
     ],
     "all_courses": [
       "PHYS 334",
+      "PHYS 353",
+      "PHYS 524",
+      "PHYS 701",
       "PHYS 702"
     ]
   },
@@ -7612,10 +7835,18 @@
       }
     ],
     "all_courses": [
+      "PHYS 100",
+      "PHYS 104",
+      "PHYS 332",
       "PHYS 461",
+      "PHYS 462",
       "PHYS 499",
       "PHYS 499A",
+      "PHYS 499B",
+      "PHYS 502",
       "PHYS 696",
+      "PHYS 696A",
+      "PHYS 696B",
       "PHYS 699A",
       "PHYS 699B",
       "PHYS 699E",
@@ -7663,6 +7894,8 @@
       }
     ],
     "all_courses": [
+      "PHYS 100",
+      "PHYS 234",
       "PHYS 503"
     ]
   },
@@ -7909,7 +8142,9 @@
     ],
     "all_courses": [
       "PLSC 101",
+      "PLSC 302",
       "PLSC 303",
+      "PLSC 400",
       "PLSC 403"
     ]
   },
@@ -7955,8 +8190,10 @@
     "all_courses": [
       "PLSC 101",
       "PLSC 202",
+      "PLSC 339",
       "PLSC 400",
-      "PLSC 514"
+      "PLSC 514",
+      "PLSC 517"
     ]
   },
   {
@@ -7992,7 +8229,10 @@
     ],
     "all_courses": [
       "PLSC 101",
-      "PLSC 321"
+      "PLSC 202",
+      "PLSC 310",
+      "PLSC 321",
+      "PLSC 340"
     ]
   },
   {
@@ -8073,7 +8313,8 @@
     "all_courses": [
       "PLSC 101",
       "PLSC 301",
-      "PLSC 302"
+      "PLSC 302",
+      "PLSC 336"
     ]
   },
   {
@@ -8170,10 +8411,16 @@
     ],
     "all_courses": [
       "PLSC 101",
+      "PLSC 203",
+      "PLSC 321",
       "PLSC 335",
+      "PLSC 401",
+      "PLSC 403",
       "PLSC 499",
+      "PLSC 502",
       "PLSC 523",
       "PLSC 699A",
+      "PLSC 699B",
       "PLSC 699E"
     ]
   },
@@ -8227,6 +8474,8 @@
     "all_courses": [
       "PLSC 203",
       "PLSC 323",
+      "PLSC 337",
+      "PLSC 338",
       "PLSC 506",
       "PLSC 508"
     ]
@@ -8274,6 +8523,8 @@
       "PLSC 204",
       "PLSC 304",
       "PLSC 340",
+      "PLSC 402",
+      "PLSC 513",
       "PLSC 523"
     ]
   },
@@ -8319,8 +8570,10 @@
     "all_courses": [
       "PLSC 322",
       "PLSC 330",
+      "PLSC 331",
       "PLSC 403",
-      "PLSC 506"
+      "PLSC 506",
+      "PLSC 519"
     ]
   },
   {
@@ -8339,6 +8592,7 @@
       }
     ],
     "all_courses": [
+      "PLSC 504",
       "PLSC 520"
     ]
   },
@@ -8383,7 +8637,9 @@
     ],
     "all_courses": [
       "PSYC 100",
+      "PSYC 105",
       "PSYC 315",
+      "PSYC 354",
       "PSYC 440",
       "PSYC 513"
     ]
@@ -8429,6 +8685,7 @@
     ],
     "all_courses": [
       "PSYC 100",
+      "PSYC 101",
       "PSYC 150",
       "PSYC 301",
       "PSYC 505"
@@ -8467,6 +8724,7 @@
     ],
     "all_courses": [
       "PSYC 100",
+      "PSYC 165",
       "PSYC 340",
       "PSYC 360"
     ]
@@ -8523,7 +8781,8 @@
       "PSYC 150",
       "PSYC 310",
       "PSYC 320",
-      "PSYC 520"
+      "PSYC 520",
+      "PSYC 521"
     ]
   },
   {
@@ -8569,7 +8828,9 @@
       "PSYC 100",
       "PSYC 160",
       "PSYC 305",
-      "PSYC 425"
+      "PSYC 380",
+      "PSYC 425",
+      "PSYC 465"
     ]
   },
   {
@@ -8615,6 +8876,8 @@
       "PSYC 100",
       "PSYC 225",
       "PSYC 295",
+      "PSYC 298",
+      "PSYC 340",
       "PSYC 504"
     ]
   },
@@ -8652,7 +8915,9 @@
     "all_courses": [
       "PSYC 100",
       "PSYC 140",
-      "PSYC 415"
+      "PSYC 340",
+      "PSYC 415",
+      "PSYC 425"
     ]
   },
   {
@@ -8671,7 +8936,8 @@
       }
     ],
     "all_courses": [
-      "PSYC 100"
+      "PSYC 100",
+      "PSYC 360"
     ]
   },
   {
@@ -8706,9 +8972,13 @@
       }
     ],
     "all_courses": [
+      "PSYC 100",
       "PSYC 175",
+      "PSYC 300",
+      "PSYC 301",
       "PSYC 330",
-      "PSYC 340"
+      "PSYC 340",
+      "PSYC 440"
     ]
   },
   {
@@ -8768,11 +9038,15 @@
     ],
     "all_courses": [
       "PSYC 180",
+      "PSYC 298",
       "PSYC 385",
       "PSYC 470",
       "PSYC 510",
+      "PSYC 511",
       "PSYC 512",
-      "PSYC 671"
+      "PSYC 670",
+      "PSYC 671",
+      "PSYC 672"
     ]
   },
   {
@@ -8835,6 +9109,7 @@
     ],
     "all_courses": [
       "PSYC 220",
+      "PSYC 280",
       "PSYC 305",
       "PSYC 310",
       "PSYC 620"
@@ -8874,7 +9149,8 @@
     "all_courses": [
       "PSYC 240",
       "PSYC 440",
-      "PSYC 465"
+      "PSYC 465",
+      "PSYC 580"
     ]
   },
   {
@@ -8918,6 +9194,7 @@
     ],
     "all_courses": [
       "PSYC 275",
+      "PSYC 285",
       "PSYC 298",
       "PSYC 301",
       "PSYC 360"
@@ -8963,6 +9240,8 @@
       }
     ],
     "all_courses": [
+      "PSYC 100",
+      "PSYC 140",
       "PSYC 280",
       "PSYC 290",
       "PSYC 415"
@@ -9008,10 +9287,12 @@
       }
     ],
     "all_courses": [
+      "PSYC 150",
       "PSYC 290",
       "PSYC 298",
       "PSYC 300",
-      "PSYC 315"
+      "PSYC 315",
+      "PSYC 415"
     ]
   },
   {
@@ -9062,11 +9343,14 @@
       }
     ],
     "all_courses": [
+      "PSYC 305",
       "PSYC 350",
       "PSYC 490",
       "PSYC 499A",
+      "PSYC 499B",
       "PSYC 503",
-      "PSYC 699A"
+      "PSYC 699A",
+      "PSYC 699B"
     ]
   },
   {
@@ -9101,9 +9385,12 @@
       }
     ],
     "all_courses": [
+      "PSYC 280",
+      "PSYC 370",
       "PSYC 375",
       "PSYC 430",
-      "PSYC 550"
+      "PSYC 550",
+      "PSYC 630"
     ]
   },
   {
@@ -9138,8 +9425,11 @@
       }
     ],
     "all_courses": [
+      "PSYC 305",
       "PSYC 385",
+      "PSYC 395",
       "PSYC 465",
+      "PSYC 540",
       "PSYC 541"
     ]
   },
@@ -9178,6 +9468,7 @@
       }
     ],
     "all_courses": [
+      "PSYC 225",
       "PSYC 530"
     ]
   },
@@ -9243,6 +9534,7 @@
       "SOCL 100",
       "SOCL 110",
       "SOCL 223",
+      "SOCL 335",
       "SOCL 445"
     ]
   },
@@ -9332,6 +9624,7 @@
       "SOCL 494",
       "SOCL 499",
       "SOCL 699A",
+      "SOCL 699B",
       "SOCL 699E"
     ]
   },
@@ -9420,7 +9713,9 @@
     ],
     "all_courses": [
       "SOCL 100",
-      "SOCL 220"
+      "SOCL 220",
+      "SOCL 350",
+      "SOCL 504"
     ]
   },
   {
@@ -9447,7 +9742,8 @@
       }
     ],
     "all_courses": [
-      "SOCL 100"
+      "SOCL 100",
+      "SOCL 501"
     ]
   },
   {
@@ -9492,7 +9788,9 @@
     "all_courses": [
       "SOCL 100",
       "SOCL 201",
-      "SOCL 435"
+      "SOCL 325",
+      "SOCL 435",
+      "SOCL 502"
     ]
   },
   {
@@ -9627,7 +9925,8 @@
       }
     ],
     "all_courses": [
-      "STAT 100"
+      "STAT 100",
+      "STAT 101"
     ]
   },
   {
@@ -9672,6 +9971,8 @@
     "all_courses": [
       "STAT 100",
       "STAT 115",
+      "STAT 301",
+      "STAT 405",
       "STAT 414",
       "STAT 506"
     ]
@@ -9710,6 +10011,7 @@
     "all_courses": [
       "STAT 100",
       "STAT 101",
+      "STAT 313",
       "STAT 516"
     ]
   },
@@ -9836,7 +10138,9 @@
     "all_courses": [
       "STAT 100",
       "STAT 101",
-      "STAT 102"
+      "STAT 102",
+      "STAT 208",
+      "STAT 508"
     ]
   },
   {
@@ -9879,6 +10183,7 @@
       }
     ],
     "all_courses": [
+      "STAT 100",
       "STAT 101",
       "STAT 103",
       "STAT 115"
@@ -9946,6 +10251,7 @@
       "STAT 102",
       "STAT 206",
       "STAT 304",
+      "STAT 403",
       "STAT 501"
     ]
   },
@@ -10058,9 +10364,12 @@
       }
     ],
     "all_courses": [
+      "STAT 100",
+      "STAT 101",
       "STAT 206",
       "STAT 212",
       "STAT 303",
+      "STAT 509",
       "STAT 699A",
       "STAT 699B",
       "STAT 699E"
@@ -10098,6 +10407,8 @@
       }
     ],
     "all_courses": [
+      "STAT 101",
+      "STAT 115",
       "STAT 302",
       "STAT 317",
       "STAT 503"
@@ -10776,6 +11087,7 @@
     ],
     "all_courses": [
       "URDU 101",
+      "URDU 104",
       "URDU 503",
       "URDU 699A",
       "URDU 699B",
@@ -10815,6 +11127,8 @@
     ],
     "all_courses": [
       "URDU 101",
+      "URDU 303",
+      "URDU 501",
       "URDU 506"
     ]
   },
@@ -10859,7 +11173,8 @@
     ],
     "all_courses": [
       "URDU 101",
-      "URDU 304"
+      "URDU 304",
+      "URDU 519"
     ]
   },
   {
@@ -10904,6 +11219,7 @@
     "all_courses": [
       "URDU 101",
       "URDU 206",
+      "URDU 301",
       "URDU 518"
     ]
   },
@@ -10984,7 +11300,8 @@
       }
     ],
     "all_courses": [
-      "URDU 101"
+      "URDU 101",
+      "URDU 517"
     ]
   },
   {
@@ -11030,6 +11347,7 @@
       "URDU 101",
       "URDU 104",
       "URDU 302",
+      "URDU 502",
       "URDU 505"
     ]
   },
@@ -11073,10 +11391,12 @@
       }
     ],
     "all_courses": [
+      "URDU 101",
       "URDU 208",
       "URDU 402",
       "URDU 499",
-      "URDU 504"
+      "URDU 504",
+      "URDU 699E"
     ]
   },
   {
@@ -11154,7 +11474,8 @@
       }
     ],
     "all_courses": [
-      "WRCM 101"
+      "WRCM 101",
+      "WRCM 102"
     ]
   },
   {
@@ -11197,7 +11518,8 @@
       }
     ],
     "all_courses": [
-      "WRCM 101"
+      "WRCM 101",
+      "WRCM 102"
     ]
   },
   {
@@ -11322,7 +11644,8 @@
       }
     ],
     "all_courses": [
-      "WRCM 101"
+      "WRCM 101",
+      "WRCM 102"
     ]
   },
   {
@@ -11349,7 +11672,8 @@
       }
     ],
     "all_courses": [
-      "WRCM 101"
+      "WRCM 101",
+      "WRCM 102"
     ]
   },
   {
@@ -11420,7 +11744,8 @@
       }
     ],
     "all_courses": [
-      "WRCM 101"
+      "WRCM 101",
+      "WRCM 102"
     ]
   },
   {
@@ -11447,7 +11772,8 @@
       }
     ],
     "all_courses": [
-      "WRCM 101"
+      "WRCM 101",
+      "WRCM 102"
     ]
   },
   {
@@ -11474,7 +11800,8 @@
       }
     ],
     "all_courses": [
-      "WRCM 101"
+      "WRCM 101",
+      "WRCM 102"
     ]
   },
   {
@@ -11501,7 +11828,8 @@
       }
     ],
     "all_courses": [
-      "WRCM 101"
+      "WRCM 101",
+      "WRCM 102"
     ]
   },
   {
@@ -11563,7 +11891,8 @@
       }
     ],
     "all_courses": [
-      "WRCM 101"
+      "WRCM 101",
+      "WRCM 102"
     ]
   },
   {
@@ -11671,6 +12000,7 @@
       }
     ],
     "all_courses": [
+      "WRCM 101",
       "WRCM 102"
     ]
   },
@@ -11724,6 +12054,1308 @@
         "unique": "WRCM 102/Q"
       }
     ],
+    "all_courses": [
+      "WRCM 101",
+      "WRCM 102"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "BIOL"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "BIOL 100"
+    ]
+  },
+  {
+    "name": "S Ali",
+    "departments": [
+      "BIOL"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "BIOL 201",
+      "BIOL 313"
+    ]
+  },
+  {
+    "name": "K Muaz",
+    "departments": [
+      "BIOT"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "BIOT 409"
+    ]
+  },
+  {
+    "name": "S Hanook",
+    "departments": [
+      "BIOT"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "BIOT 506"
+    ]
+  },
+  {
+    "name": "B Usman",
+    "departments": [
+      "BIOT"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "BIOT 605"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "BUSN"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "BUSN 101",
+      "BUSN 121",
+      "BUSN 160",
+      "BUSN 170",
+      "BUSN 206",
+      "BUSN 250",
+      "BUSN 498"
+    ]
+  },
+  {
+    "name": "S. Suleman",
+    "departments": [
+      "BUSN"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "BUSN 121"
+    ]
+  },
+  {
+    "name": "S Gul",
+    "departments": [
+      "BUSN"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "BUSN 121"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "CHEM"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CHEM 100",
+      "CHEM 160",
+      "CHEM 260",
+      "CHEM 524",
+      "CHEM 705"
+    ]
+  },
+  {
+    "name": "AY khan",
+    "departments": [
+      "CHEM"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CHEM 170",
+      "CHEM 471",
+      "CHEM 763"
+    ]
+  },
+  {
+    "name": "M Abbas",
+    "departments": [
+      "CHEM"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CHEM 261",
+      "CHEM 331",
+      "CHEM 745"
+    ]
+  },
+  {
+    "name": "A Atique",
+    "departments": [
+      "COMP"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "COMP 113"
+    ]
+  },
+  {
+    "name": "A Khanum",
+    "departments": [
+      "COMP"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "COMP 295",
+      "COMP 360"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "COMP"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "COMP 504"
+    ]
+  },
+  {
+    "name": "R Haque",
+    "departments": [
+      "CPPG"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CPPG 603",
+      "CPPG 656"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "CPPG"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CPPG 799D"
+    ]
+  },
+  {
+    "name": "T Fatima",
+    "departments": [
+      "CRIM"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CRIM 201"
+    ]
+  },
+  {
+    "name": "A  Azeem",
+    "departments": [
+      "CRIM"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CRIM 220"
+    ]
+  },
+  {
+    "name": "M Ali",
+    "departments": [
+      "CRIM"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CRIM 310",
+      "CRIM 460"
+    ]
+  },
+  {
+    "name": "G Calib",
+    "departments": [
+      "CRST"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CRST 412"
+    ]
+  },
+  {
+    "name": "S Minhas",
+    "departments": [
+      "CSCS"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CSCS 100"
+    ]
+  },
+  {
+    "name": "R Bqa",
+    "departments": [
+      "CSCS"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CSCS 100"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "CSCS"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CSCS 100"
+    ]
+  },
+  {
+    "name": "G Mehak",
+    "departments": [
+      "CSCS"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CSCS 202"
+    ]
+  },
+  {
+    "name": "N Ashraf",
+    "departments": [
+      "CSCS"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CSCS 457"
+    ]
+  },
+  {
+    "name": "F Shaheen",
+    "departments": [
+      "CSCS"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CSCS 470"
+    ]
+  },
+  {
+    "name": "Q Quraishi",
+    "departments": [
+      "CSDS"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CSDS 503"
+    ]
+  },
+  {
+    "name": "F Ullah",
+    "departments": [
+      "CSDS"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CSDS 552"
+    ]
+  },
+  {
+    "name": "A Khan",
+    "departments": [
+      "CSDS"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CSDS 611"
+    ]
+  },
+  {
+    "name": "M Mushtaq",
+    "departments": [
+      "CSDS"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "CSDS 699A",
+      "CSDS 699B",
+      "CSDS 699E"
+    ]
+  },
+  {
+    "name": "S Lodhi",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 100",
+      "ECON 302",
+      "ECON 320"
+    ]
+  },
+  {
+    "name": "T Ahmed",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 100",
+      "ECON 101",
+      "ECON 201"
+    ]
+  },
+  {
+    "name": "T Numan",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 100",
+      "ECON 102"
+    ]
+  },
+  {
+    "name": "S Waqar",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 100",
+      "ECON 322"
+    ]
+  },
+  {
+    "name": "M Noor",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 100",
+      "ECON 103"
+    ]
+  },
+  {
+    "name": "N Ishtiaq",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 100",
+      "ECON 102",
+      "ECON 206"
+    ]
+  },
+  {
+    "name": "A  Jalil",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 100",
+      "ECON 203",
+      "ECON 323"
+    ]
+  },
+  {
+    "name": "A  Anwar",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 101",
+      "ECON 201",
+      "ECON 560"
+    ]
+  },
+  {
+    "name": "H  Ahsan",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 101",
+      "ECON 103",
+      "ECON 315"
+    ]
+  },
+  {
+    "name": "Z Manzoor",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 102",
+      "ECON 202"
+    ]
+  },
+  {
+    "name": "Z  Iqbal",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 103",
+      "ECON 203",
+      "ECON 655"
+    ]
+  },
+  {
+    "name": "R Ahmed",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 210",
+      "ECON 325"
+    ]
+  },
+  {
+    "name": "M Bhatti",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 300",
+      "ECON 499A",
+      "ECON 499B",
+      "ECON 699A",
+      "ECON 699B",
+      "ECON 699E",
+      "ECON 702",
+      "ECON 799A",
+      "ECON 799B",
+      "ECON 799C",
+      "ECON 799D",
+      "ECON 799E"
+    ]
+  },
+  {
+    "name": "U Hanif",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 300",
+      "ECON 304",
+      "ECON 620"
+    ]
+  },
+  {
+    "name": "M Tahir",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 302",
+      "ECON 400",
+      "ECON 728"
+    ]
+  },
+  {
+    "name": "M Ayyubi",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 400",
+      "ECON 411",
+      "ECON 708"
+    ]
+  },
+  {
+    "name": "A  Batool",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 406",
+      "ECON 707"
+    ]
+  },
+  {
+    "name": "G Shabir",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ECON 417",
+      "ECON 600"
+    ]
+  },
+  {
+    "name": "J Hassan",
+    "departments": [
+      "EDUC"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "EDUC 110",
+      "EDUC 355"
+    ]
+  },
+  {
+    "name": "A Khokhar",
+    "departments": [
+      "EDUC"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "EDUC 110",
+      "EDUC 120",
+      "EDUC 499",
+      "EDUC 545",
+      "EDUC 699A",
+      "EDUC 699B",
+      "EDUC 699E"
+    ]
+  },
+  {
+    "name": "A Khan",
+    "departments": [
+      "EDUC"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "EDUC 110",
+      "EDUC 120",
+      "EDUC 350",
+      "EDUC 390"
+    ]
+  },
+  {
+    "name": "M. Thomas",
+    "departments": [
+      "EDUC"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "EDUC 110",
+      "EDUC 540",
+      "EDUC 640"
+    ]
+  },
+  {
+    "name": "A Aslam",
+    "departments": [
+      "EDUC"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "EDUC 110",
+      "EDUC 240",
+      "EDUC 315",
+      "EDUC 370"
+    ]
+  },
+  {
+    "name": "M Raza",
+    "departments": [
+      "EDUC"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "EDUC 110",
+      "EDUC 120",
+      "EDUC 645"
+    ]
+  },
+  {
+    "name": "R. Farooq",
+    "departments": [
+      "EDUC"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "EDUC 120"
+    ]
+  },
+  {
+    "name": "S Burhan",
+    "departments": [
+      "EDUC"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "EDUC 120",
+      "EDUC 300",
+      "EDUC 340"
+    ]
+  },
+  {
+    "name": "Team",
+    "departments": [
+      "EDUC"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "EDUC 497",
+      "EDUC 498"
+    ]
+  },
+  {
+    "name": "N Ahmad",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENGL 110"
+    ]
+  },
+  {
+    "name": "A Zia",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENGL 175"
+    ]
+  },
+  {
+    "name": "S Hanif",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENGL 175"
+    ]
+  },
+  {
+    "name": "R Wasif",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENGL 201"
+    ]
+  },
+  {
+    "name": "J C Imdad",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENGL 201",
+      "ENGL 517"
+    ]
+  },
+  {
+    "name": "I Sayed",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENGL 214",
+      "ENGL 307",
+      "ENGL 323"
+    ]
+  },
+  {
+    "name": "F Zaheer",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENGL 301",
+      "ENGL 400",
+      "ENGL 520"
+    ]
+  },
+  {
+    "name": "Quratulaen",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENGL 303",
+      "ENGL 403",
+      "ENGL 611"
+    ]
+  },
+  {
+    "name": "S Mir",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENGL 310",
+      "ENGL 331",
+      "ENGL 550"
+    ]
+  },
+  {
+    "name": "S Maqbool",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENGL 315",
+      "ENGL 618"
+    ]
+  },
+  {
+    "name": "F Syeda",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENGL 328",
+      "ENGL 430",
+      "ENGL 499",
+      "ENGL 516",
+      "ENGL 699A",
+      "ENGL 699B",
+      "ENGL 699E"
+    ]
+  },
+  {
+    "name": "S Akram",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENVR 151",
+      "ENVR 323",
+      "ENVR 402"
+    ]
+  },
+  {
+    "name": "S Ilyas",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENVR 151",
+      "ENVR 252",
+      "ENVR 602"
+    ]
+  },
+  {
+    "name": "S Jelani",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENVR 160"
+    ]
+  },
+  {
+    "name": "M Shahbaz",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENVR 201",
+      "ENVR 413",
+      "ENVR 511"
+    ]
+  },
+  {
+    "name": "D Bakker",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENVR 201",
+      "ENVR 404",
+      "ENVR 499B",
+      "ENVR 611",
+      "ENVR 699A",
+      "ENVR 699B",
+      "ENVR 699E"
+    ]
+  },
+  {
+    "name": "S Aslam",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENVR 201",
+      "ENVR 252",
+      "ENVR 405"
+    ]
+  },
+  {
+    "name": "K Shafiqu",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENVR 210"
+    ]
+  },
+  {
+    "name": "S Hanook",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENVR 212"
+    ]
+  },
+  {
+    "name": "S Machado",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENVR 250",
+      "ENVR 403"
+    ]
+  },
+  {
+    "name": "S Chung",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENVR 309",
+      "ENVR 416"
+    ]
+  },
+  {
+    "name": "S Azeem",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENVR 311"
+    ]
+  },
+  {
+    "name": "D Ahmed",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENVR 330"
+    ]
+  },
+  {
+    "name": "B Usman",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENVR 604"
+    ]
+  },
+  {
+    "name": "Team",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "ENVR 605"
+    ]
+  },
+  {
+    "name": "A Anwar",
+    "departments": [
+      "FREN"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "FREN 101"
+    ]
+  },
+  {
+    "name": "P Ludivine",
+    "departments": [
+      "FREN"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "FREN 101",
+      "FREN 102"
+    ]
+  },
+  {
+    "name": "I Ul Haq",
+    "departments": [
+      "FSQM"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "FSQM 504"
+    ]
+  },
+  {
+    "name": "R John",
+    "departments": [
+      "FSQM"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "FSQM 603"
+    ]
+  },
+  {
+    "name": "B Sadiq",
+    "departments": [
+      "FSQM"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "FSQM 606",
+      "FSQM 699A",
+      "FSQM 699B",
+      "FSQM 699E"
+    ]
+  },
+  {
+    "name": "K Muaz",
+    "departments": [
+      "FSQM"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "FSQM 607"
+    ]
+  },
+  {
+    "name": "K Shakrul",
+    "departments": [
+      "GEOG"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "GEOG 101",
+      "GEOG 133",
+      "GEOG 220",
+      "GEOG 313",
+      "GEOG 499"
+    ]
+  },
+  {
+    "name": "K Shafiqu",
+    "departments": [
+      "GEOG"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "GEOG 101",
+      "GEOG 210",
+      "GEOG 326"
+    ]
+  },
+  {
+    "name": "A Iqbal",
+    "departments": [
+      "GEOG"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "GEOG 133",
+      "GEOG 202",
+      "GEOG 221",
+      "GEOG 270",
+      "GEOG 325",
+      "GEOG 371",
+      "GEOG 471"
+    ]
+  },
+  {
+    "name": "H Mahmood",
+    "departments": [
+      "GRMN"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "GRMN 101"
+    ]
+  },
+  {
+    "name": "Qurit U An",
+    "departments": [
+      "GRMN"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "GRMN 101"
+    ]
+  },
+  {
+    "name": "M Haider",
+    "departments": [
+      "HIST"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "HIST 102",
+      "HIST 303"
+    ]
+  },
+  {
+    "name": "A Ijaz",
+    "departments": [
+      "HIST"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "HIST 250",
+      "HIST 301",
+      "HIST 312"
+    ]
+  },
+  {
+    "name": "M Shafqat",
+    "departments": [
+      "HIST"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "HIST 255",
+      "HIST 308"
+    ]
+  },
+  {
+    "name": "S Khaliq",
+    "departments": [
+      "HPED"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "HPED 101",
+      "HPED 105",
+      "HPED 111",
+      "HPED 112"
+    ]
+  },
+  {
+    "name": "S Nazir",
+    "departments": [
+      "HPED"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "HPED 105",
+      "HPED 106",
+      "HPED 107",
+      "HPED 111"
+    ]
+  },
+  {
+    "name": "Z Nisa",
+    "departments": [
+      "HPED"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "HPED 150",
+      "HPED 151"
+    ]
+  },
+  {
+    "name": "A  Javed",
+    "departments": [
+      "LING"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "LING 370"
+    ]
+  },
+  {
+    "name": "R Butt",
+    "departments": [
+      "MATH"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "MATH 107"
+    ]
+  },
+  {
+    "name": "I Naqvi",
+    "departments": [
+      "MATH"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "MATH 107"
+    ]
+  },
+  {
+    "name": "S Hanook",
+    "departments": [
+      "MATH"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "MATH 107"
+    ]
+  },
+  {
+    "name": "L Kahlon",
+    "departments": [
+      "MATH"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "MATH 316"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "MPGN"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "MPGN 505"
+    ]
+  },
+  {
+    "name": "N Habib",
+    "departments": [
+      "PSYC"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "PSYC 502"
+    ]
+  },
+  {
+    "name": "B M Butt",
+    "departments": [
+      "PSYC"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "PSYC 635"
+    ]
+  },
+  {
+    "name": "T Fatima",
+    "departments": [
+      "SOCL"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "SOCL 100",
+      "SOCL 201",
+      "SOCL 450"
+    ]
+  },
+  {
+    "name": "S Shahid",
+    "departments": [
+      "SOCL"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "SOCL 100",
+      "SOCL 223"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "SOCL"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "SOCL 503"
+    ]
+  },
+  {
+    "name": "N Medel",
+    "departments": [
+      "SPAN"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "SPAN 101"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "STAT"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "STAT 507"
+    ]
+  },
+  {
+    "name": "S Saleem",
+    "departments": [
+      "UNIV"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "UNIV 100"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "URDU"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "URDU 101"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "WRCM"
+    ],
+    "current_courses": [],
+    "all_courses": [
+      "WRCM 101",
+      "WRCM 102"
+    ]
+  },
+  {
+    "name": "S Maqbool",
+    "departments": [
+      "WRCM"
+    ],
+    "current_courses": [],
     "all_courses": [
       "WRCM 102"
     ]

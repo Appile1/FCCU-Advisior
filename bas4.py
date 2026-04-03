@@ -159,113 +159,115 @@ def fetch_courses(session, token, term):
     return html
 # ================= build_instructor_course_data  =================
 def build_instructor_course_data():
+    """
+    Builds or updates instructor-wise course data.
 
-    # Directory where all scraped data is stored
+    Behavior:
+    - Keeps departments as LIST (original structure)
+    - Uses name|dept internally for lookup
+    - Resets current_courses every run (latest term only)
+    - Keeps growing all_courses (history)
+    """
+
+    import os, json
+
     DATA_DIR = "course_data"
-
-    # File that stores the latest term code (example: 2026FA)
     LATEST_TERM_FILE = os.path.join(DATA_DIR, "latest_term.json")
 
-    # -------- Load the latest term --------
-    # This tells us which course file to read
+    # ================= LOAD LATEST TERM =================
     with open(LATEST_TERM_FILE, "r", encoding="utf-8") as f:
         latest = json.load(f)
 
     term_code = latest["term_code"]
 
-    # Build the filename for the courses of that term
-    # Example: course_data/2026FA_courses.json
     course_file = os.path.join(DATA_DIR, f"{term_code}_courses.json")
+    output_file = os.path.join(DATA_DIR, f"{term_code}_instructors.json")
 
-    print(f"\n\n\n  → Loading course file: {course_file}")
+    print(f"\n→ Loading course file: {course_file}")
 
-    # Load all courses for that term
+    # ================= LOAD COURSES =================
     with open(course_file, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     courses = data["courses"]
 
-    print(f"✓ Courses loaded: {len(courses)}")
+    # ================= LOAD EXISTING INSTRUCTORS =================
+    instructors = {}
 
-    # -------- Instructor Mapping --------
-    # defaultdict automatically creates the structure
-    # when we encounter a new instructor
-    instructors = defaultdict(lambda: {
-        "name": "",              # instructor name
-        "departments": set(),    # departments they teach in (set avoids duplicates)
-        "current_courses": [],   # courses they teach this semester
-        "all_courses": set()     # unique course codes they teach
-    })
+    if os.path.exists(output_file):
+        print("→ Loading existing instructor data...")
 
-    # Loop through every course in the dataset
+        with open(output_file, "r", encoding="utf-8") as f:
+            old_data = json.load(f)
+
+        for inst in old_data:
+            name = inst["name"].strip()
+
+            for dept in inst["departments"]:
+                dept_clean = dept.strip().upper()
+                key = f"{name}|{dept_clean}"
+
+                instructors[key] = {
+                    "name": name,
+                    "departments": set(inst["departments"]),  # keep FULL list
+                    "current_courses": [],  # RESET (important)
+                    "all_courses": set(inst["all_courses"])
+                }
+
+    # ================= PROCESS COURSES =================
     for course in courses:
 
-        # Clean instructor name
-        instructor = course["instructor"].strip()
-
-        # Skip courses with no instructor
+        instructor = (course.get("instructor") or "").strip()
         if not instructor:
             continue
 
-        # Example course code: "CS 210"
-        course_code = course["course_code"]
+        course_code = course["course_code"].strip()
+        dept = course_code.split()[0].strip().upper()
 
-        # Department is the first part of the course code
-        # Example: "CS 210" -> "CS"
-        dept = course_code.split()[0]
-
-        # IMPORTANT:
-        # Use instructor + department as key
-        # This prevents merging different instructors
-        # who share the same name
         key = f"{instructor}|{dept}"
 
-        # Store instructor name
-        instructors[key]["name"] = instructor
+        # -------- CREATE IF NOT EXISTS --------
+        if key not in instructors:
+            instructors[key] = {
+                "name": instructor,
+                "departments": set(),  # will become list later
+                "current_courses": [],
+                "all_courses": set()
+            }
 
-        # Add department to the department set
-        instructors[key]["departments"].add(dept)
+        inst = instructors[key]
 
-        # Add detailed course information for the current semester
-        instructors[key]["current_courses"].append({
+        # -------- UPDATE DEPARTMENTS (FULL LIST) --------
+        inst["departments"].add(dept)
+
+        # -------- ADD CURRENT COURSE --------
+        inst["current_courses"].append({
             "course_code": course_code,
             "section": course["section"],
             "course_name": course["course_name"],
-            "schedule": course.get("schedule_raw", ""),  # class days/time
-            "classroom": course.get("classroom", ""),    # room location
-            "unique": course["unique"]                   # unique course identifier
+            "schedule": course.get("schedule_raw", ""),
+            "classroom": course.get("classroom", ""),
+            "unique": course["unique"]
         })
 
-        # Store only the course code in the "all_courses" list
-        # Using a set ensures duplicates are removed
-        instructors[key]["all_courses"].add(course_code)
+        # -------- ADD TO HISTORY --------
+        inst["all_courses"].add(course_code)
 
-    print(f"✓ Instructor records created: {len(instructors)}")
-
-    # -------- Convert sets to lists --------
-    # JSON cannot store sets, so we convert them
+    # ================= FINAL CLEANUP =================
     instructor_list = []
 
     for inst in instructors.values():
-
-        inst["departments"] = sorted(list(inst["departments"]))
+        inst["departments"] = sorted(list(inst["departments"]))  # back to list
         inst["all_courses"] = sorted(list(inst["all_courses"]))
-
         instructor_list.append(inst)
 
-    # Output file that will store instructor data
-    output_file = os.path.join(DATA_DIR, f"{term_code}_instructors.json")
-
-    # Save instructor data
+    # ================= SAVE =================
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(instructor_list, f, indent=2, ensure_ascii=False)
 
-    print(f"✓ Instructor data saved → {output_file}")
+    print(f"✓ Instructor data UPDATED → {output_file}")
 
-    # Return the instructor data in case we want to use it elsewhere
     return instructor_list
-
-
 def track_course_changes(new_courses, term_code):
  
     DATA_DIR = "course_data"
