@@ -48,22 +48,7 @@ with open(SOURCE_FILE, "r", encoding="utf-8") as f:
 
 print(f"→ Instructors in JSON: {len(instructors)}")
 
-# ================= DETECT MULTI-DEPT INSTRUCTORS =================
-# Find names that appear more than once (same person, different departments)
-# e.g. "M Imran" in BIOL and "M Imran" in BIOT → two separate rows in DB
-name_count = {}
-for inst in instructors:
-    name_count[inst["name"]] = name_count.get(inst["name"], 0) + 1
 
-multi_dept = [inst for inst in instructors if name_count[inst["name"]] > 1]
-
-if multi_dept:
-    multi_file = os.path.join("course_data", "multi_dept_instructors.json")
-    with open(multi_file, "w", encoding="utf-8") as f:
-        json.dump(multi_dept, f, indent=2, ensure_ascii=False)
-    print(f"→ Multi-dept instructors : {len(multi_dept)} entries saved → {multi_file}")
-else:
-    print("→ No multi-dept instructors found")
 
 # ================= BUILD ROWS WITH dept_key =================
 # Each row is uniquely identified by name + dept_key
