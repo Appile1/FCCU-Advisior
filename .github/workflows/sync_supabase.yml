@@ -1,0 +1,44 @@
+name: Sync Instructors to Supabase
+
+on:
+  # Also runs on the 1st of every month (in case scraper wasn't manually triggered)
+  schedule:
+    - cron: "0 21 1 * *" # 1st of month at 9 PM UTC (2 AM PKT next day)
+
+  # Manual trigger from GitHub Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    # If triggered by scraper workflow_run, only run if scraper succeeded
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'schedule' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Checkout repo (need course_data/*.json files)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2️⃣ Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      # 3️⃣ Install dependencies
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      # 4️⃣ Run smart upsert — reads term from latest_term.json automatically
+      #    Updates: departments, current_courses, all_courses
+      #    Preserved: email, office, office_hours (never overwritten)
+      - name: Sync instructors to Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: |
+          python seed_instructors.py

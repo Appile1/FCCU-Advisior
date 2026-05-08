@@ -5,8 +5,7 @@ from pywebpush import webpush , WebPushException
 
 # ---------- CONFIG ----------
 
-
-ROLL_NUMBER = 281134833 # Replace with the student's roll number you want to test
+ROLL_NUMBER = 281145907 # Replace with the student's roll number you want to test
 
 # Initialize Supabase client
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
@@ -60,8 +59,8 @@ def send_push(subscription):
         return
 
     payload = {
-        "title": "Test Notification",
-        "body": "Push notifications are working 🎉"
+        "title": "Phone Utha ",
+        "body": "Coal key assignment krlye🎉"
     }
 
     try:

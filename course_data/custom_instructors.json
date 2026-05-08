@@ -1,0 +1,4842 @@
+[
+  {
+    "id": 1,
+    "name": "S Kamran",
+    "departments": [
+      "ARTS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 2,
+    "name": "S Ahmad",
+    "departments": [
+      "ARTS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 3,
+    "name": "S Naeem",
+    "departments": [
+      "ARTS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 4,
+    "name": "I  Khokhar",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 5,
+    "name": "S Dogar",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 6,
+    "name": "R Hassan",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 7,
+    "name": "B Sadiq",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 8,
+    "name": "I Ul Haq",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 9,
+    "name": "M Imran",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 10,
+    "name": "K Muaz",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 11,
+    "name": "A Khan",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 12,
+    "name": "S Butt",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 13,
+    "name": "Team",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 14,
+    "name": "A Maqbool",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 15,
+    "name": "S Hanook",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 16,
+    "name": "M Hussain",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 17,
+    "name": "S Mehnaz",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 18,
+    "name": "S Akram",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 19,
+    "name": "A  Arshad",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 20,
+    "name": "S Aslam",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 21,
+    "name": "S Ali",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 22,
+    "name": "M Imran",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 23,
+    "name": "A Maqbool",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 24,
+    "name": "M Hussain",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 25,
+    "name": "K Malik",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 26,
+    "name": "A  Arshad",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 27,
+    "name": "A Khan",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 28,
+    "name": "M Irfan",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 29,
+    "name": "M Yousaf",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 30,
+    "name": "A  Bashir",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 31,
+    "name": "I Ul Haq",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 32,
+    "name": "B Sadiq",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 33,
+    "name": "S Mehnaz",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 34,
+    "name": "R Hassan",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 35,
+    "name": "Team",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 36,
+    "name": "A Saddiqa",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 37,
+    "name": "H Walter",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 38,
+    "name": "H Dawood",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 39,
+    "name": "A Shahzad",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 40,
+    "name": "Q Zafar",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 41,
+    "name": "M Usman",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 42,
+    "name": "S Hussain",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 43,
+    "name": "H Haroon",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 44,
+    "name": "S Azariah",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 45,
+    "name": "S Ephraim",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 46,
+    "name": "K Kamran",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 47,
+    "name": "S John",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 48,
+    "name": "F Idrees",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 49,
+    "name": "M Habib",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 50,
+    "name": "A Fateh",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 51,
+    "name": "K AMAD",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 52,
+    "name": "S Hamid",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 53,
+    "name": "A Ali",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 54,
+    "name": "U Sharif",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 55,
+    "name": "A Rashid",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 56,
+    "name": "A George",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 57,
+    "name": "R John",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 58,
+    "name": "Ambreen K",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 59,
+    "name": "Afaf k",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 60,
+    "name": "B Usman",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 61,
+    "name": "A Sharif",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 62,
+    "name": "U Javaid",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 63,
+    "name": "E Akhtar",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 64,
+    "name": "N Akhtar",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 65,
+    "name": "A Aman",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 66,
+    "name": "K Mahmood",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 67,
+    "name": "T Alvi",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 68,
+    "name": "I Nasir",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 69,
+    "name": "A Ali Shah",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 70,
+    "name": "S Ehsan",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 71,
+    "name": "M Rao",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 72,
+    "name": "A Chughtai",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 73,
+    "name": "I yusuf",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 74,
+    "name": "S Ashgar",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 75,
+    "name": "S Nazir",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 76,
+    "name": "A Ramish",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 77,
+    "name": "S Bilal",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 78,
+    "name": "A Mughal",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 79,
+    "name": "M Q Khan",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 80,
+    "name": "F Mazhar",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 81,
+    "name": "Z Khan",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 82,
+    "name": "I Ahmed",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 83,
+    "name": "J Akhtar",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 84,
+    "name": "F Tasneem",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 85,
+    "name": "A Malik",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 86,
+    "name": "S haroon",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 87,
+    "name": "H Arshad",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 88,
+    "name": "R Hussain",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 89,
+    "name": "Naumaan Ch",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 90,
+    "name": "A Ibrahim",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 91,
+    "name": "F Malik",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 92,
+    "name": "M Farrukh",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 93,
+    "name": "A Nawaz",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 94,
+    "name": "S Ahmed",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 95,
+    "name": "M Khalid",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 96,
+    "name": "I Munir",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 97,
+    "name": "W Khan",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 98,
+    "name": "R Hashim",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 99,
+    "name": "S Nazir",
+    "departments": [
+      "CHEM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 100,
+    "name": "M Qamar",
+    "departments": [
+      "CHEM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 101,
+    "name": "M Asghar",
+    "departments": [
+      "CHEM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 102,
+    "name": "RChaudhery",
+    "departments": [
+      "CHEM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 103,
+    "name": "S Jelani",
+    "departments": [
+      "CHEM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 104,
+    "name": "H Abid",
+    "departments": [
+      "CHEM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 105,
+    "name": "S Azeem",
+    "departments": [
+      "CHEM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 106,
+    "name": "D Ahmed",
+    "departments": [
+      "CHEM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 107,
+    "name": "A Hussain",
+    "departments": [
+      "CHEM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 108,
+    "name": "M Rashida",
+    "departments": [
+      "CHEM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 109,
+    "name": "M Iqbal",
+    "departments": [
+      "CHEM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 110,
+    "name": "Team",
+    "departments": [
+      "CHEM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 111,
+    "name": "Z Kexin",
+    "departments": [
+      "CHIN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 112,
+    "name": "M Wei",
+    "departments": [
+      "CHIN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 113,
+    "name": "F Shaheen",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 114,
+    "name": "S Qureshi",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 115,
+    "name": "Q Quraishi",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 116,
+    "name": "U  Nisar",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 117,
+    "name": "Z Malik",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 118,
+    "name": "N Ashraf",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 119,
+    "name": "M Chaudhry",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 120,
+    "name": "S Minhas",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 121,
+    "name": "S Abbasi",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 122,
+    "name": "N Sabahat",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 123,
+    "name": "S Toor",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 124,
+    "name": "A Khan",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 125,
+    "name": "I Iqbal",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 126,
+    "name": "M Butt",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 127,
+    "name": "A Yousaf",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 128,
+    "name": "R Bqa",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 129,
+    "name": "M Mushtaq",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 130,
+    "name": "A Basharat",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 131,
+    "name": "S Nasim",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 132,
+    "name": "S Saleem",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 133,
+    "name": "F Ullah",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 134,
+    "name": "R Chaudhry",
+    "departments": [
+      "CPPG"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 135,
+    "name": "M Rovidad",
+    "departments": [
+      "CPPG"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 136,
+    "name": "W Azim",
+    "departments": [
+      "CPPG"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 137,
+    "name": "A Khoso",
+    "departments": [
+      "CPPG"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 138,
+    "name": "N Khokhar",
+    "departments": [
+      "CPPG"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 139,
+    "name": "S Shafqat",
+    "departments": [
+      "CPPG"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 140,
+    "name": "R Wetmore",
+    "departments": [
+      "CRST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 141,
+    "name": "Z West",
+    "departments": [
+      "CRST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 142,
+    "name": "D Ephraim",
+    "departments": [
+      "CRST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 143,
+    "name": "K Pervaiz",
+    "departments": [
+      "CRST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 144,
+    "name": "D Lanz",
+    "departments": [
+      "CRST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 145,
+    "name": "W Davey",
+    "departments": [
+      "CRST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 146,
+    "name": "S Toor",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 147,
+    "name": "S Saleem",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 148,
+    "name": "S Nasim",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 149,
+    "name": "I Iqbal",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 150,
+    "name": "A Atique",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 151,
+    "name": "M Mushtaq",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 152,
+    "name": "A Khan",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 153,
+    "name": "N Sabahat",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 154,
+    "name": "S Abbasi",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 155,
+    "name": "Z Malik",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 156,
+    "name": "Q Quraishi",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 157,
+    "name": "H Latif",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 158,
+    "name": "A Rehman",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 159,
+    "name": "F Jamil",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 160,
+    "name": "K Azhar",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 161,
+    "name": "F Ibraheem",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 162,
+    "name": "F Janjua",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 163,
+    "name": "S Iqbal",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 164,
+    "name": "B Haq",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 165,
+    "name": "W Hussain",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 166,
+    "name": "A  Nadeem",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 167,
+    "name": "M Butt",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 168,
+    "name": "A Yousaf",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 169,
+    "name": "S Qureshi",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 170,
+    "name": "F Ullah",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 171,
+    "name": "U  Nisar",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 172,
+    "name": "S Toor",
+    "departments": [
+      "CSSE"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 173,
+    "name": "N Sabahat",
+    "departments": [
+      "CSSE"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 174,
+    "name": "M Mushtaq",
+    "departments": [
+      "CSSE"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 175,
+    "name": "F Masih",
+    "departments": [
+      "HIST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 176,
+    "name": "U Ibad",
+    "departments": [
+      "HIST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 177,
+    "name": "S Hayat",
+    "departments": [
+      "HIST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 178,
+    "name": "S Sumbal",
+    "departments": [
+      "HIST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 179,
+    "name": "TBD",
+    "departments": [
+      "ISEP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 180,
+    "name": "H Ahmad",
+    "departments": [
+      "ISLM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 181,
+    "name": "A Naeem",
+    "departments": [
+      "ISLM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 182,
+    "name": "N Ahmad",
+    "departments": [
+      "ISLM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 183,
+    "name": "Z Azam",
+    "departments": [
+      "ISLM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 184,
+    "name": "H Ghani",
+    "departments": [
+      "ISLM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 185,
+    "name": "A  Rehman",
+    "departments": [
+      "ISLM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 186,
+    "name": "S K Sook",
+    "departments": [
+      "KORN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 187,
+    "name": "J Park",
+    "departments": [
+      "KORN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 188,
+    "name": "R John",
+    "departments": [
+      "LING"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 189,
+    "name": "F Aftab",
+    "departments": [
+      "LING"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 190,
+    "name": "A Alphonce",
+    "departments": [
+      "LING"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 191,
+    "name": "N Justin",
+    "departments": [
+      "LING"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 192,
+    "name": "A Wasim",
+    "departments": [
+      "LING"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 193,
+    "name": "A  Khalid",
+    "departments": [
+      "LING"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 194,
+    "name": "F Syeda",
+    "departments": [
+      "LING"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 195,
+    "name": "R Malik",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 196,
+    "name": "G Mehak",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 197,
+    "name": "F Jamil",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 198,
+    "name": "A  Nadeem",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 199,
+    "name": "S Iqbal",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 200,
+    "name": "F Janjua",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 201,
+    "name": "B Haq",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 202,
+    "name": "I Shafique",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 203,
+    "name": "K Azhar",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 204,
+    "name": "S Bashir",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 205,
+    "name": "S Ayub",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 206,
+    "name": "A Tayyab",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 207,
+    "name": "A Sarwar",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 208,
+    "name": "S Samuel",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 209,
+    "name": "H Rehman",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 210,
+    "name": "M Raza",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 211,
+    "name": "A Qureshi",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 212,
+    "name": "S Malik",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 213,
+    "name": "W Hussain",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 214,
+    "name": "F Ibraheem",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 215,
+    "name": "S Zaheer",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 216,
+    "name": "Dr S Abbas",
+    "departments": [
+      "MCOM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 217,
+    "name": "Z Masood",
+    "departments": [
+      "MCOM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 218,
+    "name": "A Malik",
+    "departments": [
+      "MCOM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 219,
+    "name": "F Jabeen",
+    "departments": [
+      "MCOM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 220,
+    "name": "S. Zehra",
+    "departments": [
+      "MCOM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 221,
+    "name": "M Batool",
+    "departments": [
+      "MCOM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 222,
+    "name": "A  Amir",
+    "departments": [
+      "MCOM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 223,
+    "name": "S A Naeem",
+    "departments": [
+      "MCOM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 224,
+    "name": "S Saleem",
+    "departments": [
+      "MCOM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 225,
+    "name": "A Khan",
+    "departments": [
+      "MCOM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 226,
+    "name": "A  Muzamil",
+    "departments": [
+      "MCOM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 227,
+    "name": "R Hassan",
+    "departments": [
+      "MPGN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 228,
+    "name": "M Yousaf",
+    "departments": [
+      "MPGN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 229,
+    "name": "A  Arshad",
+    "departments": [
+      "MPGN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 230,
+    "name": "S Hanook",
+    "departments": [
+      "MPGN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 231,
+    "name": "B Sadiq",
+    "departments": [
+      "MPGN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 232,
+    "name": "M Shaggan",
+    "departments": [
+      "MUSC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 233,
+    "name": "G Irfan",
+    "departments": [
+      "PHIL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 234,
+    "name": "T Farouk",
+    "departments": [
+      "PHIL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 235,
+    "name": "H Latif",
+    "departments": [
+      "PHYS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 236,
+    "name": "K Javed",
+    "departments": [
+      "PHYS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 237,
+    "name": "L Kahlon",
+    "departments": [
+      "PHYS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 238,
+    "name": "Ab Rahman",
+    "departments": [
+      "PHYS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 239,
+    "name": "S Shah",
+    "departments": [
+      "PHYS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 240,
+    "name": "A Rehman",
+    "departments": [
+      "PHYS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 241,
+    "name": "S Shabbir",
+    "departments": [
+      "PHYS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 242,
+    "name": "Dr  H Shah",
+    "departments": [
+      "PHYS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 243,
+    "name": "S Zaheer",
+    "departments": [
+      "PHYS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 244,
+    "name": "TBD",
+    "departments": [
+      "PHYS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 245,
+    "name": "Z Iqbal",
+    "departments": [
+      "PHYS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 246,
+    "name": "F Masih",
+    "departments": [
+      "PKST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 247,
+    "name": "U Ibad",
+    "departments": [
+      "PKST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 248,
+    "name": "S Sumbal",
+    "departments": [
+      "PKST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 249,
+    "name": "A Ijaz",
+    "departments": [
+      "PKST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 250,
+    "name": "M Haider",
+    "departments": [
+      "PKST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 251,
+    "name": "M Shafqat",
+    "departments": [
+      "PKST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 252,
+    "name": "Z Hassan",
+    "departments": [
+      "PKST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 253,
+    "name": "M Mirza",
+    "departments": [
+      "PLSC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 254,
+    "name": "Q Memon",
+    "departments": [
+      "PLSC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 255,
+    "name": "A. Indrias",
+    "departments": [
+      "PLSC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 256,
+    "name": "M A Imran",
+    "departments": [
+      "PLSC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 257,
+    "name": "S Awan",
+    "departments": [
+      "PLSC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 258,
+    "name": "K Khan",
+    "departments": [
+      "PLSC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 259,
+    "name": "M U Farooq",
+    "departments": [
+      "PLSC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 260,
+    "name": "S Sindhu",
+    "departments": [
+      "PLSC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 261,
+    "name": "M Farooqi",
+    "departments": [
+      "PLSC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 262,
+    "name": "A Qureshi",
+    "departments": [
+      "PLSC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 263,
+    "name": "M Younis",
+    "departments": [
+      "PLSC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 264,
+    "name": "W  Ranjha",
+    "departments": [
+      "PLSC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 265,
+    "name": "N Asif",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 266,
+    "name": "E Shahid",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 267,
+    "name": "U Rizwan",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 268,
+    "name": "U Ashiq",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 269,
+    "name": "A aziz",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 270,
+    "name": "Asajid",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 271,
+    "name": "M  Niazi",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 272,
+    "name": "A Malik",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 273,
+    "name": "A  Ateeq",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 274,
+    "name": "A  Nazim",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 275,
+    "name": "K Safdar",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 276,
+    "name": "U Ilyas",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 277,
+    "name": "N Khan",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 278,
+    "name": "I Batool",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 279,
+    "name": "M Munir",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 280,
+    "name": "S Jabeen",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 281,
+    "name": "S Samuel",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 282,
+    "name": "S Shahed",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 283,
+    "name": "S Majeed",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 284,
+    "name": "L Azhar",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 285,
+    "name": "ESchwaiger",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 286,
+    "name": "K Ishfaq",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 287,
+    "name": "T Ashraf",
+    "departments": [
+      "SOCL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 288,
+    "name": "S Athar",
+    "departments": [
+      "SOCL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 289,
+    "name": "Team",
+    "departments": [
+      "SOCL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 290,
+    "name": "A  Azeem",
+    "departments": [
+      "SOCL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 291,
+    "name": "M Ali",
+    "departments": [
+      "SOCL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 292,
+    "name": "A Amjad",
+    "departments": [
+      "SOCL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 293,
+    "name": "A Yasir",
+    "departments": [
+      "SOCL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 294,
+    "name": "G  Clark",
+    "departments": [
+      "SOCL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 295,
+    "name": "J parra",
+    "departments": [
+      "SPAN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 296,
+    "name": "R Butt",
+    "departments": [
+      "STAT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 297,
+    "name": "N Mushtaq",
+    "departments": [
+      "STAT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 298,
+    "name": "M Raza",
+    "departments": [
+      "STAT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 299,
+    "name": "A Tayyab",
+    "departments": [
+      "STAT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 300,
+    "name": "S Samuel",
+    "departments": [
+      "STAT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 301,
+    "name": "S Ayub",
+    "departments": [
+      "STAT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 302,
+    "name": "A Sarwar",
+    "departments": [
+      "STAT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 303,
+    "name": "H Rehman",
+    "departments": [
+      "STAT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 304,
+    "name": "S Bashir",
+    "departments": [
+      "STAT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 305,
+    "name": "M Mughal",
+    "departments": [
+      "STAT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 306,
+    "name": "S Hanook",
+    "departments": [
+      "STAT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 307,
+    "name": "I Naqvi",
+    "departments": [
+      "STAT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 308,
+    "name": "R Durrani",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 309,
+    "name": "S Athar",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 310,
+    "name": "A  Azeem",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 311,
+    "name": "A Khan",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 312,
+    "name": "N Justin",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 313,
+    "name": "J Hassan",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 314,
+    "name": "H Ahmad",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 315,
+    "name": "R. Farooq",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 316,
+    "name": "A  Amir",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 317,
+    "name": "A  Nadeem",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 318,
+    "name": "S Lodhi",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 319,
+    "name": "S Ali",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 320,
+    "name": "S Jelani",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 321,
+    "name": "M Raza",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 322,
+    "name": "I  Khokhar",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 323,
+    "name": "S U Rehman",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 324,
+    "name": "Q Zafar",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 325,
+    "name": "A Yaqub",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 326,
+    "name": "F Saeed",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 327,
+    "name": "A Wasim",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 328,
+    "name": "M Ali",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 329,
+    "name": "M Kabir",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 330,
+    "name": "S Samson",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 331,
+    "name": "G Ayub",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 332,
+    "name": "R Wasif",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 333,
+    "name": "S. Zehra",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 334,
+    "name": "Saman Ali",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 335,
+    "name": "M Khalil",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 336,
+    "name": "R Javaid",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 337,
+    "name": "N Khan",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 338,
+    "name": "K Shakrul",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 339,
+    "name": "TBD",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 340,
+    "name": "A Samuel",
+    "departments": [
+      "URDU"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 341,
+    "name": "A Virk",
+    "departments": [
+      "URDU"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 342,
+    "name": "S Ashraf",
+    "departments": [
+      "URDU"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 343,
+    "name": "A  Anwar",
+    "departments": [
+      "URDU"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 344,
+    "name": "M Tahir",
+    "departments": [
+      "URDU"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 345,
+    "name": "S Tahir",
+    "departments": [
+      "URDU"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 346,
+    "name": "N Jamal",
+    "departments": [
+      "URDU"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 347,
+    "name": "N Khokhar",
+    "departments": [
+      "URDU"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 348,
+    "name": "F Aftab",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 349,
+    "name": "F Saeed",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 350,
+    "name": "M Zia",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 351,
+    "name": "R Wasif",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 352,
+    "name": "Team",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 353,
+    "name": "R John",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 354,
+    "name": "A Fareed",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 355,
+    "name": "A Alphonce",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 356,
+    "name": "S Pervez",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 357,
+    "name": "A  Khalid",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 358,
+    "name": "N Ahmad",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 359,
+    "name": "N Justin",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 360,
+    "name": "T Bokhari",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 361,
+    "name": "A Zia",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 362,
+    "name": "M Saleh",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 363,
+    "name": "Quratulaen",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 364,
+    "name": "S Mir",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 365,
+    "name": "A Wasim",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 366,
+    "name": "J C Imdad",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 367,
+    "name": "A  Javed",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 368,
+    "name": "S Hanif",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 369,
+    "name": "TBD",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 370,
+    "name": "S Ali",
+    "departments": [
+      "BIOL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 371,
+    "name": "K Muaz",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 372,
+    "name": "S Hanook",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 373,
+    "name": "B Usman",
+    "departments": [
+      "BIOT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 374,
+    "name": "TBD",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 375,
+    "name": "S. Suleman",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 376,
+    "name": "S Gul",
+    "departments": [
+      "BUSN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 377,
+    "name": "TBD",
+    "departments": [
+      "CHEM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 378,
+    "name": "AY khan",
+    "departments": [
+      "CHEM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 379,
+    "name": "M Abbas",
+    "departments": [
+      "CHEM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 380,
+    "name": "A Atique",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 381,
+    "name": "A Khanum",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 382,
+    "name": "TBD",
+    "departments": [
+      "COMP"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 383,
+    "name": "R Haque",
+    "departments": [
+      "CPPG"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 384,
+    "name": "TBD",
+    "departments": [
+      "CPPG"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 385,
+    "name": "T Fatima",
+    "departments": [
+      "CRIM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 386,
+    "name": "A  Azeem",
+    "departments": [
+      "CRIM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 387,
+    "name": "M Ali",
+    "departments": [
+      "CRIM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 388,
+    "name": "G Calib",
+    "departments": [
+      "CRST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 389,
+    "name": "S Minhas",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 390,
+    "name": "R Bqa",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 391,
+    "name": "TBD",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 392,
+    "name": "G Mehak",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 393,
+    "name": "N Ashraf",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 394,
+    "name": "F Shaheen",
+    "departments": [
+      "CSCS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 395,
+    "name": "Q Quraishi",
+    "departments": [
+      "CSDS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 396,
+    "name": "F Ullah",
+    "departments": [
+      "CSDS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 397,
+    "name": "A Khan",
+    "departments": [
+      "CSDS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 398,
+    "name": "M Mushtaq",
+    "departments": [
+      "CSDS"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 399,
+    "name": "S Lodhi",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 400,
+    "name": "T Ahmed",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 401,
+    "name": "T Numan",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 402,
+    "name": "S Waqar",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 403,
+    "name": "M Noor",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 404,
+    "name": "N Ishtiaq",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 405,
+    "name": "A  Jalil",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 406,
+    "name": "A  Anwar",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 407,
+    "name": "H  Ahsan",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 408,
+    "name": "Z Manzoor",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 409,
+    "name": "Z  Iqbal",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 410,
+    "name": "R Ahmed",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 411,
+    "name": "M Bhatti",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 412,
+    "name": "U Hanif",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 413,
+    "name": "M Tahir",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 414,
+    "name": "M Ayyubi",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 415,
+    "name": "A  Batool",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 416,
+    "name": "G Shabir",
+    "departments": [
+      "ECON"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 417,
+    "name": "J Hassan",
+    "departments": [
+      "EDUC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 418,
+    "name": "A Khokhar",
+    "departments": [
+      "EDUC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 419,
+    "name": "A Khan",
+    "departments": [
+      "EDUC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 420,
+    "name": "M. Thomas",
+    "departments": [
+      "EDUC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 421,
+    "name": "A Aslam",
+    "departments": [
+      "EDUC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 422,
+    "name": "M Raza",
+    "departments": [
+      "EDUC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 423,
+    "name": "R. Farooq",
+    "departments": [
+      "EDUC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 424,
+    "name": "S Burhan",
+    "departments": [
+      "EDUC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 425,
+    "name": "Team",
+    "departments": [
+      "EDUC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 426,
+    "name": "N Ahmad",
+    "departments": [
+      "ENGL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 427,
+    "name": "A Zia",
+    "departments": [
+      "ENGL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 428,
+    "name": "S Hanif",
+    "departments": [
+      "ENGL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 429,
+    "name": "R Wasif",
+    "departments": [
+      "ENGL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 430,
+    "name": "J C Imdad",
+    "departments": [
+      "ENGL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 431,
+    "name": "I Sayed",
+    "departments": [
+      "ENGL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 432,
+    "name": "F Zaheer",
+    "departments": [
+      "ENGL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 433,
+    "name": "Quratulaen",
+    "departments": [
+      "ENGL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 434,
+    "name": "S Mir",
+    "departments": [
+      "ENGL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 435,
+    "name": "S Maqbool",
+    "departments": [
+      "ENGL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 436,
+    "name": "F Syeda",
+    "departments": [
+      "ENGL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 437,
+    "name": "S Akram",
+    "departments": [
+      "ENVR"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 438,
+    "name": "S Ilyas",
+    "departments": [
+      "ENVR"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 439,
+    "name": "S Jelani",
+    "departments": [
+      "ENVR"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 440,
+    "name": "M Shahbaz",
+    "departments": [
+      "ENVR"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 441,
+    "name": "D Bakker",
+    "departments": [
+      "ENVR"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 442,
+    "name": "S Aslam",
+    "departments": [
+      "ENVR"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 443,
+    "name": "K Shafiqu",
+    "departments": [
+      "ENVR"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 444,
+    "name": "S Hanook",
+    "departments": [
+      "ENVR"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 445,
+    "name": "S Machado",
+    "departments": [
+      "ENVR"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 446,
+    "name": "S Chung",
+    "departments": [
+      "ENVR"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 447,
+    "name": "S Azeem",
+    "departments": [
+      "ENVR"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 448,
+    "name": "D Ahmed",
+    "departments": [
+      "ENVR"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 449,
+    "name": "B Usman",
+    "departments": [
+      "ENVR"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 450,
+    "name": "Team",
+    "departments": [
+      "ENVR"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 451,
+    "name": "A Anwar",
+    "departments": [
+      "FREN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 452,
+    "name": "P Ludivine",
+    "departments": [
+      "FREN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 453,
+    "name": "I Ul Haq",
+    "departments": [
+      "FSQM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 454,
+    "name": "R John",
+    "departments": [
+      "FSQM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 455,
+    "name": "B Sadiq",
+    "departments": [
+      "FSQM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 456,
+    "name": "K Muaz",
+    "departments": [
+      "FSQM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 457,
+    "name": "K Shakrul",
+    "departments": [
+      "GEOG"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 458,
+    "name": "K Shafiqu",
+    "departments": [
+      "GEOG"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 459,
+    "name": "A Iqbal",
+    "departments": [
+      "GEOG"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 460,
+    "name": "H Mahmood",
+    "departments": [
+      "GRMN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 461,
+    "name": "Qurit U An",
+    "departments": [
+      "GRMN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 462,
+    "name": "M Haider",
+    "departments": [
+      "HIST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 463,
+    "name": "A Ijaz",
+    "departments": [
+      "HIST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 464,
+    "name": "M Shafqat",
+    "departments": [
+      "HIST"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 465,
+    "name": "S Khaliq",
+    "departments": [
+      "HPED"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 466,
+    "name": "S Nazir",
+    "departments": [
+      "HPED"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 467,
+    "name": "Z Nisa",
+    "departments": [
+      "HPED"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 468,
+    "name": "A  Javed",
+    "departments": [
+      "LING"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 469,
+    "name": "R Butt",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 470,
+    "name": "I Naqvi",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 471,
+    "name": "S Hanook",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 472,
+    "name": "L Kahlon",
+    "departments": [
+      "MATH"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 473,
+    "name": "TBD",
+    "departments": [
+      "MPGN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 474,
+    "name": "N Habib",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 475,
+    "name": "B M Butt",
+    "departments": [
+      "PSYC"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 476,
+    "name": "T Fatima",
+    "departments": [
+      "SOCL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 477,
+    "name": "S Shahid",
+    "departments": [
+      "SOCL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 478,
+    "name": "TBD",
+    "departments": [
+      "SOCL"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 479,
+    "name": "N Medel",
+    "departments": [
+      "SPAN"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 480,
+    "name": "TBD",
+    "departments": [
+      "STAT"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 481,
+    "name": "S Saleem",
+    "departments": [
+      "UNIV"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 482,
+    "name": "TBD",
+    "departments": [
+      "URDU"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 483,
+    "name": "TBD",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  },
+  {
+    "id": 484,
+    "name": "S Maqbool",
+    "departments": [
+      "WRCM"
+    ],
+    "email": "",
+    "office": "",
+    "office_hours": ""
+  }
+]
