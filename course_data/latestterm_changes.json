@@ -6,5 +6,309 @@
     "section": "B",
     "instructor": "M Qamar",
     "timestamp": "2026-03-22T01:05:21.544450"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ECON 302 (A) - S Lodhi",
+    "course_code": "ECON 302",
+    "section": "A",
+    "instructor": "S Lodhi",
+    "timestamp": "2026-05-15T19:38:13.955930"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ECON 499A (A) - M Bhatti",
+    "course_code": "ECON 499A",
+    "section": "A",
+    "instructor": "M Bhatti",
+    "timestamp": "2026-05-15T19:38:13.955940"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ECON 501 (A) - H  Ahsan",
+    "course_code": "ECON 501",
+    "section": "A",
+    "instructor": "H  Ahsan",
+    "timestamp": "2026-05-15T19:38:13.955944"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ECON 502 (A) - M Bhatti",
+    "course_code": "ECON 502",
+    "section": "A",
+    "instructor": "M Bhatti",
+    "timestamp": "2026-05-15T19:38:13.955945"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ECON 505 (A) - T Ahmed",
+    "course_code": "ECON 505",
+    "section": "A",
+    "instructor": "T Ahmed",
+    "timestamp": "2026-05-15T19:38:13.955947"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ECON 605 (A) - M Ayyubi",
+    "course_code": "ECON 605",
+    "section": "A",
+    "instructor": "M Ayyubi",
+    "timestamp": "2026-05-15T19:38:13.955948"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ECON 699A (A) - M Bhatti",
+    "course_code": "ECON 699A",
+    "section": "A",
+    "instructor": "M Bhatti",
+    "timestamp": "2026-05-15T19:38:13.955950"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ECON 699B (A) - M Bhatti",
+    "course_code": "ECON 699B",
+    "section": "A",
+    "instructor": "M Bhatti",
+    "timestamp": "2026-05-15T19:38:13.955951"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ECON 701 (A) - G Shabir",
+    "course_code": "ECON 701",
+    "section": "A",
+    "instructor": "G Shabir",
+    "timestamp": "2026-05-15T19:38:13.955952"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ECON 703 (A) - T Ahmed",
+    "course_code": "ECON 703",
+    "section": "A",
+    "instructor": "T Ahmed",
+    "timestamp": "2026-05-15T19:38:13.955954"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ECON 711 (A) - T Numan",
+    "course_code": "ECON 711",
+    "section": "A",
+    "instructor": "T Numan",
+    "timestamp": "2026-05-15T19:38:13.955957"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ECON 716 (A) - A  Jalil",
+    "course_code": "ECON 716",
+    "section": "A",
+    "instructor": "A  Jalil",
+    "timestamp": "2026-05-15T19:38:13.955958"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ECON 799A (A) - M Bhatti",
+    "course_code": "ECON 799A",
+    "section": "A",
+    "instructor": "M Bhatti",
+    "timestamp": "2026-05-15T19:38:13.955960"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ECON 799B (A) - M Bhatti",
+    "course_code": "ECON 799B",
+    "section": "A",
+    "instructor": "M Bhatti",
+    "timestamp": "2026-05-15T19:38:13.955961"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENVR 503 (A) - TBD",
+    "course_code": "ENVR 503",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-05-15T19:38:13.955962"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENVR 699A (A) - D Bakker",
+    "course_code": "ENVR 699A",
+    "section": "A",
+    "instructor": "D Bakker",
+    "timestamp": "2026-05-15T19:38:13.955966"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENVR 699B (A) - D Bakker",
+    "course_code": "ENVR 699B",
+    "section": "A",
+    "instructor": "D Bakker",
+    "timestamp": "2026-05-15T19:38:13.955967"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: GEOG 499 (A) - K Shakrul",
+    "course_code": "GEOG 499",
+    "section": "A",
+    "instructor": "K Shakrul",
+    "timestamp": "2026-05-15T19:38:13.955968"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: GEOG 499 (B) - K Shakrul",
+    "course_code": "GEOG 499",
+    "section": "B",
+    "instructor": "K Shakrul",
+    "timestamp": "2026-05-15T19:38:13.955970"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for HIST 102 (A): U Ibad → M Haider",
+    "course_code": "HIST 102",
+    "section": "A",
+    "instructor": "M Haider",
+    "timestamp": "2026-05-15T19:38:13.955973"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: HIST 103 (A) - F Masih",
+    "course_code": "HIST 103",
+    "section": "A",
+    "instructor": "F Masih",
+    "timestamp": "2026-05-15T19:38:13.955974"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: HIST 202 (B) - A Ijaz",
+    "course_code": "HIST 202",
+    "section": "B",
+    "instructor": "A Ijaz",
+    "timestamp": "2026-05-15T19:38:13.955976"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: HIST 255 (A) - F Masih",
+    "course_code": "HIST 255",
+    "section": "A",
+    "instructor": "F Masih",
+    "timestamp": "2026-05-15T19:38:13.955977"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: HIST 302 (A) - M Haider",
+    "course_code": "HIST 302",
+    "section": "A",
+    "instructor": "M Haider",
+    "timestamp": "2026-05-15T19:38:13.955979"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: HIST 302 (B) - A Ijaz",
+    "course_code": "HIST 302",
+    "section": "B",
+    "instructor": "A Ijaz",
+    "timestamp": "2026-05-15T19:38:13.955980"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: HIST 306 (B) - S Sumbal",
+    "course_code": "HIST 306",
+    "section": "B",
+    "instructor": "S Sumbal",
+    "timestamp": "2026-05-15T19:38:13.955982"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: HIST 310 (B) - S Sumbal",
+    "course_code": "HIST 310",
+    "section": "B",
+    "instructor": "S Sumbal",
+    "timestamp": "2026-05-15T19:38:13.955983"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: HIST 313 (B) - S Sumbal",
+    "course_code": "HIST 313",
+    "section": "B",
+    "instructor": "S Sumbal",
+    "timestamp": "2026-05-15T19:38:13.955985"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: MATH 109 (B) - F Jamil",
+    "course_code": "MATH 109",
+    "section": "B",
+    "instructor": "F Jamil",
+    "timestamp": "2026-05-15T19:38:13.955987"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PSYC 350 (B) - S Jabeen",
+    "course_code": "PSYC 350",
+    "section": "B",
+    "instructor": "S Jabeen",
+    "timestamp": "2026-05-15T19:38:13.955991"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 513 (A): N Asif → M  Niazi",
+    "course_code": "PSYC 513",
+    "section": "A",
+    "instructor": "M  Niazi",
+    "timestamp": "2026-05-15T19:38:13.955994"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 520 (A): U Ashiq → A aziz",
+    "course_code": "PSYC 520",
+    "section": "A",
+    "instructor": "A aziz",
+    "timestamp": "2026-05-15T19:38:13.955996"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 530 (A): ESchwaiger → U Ashiq",
+    "course_code": "PSYC 530",
+    "section": "A",
+    "instructor": "U Ashiq",
+    "timestamp": "2026-05-15T19:38:13.955997"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 541 (A): S Majeed → S Shahed",
+    "course_code": "PSYC 541",
+    "section": "A",
+    "instructor": "S Shahed",
+    "timestamp": "2026-05-15T19:38:13.955999"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 550 (A): S Shahed → U Ilyas",
+    "course_code": "PSYC 550",
+    "section": "A",
+    "instructor": "U Ilyas",
+    "timestamp": "2026-05-15T19:38:13.956001"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 620 (A): U Ilyas → U Rizwan",
+    "course_code": "PSYC 620",
+    "section": "A",
+    "instructor": "U Rizwan",
+    "timestamp": "2026-05-15T19:38:13.956003"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 680 (A): K Ishfaq → N Habib",
+    "course_code": "PSYC 680",
+    "section": "A",
+    "instructor": "N Habib",
+    "timestamp": "2026-05-15T19:38:13.956005"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: SOCL 505 (A) - S Jafree",
+    "course_code": "SOCL 505",
+    "section": "A",
+    "instructor": "S Jafree",
+    "timestamp": "2026-05-15T19:38:13.956006"
   }
 ]
