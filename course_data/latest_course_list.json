@@ -1,0 +1,4220 @@
+{
+  "generated_from": [
+    "2026FA",
+    "2026FA",
+    "2026SP"
+  ],
+  "total_unique_courses": 842,
+  "courses": [
+    {
+      "code": "ARTS 101",
+      "name": "Intro. Art & Design",
+      "credits": "3"
+    },
+    {
+      "code": "ARTS 102",
+      "name": "Painting I",
+      "credits": "3"
+    },
+    {
+      "code": "ARTS 103",
+      "name": "Sculpture I",
+      "credits": "3"
+    },
+    {
+      "code": "ARTS 105",
+      "name": "History of South Asi",
+      "credits": "3"
+    },
+    {
+      "code": "ARTS 106",
+      "name": "Women, Art & Politic",
+      "credits": "3"
+    },
+    {
+      "code": "ARTS 111",
+      "name": "Fundam. of Drawing I",
+      "credits": "3"
+    },
+    {
+      "code": "ARTS 121",
+      "name": "Draawing II",
+      "credits": "3"
+    },
+    {
+      "code": "ARTS 200",
+      "name": "History of Art I",
+      "credits": "3.00"
+    },
+    {
+      "code": "ARTS 201",
+      "name": "History of Art II",
+      "credits": "3"
+    },
+    {
+      "code": "ARTS 211",
+      "name": "Drawing III",
+      "credits": "3"
+    },
+    {
+      "code": "BIOL 100",
+      "name": "*Intro.  Biology",
+      "credits": "4"
+    },
+    {
+      "code": "BIOL 102",
+      "name": "*Intro Plant Biology",
+      "credits": "4"
+    },
+    {
+      "code": "BIOL 105",
+      "name": "*General Zoology",
+      "credits": "4"
+    },
+    {
+      "code": "BIOL 201",
+      "name": "*Cell Biology",
+      "credits": "3"
+    },
+    {
+      "code": "BIOL 203",
+      "name": "*General Genetics",
+      "credits": "3"
+    },
+    {
+      "code": "BIOL 212",
+      "name": "*Res Design& Biostat",
+      "credits": "3"
+    },
+    {
+      "code": "BIOL 221",
+      "name": "*Plant Form & Fun.",
+      "credits": "4"
+    },
+    {
+      "code": "BIOL 222",
+      "name": "*Animal Form & Fun.",
+      "credits": "4"
+    },
+    {
+      "code": "BIOL 313",
+      "name": "*Biochemistry",
+      "credits": "4"
+    },
+    {
+      "code": "BIOL 315",
+      "name": "*Fun of Microbiology",
+      "credits": "4"
+    },
+    {
+      "code": "BIOL 319",
+      "name": "*Mycology",
+      "credits": "4.00"
+    },
+    {
+      "code": "BIOL 323",
+      "name": "*Ecology & Evolution",
+      "credits": "4.00"
+    },
+    {
+      "code": "BIOL 325",
+      "name": "Human Physiology",
+      "credits": "3.00"
+    },
+    {
+      "code": "BIOL 329",
+      "name": "Applied Endocrinolog",
+      "credits": "4.00"
+    },
+    {
+      "code": "BIOL 330",
+      "name": "Radiobiology",
+      "credits": "3.00"
+    },
+    {
+      "code": "BIOL 331",
+      "name": "Soil Microbiology",
+      "credits": "3"
+    },
+    {
+      "code": "BIOL 403",
+      "name": "Plant Physiology",
+      "credits": "3"
+    },
+    {
+      "code": "BIOL 411",
+      "name": "*Envr. Microbiology",
+      "credits": "3.00"
+    },
+    {
+      "code": "BIOL 412",
+      "name": "Neurobiology",
+      "credits": "3"
+    },
+    {
+      "code": "BIOL 415",
+      "name": "Food Micrbio.&Safety",
+      "credits": "4"
+    },
+    {
+      "code": "BIOL 469",
+      "name": "*Plant Pathology",
+      "credits": "4"
+    },
+    {
+      "code": "BIOL 473",
+      "name": "*Industrial Micro",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT 201",
+      "name": "*Intro. to biotech.",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT 202",
+      "name": "*Prot, Cell & Tissue",
+      "credits": "4"
+    },
+    {
+      "code": "BIOT 211",
+      "name": "*BioSaf. & BioSec",
+      "credits": "3.00"
+    },
+    {
+      "code": "BIOT 301",
+      "name": "*Anal. Tech. in Biol",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT 302",
+      "name": "*Fund. of Enzymology",
+      "credits": "4"
+    },
+    {
+      "code": "BIOT 305",
+      "name": "Commercial Biot Prod",
+      "credits": "3.00"
+    },
+    {
+      "code": "BIOT 307",
+      "name": "Mol.  Immunology",
+      "credits": "3.00"
+    },
+    {
+      "code": "BIOT 309",
+      "name": "Micro Biochemistry",
+      "credits": "3.00"
+    },
+    {
+      "code": "BIOT 313",
+      "name": "*Molecular Biology",
+      "credits": "4"
+    },
+    {
+      "code": "BIOT 314",
+      "name": "*Bioenerg.  & Metab",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT 315",
+      "name": "*Genomics and Tools",
+      "credits": "4.00"
+    },
+    {
+      "code": "BIOT 316",
+      "name": "*Fundam.Virology",
+      "credits": "3.00"
+    },
+    {
+      "code": "BIOT 408",
+      "name": "*Recomb. DNA Tech.",
+      "credits": "4"
+    },
+    {
+      "code": "BIOT 409",
+      "name": "Food & Dairy Tech.",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT 411",
+      "name": "Agri. Biotechnology",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT 412",
+      "name": "*Medi. Biotechnology",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT 499",
+      "name": "Research",
+      "credits": "6.00"
+    },
+    {
+      "code": "BIOT 502",
+      "name": "ADVANCE MICROBIAL",
+      "credits": "3.00"
+    },
+    {
+      "code": "BIOT 504",
+      "name": "TECHNIQUES IN BIOT",
+      "credits": "3.00"
+    },
+    {
+      "code": "BIOT 506",
+      "name": "Biostatistics",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT 511",
+      "name": "JOURNAL CLUB",
+      "credits": "2"
+    },
+    {
+      "code": "BIOT 601",
+      "name": "BIOINFORMATICS",
+      "credits": "3.00"
+    },
+    {
+      "code": "BIOT 605",
+      "name": "BUS ENTREPRENEURSHIP",
+      "credits": "1"
+    },
+    {
+      "code": "BIOT 608",
+      "name": "ADV AGRICULTURE BIOT",
+      "credits": "3.00"
+    },
+    {
+      "code": "BIOT 609",
+      "name": "ADV. HEALTH BIOT",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT 611",
+      "name": "Omics",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT 699A",
+      "name": "RESEARCH",
+      "credits": "6"
+    },
+    {
+      "code": "BIOT 699B",
+      "name": "RESEARCH",
+      "credits": "6"
+    },
+    {
+      "code": "BIOT 699E",
+      "name": "Research",
+      "credits": "6"
+    },
+    {
+      "code": "BIOT 701",
+      "name": "Gene Str & Reg",
+      "credits": "3.00"
+    },
+    {
+      "code": "BIOT 706",
+      "name": "Pr Ap Re DNA Tec",
+      "credits": "3.00"
+    },
+    {
+      "code": "BIOT 707",
+      "name": "Journal Club",
+      "credits": "3.00"
+    },
+    {
+      "code": "BIOT 710",
+      "name": "Trends in Microbial",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT 712",
+      "name": "Advances in Medical",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT 713",
+      "name": "Food Biotechnology",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT 799",
+      "name": "Research",
+      "credits": "12.00"
+    },
+    {
+      "code": "BIOT 799A",
+      "name": "Research",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT 799B",
+      "name": "Research",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT 799C",
+      "name": "Research",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT 799D",
+      "name": "Research",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT 799E",
+      "name": "Research",
+      "credits": "3"
+    },
+    {
+      "code": "BIOT COMP",
+      "name": "Comprehensive Exam",
+      "credits": "0"
+    },
+    {
+      "code": "BUSN 101",
+      "name": "Principles of Acc.",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 121",
+      "name": "Microeconomics",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 160",
+      "name": "Management Comm",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 170",
+      "name": "Principles of Manage",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 201",
+      "name": "Intermediate Account",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 206",
+      "name": "Mgt. Acc. & Control",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 225",
+      "name": "Econ Appl for Busn",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 230",
+      "name": "Entrepreneurship",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 250",
+      "name": "Indiv & Grp Dynamics",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 280",
+      "name": "Mark. & Selling Skil",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 301",
+      "name": "Financial Reporting",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 305",
+      "name": "Corporate Governance",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 321",
+      "name": "Financial Mgt. I",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 322",
+      "name": "Financial Managmt II",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 350",
+      "name": "Human Resource Mgmt.",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 353",
+      "name": "Human Resource Prac",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 354",
+      "name": "Performance Mngmt.",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 360",
+      "name": "Ope. & Proj. Mgt. I",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 361",
+      "name": "Ops Excellence",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 364",
+      "name": "Prod Plan & Control",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 368",
+      "name": "Prod & Plant Mangmnt",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 370",
+      "name": "Management Inf Syste",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 382",
+      "name": "Marketing Comm",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 383",
+      "name": "Sales Force Mang",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 385",
+      "name": "Consumer Behavior",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 401",
+      "name": "Principles of Auditi",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 404",
+      "name": "Taxation",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 410",
+      "name": "Account Info Sys",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 450",
+      "name": "Labor Law",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 451",
+      "name": "Strategic HRM",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 453",
+      "name": "Change Management",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 460",
+      "name": "Business Law",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 461",
+      "name": "New Prod.Development",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 464",
+      "name": "Total Quality Manage",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 469",
+      "name": "Project Mang Proc",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 480",
+      "name": "Marketing Research",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 484",
+      "name": "Brand Management",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 485",
+      "name": "E-Business",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 490",
+      "name": "Analysis of Inst",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 498",
+      "name": "Business Strategy",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 501",
+      "name": "FINANCIAL ACCOUNTING",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 506",
+      "name": "MGMT ACCTG",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 510",
+      "name": "APPL QUAN TECHNIQUES",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 521",
+      "name": "MANAGERIAL ECON",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 522",
+      "name": "MACROECONOMICS",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 531",
+      "name": "PRINCIPLES FINANCE",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 550",
+      "name": "ORGAN BEHAVIOR",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 560",
+      "name": "OPERATIONS MGMT",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 570",
+      "name": "LOGIC, CRITI THINK I",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 571",
+      "name": "LOGIC CRITI THINK 2",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 580",
+      "name": "MRKING & SALES MGMT",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 585",
+      "name": "MARKETING RESEARCH",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 601",
+      "name": "REPORT & GOVERNANCE",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 605",
+      "name": "MGMT CONTROL SYSTEM",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 622",
+      "name": "TOPICS INV & FINANCE",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 625",
+      "name": "BUSINESS ETHICS",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 630",
+      "name": "MGMT INFO SYSTEMS",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 640",
+      "name": "Entrepreneurship",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 650",
+      "name": "HUMAN RESOURCE MGMT",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 660",
+      "name": "BUSINESS LAW",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 670",
+      "name": "NEW PRODUCT DEVT",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 690",
+      "name": "LEAD CHANGE, STRAT 1",
+      "credits": "3.00"
+    },
+    {
+      "code": "BUSN 692",
+      "name": "LEAD, CHANGE&STRAT2",
+      "credits": "3"
+    },
+    {
+      "code": "BUSN 695",
+      "name": "MGMT NEGOTIATION",
+      "credits": "3"
+    },
+    {
+      "code": "CHEM 100",
+      "name": "*Intro. to Chemistry",
+      "credits": "4"
+    },
+    {
+      "code": "CHEM 150",
+      "name": "*Intro. Inorg. Chem",
+      "credits": "4"
+    },
+    {
+      "code": "CHEM 160",
+      "name": "*Intro. Org  Biochem",
+      "credits": "4"
+    },
+    {
+      "code": "CHEM 170",
+      "name": "*Inro. Physical Chem",
+      "credits": "4"
+    },
+    {
+      "code": "CHEM 250",
+      "name": "*Chem Main Groups",
+      "credits": "4"
+    },
+    {
+      "code": "CHEM 260",
+      "name": "*Prin. Organic Chem",
+      "credits": "4"
+    },
+    {
+      "code": "CHEM 261",
+      "name": "*Organic Chemistry I",
+      "credits": "4"
+    },
+    {
+      "code": "CHEM 270",
+      "name": "*Thermodyna Equilib",
+      "credits": "4"
+    },
+    {
+      "code": "CHEM 311",
+      "name": "*Fund Analy. Chem",
+      "credits": "4"
+    },
+    {
+      "code": "CHEM 320",
+      "name": "*Industrial Chem",
+      "credits": "4"
+    },
+    {
+      "code": "CHEM 330",
+      "name": "*Biochemistry",
+      "credits": "4"
+    },
+    {
+      "code": "CHEM 331",
+      "name": "Principals Bio Chem",
+      "credits": "3"
+    },
+    {
+      "code": "CHEM 350",
+      "name": "*Coordination Chem",
+      "credits": "4"
+    },
+    {
+      "code": "CHEM 361",
+      "name": "*Organic Chem II",
+      "credits": "4"
+    },
+    {
+      "code": "CHEM 370",
+      "name": "*Kinetic & Mechanism",
+      "credits": "4"
+    },
+    {
+      "code": "CHEM 413",
+      "name": "*Instrument Meth Ana",
+      "credits": "4.00"
+    },
+    {
+      "code": "CHEM 450",
+      "name": "*Adv. Inorganic Chem",
+      "credits": "4"
+    },
+    {
+      "code": "CHEM 464",
+      "name": "*Advanced Org. Chem",
+      "credits": "4.00"
+    },
+    {
+      "code": "CHEM 465",
+      "name": "Nat Prods & Med Chem",
+      "credits": "4"
+    },
+    {
+      "code": "CHEM 470",
+      "name": "Polymer Chemistry",
+      "credits": "3.00"
+    },
+    {
+      "code": "CHEM 471",
+      "name": "Adv. Physical Chem.",
+      "credits": "3"
+    },
+    {
+      "code": "CHEM 473",
+      "name": "*Surf, Sld Stat Chem",
+      "credits": "4"
+    },
+    {
+      "code": "CHEM 499",
+      "name": "Research Project",
+      "credits": "6"
+    },
+    {
+      "code": "CHEM 499A",
+      "name": "Research Project",
+      "credits": "3"
+    },
+    {
+      "code": "CHEM 499B",
+      "name": "Research Project",
+      "credits": "3"
+    },
+    {
+      "code": "CHEM 520",
+      "name": "Thermal Method of A.",
+      "credits": "3"
+    },
+    {
+      "code": "CHEM 524",
+      "name": "IN ELEC SPECTROSCOPY",
+      "credits": "3"
+    },
+    {
+      "code": "CHEM 525",
+      "name": "BIOINORGANIC CHEM",
+      "credits": "3.00"
+    },
+    {
+      "code": "CHEM 526",
+      "name": "ANA. TECHNIQUES",
+      "credits": "3.00"
+    },
+    {
+      "code": "CHEM 542",
+      "name": "Org. Spectroscopy",
+      "credits": "3"
+    },
+    {
+      "code": "CHEM 543",
+      "name": "Name R. Synt. Appl",
+      "credits": "3.00"
+    },
+    {
+      "code": "CHEM 546",
+      "name": "NatProd Techniques",
+      "credits": "3"
+    },
+    {
+      "code": "CHEM 549",
+      "name": "Biomolecules S&F.",
+      "credits": "3"
+    },
+    {
+      "code": "CHEM 562",
+      "name": "Chemistry of Advance",
+      "credits": "3.00"
+    },
+    {
+      "code": "CHEM 563",
+      "name": "Mathematics for Chem",
+      "credits": "3"
+    },
+    {
+      "code": "CHEM 566",
+      "name": "Topics in Phys, Chem",
+      "credits": "3.00"
+    },
+    {
+      "code": "CHEM 696",
+      "name": "Seminar",
+      "credits": "2"
+    },
+    {
+      "code": "CHEM 699A",
+      "name": "Research Thesis",
+      "credits": "7"
+    },
+    {
+      "code": "CHEM 699B",
+      "name": "Research Thesis",
+      "credits": "7"
+    },
+    {
+      "code": "CHEM 699E",
+      "name": "Research Thesis",
+      "credits": "7"
+    },
+    {
+      "code": "CHEM 703",
+      "name": "Quality Assur Res",
+      "credits": "3.00"
+    },
+    {
+      "code": "CHEM 704",
+      "name": "Recent Trends in Che",
+      "credits": "3.00"
+    },
+    {
+      "code": "CHEM 705",
+      "name": "Ch Coord Complex",
+      "credits": "3"
+    },
+    {
+      "code": "CHEM 745",
+      "name": "Medicinal Chemistry",
+      "credits": "3"
+    },
+    {
+      "code": "CHEM 762",
+      "name": "Computational Chem.",
+      "credits": "3.00"
+    },
+    {
+      "code": "CHEM 763",
+      "name": "Electroana Techniq",
+      "credits": "3"
+    },
+    {
+      "code": "CHEM 799A",
+      "name": "Research Thesis",
+      "credits": "6"
+    },
+    {
+      "code": "CHEM 799B",
+      "name": "Research Thesis",
+      "credits": "6"
+    },
+    {
+      "code": "CHEM 799C",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "CHEM 799D",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "CHEM 799E",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "CHEM COMP",
+      "name": "Comprehensive Exam",
+      "credits": "0"
+    },
+    {
+      "code": "CHIN 101",
+      "name": "Chinese I",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 102",
+      "name": "Programming I",
+      "credits": "4"
+    },
+    {
+      "code": "COMP 111",
+      "name": "Programming II",
+      "credits": "4"
+    },
+    {
+      "code": "COMP 113",
+      "name": "Discrete Mathematics",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 200",
+      "name": "Data Struc. & Algor.",
+      "credits": "4"
+    },
+    {
+      "code": "COMP 206",
+      "name": "Digital Logic Design",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 213",
+      "name": "Database Systems",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 220",
+      "name": "Software Engineering",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 295",
+      "name": "Introduction to C/C+",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 300",
+      "name": "Computer Organizatio",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 301",
+      "name": "Operating Systems",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 302",
+      "name": "Theory of Automata",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 303",
+      "name": "D&A of Algorithms",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 311",
+      "name": "Computer Networks",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 360",
+      "name": "Introduction to AI",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 401",
+      "name": "Ethics Comp Professn",
+      "credits": "1"
+    },
+    {
+      "code": "COMP 405",
+      "name": "Human Computer Inter",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 410",
+      "name": "Parallel and Distrib",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 421",
+      "name": "Information Security",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 451",
+      "name": "Compiler Constructio",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 497",
+      "name": "Senior Project",
+      "credits": "6.00"
+    },
+    {
+      "code": "COMP 497A",
+      "name": "Senior Project",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 497B",
+      "name": "Senior Project",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 502",
+      "name": "Advanced Algorithm A",
+      "credits": "3.00"
+    },
+    {
+      "code": "COMP 504",
+      "name": "Adv. Oprtng. Systems",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 552",
+      "name": "Advanced Machine Lea",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 554",
+      "name": "Adv.Nat.Lang.Process",
+      "credits": "3.00"
+    },
+    {
+      "code": "COMP 664",
+      "name": "Info. Retr. & Web Sr",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 699A",
+      "name": "Research thesis",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 699B",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "COMP 699E",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 601",
+      "name": "Intro Public policy",
+      "credits": "3.00"
+    },
+    {
+      "code": "CPPG 602",
+      "name": "Intro Stat,Econ,Acct",
+      "credits": "3.00"
+    },
+    {
+      "code": "CPPG 603",
+      "name": "ICT Concepts & tools",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 604",
+      "name": "RESEARCH METHODS",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 606",
+      "name": "Poli Analy: Poli Des",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 615",
+      "name": "Ppol thranalys",
+      "credits": "3.00"
+    },
+    {
+      "code": "CPPG 616",
+      "name": "Research Methodology",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 617",
+      "name": "Econ & Public Policy",
+      "credits": "3.00"
+    },
+    {
+      "code": "CPPG 618",
+      "name": "S Leadership & Gov.",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 626",
+      "name": "Analyzing and Comm.",
+      "credits": "3.00"
+    },
+    {
+      "code": "CPPG 642",
+      "name": "Water Policy and Gov",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 647",
+      "name": "Migration and Urbani",
+      "credits": "3.00"
+    },
+    {
+      "code": "CPPG 651",
+      "name": "Plsc instit & poilcy",
+      "credits": "3.00"
+    },
+    {
+      "code": "CPPG 656",
+      "name": "Info Econ, Urban Dev",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 677",
+      "name": "Demography and Secur",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 679",
+      "name": "Gender and Populatio",
+      "credits": "3.00"
+    },
+    {
+      "code": "CPPG 699A",
+      "name": "Research",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 699B",
+      "name": "Research",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 699E",
+      "name": "Research",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 701",
+      "name": "PP, Politics & Soci.",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 704",
+      "name": "Pltcl Econ&Pub. Budg",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 799A",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 799B",
+      "name": "Research",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 799C",
+      "name": "Research",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 799D",
+      "name": "Research",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG 799E",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "CPPG COMP",
+      "name": "Comprehensive Exam",
+      "credits": "0"
+    },
+    {
+      "code": "CRIM 201",
+      "name": "Sociological Researc",
+      "credits": "3"
+    },
+    {
+      "code": "CRIM 220",
+      "name": "Intro. to Crimnology",
+      "credits": "3"
+    },
+    {
+      "code": "CRIM 310",
+      "name": "Penology and Prison",
+      "credits": "3"
+    },
+    {
+      "code": "CRIM 460",
+      "name": "Comparative Criminal",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 151",
+      "name": "Intro to Chris. Thou",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 152",
+      "name": "Christian Ethics",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 155",
+      "name": "Interpret the Bible",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 211",
+      "name": "Applied Theology 1",
+      "credits": "1"
+    },
+    {
+      "code": "CRST 212",
+      "name": "Applied Theology 2",
+      "credits": "1"
+    },
+    {
+      "code": "CRST 231",
+      "name": "Biblical Hebrew 1",
+      "credits": "3.00"
+    },
+    {
+      "code": "CRST 232",
+      "name": "Biblical Hebrew 2",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 271",
+      "name": "New Test. Greek 1",
+      "credits": "3.00"
+    },
+    {
+      "code": "CRST 272",
+      "name": "New Test. Greek 2",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 281",
+      "name": "Old Testament 1",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 291",
+      "name": "NT1-The Gospels",
+      "credits": "3.00"
+    },
+    {
+      "code": "CRST 311",
+      "name": "Applied Theology 3",
+      "credits": "1.00"
+    },
+    {
+      "code": "CRST 312",
+      "name": "Applied Theology 4",
+      "credits": "1"
+    },
+    {
+      "code": "CRST 331",
+      "name": "Biblical Hebrew 3",
+      "credits": "3.00"
+    },
+    {
+      "code": "CRST 332",
+      "name": "Biblical Hebrew 4",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 371",
+      "name": "New Greek Test 3",
+      "credits": "3.00"
+    },
+    {
+      "code": "CRST 372",
+      "name": "New Testament Grk 4",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 412",
+      "name": "Applied Theology 6",
+      "credits": "1"
+    },
+    {
+      "code": "CRST 425",
+      "name": "Hebrew Reading",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 439B",
+      "name": "Genesis",
+      "credits": "3.00"
+    },
+    {
+      "code": "CRST 455A",
+      "name": "Greek Reading : 1 Jo",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 471D",
+      "name": "English Bible: James",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 498",
+      "name": "Christian Capstone",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 525B",
+      "name": "Hebr.Read.1&2 Samuel",
+      "credits": "3.00"
+    },
+    {
+      "code": "CRST 525D",
+      "name": "Bibilical:1&2 Kings",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 535A",
+      "name": "Biblical Hebrew Exeg",
+      "credits": "3.00"
+    },
+    {
+      "code": "CRST 535E",
+      "name": "Biblical Heb Exe:Psa",
+      "credits": "3.00"
+    },
+    {
+      "code": "CRST 555A",
+      "name": "NT Greek Read:Acts",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 555C",
+      "name": "NT Greek Read:Mark",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 575C",
+      "name": "Greek Exegesis Roman",
+      "credits": "3.00"
+    },
+    {
+      "code": "CRST 575D",
+      "name": "NTGreekExegesis:John",
+      "credits": "3.00"
+    },
+    {
+      "code": "CRST 585E",
+      "name": "Bibl Theol:Ministry",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 691",
+      "name": "Research Methods",
+      "credits": "3.00"
+    },
+    {
+      "code": "CRST 699A",
+      "name": "Research Dissertatio",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 699B",
+      "name": "Research Dissertatio",
+      "credits": "3"
+    },
+    {
+      "code": "CRST 699E",
+      "name": "Research Dissertatio",
+      "credits": "3"
+    },
+    {
+      "code": "CSCS 100",
+      "name": "Intro  to Computing",
+      "credits": "3"
+    },
+    {
+      "code": "CSCS 105",
+      "name": "*Basic Electronics",
+      "credits": "4"
+    },
+    {
+      "code": "CSCS 201",
+      "name": "Multivariate Calculu",
+      "credits": "3"
+    },
+    {
+      "code": "CSCS 202",
+      "name": "Comp Linear Algeb",
+      "credits": "3"
+    },
+    {
+      "code": "CSCS 203",
+      "name": "Differential Equatio",
+      "credits": "3"
+    },
+    {
+      "code": "CSCS 290",
+      "name": "Intro to JAVA Prog.",
+      "credits": "3.00"
+    },
+    {
+      "code": "CSCS 313",
+      "name": "Software Requir Eng",
+      "credits": "3"
+    },
+    {
+      "code": "CSCS 320",
+      "name": "Numerical Computing",
+      "credits": "3"
+    },
+    {
+      "code": "CSCS 321",
+      "name": "Cyber Security",
+      "credits": "3"
+    },
+    {
+      "code": "CSCS 342",
+      "name": "Web Application Deve",
+      "credits": "3"
+    },
+    {
+      "code": "CSCS 366",
+      "name": "Into.to Nat Language",
+      "credits": "3"
+    },
+    {
+      "code": "CSCS 367",
+      "name": "Blockchain tech.&app",
+      "credits": "3"
+    },
+    {
+      "code": "CSCS 405",
+      "name": "Software Proj. Mgmt.",
+      "credits": "3.00"
+    },
+    {
+      "code": "CSCS 456",
+      "name": "Introduction to deep",
+      "credits": "3"
+    },
+    {
+      "code": "CSCS 457",
+      "name": "Computer Vision",
+      "credits": "3"
+    },
+    {
+      "code": "CSCS 460",
+      "name": "Machine Learning",
+      "credits": "3"
+    },
+    {
+      "code": "CSCS 468",
+      "name": "Mob App Deveolopment",
+      "credits": "3"
+    },
+    {
+      "code": "CSCS 470",
+      "name": "Introduction to Game",
+      "credits": "3"
+    },
+    {
+      "code": "CSCS 475",
+      "name": "Tech Entrepreneur",
+      "credits": "3"
+    },
+    {
+      "code": "CSCS 482",
+      "name": "GenAI Security",
+      "credits": "3"
+    },
+    {
+      "code": "CSDS 503",
+      "name": "Adv. Machine Learnin",
+      "credits": "3"
+    },
+    {
+      "code": "CSDS 552",
+      "name": "Deep Learning",
+      "credits": "3"
+    },
+    {
+      "code": "CSDS 611",
+      "name": "Info. Retr. & Web Sr",
+      "credits": "3"
+    },
+    {
+      "code": "CSDS 699A",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "CSDS 699B",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "CSDS 699E",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "CSSE 520",
+      "name": "Agile soft. developm",
+      "credits": "3.00"
+    },
+    {
+      "code": "CSSE 601",
+      "name": "Software Measurement",
+      "credits": "3.00"
+    },
+    {
+      "code": "CSSE 699A",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "CSSE 699B",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "CSSE 699E",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 100",
+      "name": "Principles of Econom",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 101",
+      "name": "Microeconomics I",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 102",
+      "name": "Macroeconomics I",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 103",
+      "name": "Mathematics for Econ",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 201",
+      "name": "Microeconomics  II",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 202",
+      "name": "Macroeconomics II",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 203",
+      "name": "Statistics for Econ.",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 206",
+      "name": "Banking and Finance",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 210",
+      "name": "Population Economics",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 300",
+      "name": "Fundam. of Econometr",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 302",
+      "name": "Res  Meth. & Com. Ap",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 304",
+      "name": "Managerial Economics",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 315",
+      "name": "Advanced Math Econ",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 320",
+      "name": "Econ.of Invest & Fin",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 322",
+      "name": "Data Analy for Econo",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 323",
+      "name": "Digital Economics",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 325",
+      "name": "Islamic Economics",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 400",
+      "name": "Issues in Pak Econ",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 406",
+      "name": "Intro to Game Theory",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 411",
+      "name": "Development Policy",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 417",
+      "name": "International Financ",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 499A",
+      "name": "Research Prj & Paper",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 499B",
+      "name": "Research Prj & Paper",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 560",
+      "name": "Research Methods",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 600",
+      "name": "Topics Inter Econ",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 620",
+      "name": "ENV-NR ECONOMICS",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 655",
+      "name": "APPLIED ECONOMICS",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 699A",
+      "name": "Research Thesis",
+      "credits": "6"
+    },
+    {
+      "code": "ECON 699B",
+      "name": "Research Thesis",
+      "credits": "6"
+    },
+    {
+      "code": "ECON 699E",
+      "name": "Research Thesis",
+      "credits": "6"
+    },
+    {
+      "code": "ECON 702",
+      "name": "Topics in Macroecono",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 707",
+      "name": "Structural Equation",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 708",
+      "name": "Issues in Developmen",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 728",
+      "name": "Adv.Monetary Economi",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 799A",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 799B",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 799C",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 799D",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "ECON 799E",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 110",
+      "name": "Foundations of Educ.",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 120",
+      "name": "Educ Psychology",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 240",
+      "name": "Technology in Educat",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 300",
+      "name": "Inst. Mthds & Strate",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 315",
+      "name": "Learning Theories",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 340",
+      "name": "Early Childhood Educ",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 350",
+      "name": "Classroom Management",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 355",
+      "name": "Teaching English",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 370",
+      "name": "Teaching Language",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 390",
+      "name": "Teaching Social Stud",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 497",
+      "name": "Practicum I",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 498",
+      "name": "Student Teaching Exp",
+      "credits": "6"
+    },
+    {
+      "code": "EDUC 499",
+      "name": "Senior Research Proj",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 540",
+      "name": "Leadership Theories",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 545",
+      "name": "Organizational Theor",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 640",
+      "name": "Human Resource Manag",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 645",
+      "name": "Creative Approaches",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 699A",
+      "name": "Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 699B",
+      "name": "Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "EDUC 699E",
+      "name": "Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 110",
+      "name": "Contemp Short Story",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 175",
+      "name": "Crit. Think.&Reading",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 201",
+      "name": "Intro to English lit",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 214",
+      "name": "18th Century Novel",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 301",
+      "name": "19th Ctry Engl Novel",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 303",
+      "name": "Science Fiction",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 307",
+      "name": "Classical Drama",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 310",
+      "name": "British Romantic Poe",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 315",
+      "name": "Poetry I",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 323",
+      "name": "Amer. Poetry & dram",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 328",
+      "name": "Trauma Lit.&Theory",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 331",
+      "name": "Research Methods",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 400",
+      "name": "Shakespearean Drama",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 403",
+      "name": "Cont Liter. Criticis",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 430",
+      "name": "Postcolonial Lit. th",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 499",
+      "name": "Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 516",
+      "name": "Minority Literatures",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 517",
+      "name": "African Literature",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 520",
+      "name": "Critical Theory",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 550",
+      "name": "Muslim Women's Voice",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 611",
+      "name": "Dystopian Fiction",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 618",
+      "name": "Aesthetics & Poetry",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 699A",
+      "name": "Thesis and Viva",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 699B",
+      "name": "Thesis and Viva",
+      "credits": "3"
+    },
+    {
+      "code": "ENGL 699E",
+      "name": "Thesis and Viva",
+      "credits": "3"
+    },
+    {
+      "code": "ENVR 151",
+      "name": "Intro to Sources",
+      "credits": "3"
+    },
+    {
+      "code": "ENVR 160",
+      "name": "*Intro. Org  Biochem",
+      "credits": "4"
+    },
+    {
+      "code": "ENVR 201",
+      "name": "*Intro Env Sciences",
+      "credits": "4"
+    },
+    {
+      "code": "ENVR 210",
+      "name": "Earth's Physl Realms",
+      "credits": "3"
+    },
+    {
+      "code": "ENVR 212",
+      "name": "*Res Methds&Stats",
+      "credits": "3"
+    },
+    {
+      "code": "ENVR 250",
+      "name": "Environmental Manage",
+      "credits": "3"
+    },
+    {
+      "code": "ENVR 252",
+      "name": "Environ. Pollution",
+      "credits": "3"
+    },
+    {
+      "code": "ENVR 309",
+      "name": "Intro Env. Modeling",
+      "credits": "3"
+    },
+    {
+      "code": "ENVR 311",
+      "name": "*Fund Analy. Chem",
+      "credits": "4"
+    },
+    {
+      "code": "ENVR 323",
+      "name": "Ecology & Evolution",
+      "credits": "4"
+    },
+    {
+      "code": "ENVR 330",
+      "name": "*Biochemistry",
+      "credits": "4"
+    },
+    {
+      "code": "ENVR 402",
+      "name": "*Solid Waste Manag.",
+      "credits": "3"
+    },
+    {
+      "code": "ENVR 403",
+      "name": "Occu Health & Safety",
+      "credits": "3"
+    },
+    {
+      "code": "ENVR 404",
+      "name": "Air/ Noise Poll. Cnt",
+      "credits": "3"
+    },
+    {
+      "code": "ENVR 405",
+      "name": "*Conservation Biol",
+      "credits": "3"
+    },
+    {
+      "code": "ENVR 413",
+      "name": "*Envr. Toxicology",
+      "credits": "3"
+    },
+    {
+      "code": "ENVR 416",
+      "name": "Wastewater treatment",
+      "credits": "4"
+    },
+    {
+      "code": "ENVR 499B",
+      "name": "Project/Research",
+      "credits": "3"
+    },
+    {
+      "code": "ENVR 511",
+      "name": "Envr.Appl.Nano.Mater",
+      "credits": "3"
+    },
+    {
+      "code": "ENVR 602",
+      "name": "Pol Control Techn",
+      "credits": "3"
+    },
+    {
+      "code": "ENVR 604",
+      "name": "Eco-Entrepreneurship",
+      "credits": "1"
+    },
+    {
+      "code": "ENVR 605",
+      "name": "Research Methods",
+      "credits": "3"
+    },
+    {
+      "code": "ENVR 611",
+      "name": "Carb.Sequestrat&Envr",
+      "credits": "3"
+    },
+    {
+      "code": "ENVR 699A",
+      "name": "Research",
+      "credits": "6"
+    },
+    {
+      "code": "ENVR 699B",
+      "name": "Research",
+      "credits": "6"
+    },
+    {
+      "code": "ENVR 699E",
+      "name": "Research",
+      "credits": "6"
+    },
+    {
+      "code": "FREN 101",
+      "name": "French 1",
+      "credits": "3"
+    },
+    {
+      "code": "FREN 102",
+      "name": "French II",
+      "credits": "3"
+    },
+    {
+      "code": "FSQM 504",
+      "name": "Public Health & Nutr",
+      "credits": "3"
+    },
+    {
+      "code": "FSQM 603",
+      "name": "Consu. Behav. Pref.",
+      "credits": "3"
+    },
+    {
+      "code": "FSQM 606",
+      "name": "Adv. Ana. Tech. f fo",
+      "credits": "3"
+    },
+    {
+      "code": "FSQM 607",
+      "name": "Food laws, Authentic",
+      "credits": "3"
+    },
+    {
+      "code": "FSQM 699A",
+      "name": "Research",
+      "credits": "6"
+    },
+    {
+      "code": "FSQM 699B",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "FSQM 699E",
+      "name": "Research Thesis",
+      "credits": "6"
+    },
+    {
+      "code": "GEOG 101",
+      "name": "Funda of Geography",
+      "credits": "3"
+    },
+    {
+      "code": "GEOG 133",
+      "name": "Geog Prof. of Pak.",
+      "credits": "3"
+    },
+    {
+      "code": "GEOG 202",
+      "name": "Fund. Remote Sensing",
+      "credits": "3"
+    },
+    {
+      "code": "GEOG 210",
+      "name": "Earth's Physl Realms",
+      "credits": "3"
+    },
+    {
+      "code": "GEOG 220",
+      "name": "Hum Doma.of Geograph",
+      "credits": "3"
+    },
+    {
+      "code": "GEOG 221",
+      "name": "Geography of Tourism",
+      "credits": "3"
+    },
+    {
+      "code": "GEOG 270",
+      "name": "Maps & their Interpr",
+      "credits": "3"
+    },
+    {
+      "code": "GEOG 313",
+      "name": "Geodyn and Geomorph",
+      "credits": "3"
+    },
+    {
+      "code": "GEOG 325",
+      "name": "Political Geography",
+      "credits": "3"
+    },
+    {
+      "code": "GEOG 326",
+      "name": "Urban Env. Issues",
+      "credits": "3"
+    },
+    {
+      "code": "GEOG 371",
+      "name": "Digital Cartography",
+      "credits": "3"
+    },
+    {
+      "code": "GEOG 471",
+      "name": "Qual & Quan Techniq",
+      "credits": "4"
+    },
+    {
+      "code": "GEOG 499",
+      "name": "Directed Project",
+      "credits": "3"
+    },
+    {
+      "code": "GRMN 101",
+      "name": "German I",
+      "credits": "3"
+    },
+    {
+      "code": "HIST 101",
+      "name": "Survey of South Asia",
+      "credits": "3"
+    },
+    {
+      "code": "HIST 102",
+      "name": "Survey of Westrn Civ",
+      "credits": "3"
+    },
+    {
+      "code": "HIST 201",
+      "name": "Research Methods",
+      "credits": "3"
+    },
+    {
+      "code": "HIST 202",
+      "name": "Surv of Modern Europ",
+      "credits": "3"
+    },
+    {
+      "code": "HIST 204",
+      "name": "History of the U.S",
+      "credits": "3"
+    },
+    {
+      "code": "HIST 250",
+      "name": "His. salaten-e-delhi",
+      "credits": "3"
+    },
+    {
+      "code": "HIST 255",
+      "name": "The Indus Valley",
+      "credits": "3"
+    },
+    {
+      "code": "HIST 301",
+      "name": "Philoso of History",
+      "credits": "3"
+    },
+    {
+      "code": "HIST 303",
+      "name": "Intl Relations& Dipl",
+      "credits": "3"
+    },
+    {
+      "code": "HIST 305",
+      "name": "Ancnt Hist Sub-Cont",
+      "credits": "3"
+    },
+    {
+      "code": "HIST 306",
+      "name": "Islamic History",
+      "credits": "3"
+    },
+    {
+      "code": "HIST 308",
+      "name": "History of Lahore",
+      "credits": "3"
+    },
+    {
+      "code": "HIST 310",
+      "name": "Inst Issu Pakistan",
+      "credits": "3.00"
+    },
+    {
+      "code": "HIST 311",
+      "name": "India Since Independ",
+      "credits": "3.00"
+    },
+    {
+      "code": "HIST 312",
+      "name": "Modern Muslim World",
+      "credits": "3"
+    },
+    {
+      "code": "HIST 313",
+      "name": "British Rule in Ind.",
+      "credits": "3.00"
+    },
+    {
+      "code": "HIST 315",
+      "name": "Freedom and the Nat",
+      "credits": "3"
+    },
+    {
+      "code": "HIST 320",
+      "name": "Reform & Renaissance",
+      "credits": "3"
+    },
+    {
+      "code": "HIST 400",
+      "name": "Research Methodology",
+      "credits": "3.00"
+    },
+    {
+      "code": "HIST 410",
+      "name": "Colon Punj 1848-1947",
+      "credits": "3"
+    },
+    {
+      "code": "HIST 499",
+      "name": "Independent Research",
+      "credits": "3"
+    },
+    {
+      "code": "HPED 101",
+      "name": "Cricket for Girls",
+      "credits": "1"
+    },
+    {
+      "code": "HPED 105",
+      "name": "Volleyball for Boys",
+      "credits": "1"
+    },
+    {
+      "code": "HPED 106",
+      "name": "Physcl. Exercise Boy",
+      "credits": "1"
+    },
+    {
+      "code": "HPED 107",
+      "name": "Athletics(Boys)",
+      "credits": "1"
+    },
+    {
+      "code": "HPED 111",
+      "name": "Tennis for Boys",
+      "credits": "1"
+    },
+    {
+      "code": "HPED 112",
+      "name": "Handball (Girls)",
+      "credits": "1"
+    },
+    {
+      "code": "HPED 150",
+      "name": "Advanced first Aid",
+      "credits": "4"
+    },
+    {
+      "code": "HPED 151",
+      "name": "Sports Injuries",
+      "credits": "2"
+    },
+    {
+      "code": "ISEP 200",
+      "name": "Int. Stu. Exch. Prog",
+      "credits": "0"
+    },
+    {
+      "code": "ISLM 101",
+      "name": "Islamic Education",
+      "credits": "3"
+    },
+    {
+      "code": "ISLM 103",
+      "name": "Islamic Ideology",
+      "credits": "3"
+    },
+    {
+      "code": "ISLM 104",
+      "name": "Arab. Comm. Skills",
+      "credits": "3"
+    },
+    {
+      "code": "ISLM 201",
+      "name": "Tajweed-Ul-Quran",
+      "credits": "3.00"
+    },
+    {
+      "code": "ISLM 202",
+      "name": "The Qur. Con. Stl.&",
+      "credits": "3.00"
+    },
+    {
+      "code": "ISLM 301",
+      "name": "Hadith Studies",
+      "credits": "3.00"
+    },
+    {
+      "code": "ISLM 304",
+      "name": "Seerat-Un-Nabi",
+      "credits": "3"
+    },
+    {
+      "code": "ISLM 305",
+      "name": "Interfaith Dialogue",
+      "credits": "3"
+    },
+    {
+      "code": "ISLM 401",
+      "name": "Comp. Stud. of Relig",
+      "credits": "3.00"
+    },
+    {
+      "code": "KORN 101",
+      "name": "Korean I",
+      "credits": "3"
+    },
+    {
+      "code": "KORN 102",
+      "name": "Korean II",
+      "credits": "3.00"
+    },
+    {
+      "code": "LING 207",
+      "name": "History of Eng. Lang",
+      "credits": "3"
+    },
+    {
+      "code": "LING 217",
+      "name": "Introduction to Ling",
+      "credits": "3"
+    },
+    {
+      "code": "LING 301",
+      "name": "Phonetics and Phonol",
+      "credits": "3.00"
+    },
+    {
+      "code": "LING 302",
+      "name": "Morphology and Synta",
+      "credits": "3.00"
+    },
+    {
+      "code": "LING 304",
+      "name": "Semantics",
+      "credits": "3"
+    },
+    {
+      "code": "LING 308",
+      "name": "Translation Studies",
+      "credits": "3"
+    },
+    {
+      "code": "LING 319",
+      "name": "Pragmatics",
+      "credits": "3.00"
+    },
+    {
+      "code": "LING 370",
+      "name": "Language,Culture&Ide",
+      "credits": "3"
+    },
+    {
+      "code": "LING 410",
+      "name": "Crit. Discourse Anal",
+      "credits": "3.00"
+    },
+    {
+      "code": "LING 413",
+      "name": "Sociolinguistics",
+      "credits": "3"
+    },
+    {
+      "code": "LING 415",
+      "name": "Forensic Linguistics",
+      "credits": "3.00"
+    },
+    {
+      "code": "LING 495",
+      "name": "Res.Methods in Ling",
+      "credits": "3"
+    },
+    {
+      "code": "LING 499",
+      "name": "Thesis",
+      "credits": "6"
+    },
+    {
+      "code": "MATH 095",
+      "name": "Math Remedial",
+      "credits": "0"
+    },
+    {
+      "code": "MATH 100",
+      "name": "Quantitative Skills",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 101",
+      "name": "Pre-Calc & Trigonom.",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 102",
+      "name": "Calculus 1",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 103",
+      "name": "Intro. Lin. Algebra",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 105",
+      "name": "Prob & Prob. Distrib",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 107",
+      "name": "Statistical Methods",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 111",
+      "name": "Calc & Analy Geom",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 201",
+      "name": "Calculus II",
+      "credits": "3.00"
+    },
+    {
+      "code": "MATH 202",
+      "name": "Ord Diffrn Equations",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 203",
+      "name": "Vector Analysis",
+      "credits": "3.00"
+    },
+    {
+      "code": "MATH 204",
+      "name": "Quantitative Modelli",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 209",
+      "name": "Linear Algebra",
+      "credits": "3.00"
+    },
+    {
+      "code": "MATH 210",
+      "name": "Set Theory",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 212",
+      "name": "Elem. Number Theory",
+      "credits": "3.00"
+    },
+    {
+      "code": "MATH 213",
+      "name": "Scientific Computing",
+      "credits": "3.00"
+    },
+    {
+      "code": "MATH 301",
+      "name": "Multivariable Calcul",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 302",
+      "name": "Mechanics",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 303",
+      "name": "Discrete Mathe... St",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 304",
+      "name": "Operations Research",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 307",
+      "name": "Complex Analysis",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 309",
+      "name": "Real Analysis",
+      "credits": "3.00"
+    },
+    {
+      "code": "MATH 310",
+      "name": "Numerical Analysis",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 311",
+      "name": "Topo &  Metric Space",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 312",
+      "name": "Integral Equations",
+      "credits": "3.00"
+    },
+    {
+      "code": "MATH 313",
+      "name": "Group Theory",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 314",
+      "name": "Distribution Theory",
+      "credits": "3.00"
+    },
+    {
+      "code": "MATH 316",
+      "name": "Methods of Math. Phy",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 404",
+      "name": "Partial Diff Equa",
+      "credits": "3"
+    },
+    {
+      "code": "MATH 410",
+      "name": "Quantum Mechanics 1",
+      "credits": "3.00"
+    },
+    {
+      "code": "MATH 411",
+      "name": "Quantum Mechanics II",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 101",
+      "name": "Intro to Com Studies",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 200",
+      "name": "Copy Writing",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 201",
+      "name": "News Reporting",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 202",
+      "name": "Sub-Editing",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 203",
+      "name": "Media &  Peace Buil.",
+      "credits": "3.00"
+    },
+    {
+      "code": "MCOM 290",
+      "name": "Fundamentals of Rese",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 301",
+      "name": "Media Systems",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 302",
+      "name": "Opinion Writing",
+      "credits": "3.00"
+    },
+    {
+      "code": "MCOM 303",
+      "name": "Public Relations",
+      "credits": "3.00"
+    },
+    {
+      "code": "MCOM 304",
+      "name": "Principles of Advert",
+      "credits": "3.00"
+    },
+    {
+      "code": "MCOM 308",
+      "name": "ONLINE JOURNALISM",
+      "credits": "3.00"
+    },
+    {
+      "code": "MCOM 310",
+      "name": "MCOM Studies",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 400",
+      "name": "Med Mngt. in Ad & PR",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 401",
+      "name": "Radio Broadcasting:",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 402",
+      "name": "TV :A Theore Intro.",
+      "credits": "3.00"
+    },
+    {
+      "code": "MCOM 403",
+      "name": "Intl. Journalism",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 404",
+      "name": "Community Journalism",
+      "credits": "3.00"
+    },
+    {
+      "code": "MCOM 409",
+      "name": "Theories of Mass Com",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 410",
+      "name": "Documentary Making",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 414",
+      "name": "Research Methodology",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 415",
+      "name": "Comm Campaign Design",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 430",
+      "name": "Media Lab",
+      "credits": "4"
+    },
+    {
+      "code": "MCOM 499",
+      "name": "Research Thesis/Proj",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 510",
+      "name": "Researh Methods I",
+      "credits": "3.00"
+    },
+    {
+      "code": "MCOM 512",
+      "name": "Comm.Res.MethodsII",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 515",
+      "name": "Rhetorical Approach",
+      "credits": "3.00"
+    },
+    {
+      "code": "MCOM 517",
+      "name": "M.Debate:Issu.MCOM",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 520",
+      "name": "Mass Comm Theory I",
+      "credits": "3.00"
+    },
+    {
+      "code": "MCOM 522",
+      "name": "Inter. Journalism",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 524",
+      "name": "Gender&Communication",
+      "credits": "3.00"
+    },
+    {
+      "code": "MCOM 525",
+      "name": "MCOM.Theory II",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 526",
+      "name": "Med.&Cul. Change",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 527",
+      "name": "New Media",
+      "credits": "3.00"
+    },
+    {
+      "code": "MCOM 699A",
+      "name": "Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 699B",
+      "name": "Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "MCOM 699E",
+      "name": "Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "MPGN 501",
+      "name": "Advanced Molecular B",
+      "credits": "3.00"
+    },
+    {
+      "code": "MPGN 503",
+      "name": "Basic Pathology",
+      "credits": "3.00"
+    },
+    {
+      "code": "MPGN 504",
+      "name": "Biosafety, Bioethics",
+      "credits": "3.00"
+    },
+    {
+      "code": "MPGN 505",
+      "name": "Genetic Basis of Hum",
+      "credits": "3"
+    },
+    {
+      "code": "MPGN 506",
+      "name": "Research Methodology",
+      "credits": "3.00"
+    },
+    {
+      "code": "MPGN 603",
+      "name": "Cellular Signal Tran",
+      "credits": "3"
+    },
+    {
+      "code": "MPGN 604",
+      "name": "Bioinformatics",
+      "credits": "3"
+    },
+    {
+      "code": "MPGN 613",
+      "name": "Mole. Patho.&Diag.",
+      "credits": "3"
+    },
+    {
+      "code": "MPGN 699A",
+      "name": "Research",
+      "credits": "3"
+    },
+    {
+      "code": "MPGN 699B",
+      "name": "Research",
+      "credits": "6"
+    },
+    {
+      "code": "MPGN 699E",
+      "name": "Research",
+      "credits": "3"
+    },
+    {
+      "code": "MUSC 101",
+      "name": "Musc Pract I - Vocal",
+      "credits": "3"
+    },
+    {
+      "code": "MUSC 250",
+      "name": "Music Appreciation",
+      "credits": "3"
+    },
+    {
+      "code": "PHIL 101",
+      "name": "Intro to Philosophy",
+      "credits": "3"
+    },
+    {
+      "code": "PHIL 201",
+      "name": "Ancient through Medi",
+      "credits": "3"
+    },
+    {
+      "code": "PHIL 202",
+      "name": "Phil: Mod to Contemp",
+      "credits": "3.00"
+    },
+    {
+      "code": "PHIL 221",
+      "name": "Logic How to Think",
+      "credits": "3"
+    },
+    {
+      "code": "PHIL 325",
+      "name": "Phil. of education",
+      "credits": "3.00"
+    },
+    {
+      "code": "PHIL 331",
+      "name": "Thoeries of Ethics",
+      "credits": "3"
+    },
+    {
+      "code": "PHIL 495K",
+      "name": "Existentialism",
+      "credits": "3"
+    },
+    {
+      "code": "PHIL 495P",
+      "name": "Theme:Phil.of Cultur",
+      "credits": "3"
+    },
+    {
+      "code": "PHIL 499",
+      "name": "phil.research&semiar",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 100",
+      "name": "*Intro. to Physics",
+      "credits": "4"
+    },
+    {
+      "code": "PHYS 101",
+      "name": "*General Physics I",
+      "credits": "4"
+    },
+    {
+      "code": "PHYS 102",
+      "name": "*General Physics II",
+      "credits": "4"
+    },
+    {
+      "code": "PHYS 103",
+      "name": "*Mechanics",
+      "credits": "4"
+    },
+    {
+      "code": "PHYS 104",
+      "name": "*Wave and Vibrations",
+      "credits": "4"
+    },
+    {
+      "code": "PHYS 151",
+      "name": "Intro to Sources",
+      "credits": "3.00"
+    },
+    {
+      "code": "PHYS 221",
+      "name": "Elect. & Magnetism",
+      "credits": "4.00"
+    },
+    {
+      "code": "PHYS 222",
+      "name": "*Modern Physics",
+      "credits": "4"
+    },
+    {
+      "code": "PHYS 234",
+      "name": "Heat & Thermodynamic",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 255",
+      "name": "Intro.to Meteorology",
+      "credits": "3.00"
+    },
+    {
+      "code": "PHYS 301",
+      "name": "*Classical Mechanics",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 321",
+      "name": "*Electrodynamics",
+      "credits": "4"
+    },
+    {
+      "code": "PHYS 331",
+      "name": "*Electronics I",
+      "credits": "4.00"
+    },
+    {
+      "code": "PHYS 332",
+      "name": "Electronics II",
+      "credits": "4"
+    },
+    {
+      "code": "PHYS 334",
+      "name": "Statistical Physics",
+      "credits": "3.00"
+    },
+    {
+      "code": "PHYS 341",
+      "name": "Methods of Math. Phy",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 352",
+      "name": "Plasma Physics",
+      "credits": "3.00"
+    },
+    {
+      "code": "PHYS 353",
+      "name": "Intr.Nonlinear Metho",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 422",
+      "name": "Nuclear Physics",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 461",
+      "name": "Quantum Mechanics I",
+      "credits": "3.00"
+    },
+    {
+      "code": "PHYS 462",
+      "name": "Quantum Mechanics II",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 481",
+      "name": "Solid State Phy. I",
+      "credits": "3.00"
+    },
+    {
+      "code": "PHYS 483",
+      "name": "Materials Science",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 499",
+      "name": "Senior Thesis Projec",
+      "credits": "6"
+    },
+    {
+      "code": "PHYS 499A",
+      "name": "Senior Thesis Proj.",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 499B",
+      "name": "Senior Thesis Projec",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 502",
+      "name": "Adv. Quantum Phys",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 503",
+      "name": "Computational Physic",
+      "credits": "3.00"
+    },
+    {
+      "code": "PHYS 504",
+      "name": "A.Condens Matter Phy",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 509",
+      "name": "N-Phys.&N-Tech.",
+      "credits": "3.00"
+    },
+    {
+      "code": "PHYS 510",
+      "name": "Expr. Techniques",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 511",
+      "name": "Plasma Physics I",
+      "credits": "3.00"
+    },
+    {
+      "code": "PHYS 520",
+      "name": "Physics of Materials",
+      "credits": "3.00"
+    },
+    {
+      "code": "PHYS 524",
+      "name": "Non-Linear Physics",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 696",
+      "name": "Seminar",
+      "credits": "2.00"
+    },
+    {
+      "code": "PHYS 696A",
+      "name": "Seminar",
+      "credits": "1"
+    },
+    {
+      "code": "PHYS 696B",
+      "name": "Seminar",
+      "credits": "1"
+    },
+    {
+      "code": "PHYS 699A",
+      "name": "Research Project",
+      "credits": "7"
+    },
+    {
+      "code": "PHYS 699B",
+      "name": "Research Project",
+      "credits": "7"
+    },
+    {
+      "code": "PHYS 699E",
+      "name": "Research Project",
+      "credits": "7"
+    },
+    {
+      "code": "PHYS 701",
+      "name": "Adv. Nonlinear Phys",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 702",
+      "name": "Instabilities Qus Th",
+      "credits": "3.00"
+    },
+    {
+      "code": "PHYS 709",
+      "name": "Magnetic materials",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 710",
+      "name": "Biomaterials",
+      "credits": "3.00"
+    },
+    {
+      "code": "PHYS 712",
+      "name": "Mechanics of Materia",
+      "credits": "3.00"
+    },
+    {
+      "code": "PHYS 713",
+      "name": "Adv. Comp. Materials",
+      "credits": "3.00"
+    },
+    {
+      "code": "PHYS 715",
+      "name": "Adv.Spc.Plasma Physi",
+      "credits": "3.00"
+    },
+    {
+      "code": "PHYS 717",
+      "name": "Adv.Fluid Dynamics",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 799A",
+      "name": "Research",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 799B",
+      "name": "Research",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 799C",
+      "name": "PhD Thesis Project",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 799D",
+      "name": "Research",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS 799E",
+      "name": "Research",
+      "credits": "3"
+    },
+    {
+      "code": "PHYS COMP",
+      "name": "Comprehensive Exam",
+      "credits": "0"
+    },
+    {
+      "code": "PKST 101",
+      "name": "Pakistan Studies",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 101",
+      "name": "Intro to Pol Science",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 102",
+      "name": "Pakistan Government",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 202",
+      "name": "Gov. of Dev. Countri",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 203",
+      "name": "International Relati",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 204",
+      "name": "Pak. Gov.-Prv./local",
+      "credits": "3.00"
+    },
+    {
+      "code": "PLSC 212",
+      "name": "Theor Comp. Politic",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 301",
+      "name": "Ancnt, Mdvl, Poli Th",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 302",
+      "name": "Modern Political The",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 303",
+      "name": "Contemp Poli Theory",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 304",
+      "name": "Research Methodology",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 305",
+      "name": "Islamic Poli Thuoght",
+      "credits": "3.00"
+    },
+    {
+      "code": "PLSC 310",
+      "name": "Politics Middle East",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 311",
+      "name": "Politics Devlp. Area",
+      "credits": "3.00"
+    },
+    {
+      "code": "PLSC 321",
+      "name": "Pakistan Foreign Pol",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 322",
+      "name": "International law",
+      "credits": "3.00"
+    },
+    {
+      "code": "PLSC 323",
+      "name": "Intrntl Organization",
+      "credits": "3.00"
+    },
+    {
+      "code": "PLSC 330",
+      "name": "Const. Law Pakistan",
+      "credits": "3.00"
+    },
+    {
+      "code": "PLSC 331",
+      "name": "Const Law I - U.S.",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 335",
+      "name": "Public Opinion",
+      "credits": "3.00"
+    },
+    {
+      "code": "PLSC 336",
+      "name": "Public Administratio",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 337",
+      "name": "Gender, War&Security",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 338",
+      "name": "Political Marketing",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 339",
+      "name": "Gender and Politics",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 340",
+      "name": "Pol. Afg.&Iran.",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 400",
+      "name": "Current Political Pr",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 401",
+      "name": "International Politi",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 402",
+      "name": "Islam & Modernity",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 403",
+      "name": "Sem Majr Poli Scienc",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 499",
+      "name": "Thesis",
+      "credits": "6.00"
+    },
+    {
+      "code": "PLSC 502",
+      "name": "Comparative Politics",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 504",
+      "name": "Political Thought",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 506",
+      "name": "Theories of IR",
+      "credits": "3.00"
+    },
+    {
+      "code": "PLSC 508",
+      "name": "Foreign Policy Analy",
+      "credits": "3.00"
+    },
+    {
+      "code": "PLSC 513",
+      "name": "Ad.Stud.Intl.Relatio",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 514",
+      "name": "International Organ",
+      "credits": "3.00"
+    },
+    {
+      "code": "PLSC 517",
+      "name": "Plsc Strat. Dynam SA",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 519",
+      "name": "Local Govt. Sys Pak.",
+      "credits": "3"
+    },
+    {
+      "code": "PLSC 520",
+      "name": "Adv. Stud. in Poli",
+      "credits": "3.00"
+    },
+    {
+      "code": "PLSC 523",
+      "name": "Reserc. Techniqs",
+      "credits": "3.00"
+    },
+    {
+      "code": "PLSC 699A",
+      "name": "Research Thesis",
+      "credits": "6"
+    },
+    {
+      "code": "PLSC 699B",
+      "name": "Research Thesis",
+      "credits": "6"
+    },
+    {
+      "code": "PLSC 699E",
+      "name": "Research Thesis",
+      "credits": "6"
+    },
+    {
+      "code": "PSYC 100",
+      "name": "Intro to Psychology",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 101",
+      "name": "Life Skills",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 105",
+      "name": "Eff. Communication",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 140",
+      "name": "Psychology of leader",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 150",
+      "name": "Dev. Psychology - 1",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 160",
+      "name": "Emotional Intelligen",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 165",
+      "name": "AI in psychology",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 175",
+      "name": "Educational Psyc.",
+      "credits": "3.00"
+    },
+    {
+      "code": "PSYC 180",
+      "name": "Psyc of Art & Aesthe",
+      "credits": "3.00"
+    },
+    {
+      "code": "PSYC 220",
+      "name": "Stat. for Psychology",
+      "credits": "4"
+    },
+    {
+      "code": "PSYC 225",
+      "name": "Ethics in Psychology",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 240",
+      "name": "Theories Personality",
+      "credits": "3.00"
+    },
+    {
+      "code": "PSYC 275",
+      "name": "Psyc of Peace & conf",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 280",
+      "name": "Social Psychology",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 285",
+      "name": "Spiritual Psychology",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 290",
+      "name": "Consumer Psychology",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 295",
+      "name": "Media Psychology",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 298",
+      "name": "His. & Sys.of  Psych",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 300",
+      "name": "Positive Psychology",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 301",
+      "name": "Industrial Org Psyc",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 305",
+      "name": "Res  Meth in Psyc I",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 310",
+      "name": "School Psychology",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 315",
+      "name": "Cognitive Psyc Lab",
+      "credits": "4.00"
+    },
+    {
+      "code": "PSYC 320",
+      "name": "Cross-Cultural Psych",
+      "credits": "3.00"
+    },
+    {
+      "code": "PSYC 330",
+      "name": "Environmental Psych.",
+      "credits": "3.00"
+    },
+    {
+      "code": "PSYC 340",
+      "name": "Abnormal Psychology",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 350",
+      "name": "Biopsychology",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 354",
+      "name": "Cognitive Psychology",
+      "credits": "4"
+    },
+    {
+      "code": "PSYC 360",
+      "name": "Psych Testing & Mea",
+      "credits": "4"
+    },
+    {
+      "code": "PSYC 370",
+      "name": "Geriatric Psychology",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 375",
+      "name": "Psychology for Gendr",
+      "credits": "3.00"
+    },
+    {
+      "code": "PSYC 380",
+      "name": "Liberation Psycholog",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 385",
+      "name": "Forensic Psychology",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 395",
+      "name": "Correctional Psyc",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 415",
+      "name": "Res Meth in Psyc II",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 425",
+      "name": "Sports Psychology",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 430",
+      "name": "Health Psychology",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 440",
+      "name": "Counseling Psycholog",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 465",
+      "name": "Clinical Psyc",
+      "credits": "4"
+    },
+    {
+      "code": "PSYC 470",
+      "name": "Community Psychology",
+      "credits": "3.00"
+    },
+    {
+      "code": "PSYC 490",
+      "name": "Research Project",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 499A",
+      "name": "Senior Thesis",
+      "credits": "3.00"
+    },
+    {
+      "code": "PSYC 499B",
+      "name": "Senior Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 501",
+      "name": "Child Psyc.",
+      "credits": "3.00"
+    },
+    {
+      "code": "PSYC 502",
+      "name": "Adult Psyc.",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 503",
+      "name": "Pers. & Prof. Study",
+      "credits": "0"
+    },
+    {
+      "code": "PSYC 504",
+      "name": "Self-Guided Study",
+      "credits": "0"
+    },
+    {
+      "code": "PSYC 505",
+      "name": "Tutorial Study",
+      "credits": "0"
+    },
+    {
+      "code": "PSYC 510",
+      "name": "Psyc. Asses. Child.",
+      "credits": "3.00"
+    },
+    {
+      "code": "PSYC 511",
+      "name": "Psyc. Asses. Adults",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 512",
+      "name": "Psychological assess",
+      "credits": "0"
+    },
+    {
+      "code": "PSYC 513",
+      "name": "Student Seminar",
+      "credits": "0"
+    },
+    {
+      "code": "PSYC 520",
+      "name": "Therptic. Interven.1",
+      "credits": "3.00"
+    },
+    {
+      "code": "PSYC 521",
+      "name": "Therptic. Interven.2",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 530",
+      "name": "Legal&Ethical Issues",
+      "credits": "3.00"
+    },
+    {
+      "code": "PSYC 540",
+      "name": "Statistics",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 541",
+      "name": "Research Methods",
+      "credits": "3.00"
+    },
+    {
+      "code": "PSYC 550",
+      "name": "Biol. Basis of Behav",
+      "credits": "3.00"
+    },
+    {
+      "code": "PSYC 580",
+      "name": "Case Conferences",
+      "credits": "1"
+    },
+    {
+      "code": "PSYC 620",
+      "name": "Workshop 1",
+      "credits": "1"
+    },
+    {
+      "code": "PSYC 630",
+      "name": "Community Wellness",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 635",
+      "name": "Psyc. & Medic. Rehab",
+      "credits": "3"
+    },
+    {
+      "code": "PSYC 670",
+      "name": "Placements I (Child)",
+      "credits": "0"
+    },
+    {
+      "code": "PSYC 671",
+      "name": "Placement II (Adult)",
+      "credits": "0"
+    },
+    {
+      "code": "PSYC 672",
+      "name": "Placement III",
+      "credits": "0"
+    },
+    {
+      "code": "PSYC 680",
+      "name": "Case Conferences II",
+      "credits": "1.00"
+    },
+    {
+      "code": "PSYC 699A",
+      "name": "Thesis I",
+      "credits": "3.00"
+    },
+    {
+      "code": "PSYC 699B",
+      "name": "Thesis II",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 100",
+      "name": "Intro to Sociology",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 101",
+      "name": "Intro. Social Work",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 110",
+      "name": "Int. to Demography",
+      "credits": "3.00"
+    },
+    {
+      "code": "SOCL 201",
+      "name": "Soc. Research",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 220",
+      "name": "Intr. to Criminology",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 223",
+      "name": "Sociocultural Anthro",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 270",
+      "name": "Socl. of Inequality",
+      "credits": "3.00"
+    },
+    {
+      "code": "SOCL 301",
+      "name": "Theol Pers. in Socl.",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 325",
+      "name": "Sociology of Gender",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 335",
+      "name": "Demography & Public",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 350",
+      "name": "Sociology of Develop",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 390",
+      "name": "Cities & Urban Lives",
+      "credits": "3.00"
+    },
+    {
+      "code": "SOCL 435",
+      "name": "Social Policy& Aging",
+      "credits": "3.00"
+    },
+    {
+      "code": "SOCL 445",
+      "name": "Sociology of South A",
+      "credits": "3.00"
+    },
+    {
+      "code": "SOCL 450",
+      "name": "Health & Health Sys.",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 494",
+      "name": "Research Proposal",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 499",
+      "name": "Senior Project",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 501",
+      "name": "Quantitative Researc",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 502",
+      "name": "Qualitative Research",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 503",
+      "name": "Classical and Modern",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 504",
+      "name": "Sociology of Develop",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 699A",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 699B",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "SOCL 699E",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "SPAN 101",
+      "name": "Spanish I",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 100",
+      "name": "Basic Statistics",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 101",
+      "name": "Statistical Methods",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 102",
+      "name": "Prob & Prob. Distrib",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 103",
+      "name": "Quan Meth. in Scl.Sc",
+      "credits": "3.00"
+    },
+    {
+      "code": "STAT 115",
+      "name": "Probability & Stat.",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 201",
+      "name": "Statis Inference I",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 206",
+      "name": "Intro to Data Analyt",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 207",
+      "name": "Business Analytics",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 208",
+      "name": "Survey Methodologies",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 212",
+      "name": "Res. Meth. & Statis",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 301",
+      "name": "Sampling Tech. I",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 302",
+      "name": "Exp. Design i",
+      "credits": "3.00"
+    },
+    {
+      "code": "STAT 303",
+      "name": "Modeling for Discove",
+      "credits": "3.00"
+    },
+    {
+      "code": "STAT 304",
+      "name": "Distribution Theory",
+      "credits": "3.00"
+    },
+    {
+      "code": "STAT 313",
+      "name": "Operation Research",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 315",
+      "name": "Stat Pkg & Data Anal",
+      "credits": "3.00"
+    },
+    {
+      "code": "STAT 317",
+      "name": "Data Visualization R",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 403",
+      "name": "Point Estimation",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 405",
+      "name": "Predictive Analytics",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 414",
+      "name": "Statistical Learning",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 501",
+      "name": "Probability Theory",
+      "credits": "3.00"
+    },
+    {
+      "code": "STAT 503",
+      "name": "Regression Analysis",
+      "credits": "3.00"
+    },
+    {
+      "code": "STAT 506",
+      "name": "Tim.Seri.Analy&Forca",
+      "credits": "3.00"
+    },
+    {
+      "code": "STAT 507",
+      "name": "Advanced Data Analys",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 508",
+      "name": "Advanced Survey Samp",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 509",
+      "name": "Survival Analysis",
+      "credits": "3"
+    },
+    {
+      "code": "STAT 516",
+      "name": "Stat. Qual. Control",
+      "credits": "3.00"
+    },
+    {
+      "code": "STAT 699A",
+      "name": "Research Thesis",
+      "credits": "6"
+    },
+    {
+      "code": "STAT 699B",
+      "name": "Research Thesis",
+      "credits": "6"
+    },
+    {
+      "code": "STAT 699E",
+      "name": "Research Thesis",
+      "credits": "6"
+    },
+    {
+      "code": "UNIV 100",
+      "name": "FOUND  UNIV EDUC",
+      "credits": "3"
+    },
+    {
+      "code": "URDU 101",
+      "name": "Communicative Urdu",
+      "credits": "3"
+    },
+    {
+      "code": "URDU 104",
+      "name": "Sel Rep Urdu Prose",
+      "credits": "3"
+    },
+    {
+      "code": "URDU 204",
+      "name": "Urdu Grammar and Lit",
+      "credits": "3.00"
+    },
+    {
+      "code": "URDU 206",
+      "name": "Pakistani Prose",
+      "credits": "3.00"
+    },
+    {
+      "code": "URDU 208",
+      "name": "Script Wr in Urdu",
+      "credits": "3"
+    },
+    {
+      "code": "URDU 301",
+      "name": "Modern Urdu Poetry",
+      "credits": "3"
+    },
+    {
+      "code": "URDU 302",
+      "name": "Criticism",
+      "credits": "3.00"
+    },
+    {
+      "code": "URDU 303",
+      "name": "Intro Selectd Genres",
+      "credits": "3"
+    },
+    {
+      "code": "URDU 304",
+      "name": "Biograph.Lit.in urdu",
+      "credits": "3.00"
+    },
+    {
+      "code": "URDU 402",
+      "name": "Study of Urdu Drama",
+      "credits": "3"
+    },
+    {
+      "code": "URDU 499",
+      "name": "Practical Research",
+      "credits": "3.00"
+    },
+    {
+      "code": "URDU 501",
+      "name": "Pri. & App. of Res.",
+      "credits": "3"
+    },
+    {
+      "code": "URDU 502",
+      "name": "Pri. & App. of Crit.",
+      "credits": "3"
+    },
+    {
+      "code": "URDU 503",
+      "name": "Tran: Theo. & Prac.",
+      "credits": "3"
+    },
+    {
+      "code": "URDU 504",
+      "name": "Lit. of the Minor.",
+      "credits": "3.00"
+    },
+    {
+      "code": "URDU 505",
+      "name": "Principles and Appli",
+      "credits": "3.00"
+    },
+    {
+      "code": "URDU 506",
+      "name": "Research Seminar",
+      "credits": "3.00"
+    },
+    {
+      "code": "URDU 507",
+      "name": "Art of Creative Writ",
+      "credits": "3"
+    },
+    {
+      "code": "URDU 517",
+      "name": "Urdu Novel",
+      "credits": "3"
+    },
+    {
+      "code": "URDU 518",
+      "name": "Urdu Short Stories",
+      "credits": "3"
+    },
+    {
+      "code": "URDU 519",
+      "name": "Teach. of Urdu Lang",
+      "credits": "3"
+    },
+    {
+      "code": "URDU 699A",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "URDU 699B",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "URDU 699E",
+      "name": "Research Thesis",
+      "credits": "3"
+    },
+    {
+      "code": "WRCM 101",
+      "name": "Writing&Communica. I",
+      "credits": "3"
+    },
+    {
+      "code": "WRCM 102",
+      "name": "Writing&Communic. II",
+      "credits": "3"
+    }
+  ]
+}
