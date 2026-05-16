@@ -6,12 +6,19 @@ from pywebpush import webpush , WebPushException
 # ---------- CONFIG ----------
 
 # Initialize Supabase client
+
+
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
+# Replace with the student's roll number you want to test
 
 # VAPID claims required for web push protocol
 VAPID_CLAIMS = {
     "sub": "mailto:ahmadsiddique.webdev@gmail.com"
 }
+SUPABASE_URL =
+SUPABASE_KEY = 
+VAPID_PRIVATE_KEY = 
+ROLL_NUMBER =  # Replace with the student's roll number you want to test
 
 
 # ---------- GET USER'S NOTIFICATION IDs ----------
