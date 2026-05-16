@@ -183,8 +183,6 @@ def build_instructor_course_data():
     course_file = os.path.join(DATA_DIR, f"{term_code}_courses.json")
     output_file = os.path.join(DATA_DIR, f"{term_code}_instructors.json")
 
-    print(f"\n→ Loading course file: {course_file}")
-
     # ================= LOAD COURSES =================
     with open(course_file, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -195,8 +193,6 @@ def build_instructor_course_data():
     instructors = {}
 
     if os.path.exists(output_file):
-        print("→ Loading existing instructor data...")
-
         with open(output_file, "r", encoding="utf-8") as f:
             old_data = json.load(f)
 
@@ -265,7 +261,7 @@ def build_instructor_course_data():
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(instructor_list, f, indent=2, ensure_ascii=False)
 
-    print(f"✓ Instructor data UPDATED → {output_file}")
+    print(f"✓ Instructors updated")
 
     return instructor_list
 def track_course_changes(new_courses, term_code):
@@ -327,7 +323,7 @@ def track_course_changes(new_courses, term_code):
 
     # ================= NO CHANGES =================
     if not changes:
-        print("\n\n\n  ✓ No new sections or instructor changes found \n\n\n  ")
+        print("✓ No new sections/instructor changes")
         return
 
     # ================= LOAD EXISTING CHANGE HISTORY =================
@@ -349,7 +345,7 @@ def track_course_changes(new_courses, term_code):
     with open(changes_file, "w", encoding="utf-8") as f:
         json.dump(history, f, indent=2, ensure_ascii=False)
 
-    print(f"\n\n\n ✓ {len(changes)} changes appended → latestterm_changes.json \n\n\n  ") 
+    print(f"✓ {len(changes)} changes logged") 
 # ================= PARSER =================
 def parse_courses_from_html(html):
     soup = BeautifulSoup(html, "html.parser")

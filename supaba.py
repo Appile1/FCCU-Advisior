@@ -98,9 +98,9 @@ def send_email(to_email, subject, body):
         server.login(FROM_EMAIL, SENDGRID_API_KEY)
         server.sendmail(FROM_EMAIL, to_email, msg.as_string())
         server.quit()
-        print(f"✅ Email sent to {to_email}")
+        print(f"✅ Email sent ({to_email})")
     except Exception as e:
-        print(f"❌ Failed to send email to {to_email} | Error: {e}")
+        print(f"❌ Email failed ({to_email})")
 
 
 # ---------------- NOTIFICATIONS ----------------
@@ -131,7 +131,6 @@ def send_course_notifications(roll_number, course, unique):
         )
         data = res.data
     except Exception as e:
-        print(f"❌ Failed to fetch user {roll_number}: {e}")
         data = None
 
     notification_ids = []
@@ -190,20 +189,19 @@ def send_course_notifications(roll_number, course, unique):
             if success or not needs_cleanup:
                 valid_subs.append(sub)
 
-    print(f"✅ Push Notifications sent: {push_sent_count} to {roll_number}")
+    print(f"✅ Pushes sent: {push_sent_count} ({roll_number})")
 
     if needs_cleanup and len(valid_subs) < len(notification_ids):
         try:
             supabase.table("users").update({"Notification_IDs": valid_subs}).eq("roll_number", roll_number).execute()
-            print(f"🧹 Cleaned up expired/invalid notification IDs for {roll_number}. Kept {len(valid_subs)} valid.")
+            print(f"🧹 IDs cleaned ({roll_number})")
         except Exception as e:
-            print(f"❌ Failed to update notification IDs for {roll_number}: {e}")
+            print(f"❌ Cleanup failed ({roll_number})")
 
 def process_new_section_notifications():
     from dateutil.parser import parse as parse_date
     import datetime
     
-    print("→ Processing new section notifications...")
     response = (
         supabase
         .table("new_section_notifications")
@@ -212,15 +210,10 @@ def process_new_section_notifications():
         .execute()
     )
     pending_notifs = response.data or []
-    
-    if not pending_notifs:
-        print("✓ No pending new section notifications")
-        return
+    if not pending_notifs: return
 
     changes_path = os.path.join(COURSE_DATA_DIR, "latestterm_changes.json")
-    if not os.path.exists(changes_path):
-        print("⚠ No changes history found")
-        return
+    if not os.path.exists(changes_path): return
 
     with open(changes_path, "r", encoding="utf-8") as f:
         try:
@@ -229,9 +222,7 @@ def process_new_section_notifications():
             changes = []
 
     new_section_changes = [c for c in changes if c.get("type") == "NEW_SECTION"]
-    if not new_section_changes:
-        print("✓ No new sections in history")
-        return
+    if not new_section_changes: return
 
     for notif in pending_notifs:
         notif_id = notif.get("id")
@@ -343,7 +334,7 @@ def process_new_section_notifications():
                     if success or not needs_cleanup:
                         valid_subs.append(sub)
 
-            print(f"✅ Push Notifications for New Section sent: {push_sent_count} to {roll_number}")
+            print(f"✅ New Section Pushes sent: {push_sent_count} ({roll_number})")
 
             if needs_cleanup and len(valid_subs) < len(notification_ids):
                 try:
@@ -357,13 +348,9 @@ def process_new_section_notifications():
 # ---------------- MAIN LOGIC ----------------
 def main():
     term_code = get_latest_term_code()
-    print(f"✓ Latest term code: {term_code}")
-
     courses_by_unique = load_courses_for_term(term_code)
-    print(f"✓ Loaded {len(courses_by_unique)} courses")
-
     notifications = get_pending_notifications()
-    print(f"✓ Pending notifications: {len(notifications)}")
+    print(f"✓ Term: {term_code} | Courses: {len(courses_by_unique)} | Pending Alerts: {len(notifications)}")
 
     for notif in notifications:
         notif_id = notif.get("id")
