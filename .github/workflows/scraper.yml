@@ -1,8 +1,9 @@
 name: Course Scraper
 
 on:
-  workflow_dispatch:         # manual trigger
-
+  workflow_dispatch: # manual trigger
+  schedule:
+    - cron: "19,49 * * * *"
 # ✅ IMPORTANT: allow github-actions to push
 permissions:
   contents: write
