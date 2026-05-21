@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for GEOG 323 (A): K Shafiqu → K Shakrul",
+    "course_code": "GEOG 323",
+    "section": "A",
+    "instructor": "K Shakrul",
+    "timestamp": "2026-05-21T14:56:09.676271"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for UNIV 100 (A): S Sumbal → S Jelani",
+    "course_code": "UNIV 100",
+    "section": "A",
+    "instructor": "S Jelani",
+    "timestamp": "2026-05-21T14:56:09.676395"
+  }
+]

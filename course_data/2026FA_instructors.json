@@ -4448,8 +4448,8 @@
         "course_code": "HIST 400",
         "section": "A",
         "course_name": "Research Methodology",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE105",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
         "unique": "HIST 400/A"
       }
     ],
@@ -4781,7 +4781,7 @@
         "section": "M",
         "course_name": "Fehm-e-Quran I",
         "schedule": "W | 15:00 - 15:50",
-        "classroom": "EBLOCKE038",
+        "classroom": "EBLOCKE137",
         "unique": "ISLM 100A/M"
       },
       {
@@ -4789,7 +4789,7 @@
         "section": "N",
         "course_name": "Fehm-e-Quran I",
         "schedule": "W | 15:00 - 15:50",
-        "classroom": "EBLOCKE038",
+        "classroom": "EBLOCKE137",
         "unique": "ISLM 100A/N"
       },
       {
@@ -4812,8 +4812,8 @@
         "course_code": "ISLM 306",
         "section": "A",
         "course_name": "Religion and Science",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE038",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE137",
         "unique": "ISLM 306/A"
       }
     ],
@@ -7324,7 +7324,7 @@
         "section": "A",
         "course_name": "Eff. Communication",
         "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS111",
+        "classroom": "EBLOCKE038",
         "unique": "PSYC 105/A"
       },
       {
@@ -8889,7 +8889,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "A",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "M | 14:00 - 16:00",
+        "classroom": "EBLOCKE228",
+        "unique": "UNIV 100/A"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -12831,6 +12840,14 @@
         "unique": "GEOG 101/C"
       },
       {
+        "course_code": "GEOG 323",
+        "section": "A",
+        "course_name": "Population Geography",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE105",
+        "unique": "GEOG 323/A"
+      },
+      {
         "course_code": "GEOG 499",
         "section": "A",
         "course_name": "Directed Project",
@@ -12852,6 +12869,7 @@
       "GEOG 133",
       "GEOG 220",
       "GEOG 313",
+      "GEOG 323",
       "GEOG 499"
     ]
   },
@@ -12884,14 +12902,6 @@
         "schedule": "M W F | 12:00 - 12:50",
         "classroom": "EBLOCKE242",
         "unique": "GEOG 240/A"
-      },
-      {
-        "course_code": "GEOG 323",
-        "section": "A",
-        "course_name": "Population Geography",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "EBLOCKE228",
-        "unique": "GEOG 323/A"
       }
     ],
     "all_courses": [
@@ -13135,7 +13145,7 @@
         "section": "B",
         "course_name": "Advanced first Aid",
         "schedule": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
-        "classroom": "EBLOCKE102 | EBLOCKE137",
+        "classroom": "EBLOCKE102 | EBLOCKE038",
         "unique": "HPED 150/B"
       },
       {
@@ -14337,7 +14347,7 @@
         "section": "T",
         "course_name": "Fehm-e-Quran I",
         "schedule": "W | 16:00 - 16:50",
-        "classroom": "EBLOCKE038",
+        "classroom": "EBLOCKE137",
         "unique": "ISLM 100A/T"
       },
       {
@@ -14345,7 +14355,7 @@
         "section": "U",
         "course_name": "Fehm-e-Quran I",
         "schedule": "W | 16:00 - 16:50",
-        "classroom": "EBLOCKE038",
+        "classroom": "EBLOCKE137",
         "unique": "ISLM 100A/U"
       },
       {
@@ -14353,7 +14363,7 @@
         "section": "V",
         "course_name": "Fehm-e-Quran I",
         "schedule": "W | 16:00 - 16:50",
-        "classroom": "EBLOCKE038",
+        "classroom": "EBLOCKE137",
         "unique": "ISLM 100A/V"
       },
       {
@@ -14837,16 +14847,7 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [
-      {
-        "course_code": "UNIV 100",
-        "section": "A",
-        "course_name": "FOUND  UNIV EDUC",
-        "schedule": "M | 14:00 - 16:00",
-        "classroom": "EBLOCKE228",
-        "unique": "UNIV 100/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "UNIV 100"
     ]
