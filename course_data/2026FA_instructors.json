@@ -2892,6 +2892,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "COMP 102",
+        "section": "B",
+        "course_name": "Programming Fundamen",
+        "schedule": "T R | 11:00 - 12:15 | W | 14:00 - 16:50",
+        "classroom": "SBLOCKS218 | SBLOCKS219",
+        "unique": "COMP 102/B"
+      },
+      {
         "course_code": "COMP 200",
         "section": "A",
         "course_name": "Data Struc. & Algor.",
@@ -2901,6 +2909,7 @@
       }
     ],
     "all_courses": [
+      "COMP 102",
       "COMP 111",
       "COMP 200"
     ]
@@ -3940,12 +3949,12 @@
     ],
     "current_courses": [
       {
-        "course_code": "CSCS 101",
-        "section": "A",
-        "course_name": "Adv. Appl of ICT",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS219",
-        "unique": "CSCS 101/A"
+        "course_code": "CSCS 100",
+        "section": "G",
+        "course_name": "Applications of ICT",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS319",
+        "unique": "CSCS 100/G"
       }
     ],
     "all_courses": [
@@ -4270,6 +4279,14 @@
         "schedule": "M W F | 12:00 - 12:50",
         "classroom": "SBLOCKS218",
         "unique": "CSCS 100/H"
+      },
+      {
+        "course_code": "CSCS 366",
+        "section": "A",
+        "course_name": "Into.to Nat Language",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS316",
+        "unique": "CSCS 366/A"
       },
       {
         "course_code": "CSCS 456",
@@ -10677,22 +10694,6 @@
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "SBLOCKS219",
         "unique": "CSCS 100/C"
-      },
-      {
-        "course_code": "CSCS 100",
-        "section": "G",
-        "course_name": "Applications of ICT",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "SBLOCKS319",
-        "unique": "CSCS 100/G"
-      },
-      {
-        "course_code": "CSCS 366",
-        "section": "A",
-        "course_name": "Into.to Nat Language",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS316",
-        "unique": "CSCS 366/A"
       }
     ],
     "all_courses": [
@@ -12843,8 +12844,8 @@
         "course_code": "GEOG 323",
         "section": "A",
         "course_name": "Population Geography",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "EBLOCKE105",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE242",
         "unique": "GEOG 323/A"
       },
       {
@@ -12891,8 +12892,8 @@
         "course_code": "GEOG 210",
         "section": "A",
         "course_name": "Earth's Physl Realms",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE242",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE228",
         "unique": "GEOG 210/A"
       },
       {
@@ -15059,6 +15060,25 @@
     ],
     "all_courses": [
       "UNIV 100"
+    ]
+  },
+  {
+    "name": "M Chaudhry",
+    "departments": [
+      "CSCS"
+    ],
+    "current_courses": [
+      {
+        "course_code": "CSCS 101",
+        "section": "A",
+        "course_name": "Adv. Appl of ICT",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS219",
+        "unique": "CSCS 101/A"
+      }
+    ],
+    "all_courses": [
+      "CSCS 101"
     ]
   }
 ]

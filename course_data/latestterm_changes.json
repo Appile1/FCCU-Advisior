@@ -14,5 +14,37 @@
     "section": "A",
     "instructor": "S Jelani",
     "timestamp": "2026-05-21T14:56:09.676395"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: COMP 102 (B) - N Ashraf",
+    "course_code": "COMP 102",
+    "section": "B",
+    "instructor": "N Ashraf",
+    "timestamp": "2026-05-22T08:03:40.705696"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 100 (G): TBD → N Sabahat",
+    "course_code": "CSCS 100",
+    "section": "G",
+    "instructor": "N Sabahat",
+    "timestamp": "2026-05-22T08:03:40.705734"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 101 (A): N Sabahat → M Chaudhry",
+    "course_code": "CSCS 101",
+    "section": "A",
+    "instructor": "M Chaudhry",
+    "timestamp": "2026-05-22T08:03:40.705740"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 366 (A): TBD → F Ullah",
+    "course_code": "CSCS 366",
+    "section": "A",
+    "instructor": "F Ullah",
+    "timestamp": "2026-05-22T08:03:40.705748"
   }
 ]
