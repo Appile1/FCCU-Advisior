@@ -46,5 +46,61 @@
     "section": "A",
     "instructor": "F Ullah",
     "timestamp": "2026-05-22T08:03:40.705748"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 202 (B): F Janjua → B Haq",
+    "course_code": "CSCS 202",
+    "section": "B",
+    "instructor": "B Haq",
+    "timestamp": "2026-05-22T10:00:46.401754"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for MATH 101 (D): F Janjua → G Mehak",
+    "course_code": "MATH 101",
+    "section": "D",
+    "instructor": "G Mehak",
+    "timestamp": "2026-05-22T10:00:46.401880"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: MATH 102 (C) - S Iqbal",
+    "course_code": "MATH 102",
+    "section": "C",
+    "instructor": "S Iqbal",
+    "timestamp": "2026-05-22T10:00:46.401886"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for MATH 108 (C): F Janjua → F Jamil",
+    "course_code": "MATH 108",
+    "section": "C",
+    "instructor": "F Jamil",
+    "timestamp": "2026-05-22T10:00:46.401889"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: MATH 108 (E) - A  Nadeem",
+    "course_code": "MATH 108",
+    "section": "E",
+    "instructor": "A  Nadeem",
+    "timestamp": "2026-05-22T10:00:46.401891"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for MCOM 202 (B): S A Naeem → A Malik",
+    "course_code": "MCOM 202",
+    "section": "B",
+    "instructor": "A Malik",
+    "timestamp": "2026-05-22T10:00:46.401903"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for MCOM 302 (A): A Malik → S A Naeem",
+    "course_code": "MCOM 302",
+    "section": "A",
+    "instructor": "S A Naeem",
+    "timestamp": "2026-05-22T10:00:46.401907"
   }
 ]
