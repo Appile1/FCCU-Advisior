@@ -102,5 +102,29 @@
     "section": "A",
     "instructor": "S A Naeem",
     "timestamp": "2026-05-22T10:00:46.401907"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for COMP 102 (B): N Ashraf → F Shaheen",
+    "course_code": "COMP 102",
+    "section": "B",
+    "instructor": "F Shaheen",
+    "timestamp": "2026-05-22T10:30:35.083867"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for COMP 102 (D): Q Quraishi → N Ashraf",
+    "course_code": "COMP 102",
+    "section": "D",
+    "instructor": "N Ashraf",
+    "timestamp": "2026-05-22T10:30:35.083878"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for COMP 303 (C): S Saleem → S Nasim",
+    "course_code": "COMP 303",
+    "section": "C",
+    "instructor": "S Nasim",
+    "timestamp": "2026-05-22T10:30:35.083886"
   }
 ]

@@ -242,7 +242,7 @@
         "section": "A",
         "course_name": "Human Physiology",
         "schedule": "T R | 12:30 - 13:45",
-        "classroom": "SBLOCKS413",
+        "classroom": "SBLOCKS416",
         "unique": "BIOL 325/A"
       }
     ],
@@ -2772,6 +2772,14 @@
         "schedule": "M | 14:00 - 16:50 | T R | 08:00 - 09:15",
         "classroom": "SBLOCKS219",
         "unique": "COMP 102/A"
+      },
+      {
+        "course_code": "COMP 102",
+        "section": "B",
+        "course_name": "Programming Fundamen",
+        "schedule": "T R | 11:00 - 12:15 | W | 14:00 - 16:50",
+        "classroom": "SBLOCKS218 | SBLOCKS219",
+        "unique": "COMP 102/B"
       }
     ],
     "all_courses": [
@@ -2823,14 +2831,6 @@
       "COMP"
     ],
     "current_courses": [
-      {
-        "course_code": "COMP 102",
-        "section": "D",
-        "course_name": "Programming Fundamen",
-        "schedule": "T R | 12:30 - 13:45 | F | 14:00 - 16:50",
-        "classroom": "SBLOCKS216 | SBLOCKS218",
-        "unique": "COMP 102/D"
-      },
       {
         "course_code": "COMP 102",
         "section": "E",
@@ -2893,11 +2893,11 @@
     "current_courses": [
       {
         "course_code": "COMP 102",
-        "section": "B",
+        "section": "D",
         "course_name": "Programming Fundamen",
-        "schedule": "T R | 11:00 - 12:15 | W | 14:00 - 16:50",
-        "classroom": "SBLOCKS218 | SBLOCKS219",
-        "unique": "COMP 102/B"
+        "schedule": "T R | 12:30 - 13:45 | F | 14:00 - 16:50",
+        "classroom": "SBLOCKS216 | SBLOCKS218",
+        "unique": "COMP 102/D"
       },
       {
         "course_code": "COMP 200",
@@ -3295,6 +3295,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "COMP 303",
+        "section": "C",
+        "course_name": "D&A of Algorithms",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "SBLOCKS219",
+        "unique": "COMP 303/C"
+      },
+      {
         "course_code": "COMP 401",
         "section": "A",
         "course_name": "Ethics Comp Professn",
@@ -3328,6 +3336,7 @@
       }
     ],
     "all_courses": [
+      "COMP 303",
       "COMP 401",
       "COMP 410"
     ]
@@ -3337,16 +3346,7 @@
     "departments": [
       "COMP"
     ],
-    "current_courses": [
-      {
-        "course_code": "COMP 303",
-        "section": "C",
-        "course_name": "D&A of Algorithms",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "SBLOCKS219",
-        "unique": "COMP 303/C"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "COMP 303",
       "COMP 421"
@@ -5524,7 +5524,7 @@
         "section": "A",
         "course_name": "Linear Algebra",
         "schedule": "T R | 12:30 - 13:45",
-        "classroom": "SBLOCKS416",
+        "classroom": "SBLOCKS413",
         "unique": "MATH 209/A"
       }
     ],
