@@ -13308,7 +13308,7 @@
         "section": "A",
         "course_name": "Soc. Research",
         "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE228",
+        "classroom": "EBLOCKE105",
         "unique": "SOCL 201/A"
       },
       {
@@ -14746,7 +14746,7 @@
         "section": "B",
         "course_name": "Counseling Psycholog",
         "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE105",
+        "classroom": "SBLOCKS109",
         "unique": "PSYC 440/B"
       },
       {
@@ -14756,11 +14756,47 @@
         "schedule": "M W F | 15:00 - 15:50",
         "classroom": "EBLOCKE246",
         "unique": "PSYC 470/A"
+      },
+      {
+        "course_code": "PSYC 740",
+        "section": "A",
+        "course_name": "Advanced Quantitativ",
+        "schedule": "M W | 14:00 - 15:30",
+        "classroom": "EBLOCKE201",
+        "unique": "PSYC 740/A"
+      },
+      {
+        "course_code": "PSYC 741",
+        "section": "A",
+        "course_name": "Advanced Statistics",
+        "schedule": "M W | 15:30 - 17:00",
+        "classroom": "EBLOCKE201",
+        "unique": "PSYC 741/A"
+      },
+      {
+        "course_code": "PSYC 745",
+        "section": "A",
+        "course_name": "Advanced Qualitative",
+        "schedule": "T R | 14:00 - 15:30",
+        "classroom": "EBLOCKE201",
+        "unique": "PSYC 745/A"
+      },
+      {
+        "course_code": "PSYC 750",
+        "section": "A",
+        "course_name": "Indigenous Instrumen",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "PSYC 750/A"
       }
     ],
     "all_courses": [
       "PSYC 440",
-      "PSYC 470"
+      "PSYC 470",
+      "PSYC 740",
+      "PSYC 741",
+      "PSYC 745",
+      "PSYC 750"
     ]
   },
   {

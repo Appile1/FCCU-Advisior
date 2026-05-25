@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 1031,
+  "total_courses": 1035,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -10845,7 +10845,7 @@
       "unique": "PSYC 440/B",
       "course_name": "Counseling Psycholog",
       "credits": "3.00",
-      "classroom": "EBLOCKE105",
+      "classroom": "SBLOCKS109",
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
@@ -11092,6 +11092,54 @@
       "available": "30"
     },
     {
+      "course_code": "PSYC 740",
+      "section": "A",
+      "unique": "PSYC 740/A",
+      "course_name": "Advanced Quantitativ",
+      "credits": "3.00",
+      "classroom": "EBLOCKE201",
+      "schedule_raw": "M W | 14:00 - 15:30",
+      "instructor": "TBD",
+      "capacity": "20",
+      "available": "20"
+    },
+    {
+      "course_code": "PSYC 741",
+      "section": "A",
+      "unique": "PSYC 741/A",
+      "course_name": "Advanced Statistics",
+      "credits": "3.00",
+      "classroom": "EBLOCKE201",
+      "schedule_raw": "M W | 15:30 - 17:00",
+      "instructor": "TBD",
+      "capacity": "20",
+      "available": "20"
+    },
+    {
+      "course_code": "PSYC 745",
+      "section": "A",
+      "unique": "PSYC 745/A",
+      "course_name": "Advanced Qualitative",
+      "credits": "3.00",
+      "classroom": "EBLOCKE201",
+      "schedule_raw": "T R | 14:00 - 15:30",
+      "instructor": "TBD",
+      "capacity": "20",
+      "available": "20"
+    },
+    {
+      "course_code": "PSYC 750",
+      "section": "A",
+      "unique": "PSYC 750/A",
+      "course_name": "Indigenous Instrumen",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "TBD",
+      "capacity": "20",
+      "available": "20"
+    },
+    {
       "course_code": "SOCL 100",
       "section": "A",
       "unique": "SOCL 100/A",
@@ -11136,8 +11184,8 @@
       "classroom": "EBLOCKE103",
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Athar",
-      "capacity": "35",
-      "available": "35"
+      "capacity": "25",
+      "available": "25"
     },
     {
       "course_code": "SOCL 100",
@@ -11445,7 +11493,7 @@
       "unique": "SOCL 201/A",
       "course_name": "Soc. Research",
       "credits": "3.00",
-      "classroom": "EBLOCKE228",
+      "classroom": "EBLOCKE105",
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "T Fatima",
       "capacity": "35",
