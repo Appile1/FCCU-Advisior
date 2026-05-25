@@ -3949,12 +3949,12 @@
     ],
     "current_courses": [
       {
-        "course_code": "CSCS 100",
-        "section": "G",
-        "course_name": "Applications of ICT",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "SBLOCKS319",
-        "unique": "CSCS 100/G"
+        "course_code": "CSCS 101",
+        "section": "A",
+        "course_name": "Adv. Appl of ICT",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS219",
+        "unique": "CSCS 101/A"
       }
     ],
     "all_courses": [
@@ -10696,6 +10696,14 @@
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "SBLOCKS219",
         "unique": "CSCS 100/C"
+      },
+      {
+        "course_code": "CSCS 100",
+        "section": "G",
+        "course_name": "Applications of ICT",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS319",
+        "unique": "CSCS 100/G"
       }
     ],
     "all_courses": [
@@ -15069,16 +15077,7 @@
     "departments": [
       "CSCS"
     ],
-    "current_courses": [
-      {
-        "course_code": "CSCS 101",
-        "section": "A",
-        "course_name": "Adv. Appl of ICT",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS219",
-        "unique": "CSCS 101/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "CSCS 101"
     ]

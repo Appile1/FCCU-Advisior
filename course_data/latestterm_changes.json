@@ -126,5 +126,21 @@
     "section": "C",
     "instructor": "S Nasim",
     "timestamp": "2026-05-22T10:30:35.083886"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 100 (G): N Sabahat → TBD",
+    "course_code": "CSCS 100",
+    "section": "G",
+    "instructor": "TBD",
+    "timestamp": "2026-05-25T04:30:41.397201"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 101 (A): M Chaudhry → N Sabahat",
+    "course_code": "CSCS 101",
+    "section": "A",
+    "instructor": "N Sabahat",
+    "timestamp": "2026-05-25T04:30:41.397213"
   }
 ]
