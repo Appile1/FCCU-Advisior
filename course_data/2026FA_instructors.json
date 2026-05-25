@@ -3678,14 +3678,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "CSCS 100",
-        "section": "F",
-        "course_name": "Applications of ICT",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS218",
-        "unique": "CSCS 100/F"
-      },
-      {
         "course_code": "CSCS 351",
         "section": "A",
         "course_name": "Software Quality Ass",
@@ -3706,14 +3698,6 @@
       "CSCS"
     ],
     "current_courses": [
-      {
-        "course_code": "CSCS 101",
-        "section": "B",
-        "course_name": "Adv. Appl of ICT",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "SBLOCKS320",
-        "unique": "CSCS 101/B"
-      },
       {
         "course_code": "CSCS 465",
         "section": "A",
@@ -3823,16 +3807,7 @@
     "departments": [
       "CSCS"
     ],
-    "current_courses": [
-      {
-        "course_code": "CSCS 101",
-        "section": "A",
-        "course_name": "Adv. Appl of ICT",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS219",
-        "unique": "CSCS 101/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "CSCS 100",
       "CSCS 101"
@@ -3843,16 +3818,7 @@
     "departments": [
       "CSCS"
     ],
-    "current_courses": [
-      {
-        "course_code": "CSCS 101",
-        "section": "C",
-        "course_name": "Adv. Appl of ICT",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "SBLOCKS218",
-        "unique": "CSCS 101/C"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "CSCS 100",
       "CSCS 101"
@@ -4149,14 +4115,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "CSCS 100",
-        "section": "H",
-        "course_name": "Applications of ICT",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "SBLOCKS218",
-        "unique": "CSCS 100/H"
-      },
-      {
         "course_code": "CSCS 366",
         "section": "A",
         "course_name": "Into.to Nat Language",
@@ -4186,14 +4144,6 @@
       "CSCS"
     ],
     "current_courses": [
-      {
-        "course_code": "CSCS 101",
-        "section": "D",
-        "course_name": "Adv. Appl of ICT",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS319",
-        "unique": "CSCS 101/D"
-      },
       {
         "course_code": "CSCS 468",
         "section": "A",
@@ -10425,16 +10375,7 @@
     "departments": [
       "CSCS"
     ],
-    "current_courses": [
-      {
-        "course_code": "CSCS 100",
-        "section": "E",
-        "course_name": "Applications of ICT",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS218",
-        "unique": "CSCS 100/E"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "CSCS 100"
     ]
@@ -10455,22 +10396,6 @@
       "CSCS"
     ],
     "current_courses": [
-      {
-        "course_code": "CSCS 100",
-        "section": "B",
-        "course_name": "Applications of ICT",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "SBLOCKS219",
-        "unique": "CSCS 100/B"
-      },
-      {
-        "course_code": "CSCS 100",
-        "section": "C",
-        "course_name": "Applications of ICT",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "SBLOCKS219",
-        "unique": "CSCS 100/C"
-      },
       {
         "course_code": "CSCS 100",
         "section": "G",
@@ -10592,22 +10517,6 @@
       "ECON"
     ],
     "current_courses": [
-      {
-        "course_code": "ECON 100",
-        "section": "A",
-        "course_name": "Principles of Econ.",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE205",
-        "unique": "ECON 100/A"
-      },
-      {
-        "course_code": "ECON 100",
-        "section": "D",
-        "course_name": "Principles of Econ.",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE204",
-        "unique": "ECON 100/D"
-      },
       {
         "course_code": "ECON 302",
         "section": "A",
@@ -10744,27 +10653,11 @@
     "current_courses": [
       {
         "course_code": "ECON 100",
-        "section": "B",
-        "course_name": "Principles of Econ.",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE205",
-        "unique": "ECON 100/B"
-      },
-      {
-        "course_code": "ECON 100",
         "section": "M",
         "course_name": "Principles of Econ.",
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "EBLOCKE203",
         "unique": "ECON 100/M"
-      },
-      {
-        "course_code": "ECON 100",
-        "section": "N",
-        "course_name": "Principles of Econ.",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE204",
-        "unique": "ECON 100/N"
       },
       {
         "course_code": "ECON 102",
@@ -10939,30 +10832,6 @@
       "ECON"
     ],
     "current_courses": [
-      {
-        "course_code": "ECON 100",
-        "section": "C",
-        "course_name": "Principles of Econ.",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE205",
-        "unique": "ECON 100/C"
-      },
-      {
-        "course_code": "ECON 100",
-        "section": "J",
-        "course_name": "Principles of Econ.",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE204",
-        "unique": "ECON 100/J"
-      },
-      {
-        "course_code": "ECON 100",
-        "section": "K",
-        "course_name": "Principles of Econ.",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE202",
-        "unique": "ECON 100/K"
-      },
       {
         "course_code": "ECON 202",
         "section": "A",
@@ -11264,14 +11133,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "ECON 100",
-        "section": "F",
-        "course_name": "Principles of Econ.",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE203",
-        "unique": "ECON 100/F"
-      },
-      {
         "course_code": "ECON 101",
         "section": "C",
         "course_name": "Prin. of Microeconom",
@@ -11378,14 +11239,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "EDUC 110",
-        "section": "B",
-        "course_name": "Foundations of Educ.",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE140",
-        "unique": "EDUC 110/B"
-      },
-      {
         "course_code": "EDUC 335",
         "section": "A",
         "course_name": "Peace Education",
@@ -11420,14 +11273,6 @@
       "EDUC"
     ],
     "current_courses": [
-      {
-        "course_code": "EDUC 110",
-        "section": "C",
-        "course_name": "Foundations of Educ.",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE140",
-        "unique": "EDUC 110/C"
-      },
       {
         "course_code": "EDUC 120",
         "section": "D",
@@ -11469,14 +11314,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "EDUC 110",
-        "section": "A",
-        "course_name": "Foundations of Educ.",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE140",
-        "unique": "EDUC 110/A"
-      },
-      {
         "course_code": "EDUC 515",
         "section": "A",
         "course_name": "Research Methods",
@@ -11507,22 +11344,6 @@
       "EDUC"
     ],
     "current_courses": [
-      {
-        "course_code": "EDUC 110",
-        "section": "D",
-        "course_name": "Foundations of Educ.",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE140",
-        "unique": "EDUC 110/D"
-      },
-      {
-        "course_code": "EDUC 110",
-        "section": "E",
-        "course_name": "Foundations of Educ.",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE140",
-        "unique": "EDUC 110/E"
-      },
       {
         "course_code": "EDUC 240",
         "section": "A",
@@ -11697,22 +11518,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "ENGL 106",
-        "section": "M",
-        "course_name": "Functional English",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "SBLOCKS316",
-        "unique": "ENGL 106/M"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "S",
-        "course_name": "Functional English",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "SBLOCKS416",
-        "unique": "ENGL 106/S"
-      },
-      {
         "course_code": "ENGL 110",
         "section": "B",
         "course_name": "Contemp Short Story",
@@ -11732,30 +11537,6 @@
       "ENGL"
     ],
     "current_courses": [
-      {
-        "course_code": "ENGL 106",
-        "section": "QQ",
-        "course_name": "Functional English",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "SBLOCKS213",
-        "unique": "ENGL 106/QQ"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "R",
-        "course_name": "Functional English",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE121",
-        "unique": "ENGL 106/R"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "RR",
-        "course_name": "Functional English",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE041",
-        "unique": "ENGL 106/RR"
-      },
       {
         "course_code": "ENGL 110",
         "section": "A",
@@ -11806,30 +11587,6 @@
       "ENGL"
     ],
     "current_courses": [
-      {
-        "course_code": "ENGL 106",
-        "section": "BB",
-        "course_name": "Functional English",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE241",
-        "unique": "ENGL 106/BB"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "C",
-        "course_name": "Functional English",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE227",
-        "unique": "ENGL 106/C"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "CC",
-        "course_name": "Functional English",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "SBLOCKS312",
-        "unique": "ENGL 106/CC"
-      },
       {
         "course_code": "ENGL 300",
         "section": "A",
@@ -12034,14 +11791,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "ENGL 106",
-        "section": "O",
-        "course_name": "Functional English",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS109",
-        "unique": "ENGL 106/O"
-      },
-      {
         "course_code": "ENGL 331",
         "section": "A",
         "course_name": "Research Methods",
@@ -12081,14 +11830,6 @@
       "ENGL"
     ],
     "current_courses": [
-      {
-        "course_code": "ENGL 106",
-        "section": "HH",
-        "course_name": "Functional English",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "SBLOCKS412",
-        "unique": "ENGL 106/HH"
-      },
       {
         "course_code": "ENGL 175",
         "section": "A",
@@ -13441,24 +13182,7 @@
     "departments": [
       "ENGL"
     ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 106",
-        "section": "A",
-        "course_name": "Functional English",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE227",
-        "unique": "ENGL 106/A"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "AB",
-        "course_name": "Functional English",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE121",
-        "unique": "ENGL 106/AB"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "ENGL 106"
     ]
@@ -13469,22 +13193,6 @@
       "ENGL"
     ],
     "current_courses": [
-      {
-        "course_code": "ENGL 106",
-        "section": "AA",
-        "course_name": "Functional English",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE102",
-        "unique": "ENGL 106/AA"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "I",
-        "course_name": "Functional English",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE241",
-        "unique": "ENGL 106/I"
-      },
       {
         "course_code": "ENGL 106",
         "section": "II",
@@ -13504,30 +13212,6 @@
       "ENGL"
     ],
     "current_courses": [
-      {
-        "course_code": "ENGL 106",
-        "section": "AC",
-        "course_name": "Functional English",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE242",
-        "unique": "ENGL 106/AC"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "AD",
-        "course_name": "Functional English",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE242",
-        "unique": "ENGL 106/AD"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "B",
-        "course_name": "Functional English",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE214",
-        "unique": "ENGL 106/B"
-      },
       {
         "course_code": "ENGL 108",
         "section": "YZ",
@@ -13550,35 +13234,11 @@
     "current_courses": [
       {
         "course_code": "ENGL 106",
-        "section": "E",
-        "course_name": "Functional English",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE214",
-        "unique": "ENGL 106/E"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "H",
-        "course_name": "Functional English",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE227",
-        "unique": "ENGL 106/H"
-      },
-      {
-        "course_code": "ENGL 106",
         "section": "J",
         "course_name": "Functional English",
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "EBLOCKE222",
         "unique": "ENGL 106/J"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "U",
-        "course_name": "Functional English",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "SBLOCKS213",
-        "unique": "ENGL 106/U"
       }
     ],
     "all_courses": [
@@ -13591,22 +13251,6 @@
       "ENGL"
     ],
     "current_courses": [
-      {
-        "course_code": "ENGL 106",
-        "section": "G",
-        "course_name": "Functional English",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE227",
-        "unique": "ENGL 106/G"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "ZZ",
-        "course_name": "Functional English",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS317",
-        "unique": "ENGL 106/ZZ"
-      },
       {
         "course_code": "ENGL 250",
         "section": "A",
@@ -13635,16 +13279,7 @@
     "departments": [
       "ENGL"
     ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 106",
-        "section": "GG",
-        "course_name": "Functional English",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE121",
-        "unique": "ENGL 106/GG"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "ENGL 106"
     ]
@@ -13654,24 +13289,7 @@
     "departments": [
       "ENGL"
     ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 106",
-        "section": "JJ",
-        "course_name": "Functional English",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "SBLOCKS007",
-        "unique": "ENGL 106/JJ"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "NN",
-        "course_name": "Functional English",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "SBLOCKS008",
-        "unique": "ENGL 106/NN"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "ENGL 106"
     ]
@@ -13682,22 +13300,6 @@
       "ENGL"
     ],
     "current_courses": [
-      {
-        "course_code": "ENGL 106",
-        "section": "K",
-        "course_name": "Functional English",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "SBLOCKS007",
-        "unique": "ENGL 106/K"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "V",
-        "course_name": "Functional English",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE241",
-        "unique": "ENGL 106/V"
-      },
       {
         "course_code": "ENGL 108",
         "section": "A",
@@ -13726,32 +13328,7 @@
     "departments": [
       "ENGL"
     ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 106",
-        "section": "MM",
-        "course_name": "Functional English",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE243",
-        "unique": "ENGL 106/MM"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "N",
-        "course_name": "Functional English",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "SBLOCKS007",
-        "unique": "ENGL 106/N"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "T",
-        "course_name": "Functional English",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "SBLOCKS213",
-        "unique": "ENGL 106/T"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "ENGL 106"
     ]
@@ -13761,24 +13338,7 @@
     "departments": [
       "ENGL"
     ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 106",
-        "section": "OO",
-        "course_name": "Functional English",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "SBLOCKS213",
-        "unique": "ENGL 106/OO"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "TT",
-        "course_name": "Functional English",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "SBLOCKS007",
-        "unique": "ENGL 106/TT"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "ENGL 106"
     ]
@@ -13789,30 +13349,6 @@
       "ENGL"
     ],
     "current_courses": [
-      {
-        "course_code": "ENGL 106",
-        "section": "P",
-        "course_name": "Functional English",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE243",
-        "unique": "ENGL 106/P"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "PP",
-        "course_name": "Functional English",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "SBLOCKS213",
-        "unique": "ENGL 106/PP"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "Q",
-        "course_name": "Functional English",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE227",
-        "unique": "ENGL 106/Q"
-      },
       {
         "course_code": "ENGL 175",
         "section": "B",
@@ -13832,32 +13368,7 @@
     "departments": [
       "ENGL"
     ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 106",
-        "section": "UU",
-        "course_name": "Functional English",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS007",
-        "unique": "ENGL 106/UU"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "W",
-        "course_name": "Functional English",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "SBLOCKS312",
-        "unique": "ENGL 106/W"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "ZA",
-        "course_name": "Functional English",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "SBLOCKS008",
-        "unique": "ENGL 106/ZA"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "ENGL 106"
     ]
@@ -13867,16 +13378,7 @@
     "departments": [
       "ENGL"
     ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 106",
-        "section": "YY",
-        "course_name": "Functional English",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "SBLOCKS213",
-        "unique": "ENGL 106/YY"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "ENGL 106"
     ]
