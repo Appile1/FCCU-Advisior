@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 798,
+  "total_courses": 788,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -2630,30 +2630,6 @@
       "instructor": "S Azeem",
       "capacity": "35",
       "available": "35"
-    },
-    {
-      "course_code": "CHIN 101",
-      "section": "A",
-      "unique": "CHIN 101/A",
-      "course_name": "Chinese I",
-      "credits": "3.00",
-      "classroom": "EBLOCKE244",
-      "schedule_raw": "T R | 09:30 - 10:45",
-      "instructor": "Z Kexin",
-      "capacity": "20",
-      "available": "20"
-    },
-    {
-      "course_code": "CHIN 101",
-      "section": "B",
-      "unique": "CHIN 101/B",
-      "course_name": "Chinese I",
-      "credits": "3.00",
-      "classroom": "EBLOCKE244",
-      "schedule_raw": "T R | 08:00 - 09:15",
-      "instructor": "Z Kexin",
-      "capacity": "20",
-      "available": "20"
     },
     {
       "course_code": "COMP 111",
@@ -5560,54 +5536,6 @@
       "available": "25"
     },
     {
-      "course_code": "FREN 101",
-      "section": "A",
-      "unique": "FREN 101/A",
-      "course_name": "French 1",
-      "credits": "3.00",
-      "classroom": "EBLOCKE244",
-      "schedule_raw": "M W F | 08:00 - 08:50",
-      "instructor": "A Anwar",
-      "capacity": "20",
-      "available": "20"
-    },
-    {
-      "course_code": "FREN 101",
-      "section": "B",
-      "unique": "FREN 101/B",
-      "course_name": "French 1",
-      "credits": "3.00",
-      "classroom": "EBLOCKE244",
-      "schedule_raw": "M W F | 09:00 - 09:50",
-      "instructor": "A Anwar",
-      "capacity": "20",
-      "available": "20"
-    },
-    {
-      "course_code": "FREN 101",
-      "section": "C",
-      "unique": "FREN 101/C",
-      "course_name": "French 1",
-      "credits": "3.00",
-      "classroom": "EBLOCKE244",
-      "schedule_raw": "T R | 14:00 - 15:15",
-      "instructor": "TBD",
-      "capacity": "20",
-      "available": "20"
-    },
-    {
-      "course_code": "FREN 101",
-      "section": "D",
-      "unique": "FREN 101/D",
-      "course_name": "French 1",
-      "credits": "3.00",
-      "classroom": "EBLOCKE244",
-      "schedule_raw": "T R | 15:30 - 16:45",
-      "instructor": "TBD",
-      "capacity": "20",
-      "available": "20"
-    },
-    {
       "course_code": "FSQM 501",
       "section": "A",
       "unique": "FSQM 501/A",
@@ -5798,18 +5726,6 @@
       "instructor": "K Shakrul",
       "capacity": "10",
       "available": "10"
-    },
-    {
-      "course_code": "GRMN 101",
-      "section": "A",
-      "unique": "GRMN 101/A",
-      "course_name": "German I",
-      "credits": "3.00",
-      "classroom": "EBLOCKE244",
-      "schedule_raw": "M W F | 10:00 - 10:50",
-      "instructor": "Qurit U An",
-      "capacity": "20",
-      "available": "20"
     },
     {
       "course_code": "HIST 101",
@@ -6242,42 +6158,6 @@
       "instructor": "H Ghani",
       "capacity": "35",
       "available": "35"
-    },
-    {
-      "course_code": "KORN 101",
-      "section": "A",
-      "unique": "KORN 101/A",
-      "course_name": "Korean I",
-      "credits": "3.00",
-      "classroom": "EBLOCKE122",
-      "schedule_raw": "M W F | 14:00 - 14:50",
-      "instructor": "S K Sook",
-      "capacity": "20",
-      "available": "20"
-    },
-    {
-      "course_code": "KORN 101",
-      "section": "B",
-      "unique": "KORN 101/B",
-      "course_name": "Korean I",
-      "credits": "3.00",
-      "classroom": "EBLOCKE244",
-      "schedule_raw": "M W F | 15:00 - 15:50",
-      "instructor": "S K Sook",
-      "capacity": "20",
-      "available": "20"
-    },
-    {
-      "course_code": "KORN 102",
-      "section": "A",
-      "unique": "KORN 102/A",
-      "course_name": "Korean II",
-      "credits": "3.00",
-      "classroom": "EBLOCKE244",
-      "schedule_raw": "M W F | 16:00 - 16:50",
-      "instructor": "J Park",
-      "capacity": "20",
-      "available": "20"
     },
     {
       "course_code": "LING 207",

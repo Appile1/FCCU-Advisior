@@ -2653,24 +2653,7 @@
     "departments": [
       "CHIN"
     ],
-    "current_courses": [
-      {
-        "course_code": "CHIN 101",
-        "section": "A",
-        "course_name": "Chinese I",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE244",
-        "unique": "CHIN 101/A"
-      },
-      {
-        "course_code": "CHIN 101",
-        "section": "B",
-        "course_name": "Chinese I",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE244",
-        "unique": "CHIN 101/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "CHIN 101"
     ]
@@ -4516,24 +4499,7 @@
     "departments": [
       "KORN"
     ],
-    "current_courses": [
-      {
-        "course_code": "KORN 101",
-        "section": "A",
-        "course_name": "Korean I",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE122",
-        "unique": "KORN 101/A"
-      },
-      {
-        "course_code": "KORN 101",
-        "section": "B",
-        "course_name": "Korean I",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE244",
-        "unique": "KORN 101/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "KORN 101"
     ]
@@ -4543,16 +4509,7 @@
     "departments": [
       "KORN"
     ],
-    "current_courses": [
-      {
-        "course_code": "KORN 102",
-        "section": "A",
-        "course_name": "Korean II",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE244",
-        "unique": "KORN 102/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "KORN 101",
       "KORN 102"
@@ -11482,24 +11439,7 @@
     "departments": [
       "FREN"
     ],
-    "current_courses": [
-      {
-        "course_code": "FREN 101",
-        "section": "A",
-        "course_name": "French 1",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE244",
-        "unique": "FREN 101/A"
-      },
-      {
-        "course_code": "FREN 101",
-        "section": "B",
-        "course_name": "French 1",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE244",
-        "unique": "FREN 101/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "FREN 101"
     ]
@@ -11688,16 +11628,7 @@
     "departments": [
       "GRMN"
     ],
-    "current_courses": [
-      {
-        "course_code": "GRMN 101",
-        "section": "A",
-        "course_name": "German I",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE244",
-        "unique": "GRMN 101/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "GRMN 101"
     ]
@@ -12613,24 +12544,7 @@
     "departments": [
       "FREN"
     ],
-    "current_courses": [
-      {
-        "course_code": "FREN 101",
-        "section": "C",
-        "course_name": "French 1",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE244",
-        "unique": "FREN 101/C"
-      },
-      {
-        "course_code": "FREN 101",
-        "section": "D",
-        "course_name": "French 1",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE244",
-        "unique": "FREN 101/D"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "FREN 101"
     ]
