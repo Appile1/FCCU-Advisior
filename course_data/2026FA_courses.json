@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 1035,
+  "total_courses": 1037,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -8542,6 +8542,30 @@
       "course_name": "Intro to Com Studies",
       "credits": "3.00",
       "classroom": "EBLOCKE039",
+      "schedule_raw": "T R | 08:00 - 09:15",
+      "instructor": "S Saleem",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "MCOM 105",
+      "section": "A",
+      "unique": "MCOM 105/A",
+      "course_name": "Media & Information",
+      "credits": "3.00",
+      "classroom": "EBLOCKE228",
+      "schedule_raw": "M W F | 16:00 - 16:50",
+      "instructor": "Dr S Abbas",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "MCOM 105",
+      "section": "B",
+      "unique": "MCOM 105/B",
+      "course_name": "Media & Information",
+      "credits": "3.00",
+      "classroom": "EBLOCKE038",
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Saleem",
       "capacity": "35",

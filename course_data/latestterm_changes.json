@@ -174,5 +174,21 @@
     "section": "A",
     "instructor": "TBD",
     "timestamp": "2026-05-25T05:00:40.879276"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: MCOM 105 (A) - Dr S Abbas",
+    "course_code": "MCOM 105",
+    "section": "A",
+    "instructor": "Dr S Abbas",
+    "timestamp": "2026-05-25T05:30:39.574700"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: MCOM 105 (B) - S Saleem",
+    "course_code": "MCOM 105",
+    "section": "B",
+    "instructor": "S Saleem",
+    "timestamp": "2026-05-25T05:30:39.574711"
   }
 ]

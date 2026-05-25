@@ -5588,6 +5588,14 @@
         "unique": "MCOM 101/E"
       },
       {
+        "course_code": "MCOM 105",
+        "section": "A",
+        "course_name": "Media & Information",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE228",
+        "unique": "MCOM 105/A"
+      },
+      {
         "course_code": "MCOM 409",
         "section": "A",
         "course_name": "Theories of Mass Com",
@@ -5606,6 +5614,7 @@
     ],
     "all_courses": [
       "MCOM 101",
+      "MCOM 105",
       "MCOM 409",
       "MCOM 414",
       "MCOM 512",
@@ -5982,6 +5991,14 @@
         "unique": "MCOM 101/G"
       },
       {
+        "course_code": "MCOM 105",
+        "section": "B",
+        "course_name": "Media & Information",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE038",
+        "unique": "MCOM 105/B"
+      },
+      {
         "course_code": "MCOM 203",
         "section": "A",
         "course_name": "Media &  Peace Buil.",
@@ -6008,6 +6025,7 @@
     ],
     "all_courses": [
       "MCOM 101",
+      "MCOM 105",
       "MCOM 203",
       "MCOM 290",
       "MCOM 402",
