@@ -941,6 +941,14 @@
         "schedule": "T R | 11:00 - 12:15",
         "classroom": "EBLOCKE240",
         "unique": "BUSN 230/F"
+      },
+      {
+        "course_code": "BUSN 230",
+        "section": "G",
+        "course_name": "Entrepreneurship",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE240",
+        "unique": "BUSN 230/G"
       }
     ],
     "all_courses": [
@@ -8986,14 +8994,6 @@
       },
       {
         "course_code": "BUSN 230",
-        "section": "G",
-        "course_name": "Entrepreneurship",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE240",
-        "unique": "BUSN 230/G"
-      },
-      {
-        "course_code": "BUSN 230",
         "section": "I",
         "course_name": "Entrepreneurship",
         "schedule": "T R | 15:30 - 16:45",
@@ -11093,7 +11093,7 @@
         "course_code": "ENVR 151",
         "section": "A",
         "course_name": "Intro to Sources",
-        "schedule": "M W F | 09:00 - 09:50",
+        "schedule": "M W F | 11:00 - 11:50",
         "classroom": "SBLOCKS424",
         "unique": "ENVR 151/A"
       },
@@ -11109,7 +11109,7 @@
         "course_code": "ENVR 414",
         "section": "A",
         "course_name": "Sustainable Develop",
-        "schedule": "M W F | 10:00 - 10:50",
+        "schedule": "M W F | 09:00 - 09:50",
         "classroom": "SBLOCKS424",
         "unique": "ENVR 414/A"
       }
@@ -11208,6 +11208,14 @@
         "unique": "ENVR 101/B"
       },
       {
+        "course_code": "ENVR 499",
+        "section": "A",
+        "course_name": "Project/Research",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "ENVR 499/A"
+      },
+      {
         "course_code": "ENVR 505",
         "section": "A",
         "course_name": "E&H Risk Assess.",
@@ -11244,6 +11252,7 @@
       "ENVR 101",
       "ENVR 201",
       "ENVR 404",
+      "ENVR 499",
       "ENVR 499B",
       "ENVR 505",
       "ENVR 611",
@@ -11322,7 +11331,7 @@
         "course_code": "ENVR 101",
         "section": "A",
         "course_name": "*Intro Env Sciences",
-        "schedule": "M W | 12:00 - 12:50 | M | 14:00 - 15:50",
+        "schedule": "M W | 11:00 - 11:50 | M | 14:00 - 15:50",
         "classroom": "SBLOCKS424 | SBLOCKS135",
         "unique": "ENVR 101/A"
       },
@@ -11330,7 +11339,7 @@
         "course_code": "ENVR 345",
         "section": "A",
         "course_name": "Envr. Impact Assess",
-        "schedule": "M W F | 11:00 - 11:50",
+        "schedule": "M W F | 12:00 - 12:50",
         "classroom": "SBLOCKS424",
         "unique": "ENVR 345/A"
       },

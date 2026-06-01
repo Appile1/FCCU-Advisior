@@ -350,5 +350,21 @@
     "section": "B",
     "instructor": "S Saleem",
     "timestamp": "2026-06-01T07:00:42.373113"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 230 (G): TBD → F Idrees",
+    "course_code": "BUSN 230",
+    "section": "G",
+    "instructor": "F Idrees",
+    "timestamp": "2026-06-01T10:00:43.670091"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENVR 499 (A) - D Bakker",
+    "course_code": "ENVR 499",
+    "section": "A",
+    "instructor": "D Bakker",
+    "timestamp": "2026-06-01T10:00:43.670202"
   }
 ]
