@@ -109,7 +109,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | R | 14:00 - 15:50",
       "instructor": "S Dogar",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "BIOL 201",
@@ -1501,7 +1501,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Bilal",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "BUSN 364",
@@ -1993,7 +1993,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "Ambreen K",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "BUSN 485",
@@ -3133,7 +3133,7 @@
       "schedule_raw": "T | 13:00 - 14:50 | R | 13:00 - 14:50",
       "instructor": "M Butt",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "COMP 497A",
@@ -4549,7 +4549,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "J Hassan",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "EDUC 110",
@@ -5341,7 +5341,7 @@
       "schedule_raw": "T R | 11:00 - 11:50 | R | 09:00 - 10:50",
       "instructor": "D Bakker",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "ENVR 101",
@@ -6505,7 +6505,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "MCOM 101",
@@ -6517,7 +6517,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "MCOM 101",
@@ -7165,7 +7165,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | T | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "PHYS 102",
@@ -7549,7 +7549,7 @@
       "schedule_raw": "M W | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PKST 101",
@@ -8449,7 +8449,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | R | 09:00 - 10:50",
       "instructor": "U Rizwan",
       "capacity": "30",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "PSYC 370",
@@ -9217,7 +9217,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Virk",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "URDU 101",
