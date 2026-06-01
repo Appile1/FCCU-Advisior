@@ -3565,7 +3565,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "CSCS 100",
@@ -3589,7 +3589,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "CSCS 105",
@@ -6517,7 +6517,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "MCOM 101",
@@ -7693,7 +7693,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "PLSC 301",
@@ -7741,7 +7741,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Q Memon",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "PLSC 304",
@@ -7897,7 +7897,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "Q Memon",
       "capacity": "15",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PLSC 407",
@@ -8197,7 +8197,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "PSYC 290",
@@ -8413,7 +8413,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | M | 15:00 - 16:50",
       "instructor": "N Asif",
       "capacity": "30",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "PSYC 354",
@@ -8461,7 +8461,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "PSYC 375",
