@@ -102,5 +102,285 @@
     "section": "A",
     "instructor": "S A Naeem",
     "timestamp": "2026-05-22T10:00:46.401907"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for COMP 102 (B): N Ashraf → F Shaheen",
+    "course_code": "COMP 102",
+    "section": "B",
+    "instructor": "F Shaheen",
+    "timestamp": "2026-05-22T10:30:35.083867"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for COMP 102 (D): Q Quraishi → N Ashraf",
+    "course_code": "COMP 102",
+    "section": "D",
+    "instructor": "N Ashraf",
+    "timestamp": "2026-05-22T10:30:35.083878"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for COMP 303 (C): S Saleem → S Nasim",
+    "course_code": "COMP 303",
+    "section": "C",
+    "instructor": "S Nasim",
+    "timestamp": "2026-05-22T10:30:35.083886"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 100 (G): N Sabahat → TBD",
+    "course_code": "CSCS 100",
+    "section": "G",
+    "instructor": "TBD",
+    "timestamp": "2026-05-25T04:30:41.397201"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 101 (A): M Chaudhry → N Sabahat",
+    "course_code": "CSCS 101",
+    "section": "A",
+    "instructor": "N Sabahat",
+    "timestamp": "2026-05-25T04:30:41.397213"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PSYC 740 (A) - TBD",
+    "course_code": "PSYC 740",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-05-25T05:00:40.879261"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PSYC 741 (A) - TBD",
+    "course_code": "PSYC 741",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-05-25T05:00:40.879272"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PSYC 745 (A) - TBD",
+    "course_code": "PSYC 745",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-05-25T05:00:40.879274"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PSYC 750 (A) - TBD",
+    "course_code": "PSYC 750",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-05-25T05:00:40.879276"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: MCOM 105 (A) - Dr S Abbas",
+    "course_code": "MCOM 105",
+    "section": "A",
+    "instructor": "Dr S Abbas",
+    "timestamp": "2026-05-25T05:30:39.574700"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: MCOM 105 (B) - S Saleem",
+    "course_code": "MCOM 105",
+    "section": "B",
+    "instructor": "S Saleem",
+    "timestamp": "2026-05-25T05:30:39.574711"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: BUSN 341 (A) - T Alvi",
+    "course_code": "BUSN 341",
+    "section": "A",
+    "instructor": "T Alvi",
+    "timestamp": "2026-06-01T05:30:36.327398"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: BUSN 344 (A) - T Alvi",
+    "course_code": "BUSN 344",
+    "section": "A",
+    "instructor": "T Alvi",
+    "timestamp": "2026-06-01T05:30:36.327411"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 201 (A): K Azhar → F Jamil",
+    "course_code": "CSCS 201",
+    "section": "A",
+    "instructor": "F Jamil",
+    "timestamp": "2026-06-01T05:30:36.327462"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 201 (B): F Jamil → K Azhar",
+    "course_code": "CSCS 201",
+    "section": "B",
+    "instructor": "K Azhar",
+    "timestamp": "2026-06-01T05:30:36.327464"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 201 (C): TBD → U Sharif",
+    "course_code": "BUSN 201",
+    "section": "C",
+    "instructor": "U Sharif",
+    "timestamp": "2026-06-01T06:00:47.731597"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 201 (F): TBD → U Sharif",
+    "course_code": "BUSN 201",
+    "section": "F",
+    "instructor": "U Sharif",
+    "timestamp": "2026-06-01T06:00:47.731609"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 201 (G): U Sharif → TBD",
+    "course_code": "BUSN 201",
+    "section": "G",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731611"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 201 (H): U Sharif → TBD",
+    "course_code": "BUSN 201",
+    "section": "H",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731613"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 230 (G): Ambreen K → TBD",
+    "course_code": "BUSN 230",
+    "section": "G",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731617"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 108 (I): J C Imdad → TBD",
+    "course_code": "ENGL 108",
+    "section": "I",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731681"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 108 (J): J C Imdad → TBD",
+    "course_code": "ENGL 108",
+    "section": "J",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731686"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 108 (K): J C Imdad → TBD",
+    "course_code": "ENGL 108",
+    "section": "K",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731688"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 110 (B): N Ahmad → TBD",
+    "course_code": "ENGL 110",
+    "section": "B",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731690"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 322 (A): J C Imdad → TBD",
+    "course_code": "ENGL 322",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731694"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for HPED 101 (B): S Nazir → TBD",
+    "course_code": "HPED 101",
+    "section": "B",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731708"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for HPED 102 (A): S Nazir → TBD",
+    "course_code": "HPED 102",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731709"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for HPED 112 (A): S Nazir → TBD",
+    "course_code": "HPED 112",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731713"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for LING 217 (A): F Aftab → TBD",
+    "course_code": "LING 217",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731717"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for LING 302 (A): F Aftab → TBD",
+    "course_code": "LING 302",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731721"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: COMP 421 (B) - S Saleem",
+    "course_code": "COMP 421",
+    "section": "B",
+    "instructor": "S Saleem",
+    "timestamp": "2026-06-01T07:00:42.373113"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 230 (G): TBD → F Idrees",
+    "course_code": "BUSN 230",
+    "section": "G",
+    "instructor": "F Idrees",
+    "timestamp": "2026-06-01T10:00:43.670091"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENVR 499 (A) - D Bakker",
+    "course_code": "ENVR 499",
+    "section": "A",
+    "instructor": "D Bakker",
+    "timestamp": "2026-06-01T10:00:43.670202"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 201 (A): F Jamil → K Azhar",
+    "course_code": "CSCS 201",
+    "section": "A",
+    "instructor": "K Azhar",
+    "timestamp": "2026-06-01T11:30:43.860255"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 201 (B): K Azhar → F Jamil",
+    "course_code": "CSCS 201",
+    "section": "B",
+    "instructor": "F Jamil",
+    "timestamp": "2026-06-01T11:30:43.860268"
   }
 ]
