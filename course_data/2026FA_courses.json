@@ -889,7 +889,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Ambreen K",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "BUSN 230",
@@ -2821,7 +2821,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Toor",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "COMP 220",
@@ -3001,7 +3001,7 @@
       "schedule_raw": "W | 09:00 - 10:50 | F | 09:00 - 10:50",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "COMP 360",
@@ -3013,7 +3013,7 @@
       "schedule_raw": "T | 11:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "COMP 360",
@@ -3073,7 +3073,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "COMP 410",
@@ -3565,7 +3565,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "CSCS 100",
@@ -5005,7 +5005,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Bokhari",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "ENGL 201",
@@ -5869,7 +5869,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "HIST 302",
@@ -6157,7 +6157,7 @@
       "schedule_raw": "M W | 09:00 - 09:50",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "35"
+      "available": "33"
     },
     {
       "course_code": "ISLM 101",
@@ -6385,7 +6385,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "MATH 103",
@@ -6505,7 +6505,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "MCOM 101",
@@ -8029,7 +8029,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Majeed",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "PSYC 101",
@@ -8389,7 +8389,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "PSYC 350",
@@ -8425,7 +8425,7 @@
       "schedule_raw": "T R | 15:30 - 16:45 | W | 15:00 - 16:50",
       "instructor": "S Jabeen",
       "capacity": "30",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "PSYC 360",
@@ -8545,7 +8545,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "PSYC 425",
@@ -8581,7 +8581,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "PSYC 440",
