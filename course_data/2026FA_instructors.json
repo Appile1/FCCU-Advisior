@@ -995,8 +995,8 @@
         "course_code": "BUSN 170",
         "section": "F",
         "course_name": "Principles of Manage",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE346",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE330",
         "unique": "BUSN 170/F"
       }
     ],
@@ -8972,8 +8972,8 @@
         "course_code": "BUSN 201",
         "section": "H",
         "course_name": "Intermediate Account",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE330",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE346",
         "unique": "BUSN 201/H"
       },
       {
