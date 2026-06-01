@@ -1417,11 +1417,29 @@
         "schedule": "M W F | 11:00 - 11:50",
         "classroom": "EBLOCKE333",
         "unique": "BUSN 280/K"
+      },
+      {
+        "course_code": "BUSN 341",
+        "section": "A",
+        "course_name": "Statistics for Busn",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE330",
+        "unique": "BUSN 341/A"
+      },
+      {
+        "course_code": "BUSN 344",
+        "section": "A",
+        "course_name": "Programming Language",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE344",
+        "unique": "BUSN 344/A"
       }
     ],
     "all_courses": [
       "BUSN 250",
       "BUSN 280",
+      "BUSN 341",
+      "BUSN 344",
       "BUSN 382",
       "BUSN 385"
     ]
@@ -3867,11 +3885,11 @@
     "current_courses": [
       {
         "course_code": "CSCS 201",
-        "section": "B",
+        "section": "A",
         "course_name": "Multivariate Calculu",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "SBLOCKS412",
-        "unique": "CSCS 201/B"
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS410",
+        "unique": "CSCS 201/A"
       }
     ],
     "all_courses": [
@@ -3887,11 +3905,11 @@
     "current_courses": [
       {
         "course_code": "CSCS 201",
-        "section": "A",
+        "section": "B",
         "course_name": "Multivariate Calculu",
         "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "SBLOCKS413",
-        "unique": "CSCS 201/A"
+        "classroom": "SBLOCKS412",
+        "unique": "CSCS 201/B"
       },
       {
         "course_code": "CSCS 201",

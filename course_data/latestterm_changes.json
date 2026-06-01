@@ -190,5 +190,37 @@
     "section": "B",
     "instructor": "S Saleem",
     "timestamp": "2026-05-25T05:30:39.574711"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: BUSN 341 (A) - T Alvi",
+    "course_code": "BUSN 341",
+    "section": "A",
+    "instructor": "T Alvi",
+    "timestamp": "2026-06-01T05:30:36.327398"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: BUSN 344 (A) - T Alvi",
+    "course_code": "BUSN 344",
+    "section": "A",
+    "instructor": "T Alvi",
+    "timestamp": "2026-06-01T05:30:36.327411"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 201 (A): K Azhar → F Jamil",
+    "course_code": "CSCS 201",
+    "section": "A",
+    "instructor": "F Jamil",
+    "timestamp": "2026-06-01T05:30:36.327462"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 201 (B): F Jamil → K Azhar",
+    "course_code": "CSCS 201",
+    "section": "B",
+    "instructor": "K Azhar",
+    "timestamp": "2026-06-01T05:30:36.327464"
   }
 ]
