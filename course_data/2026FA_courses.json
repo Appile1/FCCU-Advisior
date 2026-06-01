@@ -6241,7 +6241,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "LING 301",
@@ -7525,7 +7525,7 @@
       "schedule_raw": "T R | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PKST 101",
@@ -7549,7 +7549,7 @@
       "schedule_raw": "M W | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "19"
+      "available": "17"
     },
     {
       "course_code": "PKST 101",
