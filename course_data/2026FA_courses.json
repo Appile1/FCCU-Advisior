@@ -121,7 +121,7 @@
       "schedule_raw": "M W | 08:00 - 08:50 | F | 14:00 - 15:50",
       "instructor": "M Yousaf",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "BIOL 203",
@@ -169,7 +169,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | W | 14:00 - 15:50",
       "instructor": "S Butt",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "BIOL 313",
@@ -6505,7 +6505,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "MCOM 101",
@@ -9277,7 +9277,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Samuel",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "URDU 101",
