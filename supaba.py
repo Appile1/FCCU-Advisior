@@ -198,18 +198,20 @@ def send_course_notifications(roll_number, course, unique):
         except Exception as e:
             print(f"❌ Cleanup failed ({roll_number})")
 
-def process_new_section_notifications():
+def process_new_section_notifications(pending_notifs=None):
     from dateutil.parser import parse as parse_date
     import datetime
     
-    response = (
-        supabase
-        .table("new_section_notifications")
-        .select("*")
-        .eq("status", "pending")
-        .execute()
-    )
-    pending_notifs = response.data or []
+    if pending_notifs is None:
+        response = (
+            supabase
+            .table("new_section_notifications")
+            .select("*")
+            .eq("status", "pending")
+            .execute()
+        )
+        pending_notifs = response.data or []
+        
     if not pending_notifs: return
 
     changes_path = os.path.join(COURSE_DATA_DIR, "latestterm_changes.json")
@@ -350,7 +352,18 @@ def main():
     term_code = get_latest_term_code()
     courses_by_unique = load_courses_for_term(term_code)
     notifications = get_pending_notifications()
-    print(f"✓ Term: {term_code} | Courses: {len(courses_by_unique)} | Pending Alerts: {len(notifications)}")
+    
+    response = (
+        supabase
+        .table("new_section_notifications")
+        .select("*")
+        .eq("status", "pending")
+        .execute()
+    )
+    new_section_notifs = response.data or []
+    
+    total_pending = len(notifications) + len(new_section_notifs)
+    print(f"✓ Term: {term_code} | Courses: {len(courses_by_unique)} | Pending Alerts: {total_pending} (Seat: {len(notifications)}, Section: {len(new_section_notifs)})")
 
     for notif in notifications:
         notif_id = notif.get("id")
@@ -371,7 +384,7 @@ def main():
             mark_as_sent(notif_id)
 
     # Process new section notifications
-    process_new_section_notifications()
+    process_new_section_notifications(new_section_notifs)
 
 if __name__ == "__main__":
     main()
