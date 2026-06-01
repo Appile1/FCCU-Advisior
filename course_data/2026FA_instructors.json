@@ -3894,11 +3894,11 @@
     "current_courses": [
       {
         "course_code": "CSCS 201",
-        "section": "A",
+        "section": "B",
         "course_name": "Multivariate Calculu",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS410",
-        "unique": "CSCS 201/A"
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "SBLOCKS412",
+        "unique": "CSCS 201/B"
       }
     ],
     "all_courses": [
@@ -3914,11 +3914,11 @@
     "current_courses": [
       {
         "course_code": "CSCS 201",
-        "section": "B",
+        "section": "A",
         "course_name": "Multivariate Calculu",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "SBLOCKS412",
-        "unique": "CSCS 201/B"
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS410",
+        "unique": "CSCS 201/A"
       },
       {
         "course_code": "CSCS 201",
@@ -3952,8 +3952,8 @@
         "course_code": "CSCS 320",
         "section": "C",
         "course_name": "Numerical Computing",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS416",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "SBLOCKS410",
         "unique": "CSCS 320/C"
       }
     ],
@@ -5019,8 +5019,8 @@
         "course_code": "MATH 213",
         "section": "A",
         "course_name": "Scientific Computing",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "SBLOCKS410",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS416",
         "unique": "MATH 213/A"
       }
     ],

@@ -37,7 +37,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Ahmad",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "ARTS 111",
@@ -49,7 +49,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Ahmad",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ARTS 121",
@@ -1945,7 +1945,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "BUSN 480",
@@ -3611,7 +3611,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS410",
       "schedule_raw": "T R | 11:00 - 12:15",
-      "instructor": "F Jamil",
+      "instructor": "K Azhar",
       "capacity": "35",
       "available": "34"
     },
@@ -3623,7 +3623,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS412",
       "schedule_raw": "M W F | 10:00 - 10:50",
-      "instructor": "K Azhar",
+      "instructor": "F Jamil",
       "capacity": "35",
       "available": "35"
     },
@@ -3753,8 +3753,8 @@
       "unique": "CSCS 320/C",
       "course_name": "Numerical Computing",
       "credits": "3.00",
-      "classroom": "SBLOCKS416",
-      "schedule_raw": "T R | 09:30 - 10:45",
+      "classroom": "SBLOCKS410",
+      "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "F Ibraheem",
       "capacity": "35",
       "available": "35"
@@ -4969,7 +4969,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Zia",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "ENGL 110",
@@ -5005,7 +5005,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Bokhari",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "ENGL 201",
@@ -6073,7 +6073,7 @@
       "schedule_raw": "T R | 08:00 - 08:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "ISLM 101",
@@ -6453,8 +6453,8 @@
       "unique": "MATH 213/A",
       "course_name": "Scientific Computing",
       "credits": "3.00",
-      "classroom": "SBLOCKS410",
-      "schedule_raw": "M W F | 12:00 - 12:50",
+      "classroom": "SBLOCKS416",
+      "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Ibraheem",
       "capacity": "35",
       "available": "35"
@@ -6529,7 +6529,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "MCOM 105",
@@ -7057,7 +7057,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Shaggan",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "PHIL 101",
@@ -7561,7 +7561,7 @@
       "schedule_raw": "T R | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "PLSC 101",
@@ -8173,7 +8173,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "PSYC 280",
@@ -8233,7 +8233,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "PSYC 298",
@@ -8245,7 +8245,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "PSYC 300",

@@ -366,5 +366,21 @@
     "section": "A",
     "instructor": "D Bakker",
     "timestamp": "2026-06-01T10:00:43.670202"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 201 (A): F Jamil → K Azhar",
+    "course_code": "CSCS 201",
+    "section": "A",
+    "instructor": "K Azhar",
+    "timestamp": "2026-06-01T11:30:43.860255"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 201 (B): K Azhar → F Jamil",
+    "course_code": "CSCS 201",
+    "section": "B",
+    "instructor": "F Jamil",
+    "timestamp": "2026-06-01T11:30:43.860268"
   }
 ]
