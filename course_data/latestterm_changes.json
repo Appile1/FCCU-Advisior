@@ -222,5 +222,125 @@
     "section": "B",
     "instructor": "K Azhar",
     "timestamp": "2026-06-01T05:30:36.327464"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 201 (C): TBD → U Sharif",
+    "course_code": "BUSN 201",
+    "section": "C",
+    "instructor": "U Sharif",
+    "timestamp": "2026-06-01T06:00:47.731597"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 201 (F): TBD → U Sharif",
+    "course_code": "BUSN 201",
+    "section": "F",
+    "instructor": "U Sharif",
+    "timestamp": "2026-06-01T06:00:47.731609"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 201 (G): U Sharif → TBD",
+    "course_code": "BUSN 201",
+    "section": "G",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731611"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 201 (H): U Sharif → TBD",
+    "course_code": "BUSN 201",
+    "section": "H",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731613"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 230 (G): Ambreen K → TBD",
+    "course_code": "BUSN 230",
+    "section": "G",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731617"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 108 (I): J C Imdad → TBD",
+    "course_code": "ENGL 108",
+    "section": "I",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731681"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 108 (J): J C Imdad → TBD",
+    "course_code": "ENGL 108",
+    "section": "J",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731686"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 108 (K): J C Imdad → TBD",
+    "course_code": "ENGL 108",
+    "section": "K",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731688"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 110 (B): N Ahmad → TBD",
+    "course_code": "ENGL 110",
+    "section": "B",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731690"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 322 (A): J C Imdad → TBD",
+    "course_code": "ENGL 322",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731694"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for HPED 101 (B): S Nazir → TBD",
+    "course_code": "HPED 101",
+    "section": "B",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731708"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for HPED 102 (A): S Nazir → TBD",
+    "course_code": "HPED 102",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731709"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for HPED 112 (A): S Nazir → TBD",
+    "course_code": "HPED 112",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731713"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for LING 217 (A): F Aftab → TBD",
+    "course_code": "LING 217",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731717"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for LING 302 (A): F Aftab → TBD",
+    "course_code": "LING 302",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-01T06:00:47.731721"
   }
 ]

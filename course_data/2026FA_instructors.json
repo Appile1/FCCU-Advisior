@@ -1024,19 +1024,19 @@
     "current_courses": [
       {
         "course_code": "BUSN 201",
-        "section": "G",
+        "section": "C",
         "course_name": "Intermediate Account",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE038",
-        "unique": "BUSN 201/G"
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE346",
+        "unique": "BUSN 201/C"
       },
       {
         "course_code": "BUSN 201",
-        "section": "H",
+        "section": "F",
         "course_name": "Intermediate Account",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE330",
-        "unique": "BUSN 201/H"
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE328",
+        "unique": "BUSN 201/F"
       },
       {
         "course_code": "BUSN 201",
@@ -1194,14 +1194,6 @@
     "current_courses": [
       {
         "course_code": "BUSN 230",
-        "section": "G",
-        "course_name": "Entrepreneurship",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE240",
-        "unique": "BUSN 230/G"
-      },
-      {
-        "course_code": "BUSN 230",
         "section": "H",
         "course_name": "Entrepreneurship",
         "schedule": "T R | 14:00 - 15:15",
@@ -1249,8 +1241,8 @@
         "course_code": "BUSN 230",
         "section": "J",
         "course_name": "Entrepreneurship",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE333",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE240",
         "unique": "BUSN 230/J"
       },
       {
@@ -4557,24 +4549,7 @@
     "departments": [
       "LING"
     ],
-    "current_courses": [
-      {
-        "course_code": "LING 217",
-        "section": "A",
-        "course_name": "Introduction to Ling",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE227",
-        "unique": "LING 217/A"
-      },
-      {
-        "course_code": "LING 302",
-        "section": "A",
-        "course_name": "Morphology and Synta",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "EBLOCKE227",
-        "unique": "LING 302/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "LING 217",
       "LING 302"
@@ -4835,7 +4810,7 @@
         "course_code": "MATH 103",
         "section": "A",
         "course_name": "Intro. Lin. Algebra",
-        "schedule": "M W F | 12:00 - 12:50",
+        "schedule": "M W F | 15:00 - 15:50",
         "classroom": "SBLOCKS410",
         "unique": "MATH 103/A"
       },
@@ -5027,7 +5002,7 @@
         "course_code": "MATH 213",
         "section": "A",
         "course_name": "Scientific Computing",
-        "schedule": "M W F | 15:00 - 15:50",
+        "schedule": "M W F | 12:00 - 12:50",
         "classroom": "SBLOCKS410",
         "unique": "MATH 213/A"
       }
@@ -8962,14 +8937,6 @@
       },
       {
         "course_code": "BUSN 201",
-        "section": "C",
-        "course_name": "Intermediate Account",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE346",
-        "unique": "BUSN 201/C"
-      },
-      {
-        "course_code": "BUSN 201",
         "section": "D",
         "course_name": "Intermediate Account",
         "schedule": "M W F | 09:00 - 09:50",
@@ -8980,17 +8947,25 @@
         "course_code": "BUSN 201",
         "section": "E",
         "course_name": "Intermediate Account",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE240",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE333",
         "unique": "BUSN 201/E"
       },
       {
         "course_code": "BUSN 201",
-        "section": "F",
+        "section": "G",
         "course_name": "Intermediate Account",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE328",
-        "unique": "BUSN 201/F"
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE038",
+        "unique": "BUSN 201/G"
+      },
+      {
+        "course_code": "BUSN 201",
+        "section": "H",
+        "course_name": "Intermediate Account",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE330",
+        "unique": "BUSN 201/H"
       },
       {
         "course_code": "BUSN 201",
@@ -8999,6 +8974,14 @@
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "EBLOCKE343",
         "unique": "BUSN 201/K"
+      },
+      {
+        "course_code": "BUSN 230",
+        "section": "G",
+        "course_name": "Entrepreneurship",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE240",
+        "unique": "BUSN 230/G"
       },
       {
         "course_code": "BUSN 230",
@@ -10734,16 +10717,7 @@
     "departments": [
       "ENGL"
     ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 110",
-        "section": "B",
-        "course_name": "Contemp Short Story",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE222",
-        "unique": "ENGL 110/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "ENGL 106",
       "ENGL 110"
@@ -10825,40 +10799,7 @@
     "departments": [
       "ENGL"
     ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 108",
-        "section": "I",
-        "course_name": "Expository Writing",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS412",
-        "unique": "ENGL 108/I"
-      },
-      {
-        "course_code": "ENGL 108",
-        "section": "J",
-        "course_name": "Expository Writing",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE122",
-        "unique": "ENGL 108/J"
-      },
-      {
-        "course_code": "ENGL 108",
-        "section": "K",
-        "course_name": "Expository Writing",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE121",
-        "unique": "ENGL 108/K"
-      },
-      {
-        "course_code": "ENGL 322",
-        "section": "A",
-        "course_name": "American Prose & Fic",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 322/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "ENGL 108",
       "ENGL 201",
@@ -10980,8 +10921,8 @@
         "course_code": "ENGL 403",
         "section": "A",
         "course_name": "Cont Liter. Criticis",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE221",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE222",
         "unique": "ENGL 403/A"
       },
       {
@@ -11091,8 +11032,8 @@
         "course_code": "ENGL 220",
         "section": "A",
         "course_name": "Partition Fiction",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE222",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE221",
         "unique": "ENGL 220/A"
       },
       {
@@ -11768,32 +11709,7 @@
     "departments": [
       "HPED"
     ],
-    "current_courses": [
-      {
-        "course_code": "HPED 101",
-        "section": "B",
-        "course_name": "Cricket for Boys",
-        "schedule": "M W | 16:00 - 17:00",
-        "classroom": "TBDTBD",
-        "unique": "HPED 101/B"
-      },
-      {
-        "course_code": "HPED 102",
-        "section": "A",
-        "course_name": "Football (Boys)",
-        "schedule": "T R | 16:00 - 17:00",
-        "classroom": "GROUNDGROUND",
-        "unique": "HPED 102/A"
-      },
-      {
-        "course_code": "HPED 112",
-        "section": "A",
-        "course_name": "Handball (Girls)",
-        "schedule": "M W | 15:00 - 16:00",
-        "classroom": "TBDTBD",
-        "unique": "HPED 112/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "HPED 101",
       "HPED 102",
@@ -12914,8 +12830,8 @@
         "course_code": "PSYC 750",
         "section": "A",
         "course_name": "Indigenous Instrumen",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE201",
         "unique": "PSYC 750/A"
       }
     ],
@@ -13098,6 +13014,124 @@
     "current_courses": [],
     "all_courses": [
       "CSCS 101"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 108",
+        "section": "I",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS412",
+        "unique": "ENGL 108/I"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "J",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE122",
+        "unique": "ENGL 108/J"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "K",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE121",
+        "unique": "ENGL 108/K"
+      },
+      {
+        "course_code": "ENGL 110",
+        "section": "B",
+        "course_name": "Contemp Short Story",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE222",
+        "unique": "ENGL 110/B"
+      },
+      {
+        "course_code": "ENGL 322",
+        "section": "A",
+        "course_name": "American Prose & Fic",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 322/A"
+      }
+    ],
+    "all_courses": [
+      "ENGL 108",
+      "ENGL 110",
+      "ENGL 322"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "HPED"
+    ],
+    "current_courses": [
+      {
+        "course_code": "HPED 101",
+        "section": "B",
+        "course_name": "Cricket for Boys",
+        "schedule": "M W | 16:00 - 17:00",
+        "classroom": "TBDTBD",
+        "unique": "HPED 101/B"
+      },
+      {
+        "course_code": "HPED 102",
+        "section": "A",
+        "course_name": "Football (Boys)",
+        "schedule": "T R | 16:00 - 17:00",
+        "classroom": "GROUNDGROUND",
+        "unique": "HPED 102/A"
+      },
+      {
+        "course_code": "HPED 112",
+        "section": "A",
+        "course_name": "Handball (Girls)",
+        "schedule": "M W | 15:00 - 16:00",
+        "classroom": "TBDTBD",
+        "unique": "HPED 112/A"
+      }
+    ],
+    "all_courses": [
+      "HPED 101",
+      "HPED 102",
+      "HPED 112"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "LING"
+    ],
+    "current_courses": [
+      {
+        "course_code": "LING 217",
+        "section": "A",
+        "course_name": "Introduction to Ling",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE227",
+        "unique": "LING 217/A"
+      },
+      {
+        "course_code": "LING 302",
+        "section": "A",
+        "course_name": "Morphology and Synta",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE227",
+        "unique": "LING 302/A"
+      }
+    ],
+    "all_courses": [
+      "LING 217",
+      "LING 302"
     ]
   }
 ]
