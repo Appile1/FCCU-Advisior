@@ -3223,7 +3223,16 @@
     "departments": [
       "COMP"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "COMP 421",
+        "section": "B",
+        "course_name": "Information Security",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "SBLOCKS316",
+        "unique": "COMP 421/B"
+      }
+    ],
     "all_courses": [
       "COMP 303",
       "COMP 421"

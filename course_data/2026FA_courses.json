@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 790,
+  "total_courses": 791,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -25,7 +25,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ARTS 103",
@@ -37,7 +37,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Ahmad",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ARTS 111",
@@ -2808,8 +2808,8 @@
       "classroom": "SBLOCKS319",
       "schedule_raw": "W F | 11:00 - 12:50",
       "instructor": "N Sabahat",
-      "capacity": "25",
-      "available": "25"
+      "capacity": "35",
+      "available": "35"
     },
     {
       "course_code": "COMP 220",
@@ -3098,6 +3098,18 @@
       "instructor": "A Basharat",
       "capacity": "35",
       "available": "20"
+    },
+    {
+      "course_code": "COMP 421",
+      "section": "B",
+      "unique": "COMP 421/B",
+      "course_name": "Information Security",
+      "credits": "3.00",
+      "classroom": "SBLOCKS316",
+      "schedule_raw": "M W F | 12:00 - 12:50",
+      "instructor": "S Saleem",
+      "capacity": "35",
+      "available": "35"
     },
     {
       "course_code": "COMP 451",
@@ -3840,8 +3852,8 @@
       "classroom": "SBLOCKS412",
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "F Ullah",
-      "capacity": "25",
-      "available": "22"
+      "capacity": "35",
+      "available": "32"
     },
     {
       "course_code": "CSCS 460",
@@ -4837,7 +4849,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ENGL 108",
@@ -5701,7 +5713,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "K Shafiqu",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "GEOG 323",
@@ -5929,7 +5941,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "HIST 313",
@@ -5977,7 +5989,7 @@
       "schedule_raw": "M W | 16:00 - 17:00",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "HPED 102",
@@ -6493,7 +6505,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "MCOM 101",
@@ -7501,7 +7513,7 @@
       "schedule_raw": "T R | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "PKST 101",
@@ -8017,7 +8029,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "E Shahid",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "PSYC 105",
@@ -8125,7 +8137,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | F | 15:00 - 16:50",
       "instructor": "K Safdar",
       "capacity": "30",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "PSYC 240",
@@ -8257,7 +8269,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "34"
+      "available": "32"
     },
     {
       "course_code": "PSYC 305",
@@ -8485,7 +8497,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Nazim",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "PSYC 395",
@@ -8545,7 +8557,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Shahed",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "PSYC 440",
@@ -8593,7 +8605,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | T | 09:00 - 10:50",
       "instructor": "N Khan",
       "capacity": "30",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "PSYC 470",
@@ -9037,7 +9049,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Amjad",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "SOCL 350",
