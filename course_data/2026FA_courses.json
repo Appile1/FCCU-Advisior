@@ -457,7 +457,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 09:30 - 10:45",
       "instructor": "M Imran",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BIOT 409",
@@ -469,7 +469,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Muaz",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "BIOT 411",
@@ -7285,7 +7285,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "MCOM 304",
@@ -7297,7 +7297,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "MCOM 308",
@@ -9745,7 +9745,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Butt",
       "capacity": "35",
-      "available": "34"
+      "available": "32"
     },
     {
       "course_code": "STAT 100",
