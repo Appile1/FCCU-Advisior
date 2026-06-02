@@ -6,7 +6,7 @@ import re
 import random
 import urllib3
 from collections import defaultdict
-from datetime import datetime
+from datetime import datetime, timezone
 
 
 # ================= SSL FIX =================
@@ -302,7 +302,7 @@ def track_course_changes(new_courses, term_code):
                 "course_code": new_course["course_code"],
                 "section": new_course["section"],
                 "instructor": new_course["instructor"],
-                "timestamp": datetime.now().isoformat()
+                "timestamp": datetime.now(timezone.utc).isoformat()
             })
             continue
 
@@ -318,7 +318,7 @@ def track_course_changes(new_courses, term_code):
                 "course_code": new_course["course_code"],
                 "section": new_course["section"],
                 "instructor": new_inst,  # only keep latest instructor
-                "timestamp": datetime.now().isoformat()
+                "timestamp": datetime.now(timezone.utc).isoformat()
             })
 
     # ================= NO CHANGES =================
