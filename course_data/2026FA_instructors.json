@@ -7763,8 +7763,8 @@
         "course_code": "SOCL 325",
         "section": "A",
         "course_name": "Sociology of Gender",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE121",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE103",
         "unique": "SOCL 325/A"
       }
     ],
@@ -7787,8 +7787,8 @@
         "course_code": "SOCL 100",
         "section": "F",
         "course_name": "Intro to Sociology",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE103",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE121",
         "unique": "SOCL 100/F"
       },
       {
