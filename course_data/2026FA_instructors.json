@@ -2671,7 +2671,24 @@
     "departments": [
       "CHIN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "CHIN 101",
+        "section": "A",
+        "course_name": "Chinese I",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE244",
+        "unique": "CHIN 101/A"
+      },
+      {
+        "course_code": "CHIN 101",
+        "section": "B",
+        "course_name": "Chinese I",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE244",
+        "unique": "CHIN 101/B"
+      }
+    ],
     "all_courses": [
       "CHIN 101"
     ]
@@ -4526,9 +4543,27 @@
     "departments": [
       "KORN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "KORN 101",
+        "section": "A",
+        "course_name": "Korean I",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE244",
+        "unique": "KORN 101/A"
+      },
+      {
+        "course_code": "KORN 102",
+        "section": "A",
+        "course_name": "Korean II",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE244",
+        "unique": "KORN 102/A"
+      }
+    ],
     "all_courses": [
-      "KORN 101"
+      "KORN 101",
+      "KORN 102"
     ]
   },
   {
@@ -10237,8 +10272,8 @@
         "course_code": "ECON 303",
         "section": "B",
         "course_name": "Environ Economics",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE203",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE202",
         "unique": "ECON 303/B"
       },
       {
@@ -10267,8 +10302,8 @@
         "course_code": "ECON 202",
         "section": "B",
         "course_name": "Intr. Macroecnomics",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE202",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE203",
         "unique": "ECON 202/B"
       },
       {
@@ -11595,9 +11630,27 @@
     "departments": [
       "GRMN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "GRMN 101",
+        "section": "C",
+        "course_name": "German I",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE244",
+        "unique": "GRMN 101/C"
+      },
+      {
+        "course_code": "GRMN 102",
+        "section": "A",
+        "course_name": "German II",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE244",
+        "unique": "GRMN 102/A"
+      }
+    ],
     "all_courses": [
-      "GRMN 101"
+      "GRMN 101",
+      "GRMN 102"
     ]
   },
   {
@@ -11605,7 +11658,24 @@
     "departments": [
       "GRMN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "GRMN 101",
+        "section": "A",
+        "course_name": "German I",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE244",
+        "unique": "GRMN 101/A"
+      },
+      {
+        "course_code": "GRMN 101",
+        "section": "B",
+        "course_name": "German I",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE244",
+        "unique": "GRMN 101/B"
+      }
+    ],
     "all_courses": [
       "GRMN 101"
     ]
@@ -12496,7 +12566,40 @@
     "departments": [
       "FREN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "FREN 101",
+        "section": "A",
+        "course_name": "French 1",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE244",
+        "unique": "FREN 101/A"
+      },
+      {
+        "course_code": "FREN 101",
+        "section": "B",
+        "course_name": "French 1",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE244",
+        "unique": "FREN 101/B"
+      },
+      {
+        "course_code": "FREN 101",
+        "section": "C",
+        "course_name": "French 1",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE103",
+        "unique": "FREN 101/C"
+      },
+      {
+        "course_code": "FREN 101",
+        "section": "D",
+        "course_name": "French 1",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS212",
+        "unique": "FREN 101/D"
+      }
+    ],
     "all_courses": [
       "FREN 101"
     ]
