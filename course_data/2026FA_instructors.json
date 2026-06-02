@@ -4746,7 +4746,24 @@
     "departments": [
       "MATH"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "MATH 095",
+        "section": "A",
+        "course_name": "Math Remedial",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "SBLOCKS420",
+        "unique": "MATH 095/A"
+      },
+      {
+        "course_code": "MATH 095",
+        "section": "B",
+        "course_name": "Math Remedial",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS420",
+        "unique": "MATH 095/B"
+      }
+    ],
     "all_courses": [
       "MATH 095"
     ]
@@ -5119,7 +5136,16 @@
     "departments": [
       "MATH"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "MATH 410",
+        "section": "A",
+        "course_name": "Quantum Mechanics 1",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "SBLOCKS016",
+        "unique": "MATH 410/A"
+      }
+    ],
     "all_courses": [
       "MATH 410",
       "MATH 411"
