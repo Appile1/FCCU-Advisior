@@ -1333,7 +1333,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A George",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "BUSN 321",
@@ -1609,7 +1609,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Q Khan",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "BUSN 383",
@@ -1633,7 +1633,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "I Nasir",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "BUSN 385",
@@ -1669,7 +1669,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "U Javaid",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BUSN 385",
@@ -1837,7 +1837,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Naumaan Ch",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "BUSN 460",
@@ -1993,7 +1993,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 485",
@@ -2737,7 +2737,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "Z Kexin",
       "capacity": "10",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "COMP 111",
@@ -3673,7 +3673,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 105",
@@ -4681,7 +4681,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "ECON 402",
@@ -5701,7 +5701,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ENVR 252",
@@ -5725,7 +5725,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "ENVR 323",
@@ -6253,7 +6253,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "HIST 204",
@@ -6721,7 +6721,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "LING 319",
@@ -7609,7 +7609,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "PHIL 101",
@@ -7705,7 +7705,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | F | 14:00 - 15:50",
       "instructor": "S Shah",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "PHYS 101",
@@ -7729,7 +7729,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | T | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "PHYS 102",
@@ -8749,7 +8749,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khan",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "PSYC 285",
@@ -8845,7 +8845,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "PSYC 305",
@@ -8881,7 +8881,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "U Ashiq",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "PSYC 310",
@@ -8977,7 +8977,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | M | 15:00 - 16:50",
       "instructor": "N Asif",
       "capacity": "30",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "PSYC 354",
@@ -9013,7 +9013,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | R | 09:00 - 10:50",
       "instructor": "U Rizwan",
       "capacity": "30",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PSYC 370",
@@ -9061,7 +9061,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Majeed",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "PSYC 385",
@@ -9145,7 +9145,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "PSYC 440",
@@ -9169,7 +9169,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | T | 14:00 - 15:50",
       "instructor": "A aziz",
       "capacity": "30",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "PSYC 465",
@@ -9913,7 +9913,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Ashraf",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "URDU 101",
@@ -10069,7 +10069,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "N Jamal",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "URDU 101",
