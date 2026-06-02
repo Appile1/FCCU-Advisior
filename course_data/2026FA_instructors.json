@@ -105,6 +105,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "BIOL 100",
+        "section": "A",
+        "course_name": "*Intro.  Biology",
+        "schedule": "M W | 12:00 - 12:50 | M | 14:00 - 15:50",
+        "classroom": "SBLOCKS331 | SBLOCKS329",
+        "unique": "BIOL 100/A"
+      },
+      {
         "course_code": "BIOL 203",
         "section": "A",
         "course_name": "*General Genetics",
@@ -165,7 +173,16 @@
     "departments": [
       "BIOL"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BIOL 100",
+        "section": "E",
+        "course_name": "*Intro.  Biology",
+        "schedule": "T R | 09:30 - 10:20 | F | 14:00 - 15:50",
+        "classroom": "SBLOCKS341 | SBLOCKS321",
+        "unique": "BIOL 100/E"
+      }
+    ],
     "all_courses": [
       "BIOL 100",
       "BIOL 415"
@@ -229,6 +246,14 @@
       "BIOL"
     ],
     "current_courses": [
+      {
+        "course_code": "BIOL 100",
+        "section": "D",
+        "course_name": "*Intro.  Biology",
+        "schedule": "M W | 09:00 - 09:50 | M | 14:00 - 15:50",
+        "classroom": "SBLOCKS312 | SBLOCKS331",
+        "unique": "BIOL 100/D"
+      },
       {
         "course_code": "BIOL 222",
         "section": "A",
@@ -2266,6 +2291,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "CHEM 100",
+        "section": "E",
+        "course_name": "*Intro. to Chemistry",
+        "schedule": "M W | 09:00 - 09:50 | R | 14:00 - 15:50",
+        "classroom": "SBLOCKS213 | SBLOCKS148",
+        "unique": "CHEM 100/E"
+      },
+      {
         "course_code": "CHEM 170",
         "section": "A",
         "course_name": "*Inro. Physical Chem",
@@ -2375,6 +2408,14 @@
       "CHEM"
     ],
     "current_courses": [
+      {
+        "course_code": "CHEM 100",
+        "section": "F",
+        "course_name": "*Intro. to Chemistry",
+        "schedule": "M W | 11:00 - 11:50 | W | 09:00 - 10:50",
+        "classroom": "SBLOCKS210 | SBLOCKS148",
+        "unique": "CHEM 100/F"
+      },
       {
         "course_code": "CHEM 150",
         "section": "C",
@@ -2671,7 +2712,24 @@
     "departments": [
       "CHIN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "CHIN 101",
+        "section": "A",
+        "course_name": "Chinese I",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE244",
+        "unique": "CHIN 101/A"
+      },
+      {
+        "course_code": "CHIN 101",
+        "section": "B",
+        "course_name": "Chinese I",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE244",
+        "unique": "CHIN 101/B"
+      }
+    ],
     "all_courses": [
       "CHIN 101"
     ]
@@ -3055,32 +3113,7 @@
     "departments": [
       "COMP"
     ],
-    "current_courses": [
-      {
-        "course_code": "COMP 302",
-        "section": "C",
-        "course_name": "Theory of Automata",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "SBLOCKS316",
-        "unique": "COMP 302/C"
-      },
-      {
-        "course_code": "COMP 303",
-        "section": "A",
-        "course_name": "D&A of Algorithms",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "SBLOCKS316",
-        "unique": "COMP 303/A"
-      },
-      {
-        "course_code": "COMP 303",
-        "section": "B",
-        "course_name": "D&A of Algorithms",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "SBLOCKS320",
-        "unique": "COMP 303/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "COMP 302",
       "COMP 303",
@@ -4526,9 +4559,27 @@
     "departments": [
       "KORN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "KORN 101",
+        "section": "A",
+        "course_name": "Korean I",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE244",
+        "unique": "KORN 101/A"
+      },
+      {
+        "course_code": "KORN 102",
+        "section": "A",
+        "course_name": "Korean II",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE244",
+        "unique": "KORN 102/A"
+      }
+    ],
     "all_courses": [
-      "KORN 101"
+      "KORN 101",
+      "KORN 102"
     ]
   },
   {
@@ -4695,7 +4746,24 @@
     "departments": [
       "MATH"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "MATH 095",
+        "section": "A",
+        "course_name": "Math Remedial",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "SBLOCKS420",
+        "unique": "MATH 095/A"
+      },
+      {
+        "course_code": "MATH 095",
+        "section": "B",
+        "course_name": "Math Remedial",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS420",
+        "unique": "MATH 095/B"
+      }
+    ],
     "all_courses": [
       "MATH 095"
     ]
@@ -4718,7 +4786,24 @@
     "departments": [
       "MATH"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "MATH 108",
+        "section": "C",
+        "course_name": "QR-I (Basic)",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS412",
+        "unique": "MATH 108/C"
+      },
+      {
+        "course_code": "MATH 109",
+        "section": "B",
+        "course_name": "QR-I (Advanced)",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS410",
+        "unique": "MATH 109/B"
+      }
+    ],
     "all_courses": [
       "MATH 100",
       "MATH 108",
@@ -4754,6 +4839,14 @@
         "schedule": "M W F | 11:00 - 11:50",
         "classroom": "SBLOCKS410",
         "unique": "MATH 102/C"
+      },
+      {
+        "course_code": "MATH 111",
+        "section": "B",
+        "course_name": "Calc & Analy Geom",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS410",
+        "unique": "MATH 111/B"
       }
     ],
     "all_courses": [
@@ -4783,7 +4876,16 @@
     "departments": [
       "MATH"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "MATH 108",
+        "section": "D",
+        "course_name": "QR-I (Basic)",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS410",
+        "unique": "MATH 108/D"
+      }
+    ],
     "all_courses": [
       "MATH 100",
       "MATH 101",
@@ -5034,7 +5136,16 @@
     "departments": [
       "MATH"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "MATH 410",
+        "section": "A",
+        "course_name": "Quantum Mechanics 1",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "SBLOCKS016",
+        "unique": "MATH 410/A"
+      }
+    ],
     "all_courses": [
       "MATH 410",
       "MATH 411"
@@ -5789,6 +5900,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "PHYS 100",
+        "section": "B",
+        "course_name": "*Intro. to Physics",
+        "schedule": "T R | 11:00 - 11:50 | W | 14:00 - 16:00",
+        "classroom": "SBLOCKS039 | SBLOCKS027A",
+        "unique": "PHYS 100/B"
+      },
+      {
         "course_code": "PHYS 101",
         "section": "B",
         "course_name": "*General Physics I",
@@ -6107,6 +6226,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "PHYS 100",
+        "section": "A",
+        "course_name": "*Intro. to Physics",
+        "schedule": "T R | 14:00 - 14:50 | F | 14:00 - 16:00",
+        "classroom": "SBLOCKS007 | SBLOCKS027A",
+        "unique": "PHYS 100/A"
+      },
+      {
         "course_code": "PHYS 221",
         "section": "A",
         "course_name": "Elect. & Magnetism",
@@ -6148,6 +6275,7 @@
       }
     ],
     "all_courses": [
+      "PHYS 100",
       "PHYS 221",
       "PHYS 331",
       "PHYS 342",
@@ -7578,6 +7706,14 @@
         "unique": "SOCL 100/G"
       },
       {
+        "course_code": "SOCL 290",
+        "section": "A",
+        "course_name": "Political Sociology",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE228",
+        "unique": "SOCL 290/A"
+      },
+      {
         "course_code": "SOCL 465",
         "section": "A",
         "course_name": "Socl of Sport/Leisur",
@@ -7591,6 +7727,7 @@
       "SOCL 104",
       "SOCL 110",
       "SOCL 223",
+      "SOCL 290",
       "SOCL 335",
       "SOCL 445",
       "SOCL 465"
@@ -7728,8 +7865,8 @@
         "course_code": "SOCL 325",
         "section": "A",
         "course_name": "Sociology of Gender",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE121",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE103",
         "unique": "SOCL 325/A"
       }
     ],
@@ -7752,8 +7889,8 @@
         "course_code": "SOCL 100",
         "section": "F",
         "course_name": "Intro to Sociology",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE103",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE121",
         "unique": "SOCL 100/F"
       },
       {
@@ -7806,7 +7943,16 @@
     "departments": [
       "STAT"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "STAT 100",
+        "section": "A",
+        "course_name": "Stats For Everyone",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 100/A"
+      }
+    ],
     "all_courses": [
       "STAT 100",
       "STAT 101"
@@ -7817,14 +7963,32 @@
     "departments": [
       "STAT"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "STAT 115",
+        "section": "A",
+        "course_name": "Probability & Stat.",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 115/A"
+      },
+      {
+        "course_code": "STAT 518",
+        "section": "A",
+        "course_name": "Adv.Machine Learning",
+        "schedule": "T R | 16:00 - 17:30",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 518/A"
+      }
+    ],
     "all_courses": [
       "STAT 100",
       "STAT 115",
       "STAT 301",
       "STAT 405",
       "STAT 414",
-      "STAT 506"
+      "STAT 506",
+      "STAT 518"
     ]
   },
   {
@@ -7832,7 +7996,24 @@
     "departments": [
       "STAT"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "STAT 100",
+        "section": "C",
+        "course_name": "Stats For Everyone",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS425",
+        "unique": "STAT 100/C"
+      },
+      {
+        "course_code": "STAT 516",
+        "section": "A",
+        "course_name": "Stat. Qual. Control",
+        "schedule": "M W | 17:30 - 19:00",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 516/A"
+      }
+    ],
     "all_courses": [
       "STAT 100",
       "STAT 101",
@@ -7845,7 +8026,24 @@
     "departments": [
       "STAT"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "STAT 100",
+        "section": "B",
+        "course_name": "Stats For Everyone",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 100/B"
+      },
+      {
+        "course_code": "STAT 101",
+        "section": "A",
+        "course_name": "Statistical Methods",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS424",
+        "unique": "STAT 101/A"
+      }
+    ],
     "all_courses": [
       "STAT 100",
       "STAT 101"
@@ -7856,7 +8054,24 @@
     "departments": [
       "STAT"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "STAT 101",
+        "section": "B",
+        "course_name": "Statistical Methods",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 101/B"
+      },
+      {
+        "course_code": "STAT 115",
+        "section": "C",
+        "course_name": "Probability & Stat.",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 115/C"
+      }
+    ],
     "all_courses": [
       "STAT 100",
       "STAT 101",
@@ -7882,7 +8097,24 @@
     "departments": [
       "STAT"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "STAT 103",
+        "section": "A",
+        "course_name": "Quan Meth. in Scl.Sc",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS320",
+        "unique": "STAT 103/A"
+      },
+      {
+        "course_code": "STAT 115",
+        "section": "B",
+        "course_name": "Probability & Stat.",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 115/B"
+      }
+    ],
     "all_courses": [
       "STAT 100",
       "STAT 101",
@@ -7905,13 +8137,23 @@
     "departments": [
       "STAT"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "STAT 519",
+        "section": "A",
+        "course_name": "Probability Models",
+        "schedule": "T R | 17:30 - 19:00",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 519/A"
+      }
+    ],
     "all_courses": [
       "STAT 102",
       "STAT 206",
       "STAT 304",
       "STAT 403",
-      "STAT 501"
+      "STAT 501",
+      "STAT 519"
     ]
   },
   {
@@ -7931,7 +8173,16 @@
     "departments": [
       "STAT"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "STAT 212",
+        "section": "A",
+        "course_name": "Research Methods and",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "SBLOCKS320",
+        "unique": "STAT 212/A"
+      }
+    ],
     "all_courses": [
       "STAT 100",
       "STAT 101",
@@ -7949,13 +8200,23 @@
     "departments": [
       "STAT"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "STAT 517",
+        "section": "A",
+        "course_name": "Adv. Data Visualizat",
+        "schedule": "M W | 16:00 - 17:30",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 517/A"
+      }
+    ],
     "all_courses": [
       "STAT 101",
       "STAT 115",
       "STAT 302",
       "STAT 317",
-      "STAT 503"
+      "STAT 503",
+      "STAT 517"
     ]
   },
   {
@@ -9476,8 +9737,35 @@
     "departments": [
       "COMP"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "COMP 302",
+        "section": "C",
+        "course_name": "Theory of Automata",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS316",
+        "unique": "COMP 302/C"
+      },
+      {
+        "course_code": "COMP 303",
+        "section": "A",
+        "course_name": "D&A of Algorithms",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS316",
+        "unique": "COMP 303/A"
+      },
+      {
+        "course_code": "COMP 303",
+        "section": "B",
+        "course_name": "D&A of Algorithms",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS320",
+        "unique": "COMP 303/B"
+      }
+    ],
     "all_courses": [
+      "COMP 302",
+      "COMP 303",
       "COMP 504"
     ]
   },
@@ -10116,14 +10404,6 @@
         "schedule": "M W F | 10:00 - 10:50",
         "classroom": "EBLOCKE204",
         "unique": "ECON 402/A"
-      },
-      {
-        "course_code": "ECON 402",
-        "section": "B",
-        "course_name": "Proj  Plan & Apprais",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE203",
-        "unique": "ECON 402/B"
       }
     ],
     "all_courses": [
@@ -10237,8 +10517,8 @@
         "course_code": "ECON 303",
         "section": "B",
         "course_name": "Environ Economics",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE203",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE202",
         "unique": "ECON 303/B"
       },
       {
@@ -10267,8 +10547,8 @@
         "course_code": "ECON 202",
         "section": "B",
         "course_name": "Intr. Macroecnomics",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE202",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE203",
         "unique": "ECON 202/B"
       },
       {
@@ -11595,9 +11875,27 @@
     "departments": [
       "GRMN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "GRMN 101",
+        "section": "C",
+        "course_name": "German I",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE244",
+        "unique": "GRMN 101/C"
+      },
+      {
+        "course_code": "GRMN 102",
+        "section": "A",
+        "course_name": "German II",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE244",
+        "unique": "GRMN 102/A"
+      }
+    ],
     "all_courses": [
-      "GRMN 101"
+      "GRMN 101",
+      "GRMN 102"
     ]
   },
   {
@@ -11605,7 +11903,24 @@
     "departments": [
       "GRMN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "GRMN 101",
+        "section": "A",
+        "course_name": "German I",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE244",
+        "unique": "GRMN 101/A"
+      },
+      {
+        "course_code": "GRMN 101",
+        "section": "B",
+        "course_name": "German I",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE244",
+        "unique": "GRMN 101/B"
+      }
+    ],
     "all_courses": [
       "GRMN 101"
     ]
@@ -11895,14 +12210,6 @@
         "schedule": "T R | 15:30 - 16:45",
         "classroom": "EBLOCKE105",
         "unique": "SOCL 201/A"
-      },
-      {
-        "course_code": "SOCL 290",
-        "section": "A",
-        "course_name": "Political Sociology",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE228",
-        "unique": "SOCL 290/A"
       }
     ],
     "all_courses": [
@@ -11932,7 +12239,7 @@
         "course_code": "SOCL 100",
         "section": "N",
         "course_name": "Intro to Sociology",
-        "schedule": "T R | 12:30 - 13:45",
+        "schedule": "T R | 08:00 - 09:15",
         "classroom": "EBLOCKE104",
         "unique": "SOCL 100/N"
       },
@@ -11940,7 +12247,7 @@
         "course_code": "SOCL 425",
         "section": "A",
         "course_name": "Sociology of Work",
-        "schedule": "T R | 08:00 - 09:15",
+        "schedule": "T R | 12:30 - 13:45",
         "classroom": "EBLOCKE104",
         "unique": "SOCL 425/A"
       }
@@ -12496,7 +12803,40 @@
     "departments": [
       "FREN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "FREN 101",
+        "section": "A",
+        "course_name": "French 1",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE244",
+        "unique": "FREN 101/A"
+      },
+      {
+        "course_code": "FREN 101",
+        "section": "B",
+        "course_name": "French 1",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE244",
+        "unique": "FREN 101/B"
+      },
+      {
+        "course_code": "FREN 101",
+        "section": "C",
+        "course_name": "French 1",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE103",
+        "unique": "FREN 101/C"
+      },
+      {
+        "course_code": "FREN 101",
+        "section": "D",
+        "course_name": "French 1",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS212",
+        "unique": "FREN 101/D"
+      }
+    ],
     "all_courses": [
       "FREN 101"
     ]
@@ -13150,6 +13490,310 @@
     "all_courses": [
       "LING 217",
       "LING 302"
+    ]
+  },
+  {
+    "name": "A Tayyab",
+    "departments": [
+      "DATA"
+    ],
+    "current_courses": [
+      {
+        "course_code": "DATA 101",
+        "section": "C",
+        "course_name": "Statistical Methods",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS115",
+        "unique": "DATA 101/C"
+      }
+    ],
+    "all_courses": [
+      "DATA 101"
+    ]
+  },
+  {
+    "name": "R Butt",
+    "departments": [
+      "DATA"
+    ],
+    "current_courses": [
+      {
+        "course_code": "DATA 101",
+        "section": "D",
+        "course_name": "Statistical Methods",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 101/D"
+      },
+      {
+        "course_code": "DATA 207",
+        "section": "C",
+        "course_name": "Business Analytics",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS425",
+        "unique": "DATA 207/C"
+      }
+    ],
+    "all_courses": [
+      "DATA 101",
+      "DATA 207"
+    ]
+  },
+  {
+    "name": "M Raza",
+    "departments": [
+      "DATA"
+    ],
+    "current_courses": [
+      {
+        "course_code": "DATA 101",
+        "section": "E",
+        "course_name": "Statistical Methods",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS420",
+        "unique": "DATA 101/E"
+      },
+      {
+        "course_code": "DATA 302",
+        "section": "A",
+        "course_name": "Bayesian Statistics",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS425",
+        "unique": "DATA 302/A"
+      }
+    ],
+    "all_courses": [
+      "DATA 101",
+      "DATA 302"
+    ]
+  },
+  {
+    "name": "S Bashir",
+    "departments": [
+      "DATA"
+    ],
+    "current_courses": [
+      {
+        "course_code": "DATA 102",
+        "section": "A",
+        "course_name": "Prob & Prob Distribu",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS425",
+        "unique": "DATA 102/A"
+      },
+      {
+        "course_code": "DATA 206",
+        "section": "B",
+        "course_name": "Fundamentals of Data",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 206/B"
+      },
+      {
+        "course_code": "DATA 206",
+        "section": "C",
+        "course_name": "Fundamentals of Data",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 206/C"
+      }
+    ],
+    "all_courses": [
+      "DATA 102",
+      "DATA 206"
+    ]
+  },
+  {
+    "name": "S Ayub",
+    "departments": [
+      "DATA"
+    ],
+    "current_courses": [
+      {
+        "course_code": "DATA 102",
+        "section": "B",
+        "course_name": "Prob & Prob Distribu",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS420",
+        "unique": "DATA 102/B"
+      },
+      {
+        "course_code": "DATA 102",
+        "section": "C",
+        "course_name": "Prob & Prob Distribu",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS425",
+        "unique": "DATA 102/C"
+      },
+      {
+        "course_code": "DATA 202",
+        "section": "B",
+        "course_name": "Python for Data Anal",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS420",
+        "unique": "DATA 202/B"
+      }
+    ],
+    "all_courses": [
+      "DATA 102",
+      "DATA 202"
+    ]
+  },
+  {
+    "name": "M Mughal",
+    "departments": [
+      "DATA"
+    ],
+    "current_courses": [
+      {
+        "course_code": "DATA 201",
+        "section": "A",
+        "course_name": "Statistical Inferenc",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS420",
+        "unique": "DATA 201/A"
+      },
+      {
+        "course_code": "DATA 207",
+        "section": "A",
+        "course_name": "Business Analytics",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 207/A"
+      },
+      {
+        "course_code": "DATA 207",
+        "section": "B",
+        "course_name": "Business Analytics",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS420",
+        "unique": "DATA 207/B"
+      },
+      {
+        "course_code": "DATA 301",
+        "section": "A",
+        "course_name": "Database Sys & SQL",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS420",
+        "unique": "DATA 301/A"
+      }
+    ],
+    "all_courses": [
+      "DATA 201",
+      "DATA 207",
+      "DATA 301"
+    ]
+  },
+  {
+    "name": "A Sarwar",
+    "departments": [
+      "DATA"
+    ],
+    "current_courses": [
+      {
+        "course_code": "DATA 202",
+        "section": "A",
+        "course_name": "Python for Data Anal",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS420",
+        "unique": "DATA 202/A"
+      }
+    ],
+    "all_courses": [
+      "DATA 202"
+    ]
+  },
+  {
+    "name": "S Hanook",
+    "departments": [
+      "DATA"
+    ],
+    "current_courses": [
+      {
+        "course_code": "DATA 206",
+        "section": "A",
+        "course_name": "Fundamentals of Data",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 206/A"
+      }
+    ],
+    "all_courses": [
+      "DATA 206"
+    ]
+  },
+  {
+    "name": "I Naqvi",
+    "departments": [
+      "DATA"
+    ],
+    "current_courses": [
+      {
+        "course_code": "DATA 300",
+        "section": "A",
+        "course_name": "Data Mining",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 300/A"
+      },
+      {
+        "course_code": "DATA 317",
+        "section": "A",
+        "course_name": "Data Visualization",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 317/A"
+      }
+    ],
+    "all_courses": [
+      "DATA 300",
+      "DATA 317"
+    ]
+  },
+  {
+    "name": "S Samuel",
+    "departments": [
+      "DATA"
+    ],
+    "current_courses": [
+      {
+        "course_code": "DATA 317",
+        "section": "B",
+        "course_name": "Data Visualization",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "SBLOCKS425",
+        "unique": "DATA 317/B"
+      }
+    ],
+    "all_courses": [
+      "DATA 317"
+    ]
+  },
+  {
+    "name": "N Mushtaq",
+    "departments": [
+      "DATA"
+    ],
+    "current_courses": [
+      {
+        "course_code": "DATA 414",
+        "section": "A",
+        "course_name": "Machine Learning",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS420",
+        "unique": "DATA 414/A"
+      },
+      {
+        "course_code": "DATA 414",
+        "section": "B",
+        "course_name": "Machine Learning",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 414/B"
+      }
+    ],
+    "all_courses": [
+      "DATA 414"
     ]
   }
 ]
