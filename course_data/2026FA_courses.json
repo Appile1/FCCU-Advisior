@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 805,
+  "total_courses": 851,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -88,6 +88,42 @@
       "available": "33"
     },
     {
+      "course_code": "BIOL 100",
+      "section": "A",
+      "unique": "BIOL 100/A",
+      "course_name": "*Intro.  Biology",
+      "credits": "3.00",
+      "classroom": "SBLOCKS331 | SBLOCKS329",
+      "schedule_raw": "M W | 12:00 - 12:50 | M | 14:00 - 15:50",
+      "instructor": "I  Khokhar",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "BIOL 100",
+      "section": "D",
+      "unique": "BIOL 100/D",
+      "course_name": "*Intro.  Biology",
+      "credits": "3.00",
+      "classroom": "SBLOCKS312 | SBLOCKS331",
+      "schedule_raw": "M W | 09:00 - 09:50 | M | 14:00 - 15:50",
+      "instructor": "S Butt",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "BIOL 100",
+      "section": "E",
+      "unique": "BIOL 100/E",
+      "course_name": "*Intro.  Biology",
+      "credits": "3.00",
+      "classroom": "SBLOCKS341 | SBLOCKS321",
+      "schedule_raw": "T R | 09:30 - 10:20 | F | 14:00 - 15:50",
+      "instructor": "B Sadiq",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
       "course_code": "BIOL 102",
       "section": "A",
       "unique": "BIOL 102/A",
@@ -157,7 +193,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | T | 11:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "BIOL 222",
@@ -1273,7 +1309,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A George",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BUSN 321",
@@ -1525,7 +1561,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Mughal",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "BUSN 383",
@@ -1753,7 +1789,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "21"
+      "available": "19"
     },
     {
       "course_code": "BUSN 460",
@@ -1801,7 +1837,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Naumaan Ch",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BUSN 460",
@@ -1849,7 +1885,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "BUSN 461",
@@ -1861,7 +1897,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Malik",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "BUSN 464",
@@ -1873,7 +1909,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "I yusuf",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BUSN 464",
@@ -1885,7 +1921,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Malik",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "BUSN 480",
@@ -1993,7 +2029,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "Ambreen K",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 485",
@@ -2005,7 +2041,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "BUSN 485",
@@ -2260,6 +2296,30 @@
       "available": "35"
     },
     {
+      "course_code": "CHEM 100",
+      "section": "E",
+      "unique": "CHEM 100/E",
+      "course_name": "*Intro. to Chemistry",
+      "credits": "3.00",
+      "classroom": "SBLOCKS213 | SBLOCKS148",
+      "schedule_raw": "M W | 09:00 - 09:50 | R | 14:00 - 15:50",
+      "instructor": "M Qamar",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "CHEM 100",
+      "section": "F",
+      "unique": "CHEM 100/F",
+      "course_name": "*Intro. to Chemistry",
+      "credits": "3.00",
+      "classroom": "SBLOCKS210 | SBLOCKS148",
+      "schedule_raw": "M W | 11:00 - 11:50 | W | 09:00 - 10:50",
+      "instructor": "H Abid",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
       "course_code": "CHEM 150",
       "section": "A",
       "unique": "CHEM 150/A",
@@ -2269,7 +2329,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | M | 11:00 - 11:50",
       "instructor": "S Azeem",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "CHEM 150",
@@ -2293,7 +2353,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "23"
+      "available": "21"
     },
     {
       "course_code": "CHEM 160",
@@ -2665,7 +2725,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Z Kexin",
       "capacity": "10",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "CHIN 101",
@@ -3001,7 +3061,7 @@
       "schedule_raw": "M W | 11:00 - 12:50",
       "instructor": "M Mushtaq",
       "capacity": "25",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "COMP 311",
@@ -3013,7 +3073,7 @@
       "schedule_raw": "T R | 11:00 - 12:50",
       "instructor": "M Mushtaq",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "COMP 311",
@@ -3025,7 +3085,7 @@
       "schedule_raw": "W | 09:00 - 10:50 | F | 09:00 - 10:50",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "21"
+      "available": "18"
     },
     {
       "course_code": "COMP 360",
@@ -3037,7 +3097,7 @@
       "schedule_raw": "T | 11:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "COMP 360",
@@ -3109,7 +3169,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Iqbal",
       "capacity": "35",
-      "available": "10"
+      "available": "8"
     },
     {
       "course_code": "COMP 421",
@@ -3157,7 +3217,7 @@
       "schedule_raw": "T | 13:00 - 14:50 | R | 13:00 - 14:50",
       "instructor": "M Butt",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "COMP 497A",
@@ -3169,7 +3229,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "131"
+      "available": "130"
     },
     {
       "course_code": "COMP 497B",
@@ -3325,7 +3385,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "CRIM 230",
@@ -3589,7 +3649,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "CSCS 100",
@@ -3805,7 +3865,7 @@
       "schedule_raw": "T R | 13:00 - 14:50",
       "instructor": "A Yousaf",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "CSCS 351",
@@ -3853,7 +3913,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "CSCS 453",
@@ -3877,7 +3937,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "F Ullah",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "CSCS 460",
@@ -3889,7 +3949,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "N Ashraf",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "CSCS 465",
@@ -3914,6 +3974,270 @@
       "instructor": "U  Nisar",
       "capacity": "35",
       "available": "28"
+    },
+    {
+      "course_code": "DATA 101",
+      "section": "C",
+      "unique": "DATA 101/C",
+      "course_name": "Statistical Methods",
+      "credits": "3.00",
+      "classroom": "SBLOCKS115",
+      "schedule_raw": "M W F | 14:00 - 14:50",
+      "instructor": "A Tayyab",
+      "capacity": "15",
+      "available": "15"
+    },
+    {
+      "course_code": "DATA 101",
+      "section": "D",
+      "unique": "DATA 101/D",
+      "course_name": "Statistical Methods",
+      "credits": "3.00",
+      "classroom": "SBLOCKS421",
+      "schedule_raw": "T R | 08:00 - 09:15",
+      "instructor": "R Butt",
+      "capacity": "15",
+      "available": "15"
+    },
+    {
+      "course_code": "DATA 101",
+      "section": "E",
+      "unique": "DATA 101/E",
+      "course_name": "Statistical Methods",
+      "credits": "3.00",
+      "classroom": "SBLOCKS420",
+      "schedule_raw": "T R | 14:00 - 15:15",
+      "instructor": "M Raza",
+      "capacity": "15",
+      "available": "15"
+    },
+    {
+      "course_code": "DATA 102",
+      "section": "A",
+      "unique": "DATA 102/A",
+      "course_name": "Prob & Prob Distribu",
+      "credits": "3.00",
+      "classroom": "SBLOCKS425",
+      "schedule_raw": "T R | 14:00 - 15:15",
+      "instructor": "S Bashir",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "DATA 102",
+      "section": "B",
+      "unique": "DATA 102/B",
+      "course_name": "Prob & Prob Distribu",
+      "credits": "3.00",
+      "classroom": "SBLOCKS420",
+      "schedule_raw": "M W F | 09:00 - 09:50",
+      "instructor": "S Ayub",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "DATA 102",
+      "section": "C",
+      "unique": "DATA 102/C",
+      "course_name": "Prob & Prob Distribu",
+      "credits": "3.00",
+      "classroom": "SBLOCKS425",
+      "schedule_raw": "T R | 08:00 - 09:15",
+      "instructor": "S Ayub",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "DATA 201",
+      "section": "A",
+      "unique": "DATA 201/A",
+      "course_name": "Statistical Inferenc",
+      "credits": "3.00",
+      "classroom": "SBLOCKS420",
+      "schedule_raw": "T R | 09:30 - 10:45",
+      "instructor": "M Mughal",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "DATA 202",
+      "section": "A",
+      "unique": "DATA 202/A",
+      "course_name": "Python for Data Anal",
+      "credits": "3.00",
+      "classroom": "SBLOCKS420",
+      "schedule_raw": "M W F | 14:00 - 14:50",
+      "instructor": "A Sarwar",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "DATA 202",
+      "section": "B",
+      "unique": "DATA 202/B",
+      "course_name": "Python for Data Anal",
+      "credits": "3.00",
+      "classroom": "SBLOCKS420",
+      "schedule_raw": "M W F | 11:00 - 11:50",
+      "instructor": "S Ayub",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "DATA 206",
+      "section": "A",
+      "unique": "DATA 206/A",
+      "course_name": "Fundamentals of Data",
+      "credits": "3.00",
+      "classroom": "SBLOCKS421",
+      "schedule_raw": "T R | 09:30 - 10:45",
+      "instructor": "S Hanook",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "DATA 206",
+      "section": "B",
+      "unique": "DATA 206/B",
+      "course_name": "Fundamentals of Data",
+      "credits": "3.00",
+      "classroom": "SBLOCKS421",
+      "schedule_raw": "T R | 11:00 - 12:15",
+      "instructor": "S Bashir",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "DATA 206",
+      "section": "C",
+      "unique": "DATA 206/C",
+      "course_name": "Fundamentals of Data",
+      "credits": "3.00",
+      "classroom": "SBLOCKS421",
+      "schedule_raw": "M W F | 12:00 - 12:50",
+      "instructor": "S Bashir",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "DATA 207",
+      "section": "A",
+      "unique": "DATA 207/A",
+      "course_name": "Business Analytics",
+      "credits": "3.00",
+      "classroom": "SBLOCKS421",
+      "schedule_raw": "M W F | 09:00 - 09:50",
+      "instructor": "M Mughal",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "DATA 207",
+      "section": "B",
+      "unique": "DATA 207/B",
+      "course_name": "Business Analytics",
+      "credits": "3.00",
+      "classroom": "SBLOCKS420",
+      "schedule_raw": "T R | 12:30 - 13:45",
+      "instructor": "M Mughal",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "DATA 207",
+      "section": "C",
+      "unique": "DATA 207/C",
+      "course_name": "Business Analytics",
+      "credits": "3.00",
+      "classroom": "SBLOCKS425",
+      "schedule_raw": "T R | 12:30 - 13:45",
+      "instructor": "R Butt",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "DATA 300",
+      "section": "A",
+      "unique": "DATA 300/A",
+      "course_name": "Data Mining",
+      "credits": "3.00",
+      "classroom": "SBLOCKS421",
+      "schedule_raw": "M W F | 10:00 - 10:50",
+      "instructor": "I Naqvi",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "DATA 301",
+      "section": "A",
+      "unique": "DATA 301/A",
+      "course_name": "Database Sys & SQL",
+      "credits": "3.00",
+      "classroom": "SBLOCKS420",
+      "schedule_raw": "M W F | 14:00 - 14:50",
+      "instructor": "M Mughal",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "DATA 302",
+      "section": "A",
+      "unique": "DATA 302/A",
+      "course_name": "Bayesian Statistics",
+      "credits": "3.00",
+      "classroom": "SBLOCKS425",
+      "schedule_raw": "M W F | 08:00 - 08:50",
+      "instructor": "M Raza",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "DATA 317",
+      "section": "A",
+      "unique": "DATA 317/A",
+      "course_name": "Data Visualization",
+      "credits": "3.00",
+      "classroom": "SBLOCKS421",
+      "schedule_raw": "T R | 12:30 - 13:45",
+      "instructor": "I Naqvi",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "DATA 317",
+      "section": "B",
+      "unique": "DATA 317/B",
+      "course_name": "Data Visualization",
+      "credits": "3.00",
+      "classroom": "SBLOCKS425",
+      "schedule_raw": "M W F | 15:00 - 15:50",
+      "instructor": "S Samuel",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "DATA 414",
+      "section": "A",
+      "unique": "DATA 414/A",
+      "course_name": "Machine Learning",
+      "credits": "3.00",
+      "classroom": "SBLOCKS420",
+      "schedule_raw": "T R | 11:00 - 12:15",
+      "instructor": "N Mushtaq",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "DATA 414",
+      "section": "B",
+      "unique": "DATA 414/B",
+      "course_name": "Machine Learning",
+      "credits": "3.00",
+      "classroom": "SBLOCKS421",
+      "schedule_raw": "M W F | 11:00 - 11:50",
+      "instructor": "N Mushtaq",
+      "capacity": "35",
+      "available": "35"
     },
     {
       "course_code": "ECON 100",
@@ -4249,7 +4573,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "T Numan",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "ECON 307",
@@ -4321,7 +4645,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "ECON 323",
@@ -4573,7 +4897,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "J Hassan",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "EDUC 110",
@@ -4645,7 +4969,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "EDUC 120",
@@ -4657,7 +4981,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "EDUC 210",
@@ -4873,7 +5197,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "ENGL 108",
@@ -4969,7 +5293,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Javed",
       "capacity": "25",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ENGL 108",
@@ -5053,7 +5377,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "ENGL 201",
@@ -5425,7 +5749,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | W | 14:00 - 15:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "ENVR 340",
@@ -5461,7 +5785,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ilyas",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "ENVR 411",
@@ -5629,7 +5953,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "10",
-      "available": "7"
+      "available": "3"
     },
     {
       "course_code": "FREN 101",
@@ -5737,7 +6061,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "GEOG 133",
@@ -5809,7 +6133,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "GEOG 371",
@@ -5857,7 +6181,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Qurit U An",
       "capacity": "10",
-      "available": "6"
+      "available": "0"
     },
     {
       "course_code": "GRMN 101",
@@ -5881,7 +6205,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "H Mahmood",
       "capacity": "10",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "GRMN 102",
@@ -5893,7 +6217,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Mahmood",
       "capacity": "10",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "HIST 101",
@@ -5905,7 +6229,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "13"
+      "available": "16"
     },
     {
       "course_code": "HIST 102",
@@ -6544,6 +6868,42 @@
       "available": "33"
     },
     {
+      "course_code": "MATH 108",
+      "section": "C",
+      "unique": "MATH 108/C",
+      "course_name": "QR-I (Basic)",
+      "credits": "3.00",
+      "classroom": "SBLOCKS412",
+      "schedule_raw": "M W F | 08:00 - 08:50",
+      "instructor": "F Jamil",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "MATH 108",
+      "section": "D",
+      "unique": "MATH 108/D",
+      "course_name": "QR-I (Basic)",
+      "credits": "3.00",
+      "classroom": "SBLOCKS410",
+      "schedule_raw": "T R | 12:30 - 13:45",
+      "instructor": "B Haq",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "MATH 109",
+      "section": "B",
+      "unique": "MATH 109/B",
+      "course_name": "QR-I (Advanced)",
+      "credits": "3.00",
+      "classroom": "SBLOCKS410",
+      "schedule_raw": "M W F | 09:00 - 09:50",
+      "instructor": "F Jamil",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
       "course_code": "MATH 111",
       "section": "B",
       "unique": "MATH 111/B",
@@ -6673,7 +7033,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "7"
+      "available": "9"
     },
     {
       "course_code": "MCOM 101",
@@ -6721,7 +7081,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "MCOM 200",
@@ -6853,7 +7213,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "26"
+      "available": "24"
     },
     {
       "course_code": "MCOM 302",
@@ -6889,7 +7249,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "MCOM 304",
@@ -6913,7 +7273,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "MCOM 308",
@@ -6937,7 +7297,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Muzamil",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "MCOM 310",
@@ -7201,7 +7561,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Shaggan",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "MUSC 250",
@@ -7286,6 +7646,30 @@
       "instructor": "T Farouk",
       "capacity": "35",
       "available": "34"
+    },
+    {
+      "course_code": "PHYS 100",
+      "section": "A",
+      "unique": "PHYS 100/A",
+      "course_name": "*Intro. to Physics",
+      "credits": "3.00",
+      "classroom": "SBLOCKS007 | SBLOCKS027A",
+      "schedule_raw": "T R | 14:00 - 14:50 | F | 14:00 - 16:00",
+      "instructor": "TBD",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "PHYS 100",
+      "section": "B",
+      "unique": "PHYS 100/B",
+      "course_name": "*Intro. to Physics",
+      "credits": "3.00",
+      "classroom": "SBLOCKS039 | SBLOCKS027A",
+      "schedule_raw": "T R | 11:00 - 11:50 | W | 14:00 - 16:00",
+      "instructor": "K Javed",
+      "capacity": "35",
+      "available": "35"
     },
     {
       "course_code": "PHYS 101",
@@ -8065,7 +8449,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "PLSC 506",
@@ -8185,7 +8569,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Majeed",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PSYC 101",
@@ -8197,7 +8581,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "E Shahid",
       "capacity": "35",
-      "available": "20"
+      "available": "22"
     },
     {
       "course_code": "PSYC 105",
@@ -8305,7 +8689,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | F | 15:00 - 16:50",
       "instructor": "K Safdar",
       "capacity": "30",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "PSYC 240",
@@ -8473,7 +8857,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "U Ashiq",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PSYC 310",
@@ -8593,7 +8977,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | R | 14:00 - 15:50",
       "instructor": "A Malik",
       "capacity": "30",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "PSYC 360",
@@ -8809,7 +9193,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "29"
+      "available": "26"
     },
     {
       "course_code": "PSYC 501",
@@ -9049,7 +9433,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "SOCL 100",
@@ -9328,6 +9712,174 @@
       "available": "24"
     },
     {
+      "course_code": "STAT 100",
+      "section": "A",
+      "unique": "STAT 100/A",
+      "course_name": "Stats For Everyone",
+      "credits": "3.00",
+      "classroom": "SBLOCKS420",
+      "schedule_raw": "M W F | 08:00 - 08:50",
+      "instructor": "R Butt",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "STAT 100",
+      "section": "B",
+      "unique": "STAT 100/B",
+      "course_name": "Stats For Everyone",
+      "credits": "3.00",
+      "classroom": "SBLOCKS420",
+      "schedule_raw": "T R | 08:00 - 09:15",
+      "instructor": "A Tayyab",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "STAT 100",
+      "section": "C",
+      "unique": "STAT 100/C",
+      "course_name": "Stats For Everyone",
+      "credits": "3.00",
+      "classroom": "SBLOCKS425",
+      "schedule_raw": "M W F | 14:00 - 14:50",
+      "instructor": "M Raza",
+      "capacity": "35",
+      "available": "32"
+    },
+    {
+      "course_code": "STAT 101",
+      "section": "A",
+      "unique": "STAT 101/A",
+      "course_name": "Statistical Methods",
+      "credits": "3.00",
+      "classroom": "SBLOCKS424",
+      "schedule_raw": "M W F | 08:00 - 08:50",
+      "instructor": "A Tayyab",
+      "capacity": "15",
+      "available": "15"
+    },
+    {
+      "course_code": "STAT 101",
+      "section": "B",
+      "unique": "STAT 101/B",
+      "course_name": "Statistical Methods",
+      "credits": "3.00",
+      "classroom": "SBLOCKS421",
+      "schedule_raw": "M W F | 14:00 - 14:50",
+      "instructor": "S Samuel",
+      "capacity": "15",
+      "available": "15"
+    },
+    {
+      "course_code": "STAT 103",
+      "section": "A",
+      "unique": "STAT 103/A",
+      "course_name": "Quan Meth. in Scl.Sc",
+      "credits": "3.00",
+      "classroom": "SBLOCKS320",
+      "schedule_raw": "T R | 09:30 - 10:45",
+      "instructor": "A Sarwar",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "STAT 115",
+      "section": "A",
+      "unique": "STAT 115/A",
+      "course_name": "Probability & Stat.",
+      "credits": "3.00",
+      "classroom": "SBLOCKS421",
+      "schedule_raw": "M W F | 08:00 - 08:50",
+      "instructor": "N Mushtaq",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "STAT 115",
+      "section": "B",
+      "unique": "STAT 115/B",
+      "course_name": "Probability & Stat.",
+      "credits": "3.00",
+      "classroom": "SBLOCKS420",
+      "schedule_raw": "M W F | 10:00 - 10:50",
+      "instructor": "A Sarwar",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "STAT 115",
+      "section": "C",
+      "unique": "STAT 115/C",
+      "course_name": "Probability & Stat.",
+      "credits": "3.00",
+      "classroom": "SBLOCKS421",
+      "schedule_raw": "T R | 14:00 - 15:15",
+      "instructor": "S Samuel",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "STAT 212",
+      "section": "A",
+      "unique": "STAT 212/A",
+      "course_name": "Research Methods and",
+      "credits": "3.00",
+      "classroom": "SBLOCKS320",
+      "schedule_raw": "M W F | 12:00 - 12:50",
+      "instructor": "S Hanook",
+      "capacity": "10",
+      "available": "10"
+    },
+    {
+      "course_code": "STAT 516",
+      "section": "A",
+      "unique": "STAT 516/A",
+      "course_name": "Stat. Qual. Control",
+      "credits": "3.00",
+      "classroom": "SBLOCKS421",
+      "schedule_raw": "M W | 17:30 - 19:00",
+      "instructor": "M Raza",
+      "capacity": "15",
+      "available": "15"
+    },
+    {
+      "course_code": "STAT 517",
+      "section": "A",
+      "unique": "STAT 517/A",
+      "course_name": "Adv. Data Visualizat",
+      "credits": "3.00",
+      "classroom": "SBLOCKS421",
+      "schedule_raw": "M W | 16:00 - 17:30",
+      "instructor": "I Naqvi",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "STAT 518",
+      "section": "A",
+      "unique": "STAT 518/A",
+      "course_name": "Adv.Machine Learning",
+      "credits": "3.00",
+      "classroom": "SBLOCKS421",
+      "schedule_raw": "T R | 16:00 - 17:30",
+      "instructor": "N Mushtaq",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "STAT 519",
+      "section": "A",
+      "unique": "STAT 519/A",
+      "course_name": "Probability Models",
+      "credits": "3.00",
+      "classroom": "SBLOCKS421",
+      "schedule_raw": "T R | 17:30 - 19:00",
+      "instructor": "S Bashir",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
       "course_code": "URDU 101",
       "section": "A",
       "unique": "URDU 101/A",
@@ -9505,7 +10057,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Tahir",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "URDU 104",
