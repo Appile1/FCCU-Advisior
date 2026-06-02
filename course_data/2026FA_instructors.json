@@ -10378,14 +10378,6 @@
         "schedule": "M W F | 10:00 - 10:50",
         "classroom": "EBLOCKE204",
         "unique": "ECON 402/A"
-      },
-      {
-        "course_code": "ECON 402",
-        "section": "B",
-        "course_name": "Proj  Plan & Apprais",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE203",
-        "unique": "ECON 402/B"
       }
     ],
     "all_courses": [
