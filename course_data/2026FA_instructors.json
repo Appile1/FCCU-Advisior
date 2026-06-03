@@ -5877,17 +5877,18 @@
         "unique": "PHIL 101/B"
       },
       {
-        "course_code": "PHIL 325",
+        "course_code": "PHIL 231",
         "section": "A",
-        "course_name": "Phil. of education",
+        "course_name": "Phil of Religion",
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "EBLOCKE229",
-        "unique": "PHIL 325/A"
+        "unique": "PHIL 231/A"
       }
     ],
     "all_courses": [
       "PHIL 101",
       "PHIL 201",
+      "PHIL 231",
       "PHIL 325",
       "PHIL 331",
       "PHIL 499"
