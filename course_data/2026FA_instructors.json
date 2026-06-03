@@ -1439,8 +1439,8 @@
         "course_code": "BUSN 280",
         "section": "A",
         "course_name": "Mark. & Selling Skil",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE328",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE345",
         "unique": "BUSN 280/A"
       },
       {
@@ -2913,7 +2913,7 @@
         "section": "B",
         "course_name": "Digital Logic Design",
         "schedule": "M W F | 09:00 - 09:50 | T | 11:00 - 13:50",
-        "classroom": "SBLOCKS120 | SBLOCKS027",
+        "classroom": "SBLOCKS027",
         "unique": "COMP 206/B"
       },
       {
@@ -2921,7 +2921,7 @@
         "section": "C",
         "course_name": "Digital Logic Design",
         "schedule": "M W F | 10:00 - 10:50 | R | 11:00 - 13:50",
-        "classroom": "SBLOCKS120 | SBLOCKS027",
+        "classroom": "SBLOCKS027",
         "unique": "COMP 206/C"
       }
     ],
@@ -3753,7 +3753,7 @@
       {
         "course_code": "CSCS 465",
         "section": "A",
-        "course_name": "Information Security",
+        "course_name": "IS Standard and Reg",
         "schedule": "T R | 11:00 - 12:15",
         "classroom": "SBLOCKS317",
         "unique": "CSCS 465/A"
@@ -9588,8 +9588,8 @@
         "course_code": "BUSN 321",
         "section": "C",
         "course_name": "Financial Mgt. I",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE345",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE328",
         "unique": "BUSN 321/C"
       },
       {
