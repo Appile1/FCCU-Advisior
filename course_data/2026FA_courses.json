@@ -769,7 +769,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "U Sharif",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "BUSN 201",
@@ -1573,7 +1573,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 383",
@@ -2413,7 +2413,7 @@
       "schedule_raw": "T R | 08:00 - 09:15 | R | 14:00 - 15:50",
       "instructor": "M Asghar",
       "capacity": "25",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "CHEM 330",
@@ -4549,7 +4549,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Ayyubi",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "ECON 311",
@@ -4825,7 +4825,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "J Hassan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 110",
@@ -8809,7 +8809,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | F | 13:00 - 14:50",
       "instructor": "U Ilyas",
       "capacity": "30",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "PSYC 220",
@@ -8893,7 +8893,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "PSYC 298",
