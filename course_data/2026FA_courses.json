@@ -3745,7 +3745,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "CSCS 203",
@@ -3757,7 +3757,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "CSCS 203",
@@ -3949,7 +3949,7 @@
       "schedule_raw": "M | 11:00 - 12:50 | F | 11:00 - 12:50",
       "instructor": "U  Nisar",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "DATA 101",
@@ -7153,7 +7153,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MCOM 105",
@@ -10261,7 +10261,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Virk",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "URDU 101",
@@ -10345,7 +10345,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Tahir",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "URDU 101",
