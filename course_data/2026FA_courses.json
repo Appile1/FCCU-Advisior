@@ -73,7 +73,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "ARTS 203",
@@ -5605,7 +5605,7 @@
       "schedule_raw": "M W | 11:00 - 11:50 | M | 14:00 - 15:50",
       "instructor": "S Machado",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "ENVR 101",
@@ -5701,7 +5701,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | W | 14:00 - 15:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "ENVR 340",
@@ -5893,7 +5893,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "FREN 101",
@@ -8305,7 +8305,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "PLSC 203",
