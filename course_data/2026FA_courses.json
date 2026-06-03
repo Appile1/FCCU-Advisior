@@ -1285,7 +1285,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Rao",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 321",
@@ -1441,7 +1441,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "BUSN 360",
@@ -1453,7 +1453,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BUSN 360",
@@ -3025,7 +3025,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "COMP 311",
@@ -3745,7 +3745,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "CSCS 203",
@@ -3889,7 +3889,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "CSCS 453",
@@ -6157,7 +6157,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "H Mahmood",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "GRMN 102",
@@ -6205,7 +6205,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "HIST 202",
@@ -7225,7 +7225,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "MCOM 202",
@@ -8665,7 +8665,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "PSYC 100",
