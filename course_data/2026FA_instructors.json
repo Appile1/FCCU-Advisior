@@ -8044,6 +8044,22 @@
         "unique": "STAT 115/A"
       },
       {
+        "course_code": "STAT 414",
+        "section": "A",
+        "course_name": "Statistical Learning",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 414/A"
+      },
+      {
+        "course_code": "STAT 414",
+        "section": "B",
+        "course_name": "Statistical Learning",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 414/B"
+      },
+      {
         "course_code": "STAT 518",
         "section": "A",
         "course_name": "Adv.Machine Learning",
@@ -13937,7 +13953,16 @@
     "departments": [
       "DATA"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "DATA 414",
+        "section": "B",
+        "course_name": "Machine Learning",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 414/B"
+      }
+    ],
     "all_courses": [
       "DATA 414"
     ]
