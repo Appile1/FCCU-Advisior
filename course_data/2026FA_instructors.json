@@ -1941,7 +1941,7 @@
         "section": "A",
         "course_name": "Account Info Sys",
         "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE228",
+        "classroom": "EBLOCKE038",
         "unique": "BUSN 410/A"
       }
     ],
@@ -8013,11 +8013,20 @@
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "SBLOCKS421",
         "unique": "STAT 101/D"
+      },
+      {
+        "course_code": "STAT 207",
+        "section": "C",
+        "course_name": "Business Analytics",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS425",
+        "unique": "STAT 207/C"
       }
     ],
     "all_courses": [
       "STAT 100",
-      "STAT 101"
+      "STAT 101",
+      "STAT 207"
     ]
   },
   {
@@ -8148,12 +8157,21 @@
         "schedule": "T R | 14:00 - 15:15",
         "classroom": "SBLOCKS421",
         "unique": "STAT 115/C"
+      },
+      {
+        "course_code": "STAT 317",
+        "section": "B",
+        "course_name": "Data Visualization R",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "SBLOCKS425",
+        "unique": "STAT 317/B"
       }
     ],
     "all_courses": [
       "STAT 100",
       "STAT 101",
-      "STAT 115"
+      "STAT 115",
+      "STAT 317"
     ]
   },
   {
@@ -8288,6 +8306,22 @@
         "schedule": "T R | 09:30 - 10:45",
         "classroom": "SBLOCKS420",
         "unique": "STAT 201/A"
+      },
+      {
+        "course_code": "STAT 207",
+        "section": "A",
+        "course_name": "Business Analytics",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 207/A"
+      },
+      {
+        "course_code": "STAT 207",
+        "section": "B",
+        "course_name": "Business Analytics",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 207/B"
       }
     ],
     "all_courses": [
@@ -8337,6 +8371,14 @@
       "STAT"
     ],
     "current_courses": [
+      {
+        "course_code": "STAT 317",
+        "section": "A",
+        "course_name": "Data Visualization R",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 317/A"
+      },
       {
         "course_code": "STAT 517",
         "section": "A",
@@ -9370,7 +9412,7 @@
         "section": "G",
         "course_name": "Intermediate Account",
         "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE038",
+        "classroom": "EBLOCKE228",
         "unique": "BUSN 201/G"
       },
       {
@@ -13669,6 +13711,14 @@
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "SBLOCKS421",
         "unique": "DATA 101/D"
+      },
+      {
+        "course_code": "DATA 207",
+        "section": "C",
+        "course_name": "Business Analytics",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS425",
+        "unique": "DATA 207/C"
       }
     ],
     "all_courses": [
@@ -13773,6 +13823,22 @@
         "schedule": "T R | 09:30 - 10:45",
         "classroom": "SBLOCKS420",
         "unique": "DATA 201/A"
+      },
+      {
+        "course_code": "DATA 207",
+        "section": "A",
+        "course_name": "Business Analytics",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 207/A"
+      },
+      {
+        "course_code": "DATA 207",
+        "section": "B",
+        "course_name": "Business Analytics",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS420",
+        "unique": "DATA 207/B"
       }
     ],
     "all_courses": [
@@ -13823,6 +13889,14 @@
         "schedule": "M W F | 10:00 - 10:50",
         "classroom": "SBLOCKS421",
         "unique": "DATA 300/A"
+      },
+      {
+        "course_code": "DATA 317",
+        "section": "A",
+        "course_name": "Data Visualization",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 317/A"
       }
     ],
     "all_courses": [
@@ -13843,6 +13917,14 @@
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "SBLOCKS421",
         "unique": "DATA 101/B"
+      },
+      {
+        "course_code": "DATA 317",
+        "section": "B",
+        "course_name": "Data Visualization",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "SBLOCKS425",
+        "unique": "DATA 317/B"
       }
     ],
     "all_courses": [

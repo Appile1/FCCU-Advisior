@@ -1,5 +1,5 @@
 {
-  "total_courses": 860,
+  "total_courses": 870,
   "departments": {
     "ACCT": 0,
     "ART": 0,
@@ -72,13 +72,13 @@
     "CSSE": 0,
     "SPAN": 0,
     "PHED": 0,
-    "STAT": 24,
+    "STAT": 29,
     "T.QU": 0,
     "UNIV": 0,
     "URDU": 28,
     "WRCM": 0,
     "ZOOL": 0,
     "TEST": 0,
-    "DATA": 13
+    "DATA": 18
   }
 }
