@@ -1286,5 +1286,21 @@
     "section": "A",
     "instructor": "B Kamil",
     "timestamp": "2026-06-03T07:30:39.290555+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 280 (A): TBD → T Alvi",
+    "course_code": "BUSN 280",
+    "section": "A",
+    "instructor": "T Alvi",
+    "timestamp": "2026-06-03T08:00:47.331369+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 385 (C): TBD → T Alvi",
+    "course_code": "BUSN 385",
+    "section": "C",
+    "instructor": "T Alvi",
+    "timestamp": "2026-06-03T08:00:47.331398+00:00"
   }
 ]

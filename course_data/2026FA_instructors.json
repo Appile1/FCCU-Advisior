@@ -1437,11 +1437,27 @@
     "current_courses": [
       {
         "course_code": "BUSN 280",
+        "section": "A",
+        "course_name": "Mark. & Selling Skil",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE328",
+        "unique": "BUSN 280/A"
+      },
+      {
+        "course_code": "BUSN 280",
         "section": "K",
         "course_name": "Mark. & Selling Skil",
         "schedule": "M W F | 11:00 - 11:50",
         "classroom": "EBLOCKE333",
         "unique": "BUSN 280/K"
+      },
+      {
+        "course_code": "BUSN 385",
+        "section": "C",
+        "course_name": "Consumer Behavior",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE343",
+        "unique": "BUSN 385/C"
       }
     ],
     "all_courses": [
@@ -2452,7 +2468,7 @@
         "section": "A",
         "course_name": "*Coordination Chem",
         "schedule": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
-        "classroom": "SBLOCKS213 | SBLOCKS138",
+        "classroom": "SBLOCKS112 | SBLOCKS138",
         "unique": "CHEM 350/A"
       },
       {
@@ -9457,14 +9473,6 @@
       },
       {
         "course_code": "BUSN 280",
-        "section": "A",
-        "course_name": "Mark. & Selling Skil",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE328",
-        "unique": "BUSN 280/A"
-      },
-      {
-        "course_code": "BUSN 280",
         "section": "C",
         "course_name": "Mark. & Selling Skil",
         "schedule": "M W F | 15:00 - 15:50",
@@ -9614,14 +9622,6 @@
         "schedule": "M W F | 08:00 - 08:50",
         "classroom": "EBLOCKE331",
         "unique": "BUSN 383/E"
-      },
-      {
-        "course_code": "BUSN 385",
-        "section": "C",
-        "course_name": "Consumer Behavior",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE343",
-        "unique": "BUSN 385/C"
       },
       {
         "course_code": "BUSN 385",
@@ -11238,7 +11238,7 @@
         "section": "A",
         "course_name": "Special Res Seminar",
         "schedule": "M | 16:00 - 19:00",
-        "classroom": "EBLOCKE222",
+        "classroom": "EBLOCKE041",
         "unique": "ENGL 690/A"
       }
     ],
@@ -11746,7 +11746,7 @@
         "course_code": "ENVR 411",
         "section": "A",
         "course_name": "*Envr. Microbiology",
-        "schedule": "T | 09:00 - 10:50 | W | 09:00 - 10:50",
+        "schedule": "T R | 09:30 - 10:45 | W | 09:00 - 10:50",
         "classroom": "SBLOCKS417 | SBLOCKS135",
         "unique": "ENVR 411/A"
       },
