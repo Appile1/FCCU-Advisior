@@ -1951,7 +1951,16 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 410",
+        "section": "A",
+        "course_name": "Account Info Sys",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE228",
+        "unique": "BUSN 410/A"
+      }
+    ],
     "all_courses": [
       "BUSN 410"
     ]
@@ -4975,7 +4984,16 @@
     "departments": [
       "MATH"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "MATH 107",
+        "section": "A",
+        "course_name": "Statistical Methods",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS424",
+        "unique": "MATH 107/A"
+      }
+    ],
     "all_courses": [
       "MATH 107"
     ]
@@ -4995,7 +5013,16 @@
     "departments": [
       "MATH"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "MATH 107",
+        "section": "B",
+        "course_name": "Statistical Methods",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS421",
+        "unique": "MATH 107/B"
+      }
+    ],
     "all_courses": [
       "MATH 107"
     ]
@@ -9446,14 +9473,6 @@
         "unique": "BUSN 404/B"
       },
       {
-        "course_code": "BUSN 410",
-        "section": "A",
-        "course_name": "Account Info Sys",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE345",
-        "unique": "BUSN 410/A"
-      },
-      {
         "course_code": "BUSN 450",
         "section": "A",
         "course_name": "Labor Law",
@@ -13500,11 +13519,11 @@
     "current_courses": [
       {
         "course_code": "DATA 101",
-        "section": "C",
+        "section": "A",
         "course_name": "Statistical Methods",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "SBLOCKS115",
-        "unique": "DATA 101/C"
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS424",
+        "unique": "DATA 101/A"
       }
     ],
     "all_courses": [
@@ -13516,24 +13535,7 @@
     "departments": [
       "DATA"
     ],
-    "current_courses": [
-      {
-        "course_code": "DATA 101",
-        "section": "D",
-        "course_name": "Statistical Methods",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "SBLOCKS421",
-        "unique": "DATA 101/D"
-      },
-      {
-        "course_code": "DATA 207",
-        "section": "C",
-        "course_name": "Business Analytics",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "SBLOCKS425",
-        "unique": "DATA 207/C"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "DATA 101",
       "DATA 207"
@@ -13544,24 +13546,7 @@
     "departments": [
       "DATA"
     ],
-    "current_courses": [
-      {
-        "course_code": "DATA 101",
-        "section": "E",
-        "course_name": "Statistical Methods",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS420",
-        "unique": "DATA 101/E"
-      },
-      {
-        "course_code": "DATA 302",
-        "section": "A",
-        "course_name": "Bayesian Statistics",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "SBLOCKS425",
-        "unique": "DATA 302/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "DATA 101",
       "DATA 302"
@@ -13572,32 +13557,7 @@
     "departments": [
       "DATA"
     ],
-    "current_courses": [
-      {
-        "course_code": "DATA 102",
-        "section": "A",
-        "course_name": "Prob & Prob Distribu",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS425",
-        "unique": "DATA 102/A"
-      },
-      {
-        "course_code": "DATA 206",
-        "section": "B",
-        "course_name": "Fundamentals of Data",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS421",
-        "unique": "DATA 206/B"
-      },
-      {
-        "course_code": "DATA 206",
-        "section": "C",
-        "course_name": "Fundamentals of Data",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "SBLOCKS421",
-        "unique": "DATA 206/C"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "DATA 102",
       "DATA 206"
@@ -13608,32 +13568,7 @@
     "departments": [
       "DATA"
     ],
-    "current_courses": [
-      {
-        "course_code": "DATA 102",
-        "section": "B",
-        "course_name": "Prob & Prob Distribu",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "SBLOCKS420",
-        "unique": "DATA 102/B"
-      },
-      {
-        "course_code": "DATA 102",
-        "section": "C",
-        "course_name": "Prob & Prob Distribu",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "SBLOCKS425",
-        "unique": "DATA 102/C"
-      },
-      {
-        "course_code": "DATA 202",
-        "section": "B",
-        "course_name": "Python for Data Anal",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "SBLOCKS420",
-        "unique": "DATA 202/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "DATA 102",
       "DATA 202"
@@ -13644,40 +13579,7 @@
     "departments": [
       "DATA"
     ],
-    "current_courses": [
-      {
-        "course_code": "DATA 201",
-        "section": "A",
-        "course_name": "Statistical Inferenc",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS420",
-        "unique": "DATA 201/A"
-      },
-      {
-        "course_code": "DATA 207",
-        "section": "A",
-        "course_name": "Business Analytics",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "SBLOCKS421",
-        "unique": "DATA 207/A"
-      },
-      {
-        "course_code": "DATA 207",
-        "section": "B",
-        "course_name": "Business Analytics",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "SBLOCKS420",
-        "unique": "DATA 207/B"
-      },
-      {
-        "course_code": "DATA 301",
-        "section": "A",
-        "course_name": "Database Sys & SQL",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "SBLOCKS420",
-        "unique": "DATA 301/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "DATA 201",
       "DATA 207",
@@ -13689,16 +13591,7 @@
     "departments": [
       "DATA"
     ],
-    "current_courses": [
-      {
-        "course_code": "DATA 202",
-        "section": "A",
-        "course_name": "Python for Data Anal",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "SBLOCKS420",
-        "unique": "DATA 202/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "DATA 202"
     ]
@@ -13708,16 +13601,7 @@
     "departments": [
       "DATA"
     ],
-    "current_courses": [
-      {
-        "course_code": "DATA 206",
-        "section": "A",
-        "course_name": "Fundamentals of Data",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS421",
-        "unique": "DATA 206/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "DATA 206"
     ]
@@ -13735,14 +13619,6 @@
         "schedule": "M W F | 10:00 - 10:50",
         "classroom": "SBLOCKS421",
         "unique": "DATA 300/A"
-      },
-      {
-        "course_code": "DATA 317",
-        "section": "A",
-        "course_name": "Data Visualization",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "SBLOCKS421",
-        "unique": "DATA 317/A"
       }
     ],
     "all_courses": [
@@ -13757,15 +13633,16 @@
     ],
     "current_courses": [
       {
-        "course_code": "DATA 317",
+        "course_code": "DATA 101",
         "section": "B",
-        "course_name": "Data Visualization",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "SBLOCKS425",
-        "unique": "DATA 317/B"
+        "course_name": "Statistical Methods",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 101/B"
       }
     ],
     "all_courses": [
+      "DATA 101",
       "DATA 317"
     ]
   },
@@ -13774,24 +13651,7 @@
     "departments": [
       "DATA"
     ],
-    "current_courses": [
-      {
-        "course_code": "DATA 414",
-        "section": "A",
-        "course_name": "Machine Learning",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS420",
-        "unique": "DATA 414/A"
-      },
-      {
-        "course_code": "DATA 414",
-        "section": "B",
-        "course_name": "Machine Learning",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "SBLOCKS421",
-        "unique": "DATA 414/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "DATA 414"
     ]
