@@ -733,7 +733,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "U Sharif",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "BUSN 201",
@@ -1321,7 +1321,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A George",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "BUSN 321",
@@ -5773,7 +5773,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ilyas",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ENVR 411",
