@@ -6737,6 +6737,22 @@
         "schedule": "R | 16:00 - 19:00",
         "classroom": "EBLOCKE039",
         "unique": "PLSC 523/A"
+      },
+      {
+        "course_code": "PLSC 699A",
+        "section": "A",
+        "course_name": "Research Thesis",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "PLSC 699A/A"
+      },
+      {
+        "course_code": "PLSC 699E",
+        "section": "A",
+        "course_name": "Research Thesis",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "PLSC 699E/A"
       }
     ],
     "all_courses": [
