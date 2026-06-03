@@ -1262,5 +1262,29 @@
     "section": "B",
     "instructor": "N Mushtaq",
     "timestamp": "2026-06-03T07:00:41.918169+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for HPED 101 (B): TBD → B Kamil",
+    "course_code": "HPED 101",
+    "section": "B",
+    "instructor": "B Kamil",
+    "timestamp": "2026-06-03T07:30:39.290534+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for HPED 102 (A): TBD → B Kamil",
+    "course_code": "HPED 102",
+    "section": "A",
+    "instructor": "B Kamil",
+    "timestamp": "2026-06-03T07:30:39.290551+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for HPED 112 (A): TBD → B Kamil",
+    "course_code": "HPED 112",
+    "section": "A",
+    "instructor": "B Kamil",
+    "timestamp": "2026-06-03T07:30:39.290555+00:00"
   }
 ]

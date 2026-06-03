@@ -13627,32 +13627,7 @@
     "departments": [
       "HPED"
     ],
-    "current_courses": [
-      {
-        "course_code": "HPED 101",
-        "section": "B",
-        "course_name": "Cricket for Boys",
-        "schedule": "M W | 16:00 - 17:00",
-        "classroom": "TBDTBD",
-        "unique": "HPED 101/B"
-      },
-      {
-        "course_code": "HPED 102",
-        "section": "A",
-        "course_name": "Football (Boys)",
-        "schedule": "T R | 16:00 - 17:00",
-        "classroom": "GROUNDGROUND",
-        "unique": "HPED 102/A"
-      },
-      {
-        "course_code": "HPED 112",
-        "section": "A",
-        "course_name": "Handball (Girls)",
-        "schedule": "M W | 15:00 - 16:00",
-        "classroom": "TBDTBD",
-        "unique": "HPED 112/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "HPED 101",
       "HPED 102",
@@ -13965,6 +13940,43 @@
     ],
     "all_courses": [
       "DATA 414"
+    ]
+  },
+  {
+    "name": "B Kamil",
+    "departments": [
+      "HPED"
+    ],
+    "current_courses": [
+      {
+        "course_code": "HPED 101",
+        "section": "B",
+        "course_name": "Cricket for Boys",
+        "schedule": "M W | 16:00 - 17:00",
+        "classroom": "TBDTBD",
+        "unique": "HPED 101/B"
+      },
+      {
+        "course_code": "HPED 102",
+        "section": "A",
+        "course_name": "Football (Boys)",
+        "schedule": "T R | 16:00 - 17:00",
+        "classroom": "GROUNDGROUND",
+        "unique": "HPED 102/A"
+      },
+      {
+        "course_code": "HPED 112",
+        "section": "A",
+        "course_name": "Handball (Girls)",
+        "schedule": "M W | 15:00 - 16:00",
+        "classroom": "TBDTBD",
+        "unique": "HPED 112/A"
+      }
+    ],
+    "all_courses": [
+      "HPED 101",
+      "HPED 102",
+      "HPED 112"
     ]
   }
 ]
