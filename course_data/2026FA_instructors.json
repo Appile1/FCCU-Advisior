@@ -4974,6 +4974,14 @@
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "SBLOCKS420",
         "unique": "MATH 105/B"
+      },
+      {
+        "course_code": "MATH 105",
+        "section": "C",
+        "course_name": "Prob & Prob. Distrib",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS425",
+        "unique": "MATH 105/C"
       }
     ],
     "all_courses": [
@@ -8161,6 +8169,14 @@
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "SBLOCKS420",
         "unique": "STAT 102/B"
+      },
+      {
+        "course_code": "STAT 102",
+        "section": "C",
+        "course_name": "Prob & Prob. Distrib",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS425",
+        "unique": "STAT 102/C"
       }
     ],
     "all_courses": [
@@ -8226,6 +8242,22 @@
         "unique": "STAT 102/A"
       },
       {
+        "course_code": "STAT 206",
+        "section": "B",
+        "course_name": "Intro to Data Analyt",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 206/B"
+      },
+      {
+        "course_code": "STAT 206",
+        "section": "C",
+        "course_name": "Intro to Data Analyt",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 206/C"
+      },
+      {
         "course_code": "STAT 519",
         "section": "A",
         "course_name": "Probability Models",
@@ -8248,7 +8280,16 @@
     "departments": [
       "STAT"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "STAT 201",
+        "section": "A",
+        "course_name": "Statis Inference I",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 201/A"
+      }
+    ],
     "all_courses": [
       "STAT 201",
       "STAT 207",
@@ -8261,6 +8302,14 @@
       "STAT"
     ],
     "current_courses": [
+      {
+        "course_code": "STAT 206",
+        "section": "A",
+        "course_name": "Intro to Data Analyt",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 206/A"
+      },
       {
         "course_code": "STAT 212",
         "section": "A",
@@ -13660,6 +13709,22 @@
         "schedule": "T R | 14:00 - 15:15",
         "classroom": "SBLOCKS425",
         "unique": "DATA 102/A"
+      },
+      {
+        "course_code": "DATA 206",
+        "section": "B",
+        "course_name": "Fundamentals of Data",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 206/B"
+      },
+      {
+        "course_code": "DATA 206",
+        "section": "C",
+        "course_name": "Fundamentals of Data",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 206/C"
       }
     ],
     "all_courses": [
@@ -13680,6 +13745,14 @@
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "SBLOCKS420",
         "unique": "DATA 102/B"
+      },
+      {
+        "course_code": "DATA 102",
+        "section": "C",
+        "course_name": "Prob & Prob Distribu",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS425",
+        "unique": "DATA 102/C"
       }
     ],
     "all_courses": [
@@ -13692,7 +13765,16 @@
     "departments": [
       "DATA"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "DATA 201",
+        "section": "A",
+        "course_name": "Statistical Inferenc",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS420",
+        "unique": "DATA 201/A"
+      }
+    ],
     "all_courses": [
       "DATA 201",
       "DATA 207",
@@ -13714,7 +13796,16 @@
     "departments": [
       "DATA"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "DATA 206",
+        "section": "A",
+        "course_name": "Fundamentals of Data",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 206/A"
+      }
+    ],
     "all_courses": [
       "DATA 206"
     ]
