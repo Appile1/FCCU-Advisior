@@ -1442,22 +1442,6 @@
         "schedule": "M W F | 11:00 - 11:50",
         "classroom": "EBLOCKE333",
         "unique": "BUSN 280/K"
-      },
-      {
-        "course_code": "BUSN 341",
-        "section": "A",
-        "course_name": "Statistics for Busn",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE330",
-        "unique": "BUSN 341/A"
-      },
-      {
-        "course_code": "BUSN 344",
-        "section": "A",
-        "course_name": "Programming Language",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE344",
-        "unique": "BUSN 344/A"
       }
     ],
     "all_courses": [
@@ -4962,7 +4946,16 @@
     "departments": [
       "MATH"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "MATH 105",
+        "section": "A",
+        "course_name": "Prob & Prob. Distrib",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS425",
+        "unique": "MATH 105/A"
+      }
+    ],
     "all_courses": [
       "MATH 105",
       "MATH 314"
@@ -4973,7 +4966,16 @@
     "departments": [
       "MATH"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "MATH 105",
+        "section": "B",
+        "course_name": "Prob & Prob. Distrib",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS420",
+        "unique": "MATH 105/B"
+      }
+    ],
     "all_courses": [
       "MATH 105",
       "MATH 107"
@@ -4992,6 +4994,14 @@
         "schedule": "M W F | 08:00 - 08:50",
         "classroom": "SBLOCKS424",
         "unique": "MATH 107/A"
+      },
+      {
+        "course_code": "MATH 107",
+        "section": "C",
+        "course_name": "Statistical Methods",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS115",
+        "unique": "MATH 107/C"
       }
     ],
     "all_courses": [
@@ -5042,7 +5052,16 @@
     "departments": [
       "MATH"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "MATH 107",
+        "section": "E",
+        "course_name": "Statistical Methods",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS420",
+        "unique": "MATH 107/E"
+      }
+    ],
     "all_courses": [
       "MATH 107",
       "MATH 304"
@@ -7978,6 +7997,14 @@
         "schedule": "M W F | 08:00 - 08:50",
         "classroom": "SBLOCKS420",
         "unique": "STAT 100/A"
+      },
+      {
+        "course_code": "STAT 101",
+        "section": "D",
+        "course_name": "Statistical Methods",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 101/D"
       }
     ],
     "all_courses": [
@@ -8033,6 +8060,14 @@
         "unique": "STAT 100/C"
       },
       {
+        "course_code": "STAT 101",
+        "section": "E",
+        "course_name": "Statistical Methods",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 101/E"
+      },
+      {
         "course_code": "STAT 516",
         "section": "A",
         "course_name": "Stat. Qual. Control",
@@ -8069,6 +8104,14 @@
         "schedule": "M W F | 08:00 - 08:50",
         "classroom": "SBLOCKS424",
         "unique": "STAT 101/A"
+      },
+      {
+        "course_code": "STAT 101",
+        "section": "C",
+        "course_name": "Statistical Methods",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS115",
+        "unique": "STAT 101/C"
       }
     ],
     "all_courses": [
@@ -8110,7 +8153,16 @@
     "departments": [
       "STAT"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "STAT 102",
+        "section": "B",
+        "course_name": "Prob & Prob. Distrib",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 102/B"
+      }
+    ],
     "all_courses": [
       "STAT 100",
       "STAT 101",
@@ -8165,6 +8217,14 @@
       "STAT"
     ],
     "current_courses": [
+      {
+        "course_code": "STAT 102",
+        "section": "A",
+        "course_name": "Prob & Prob. Distrib",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 102/A"
+      },
       {
         "course_code": "STAT 519",
         "section": "A",
@@ -12133,7 +12193,16 @@
     "departments": [
       "MATH"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "MATH 107",
+        "section": "D",
+        "course_name": "Statistical Methods",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS421",
+        "unique": "MATH 107/D"
+      }
+    ],
     "all_courses": [
       "MATH 107"
     ]
@@ -13524,6 +13593,14 @@
         "schedule": "M W F | 08:00 - 08:50",
         "classroom": "SBLOCKS424",
         "unique": "DATA 101/A"
+      },
+      {
+        "course_code": "DATA 101",
+        "section": "C",
+        "course_name": "Statistical Methods",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS115",
+        "unique": "DATA 101/C"
       }
     ],
     "all_courses": [
@@ -13535,7 +13612,16 @@
     "departments": [
       "DATA"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "DATA 101",
+        "section": "D",
+        "course_name": "Statistical Methods",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 101/D"
+      }
+    ],
     "all_courses": [
       "DATA 101",
       "DATA 207"
@@ -13546,7 +13632,16 @@
     "departments": [
       "DATA"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "DATA 101",
+        "section": "E",
+        "course_name": "Statistical Methods",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS420",
+        "unique": "DATA 101/E"
+      }
+    ],
     "all_courses": [
       "DATA 101",
       "DATA 302"
@@ -13557,7 +13652,16 @@
     "departments": [
       "DATA"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "DATA 102",
+        "section": "A",
+        "course_name": "Prob & Prob Distribu",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS425",
+        "unique": "DATA 102/A"
+      }
+    ],
     "all_courses": [
       "DATA 102",
       "DATA 206"
@@ -13568,7 +13672,16 @@
     "departments": [
       "DATA"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "DATA 102",
+        "section": "B",
+        "course_name": "Prob & Prob Distribu",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS420",
+        "unique": "DATA 102/B"
+      }
+    ],
     "all_courses": [
       "DATA 102",
       "DATA 202"

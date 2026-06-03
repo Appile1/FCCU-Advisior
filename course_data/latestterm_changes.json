@@ -950,5 +950,125 @@
     "section": "B",
     "instructor": "S Samuel",
     "timestamp": "2026-06-03T05:00:45.538298+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 101 (C) - A Tayyab",
+    "course_code": "DATA 101",
+    "section": "C",
+    "instructor": "A Tayyab",
+    "timestamp": "2026-06-03T05:30:36.355564+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 101 (D) - R Butt",
+    "course_code": "DATA 101",
+    "section": "D",
+    "instructor": "R Butt",
+    "timestamp": "2026-06-03T05:30:36.355585+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 101 (E) - M Raza",
+    "course_code": "DATA 101",
+    "section": "E",
+    "instructor": "M Raza",
+    "timestamp": "2026-06-03T05:30:36.355588+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 102 (A) - S Bashir",
+    "course_code": "DATA 102",
+    "section": "A",
+    "instructor": "S Bashir",
+    "timestamp": "2026-06-03T05:30:36.355591+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 102 (B) - S Ayub",
+    "course_code": "DATA 102",
+    "section": "B",
+    "instructor": "S Ayub",
+    "timestamp": "2026-06-03T05:30:36.355596+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: MATH 105 (A) - S Bashir",
+    "course_code": "MATH 105",
+    "section": "A",
+    "instructor": "S Bashir",
+    "timestamp": "2026-06-03T05:30:36.355657+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: MATH 105 (B) - S Ayub",
+    "course_code": "MATH 105",
+    "section": "B",
+    "instructor": "S Ayub",
+    "timestamp": "2026-06-03T05:30:36.355660+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: MATH 107 (C) - A Tayyab",
+    "course_code": "MATH 107",
+    "section": "C",
+    "instructor": "A Tayyab",
+    "timestamp": "2026-06-03T05:30:36.355662+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: MATH 107 (D) - R Butt",
+    "course_code": "MATH 107",
+    "section": "D",
+    "instructor": "R Butt",
+    "timestamp": "2026-06-03T05:30:36.355665+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: MATH 107 (E) - M Raza",
+    "course_code": "MATH 107",
+    "section": "E",
+    "instructor": "M Raza",
+    "timestamp": "2026-06-03T05:30:36.355667+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 101 (C) - A Tayyab",
+    "course_code": "STAT 101",
+    "section": "C",
+    "instructor": "A Tayyab",
+    "timestamp": "2026-06-03T05:30:36.355738+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 101 (D) - R Butt",
+    "course_code": "STAT 101",
+    "section": "D",
+    "instructor": "R Butt",
+    "timestamp": "2026-06-03T05:30:36.355740+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 101 (E) - M Raza",
+    "course_code": "STAT 101",
+    "section": "E",
+    "instructor": "M Raza",
+    "timestamp": "2026-06-03T05:30:36.355742+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 102 (A) - S Bashir",
+    "course_code": "STAT 102",
+    "section": "A",
+    "instructor": "S Bashir",
+    "timestamp": "2026-06-03T05:30:36.355744+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 102 (B) - S Ayub",
+    "course_code": "STAT 102",
+    "section": "B",
+    "instructor": "S Ayub",
+    "timestamp": "2026-06-03T05:30:36.355746+00:00"
   }
 ]

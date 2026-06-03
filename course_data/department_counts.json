@@ -1,5 +1,5 @@
 {
-  "total_courses": 836,
+  "total_courses": 849,
   "departments": {
     "ACCT": 0,
     "ART": 0,
@@ -12,7 +12,7 @@
     "BIOT": 29,
     "BTNY": 0,
     "BMAT": 0,
-    "BUSN": 140,
+    "BUSN": 138,
     "CELT": 0,
     "CPPG": 11,
     "CB": 0,
@@ -53,7 +53,7 @@
     "KORN": 2,
     "LING": 12,
     "MCOM": 40,
-    "MATH": 21,
+    "MATH": 26,
     "MPGN": 5,
     "MUS": 0,
     "MUSC": 2,
@@ -72,13 +72,13 @@
     "CSSE": 0,
     "SPAN": 0,
     "PHED": 0,
-    "STAT": 14,
+    "STAT": 19,
     "T.QU": 0,
     "UNIV": 0,
     "URDU": 28,
     "WRCM": 0,
     "ZOOL": 0,
     "TEST": 0,
-    "DATA": 3
+    "DATA": 8
   }
 }
