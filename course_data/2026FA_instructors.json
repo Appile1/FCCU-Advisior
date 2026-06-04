@@ -3913,7 +3913,16 @@
     "departments": [
       "CSCS"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "CSCS 105",
+        "section": "C",
+        "course_name": "*Basic Electronics",
+        "schedule": "M | 14:00 - 15:50 | T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS039 | SBLOCKS007",
+        "unique": "CSCS 105/C"
+      }
+    ],
     "all_courses": [
       "CSCS 105"
     ]
@@ -3923,7 +3932,16 @@
     "departments": [
       "CSCS"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "CSCS 105",
+        "section": "D",
+        "course_name": "*Basic Electronics",
+        "schedule": "T R | 12:30 - 13:45 | W | 14:00 - 15:50",
+        "classroom": "SBLOCKS007 | SBLOCKS039",
+        "unique": "CSCS 105/D"
+      }
+    ],
     "all_courses": [
       "CSCS 105"
     ]
