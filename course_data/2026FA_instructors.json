@@ -6867,7 +6867,7 @@
         "course_code": "PLSC 340",
         "section": "A",
         "course_name": "Pol. Afg.&Iran.",
-        "schedule": "M W F | 14:00 - 14:50",
+        "schedule": "M W F | 08:00 - 08:50",
         "classroom": "EBLOCKE139",
         "unique": "PLSC 340/A"
       },
@@ -6901,7 +6901,7 @@
         "course_code": "PLSC 322",
         "section": "A",
         "course_name": "International law",
-        "schedule": "M W F | 08:00 - 08:50",
+        "schedule": "M W F | 14:00 - 14:50",
         "classroom": "EBLOCKE139",
         "unique": "PLSC 322/A"
       },
@@ -9908,6 +9908,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "CHEM 100",
+        "section": "D",
+        "course_name": "*Intro. to Chemistry",
+        "schedule": "T R | 12:30 - 13:20 | F | 11:00 - 12:50",
+        "classroom": "SBLOCKS210 | SBLOCKS148",
+        "unique": "CHEM 100/D"
+      },
+      {
         "course_code": "CHEM 330",
         "section": "A",
         "course_name": "*Biochemistry",
@@ -9925,6 +9933,7 @@
       }
     ],
     "all_courses": [
+      "CHEM 100",
       "CHEM 261",
       "CHEM 330",
       "CHEM 331",
