@@ -5665,7 +5665,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "K Shafiqu",
       "capacity": "25",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ENVR 252",
@@ -7249,7 +7249,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "MCOM 203",
