@@ -1,5 +1,5 @@
 {
-  "total_courses": 883,
+  "total_courses": 888,
   "departments": {
     "ACCT": 0,
     "ART": 0,
@@ -79,6 +79,6 @@
     "WRCM": 0,
     "ZOOL": 0,
     "TEST": 0,
-    "DATA": 19
+    "DATA": 24
   }
 }

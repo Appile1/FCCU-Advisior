@@ -1390,5 +1390,45 @@
     "section": "D",
     "instructor": "M Abbas",
     "timestamp": "2026-06-04T07:21:30.186858+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 202 (A) - A Sarwar",
+    "course_code": "DATA 202",
+    "section": "A",
+    "instructor": "A Sarwar",
+    "timestamp": "2026-06-04T08:21:34.144162+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 202 (B) - S Ayub",
+    "course_code": "DATA 202",
+    "section": "B",
+    "instructor": "S Ayub",
+    "timestamp": "2026-06-04T08:21:34.144186+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 301 (A) - M Mughal",
+    "course_code": "DATA 301",
+    "section": "A",
+    "instructor": "M Mughal",
+    "timestamp": "2026-06-04T08:21:34.144192+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 302 (A) - M Raza",
+    "course_code": "DATA 302",
+    "section": "A",
+    "instructor": "M Raza",
+    "timestamp": "2026-06-04T08:21:34.144195+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 414 (A) - N Mushtaq",
+    "course_code": "DATA 414",
+    "section": "A",
+    "instructor": "N Mushtaq",
+    "timestamp": "2026-06-04T08:21:34.144198+00:00"
   }
 ]
