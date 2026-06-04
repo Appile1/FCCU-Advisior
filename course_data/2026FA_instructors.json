@@ -6340,6 +6340,14 @@
         "unique": "PHYS 100/A"
       },
       {
+        "course_code": "PHYS 103",
+        "section": "B",
+        "course_name": "*Mechanics",
+        "schedule": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
+        "classroom": "SBLOCKS029",
+        "unique": "PHYS 103/B"
+      },
+      {
         "course_code": "PHYS 221",
         "section": "A",
         "course_name": "Elect. & Magnetism",
@@ -6382,6 +6390,7 @@
     ],
     "all_courses": [
       "PHYS 100",
+      "PHYS 103",
       "PHYS 221",
       "PHYS 331",
       "PHYS 342",
