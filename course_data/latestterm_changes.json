@@ -1430,5 +1430,29 @@
     "section": "A",
     "instructor": "N Mushtaq",
     "timestamp": "2026-06-04T08:21:34.144198+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ECON 307 (A): G Shabir → G Shabbir",
+    "course_code": "ECON 307",
+    "section": "A",
+    "instructor": "G Shabbir",
+    "timestamp": "2026-06-04T11:00:42.402604+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ECON 307 (B): G Shabir → G Shabbir",
+    "course_code": "ECON 307",
+    "section": "B",
+    "instructor": "G Shabbir",
+    "timestamp": "2026-06-04T11:00:42.402626+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ECON 701 (A): G Shabir → G Shabbir",
+    "course_code": "ECON 701",
+    "section": "A",
+    "instructor": "G Shabbir",
+    "timestamp": "2026-06-04T11:00:42.402635+00:00"
   }
 ]

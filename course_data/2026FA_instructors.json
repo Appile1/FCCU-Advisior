@@ -10908,32 +10908,7 @@
     "departments": [
       "ECON"
     ],
-    "current_courses": [
-      {
-        "course_code": "ECON 307",
-        "section": "A",
-        "course_name": "Intern. Trade Theo.",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE202",
-        "unique": "ECON 307/A"
-      },
-      {
-        "course_code": "ECON 307",
-        "section": "B",
-        "course_name": "Intern. Trade Theo.",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE205",
-        "unique": "ECON 307/B"
-      },
-      {
-        "course_code": "ECON 701",
-        "section": "A",
-        "course_name": "Topics in Microecono",
-        "schedule": "M | 17:00 - 20:00",
-        "classroom": "EBLOCKE201",
-        "unique": "ECON 701/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "ECON 307",
       "ECON 417",
@@ -14106,6 +14081,42 @@
       "HPED 101",
       "HPED 102",
       "HPED 112"
+    ]
+  },
+  {
+    "name": "G Shabbir",
+    "departments": [
+      "ECON"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ECON 307",
+        "section": "A",
+        "course_name": "Intern. Trade Theo.",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE202",
+        "unique": "ECON 307/A"
+      },
+      {
+        "course_code": "ECON 307",
+        "section": "B",
+        "course_name": "Intern. Trade Theo.",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE205",
+        "unique": "ECON 307/B"
+      },
+      {
+        "course_code": "ECON 701",
+        "section": "A",
+        "course_name": "Topics in Microecono",
+        "schedule": "M | 17:00 - 20:00",
+        "classroom": "EBLOCKE201",
+        "unique": "ECON 701/A"
+      }
+    ],
+    "all_courses": [
+      "ECON 307",
+      "ECON 701"
     ]
   }
 ]
