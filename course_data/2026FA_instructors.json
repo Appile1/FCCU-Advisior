@@ -11675,8 +11675,8 @@
         "course_code": "ENVR 418",
         "section": "A",
         "course_name": "Water Treatment",
-        "schedule": "M   F | 10:00 - 10:50 | W | 08:00 - 09:50",
-        "classroom": "SBLOCKS417 | SBLOCKS341",
+        "schedule": "M   F | 10:00 - 10:50 | W | 09:00 - 10:50",
+        "classroom": "SBLOCKS417 | SBLOCKS135",
         "unique": "ENVR 418/A"
       },
       {
@@ -11816,8 +11816,8 @@
         "course_code": "ENVR 411",
         "section": "A",
         "course_name": "*Envr. Microbiology",
-        "schedule": "T R | 09:30 - 10:45 | W | 09:00 - 10:50",
-        "classroom": "SBLOCKS417 | SBLOCKS135",
+        "schedule": "T R | 09:00 - 10:50",
+        "classroom": "SBLOCKS417",
         "unique": "ENVR 411/A"
       },
       {
