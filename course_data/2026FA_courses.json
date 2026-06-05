@@ -493,7 +493,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "N Asghar",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BIOT 413",
@@ -937,7 +937,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "33",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "BUSN 230",
@@ -2785,7 +2785,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | M | 14:00 - 16:50",
       "instructor": "N Ashraf",
       "capacity": "35",
-      "available": "4"
+      "available": "2"
     },
     {
       "course_code": "COMP 200",
@@ -6541,7 +6541,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | M | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "HPED 150",
@@ -6697,7 +6697,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "H Ghani",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "KORN 101",
@@ -7069,7 +7069,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "MATH 108",
@@ -7081,7 +7081,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "4"
+      "available": "2"
     },
     {
       "course_code": "MATH 109",
@@ -7333,7 +7333,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "MCOM 202",
@@ -8293,7 +8293,7 @@
       "schedule_raw": "M W | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PKST 101",
@@ -9973,7 +9973,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Tayyab",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 100",
