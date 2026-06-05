@@ -4177,7 +4177,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Mughal",
       "capacity": "15",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "DATA 207",
@@ -5197,7 +5197,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "R John",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 106",
@@ -6169,7 +6169,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "K Shafiqu",
       "capacity": "10",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "GEOG 240",
@@ -6913,7 +6913,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 101",
@@ -7777,7 +7777,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Shaggan",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MUSC 250",
@@ -10261,7 +10261,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "I Naqvi",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "STAT 317",
@@ -10273,7 +10273,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Samuel",
       "capacity": "25",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "STAT 414",
