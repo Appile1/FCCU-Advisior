@@ -4153,7 +4153,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "DATA 206",
@@ -4177,7 +4177,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Mughal",
       "capacity": "15",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "DATA 207",
@@ -4993,7 +4993,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "EDUC 120",
@@ -5221,7 +5221,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "ENGL 108",
@@ -7285,7 +7285,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MCOM 200",
@@ -7777,7 +7777,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Shaggan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MUSC 250",
@@ -7885,7 +7885,7 @@
       "schedule_raw": "T R | 11:00 - 11:50 | W | 14:00 - 16:00",
       "instructor": "K Javed",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHYS 101",
@@ -10069,7 +10069,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Raza",
       "capacity": "15",
-      "available": "9"
+      "available": "7"
     },
     {
       "course_code": "STAT 102",
@@ -10225,7 +10225,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Mughal",
       "capacity": "20",
-      "available": "2"
+      "available": "0"
     },
     {
       "course_code": "STAT 207",
