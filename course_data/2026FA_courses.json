@@ -889,7 +889,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "BUSN 230",
@@ -1213,7 +1213,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "33",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "BUSN 321",
@@ -1741,7 +1741,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "BUSN 460",
@@ -2797,7 +2797,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 14:00 - 16:50",
       "instructor": "S Qureshi",
       "capacity": "35",
-      "available": "5"
+      "available": "1"
     },
     {
       "course_code": "COMP 200",
@@ -2809,7 +2809,7 @@
       "schedule_raw": "M | 15:00 - 17:50 | T R | 09:30 - 10:45",
       "instructor": "S Qureshi",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "COMP 206",
@@ -3697,7 +3697,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | W | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "25",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "CSCS 201",
@@ -4141,7 +4141,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "DATA 206",
@@ -4201,7 +4201,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Naqvi",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "DATA 301",
@@ -5809,7 +5809,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | F | 09:00 - 10:50",
       "instructor": "M Shahbaz",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "ENVR 345",
@@ -5845,7 +5845,7 @@
       "schedule_raw": "T R | 09:00 - 10:50",
       "instructor": "S Aslam",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "ENVR 414",
@@ -6301,7 +6301,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "HIST 202",
@@ -6637,7 +6637,7 @@
       "schedule_raw": "W F | 12:00 - 12:50",
       "instructor": "H Ghani",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
@@ -6877,7 +6877,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "MATH 095",
@@ -6913,7 +6913,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "MATH 102",
