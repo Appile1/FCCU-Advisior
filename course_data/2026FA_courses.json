@@ -181,7 +181,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Hanook",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 221",
@@ -637,7 +637,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "BUSN 170",
@@ -721,7 +721,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 201",
@@ -1381,7 +1381,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Ramish",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "BUSN 360",
@@ -1405,7 +1405,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "I yusuf",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 360",
@@ -1561,7 +1561,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Q Khan",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "BUSN 383",
@@ -2017,7 +2017,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "BUSN 485",
@@ -2317,7 +2317,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | M | 11:00 - 11:50",
       "instructor": "S Azeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHEM 150",
@@ -3385,7 +3385,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CRIM 230",
@@ -5053,7 +5053,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "EDUC 300",
@@ -5749,7 +5749,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENVR 210",
@@ -5869,7 +5869,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "ENVR 418",
@@ -6373,7 +6373,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 302",
@@ -6745,7 +6745,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "R John",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "LING 217",
@@ -7081,7 +7081,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "MATH 108",
@@ -7453,7 +7453,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "MCOM 303",
@@ -10429,7 +10429,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khokhar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
