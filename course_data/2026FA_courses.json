@@ -2965,7 +2965,7 @@
       "schedule_raw": "T R | 13:00 - 14:50",
       "instructor": "M Chaudhry",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "COMP 301",
@@ -7105,7 +7105,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "MATH 111",
@@ -7849,7 +7849,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "PHIL 499",
@@ -9781,7 +9781,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "SOCL 170",
