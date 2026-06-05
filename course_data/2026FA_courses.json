@@ -253,7 +253,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Butt",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "BIOL 330",
@@ -361,7 +361,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "BIOT 309",
@@ -817,7 +817,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 201",
@@ -865,7 +865,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "R John",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 230",
@@ -1105,7 +1105,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 280",
@@ -2029,7 +2029,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "BUSN 485",
@@ -3541,7 +3541,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "CRST 525B",
@@ -3697,7 +3697,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | W | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "25",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "CSCS 201",
@@ -4345,7 +4345,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "ECON 101",
@@ -5353,7 +5353,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "ENGL 175",
@@ -5413,7 +5413,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "ENGL 209",
@@ -5425,7 +5425,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "ENGL 220",
@@ -5737,7 +5737,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "ENVR 210",
@@ -6877,7 +6877,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "MATH 095",
@@ -8293,7 +8293,7 @@
       "schedule_raw": "M W | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PKST 101",
@@ -8389,7 +8389,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 202",
@@ -9757,7 +9757,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "SOCL 170",
@@ -9793,7 +9793,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "SOCL 290",
@@ -10477,7 +10477,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Tahir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
