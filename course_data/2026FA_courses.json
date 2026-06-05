@@ -4945,7 +4945,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "EDUC 120",
@@ -8965,7 +8965,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 285",
@@ -9145,7 +9145,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 340",
