@@ -637,7 +637,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "BUSN 170",
@@ -1381,7 +1381,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Ramish",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BUSN 360",
@@ -1429,7 +1429,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "BUSN 360",
@@ -6769,7 +6769,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "LING 302",
@@ -7057,7 +7057,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Raza",
       "capacity": "15",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "MATH 108",
@@ -10021,7 +10021,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "STAT 101",
