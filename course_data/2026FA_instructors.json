@@ -2542,6 +2542,14 @@
         "schedule": "MTWRF",
         "classroom": "TBDTBD",
         "unique": "CHEM 799D/A"
+      },
+      {
+        "course_code": "CHEM 799E",
+        "section": "A",
+        "course_name": "Research Thesis",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "CHEM 799E/A"
       }
     ],
     "all_courses": [
@@ -6757,6 +6765,14 @@
         "schedule": "M W F | 15:00 - 15:50",
         "classroom": "EBLOCKE139",
         "unique": "PLSC 407/A"
+      },
+      {
+        "course_code": "PLSC 499",
+        "section": "A",
+        "course_name": "Thesis",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "PLSC 499/A"
       },
       {
         "course_code": "PLSC 523",
