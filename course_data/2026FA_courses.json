@@ -37,7 +37,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Ahmad",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS 111",
@@ -841,7 +841,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R John",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 230",
@@ -4069,7 +4069,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "DATA 102",
@@ -9037,7 +9037,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 298",
@@ -9241,7 +9241,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | R | 14:00 - 15:50",
       "instructor": "A Malik",
       "capacity": "30",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 360",
@@ -9697,7 +9697,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "20"
+      "available": "18"
     },
     {
       "course_code": "SOCL 100",
@@ -9721,7 +9721,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "SOCL 100",
