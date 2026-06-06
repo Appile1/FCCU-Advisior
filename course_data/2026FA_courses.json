@@ -4165,7 +4165,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "DATA 207",
@@ -4957,7 +4957,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "6"
+      "available": "3"
     },
     {
       "course_code": "EDUC 120",
@@ -6769,7 +6769,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "LING 301",
@@ -7777,7 +7777,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Shaggan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MUSC 250",
@@ -8389,7 +8389,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PLSC 102",
@@ -9709,7 +9709,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "SOCL 100",
@@ -10201,7 +10201,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Bashir",
       "capacity": "20",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "STAT 207",
