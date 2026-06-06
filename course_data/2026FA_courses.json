@@ -877,7 +877,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "R John",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "BUSN 230",
@@ -901,7 +901,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Idrees",
       "capacity": "33",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "BUSN 230",
@@ -1117,7 +1117,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "BUSN 280",
@@ -6025,7 +6025,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "FREN 101",
@@ -6361,7 +6361,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "HIST 301",
@@ -7957,7 +7957,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | W | 08:00 - 09:50",
       "instructor": "H Latif",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "PHYS 103",
@@ -8557,7 +8557,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PLSC 322",
@@ -9013,7 +9013,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "PSYC 295",
@@ -9073,7 +9073,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "E Shahid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 301",
