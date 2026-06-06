@@ -37,7 +37,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Ahmad",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ARTS 111",
@@ -2281,7 +2281,7 @@
       "schedule_raw": "T R | 12:30 - 13:20 | F | 11:00 - 12:50",
       "instructor": "M Abbas",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "CHEM 100",
@@ -2797,7 +2797,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | M | 14:00 - 16:50",
       "instructor": "N Ashraf",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "COMP 200",
@@ -2809,7 +2809,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 14:00 - 16:50",
       "instructor": "S Qureshi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "COMP 200",
@@ -5221,7 +5221,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -6313,7 +6313,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "HIST 202",
@@ -6373,7 +6373,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 302",
@@ -9025,7 +9025,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "PSYC 298",
@@ -9325,7 +9325,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A  Nazim",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "PSYC 415",
@@ -10069,7 +10069,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Raza",
       "capacity": "15",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "STAT 102",
