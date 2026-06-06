@@ -1525,7 +1525,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Mughal",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BUSN 364",
@@ -2305,7 +2305,7 @@
       "schedule_raw": "M W | 11:00 - 11:50 | W | 09:00 - 10:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CHEM 150",
@@ -3445,7 +3445,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "CRST 211",
@@ -4129,7 +4129,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ayub",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "DATA 206",
@@ -5521,7 +5521,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Maqbool",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "ENGL 318",
@@ -6961,7 +6961,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 103",
@@ -8473,7 +8473,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "PLSC 301",
@@ -8533,7 +8533,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M U Farooq",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "PLSC 317",
