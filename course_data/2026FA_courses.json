@@ -85,7 +85,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "BIOL 100",
@@ -229,7 +229,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | R | 14:00 - 15:50",
       "instructor": "S Mehnaz",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BIOL 319",
@@ -241,7 +241,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | T | 14:00 - 15:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "BIOL 325",
@@ -5845,7 +5845,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ilyas",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "ENVR 411",
@@ -6313,7 +6313,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 202",
@@ -7849,7 +7849,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "PHIL 499",
@@ -8677,7 +8677,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "PLSC 499",
@@ -9337,7 +9337,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "PSYC 415",
@@ -9349,7 +9349,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "PSYC 425",
@@ -9853,7 +9853,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "SOCL 325",
