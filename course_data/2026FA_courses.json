@@ -2749,7 +2749,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | F | 14:00 - 16:50",
       "instructor": "S Qureshi",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "COMP 111",
@@ -2773,7 +2773,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Atique",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "COMP 113",
@@ -2953,7 +2953,7 @@
       "schedule_raw": "M | 09:00 - 10:50 | W | 09:00 - 10:50",
       "instructor": "M Chaudhry",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "COMP 301",
@@ -2977,7 +2977,7 @@
       "schedule_raw": "T | 11:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "M Butt",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "COMP 302",
@@ -3037,7 +3037,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "COMP 303",
@@ -3049,7 +3049,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "COMP 311",
@@ -3697,7 +3697,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 11:00 - 12:15",
       "instructor": "H Latif",
       "capacity": "25",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "CSCS 105",
@@ -3757,7 +3757,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "CSCS 202",
@@ -7273,7 +7273,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "Dr S Abbas",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MCOM 105",
@@ -7909,7 +7909,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | M | 14:00 - 16:00",
       "instructor": "K Javed",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 101",
@@ -7921,7 +7921,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | T | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHYS 102",
@@ -10153,7 +10153,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "STAT 201",
@@ -10465,7 +10465,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
