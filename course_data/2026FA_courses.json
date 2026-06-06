@@ -6313,7 +6313,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 202",
@@ -6493,7 +6493,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "HPED 101",
@@ -6541,7 +6541,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "HPED 150",
