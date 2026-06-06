@@ -6001,7 +6001,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "FREN 101",
@@ -8833,7 +8833,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Majeed",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 101",
