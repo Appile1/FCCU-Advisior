@@ -85,7 +85,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "BIOL 100",
@@ -3061,7 +3061,7 @@
       "schedule_raw": "M W | 11:00 - 12:50",
       "instructor": "M Mushtaq",
       "capacity": "25",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "COMP 311",
@@ -3541,7 +3541,7 @@
       "schedule_raw": "F | 11:00 - 11:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "CRST 439C",
@@ -3721,7 +3721,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "CSCS 201",
@@ -3877,7 +3877,7 @@
       "schedule_raw": "M W | 11:00 - 12:50",
       "instructor": "M Butt",
       "capacity": "25",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "CSCS 342",
@@ -4921,7 +4921,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 110",
@@ -7285,7 +7285,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MCOM 200",
@@ -7297,7 +7297,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "MCOM 200",
@@ -8365,7 +8365,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 101",
@@ -9001,7 +9001,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 290",
@@ -9769,7 +9769,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "SOCL 118",
