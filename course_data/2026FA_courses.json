@@ -805,7 +805,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 201",
@@ -1381,7 +1381,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Ramish",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "BUSN 360",
@@ -2329,7 +2329,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | T | 11:00 - 12:50",
       "instructor": "M Asghar",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "CHEM 150",
@@ -5245,7 +5245,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "0"
+      "available": "2"
     },
     {
       "course_code": "ENGL 108",
@@ -5425,7 +5425,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "28"
+      "available": "26"
     },
     {
       "course_code": "ENGL 209",
@@ -5761,7 +5761,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "K Shafiqu",
       "capacity": "25",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "ENVR 240",
@@ -6001,7 +6001,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "FREN 101",
@@ -9985,7 +9985,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Butt",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "STAT 100",
