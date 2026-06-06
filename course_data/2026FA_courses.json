@@ -3229,7 +3229,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "111"
+      "available": "112"
     },
     {
       "course_code": "COMP 497B",
@@ -5293,7 +5293,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "3"
+      "available": "6"
     },
     {
       "course_code": "ENGL 108",
@@ -6373,7 +6373,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 302",
@@ -10045,7 +10045,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 101",
@@ -10069,7 +10069,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Raza",
       "capacity": "15",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "STAT 102",
