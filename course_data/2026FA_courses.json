@@ -2833,7 +2833,7 @@
       "schedule_raw": "M | 13:00 - 15:50 | T R | 11:00 - 12:15",
       "instructor": "I Iqbal",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "COMP 206",
@@ -3193,7 +3193,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "COMP 451",
@@ -3457,7 +3457,7 @@
       "schedule_raw": "M | 12:00 - 12:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "CRST 212",
@@ -3697,7 +3697,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 11:00 - 12:15",
       "instructor": "H Latif",
       "capacity": "25",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "CSCS 105",
@@ -3817,7 +3817,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "CSCS 290",
@@ -6577,7 +6577,7 @@
       "schedule_raw": "T R | 08:00 - 08:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "ISLM 101",
@@ -7921,7 +7921,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | T | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 102",
@@ -9253,7 +9253,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | R | 09:00 - 10:50",
       "instructor": "U Rizwan",
       "capacity": "30",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 370",
@@ -9757,7 +9757,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "SOCL 100",
