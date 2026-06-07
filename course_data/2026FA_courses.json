@@ -685,7 +685,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "33",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "BUSN 201",
@@ -733,7 +733,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "U Sharif",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 201",
@@ -805,7 +805,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 201",
@@ -841,7 +841,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R John",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "BUSN 230",
@@ -2293,7 +2293,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | R | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "22"
+      "available": "20"
     },
     {
       "course_code": "CHEM 100",
@@ -2305,7 +2305,7 @@
       "schedule_raw": "M W | 11:00 - 11:50 | W | 09:00 - 10:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CHEM 150",
@@ -3241,7 +3241,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "134"
+      "available": "133"
     },
     {
       "course_code": "CPPG 601",
@@ -3805,7 +3805,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "CSCS 203",
@@ -3841,7 +3841,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "N Shahid",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "CSCS 320",
@@ -3877,7 +3877,7 @@
       "schedule_raw": "M W | 11:00 - 12:50",
       "instructor": "M Butt",
       "capacity": "25",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "CSCS 342",
@@ -5293,7 +5293,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "ENGL 108",
@@ -6493,7 +6493,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "HPED 101",
@@ -7885,7 +7885,7 @@
       "schedule_raw": "T R | 11:00 - 11:50 | W | 14:00 - 16:00",
       "instructor": "K Javed",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHYS 101",
@@ -8389,7 +8389,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PLSC 102",
@@ -8449,7 +8449,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PLSC 212",
