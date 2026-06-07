@@ -229,7 +229,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | R | 14:00 - 15:50",
       "instructor": "S Mehnaz",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BIOL 319",
@@ -241,7 +241,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | T | 14:00 - 15:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "BIOL 325",
@@ -1429,7 +1429,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "BUSN 360",
@@ -2293,7 +2293,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | R | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "CHEM 100",
@@ -4081,7 +4081,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Ayub",
       "capacity": "15",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "DATA 102",
@@ -4153,7 +4153,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "DATA 206",
@@ -7297,7 +7297,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "MCOM 200",
@@ -7465,7 +7465,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "MCOM 304",
@@ -7873,7 +7873,7 @@
       "schedule_raw": "T R | 14:00 - 14:50 | F | 14:00 - 16:00",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "PHYS 100",
