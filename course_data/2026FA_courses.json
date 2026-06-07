@@ -2353,7 +2353,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | T | 09:00 - 10:50",
       "instructor": "D Ahmed",
       "capacity": "20",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "CHEM 160",
@@ -8557,7 +8557,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "PLSC 322",
