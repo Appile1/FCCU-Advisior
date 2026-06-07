@@ -889,7 +889,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "BUSN 230",
@@ -1741,7 +1741,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "BUSN 460",
@@ -1753,7 +1753,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "BUSN 460",
@@ -3493,7 +3493,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "Z West",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "CRST 331",
@@ -7537,7 +7537,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "MCOM 402",
@@ -7549,7 +7549,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "MCOM 404",
@@ -7609,7 +7609,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "MCOM 499",
