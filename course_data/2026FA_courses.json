@@ -2341,7 +2341,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "2"
+      "available": "4"
     },
     {
       "course_code": "CHEM 160",
@@ -3121,7 +3121,7 @@
       "schedule_raw": "M | 15:00 - 15:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "23"
+      "available": "25"
     },
     {
       "course_code": "COMP 401",
@@ -4297,7 +4297,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ECON 100",
@@ -5413,7 +5413,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "16"
+      "available": "14"
     },
     {
       "course_code": "ENGL 201",
@@ -6517,7 +6517,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "HPED 105",
@@ -7093,7 +7093,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 109",
