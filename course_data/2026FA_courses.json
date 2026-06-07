@@ -685,7 +685,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "33",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 201",
@@ -901,7 +901,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Idrees",
       "capacity": "33",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "BUSN 230",
@@ -4405,7 +4405,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Ayyubi",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "ECON 102",
