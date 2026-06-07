@@ -361,7 +361,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "BIOT 309",
@@ -4369,7 +4369,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON 101",
@@ -5029,7 +5029,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "EDUC 240",
@@ -6109,7 +6109,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "GEOG 101",
@@ -6121,7 +6121,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "GEOG 133",
