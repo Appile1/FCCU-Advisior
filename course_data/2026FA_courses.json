@@ -1381,7 +1381,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Ramish",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BUSN 360",
@@ -8857,7 +8857,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "N Asif",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 150",
@@ -8977,7 +8977,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "PSYC 280",
@@ -10081,7 +10081,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "STAT 102",
@@ -10537,7 +10537,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "URDU 204",
