@@ -25,7 +25,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ARTS 103",
@@ -6517,7 +6517,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "HPED 105",
