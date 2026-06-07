@@ -1069,7 +1069,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "BUSN 280",
@@ -1117,7 +1117,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "BUSN 280",
@@ -2341,7 +2341,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "CHEM 160",
@@ -10381,7 +10381,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Virk",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
