@@ -2281,7 +2281,7 @@
       "schedule_raw": "T R | 12:30 - 13:20 | F | 11:00 - 12:50",
       "instructor": "M Abbas",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "CHEM 100",
@@ -9721,7 +9721,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "SOCL 100",
