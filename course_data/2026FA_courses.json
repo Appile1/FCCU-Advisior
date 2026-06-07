@@ -5281,7 +5281,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -5293,7 +5293,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "ENGL 108",
@@ -6505,7 +6505,7 @@
       "schedule_raw": "M W | 16:00 - 17:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HPED 102",
@@ -6769,7 +6769,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "LING 301",
@@ -6913,7 +6913,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MATH 101",
@@ -8425,7 +8425,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "PLSC 203",
@@ -9697,7 +9697,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "SOCL 100",
