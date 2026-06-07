@@ -2329,7 +2329,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | T | 11:00 - 12:50",
       "instructor": "M Asghar",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "CHEM 150",
@@ -4045,7 +4045,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "5",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "DATA 101",
@@ -5005,7 +5005,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "EDUC 120",
@@ -7081,7 +7081,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "23"
+      "available": "21"
     },
     {
       "course_code": "MATH 108",
@@ -7105,7 +7105,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "MATH 111",
@@ -7897,7 +7897,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | F | 14:00 - 15:50",
       "instructor": "S Shah",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 101",
@@ -8473,7 +8473,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "PLSC 301",
@@ -8485,7 +8485,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "PLSC 302",
@@ -8977,7 +8977,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "PSYC 280",
@@ -9169,7 +9169,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 340",
@@ -9985,7 +9985,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Butt",
       "capacity": "35",
-      "available": "15"
+      "available": "17"
     },
     {
       "course_code": "STAT 100",
@@ -10093,7 +10093,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Ayub",
       "capacity": "15",
-      "available": "6"
+      "available": "4"
     },
     {
       "course_code": "STAT 102",
