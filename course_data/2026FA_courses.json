@@ -73,7 +73,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ARTS 203",
@@ -3241,7 +3241,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "133"
+      "available": "134"
     },
     {
       "course_code": "CPPG 601",
@@ -6181,7 +6181,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "K Shafiqu",
       "capacity": "10",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "GEOG 323",
@@ -9985,7 +9985,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Butt",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "STAT 100",
@@ -10537,7 +10537,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "URDU 204",
