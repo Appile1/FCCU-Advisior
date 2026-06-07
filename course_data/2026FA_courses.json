@@ -1669,7 +1669,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "I Ahmed",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "BUSN 404",
@@ -1705,7 +1705,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "BUSN 450",
