@@ -1213,7 +1213,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "33",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BUSN 321",
@@ -7297,7 +7297,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "MCOM 200",
@@ -7309,7 +7309,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "MCOM 201",
@@ -7957,7 +7957,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | W | 08:00 - 09:50",
       "instructor": "H Latif",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "PHYS 103",
