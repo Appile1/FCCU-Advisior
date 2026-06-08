@@ -13,7 +13,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ARTS 102",
@@ -709,7 +709,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BUSN 201",
@@ -841,7 +841,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R John",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 230",
@@ -1093,7 +1093,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 280",
@@ -1369,7 +1369,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Ramish",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "BUSN 360",
@@ -2797,7 +2797,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | M | 14:00 - 16:50",
       "instructor": "N Ashraf",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "COMP 200",
@@ -2821,7 +2821,7 @@
       "schedule_raw": "M | 15:00 - 17:50 | T R | 09:30 - 10:45",
       "instructor": "S Qureshi",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "COMP 206",
@@ -2845,7 +2845,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | T | 11:00 - 13:50",
       "instructor": "S Minhas",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "COMP 206",
@@ -3433,7 +3433,7 @@
       "schedule_raw": "M W | 11:00 - 11:50",
       "instructor": "Z West",
       "capacity": "25",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "CRST 155",
@@ -3709,7 +3709,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | W | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "25",
-      "available": "16"
+      "available": "18"
     },
     {
       "course_code": "CSCS 201",
@@ -3721,7 +3721,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "3"
+      "available": "5"
     },
     {
       "course_code": "CSCS 201",
@@ -3733,7 +3733,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 201",
@@ -5821,7 +5821,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | W | 14:00 - 15:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENVR 340",
@@ -7909,7 +7909,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | F | 14:00 - 15:50",
       "instructor": "S Shah",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHYS 101",
@@ -9001,7 +9001,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 285",
@@ -9745,7 +9745,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
