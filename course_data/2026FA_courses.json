@@ -1777,7 +1777,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BUSN 460",
@@ -8401,7 +8401,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "PLSC 102",
@@ -8413,7 +8413,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 202",
