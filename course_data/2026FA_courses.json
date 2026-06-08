@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 890,
+  "total_courses": 891,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -205,7 +205,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | W | 14:00 - 15:50",
       "instructor": "S Butt",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BIOL 313",
@@ -2341,7 +2341,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "CHEM 160",
@@ -4309,7 +4309,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ECON 100",
@@ -5363,7 +5363,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE222",
       "schedule_raw": "M W F | 12:00 - 12:50",
-      "instructor": "TBD",
+      "instructor": "I Sayed",
       "capacity": "35",
       "available": "16"
     },
@@ -5411,7 +5411,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE221",
       "schedule_raw": "T R | 11:00 - 12:15",
-      "instructor": "I Sayed",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "15"
     },
@@ -5572,6 +5572,18 @@
       "available": "22"
     },
     {
+      "course_code": "ENGL 350",
+      "section": "A",
+      "unique": "ENGL 350/A",
+      "course_name": "Adv. Creative Writin",
+      "credits": "3.00",
+      "classroom": "EBLOCKE122",
+      "schedule_raw": "M W F | 14:00 - 14:50",
+      "instructor": "M Shahid",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
       "course_code": "ENGL 403",
       "section": "A",
       "unique": "ENGL 403/A",
@@ -5689,7 +5701,7 @@
       "schedule_raw": "M | 16:00 - 19:00",
       "instructor": "S Hanif",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "ENGL 699",
@@ -7105,7 +7117,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "MATH 111",
@@ -9721,7 +9733,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "SOCL 100",

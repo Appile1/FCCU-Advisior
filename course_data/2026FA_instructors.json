@@ -11350,12 +11350,12 @@
     ],
     "current_courses": [
       {
-        "course_code": "ENGL 201",
+        "course_code": "ENGL 110",
         "section": "B",
-        "course_name": "Intro to English lit",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 201/B"
+        "course_name": "Contemp Short Story",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE222",
+        "unique": "ENGL 110/B"
       },
       {
         "course_code": "ENGL 301",
@@ -11383,6 +11383,7 @@
       }
     ],
     "all_courses": [
+      "ENGL 110",
       "ENGL 201",
       "ENGL 214",
       "ENGL 301",
@@ -13005,9 +13006,19 @@
     "departments": [
       "ENGL"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "ENGL 350",
+        "section": "A",
+        "course_name": "Adv. Creative Writin",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE122",
+        "unique": "ENGL 350/A"
+      }
+    ],
     "all_courses": [
-      "ENGL 106"
+      "ENGL 106",
+      "ENGL 350"
     ]
   },
   {
@@ -13679,12 +13690,12 @@
         "unique": "ENGL 108/K"
       },
       {
-        "course_code": "ENGL 110",
+        "course_code": "ENGL 201",
         "section": "B",
-        "course_name": "Contemp Short Story",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE222",
-        "unique": "ENGL 110/B"
+        "course_name": "Intro to English lit",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 201/B"
       },
       {
         "course_code": "ENGL 322",
@@ -13698,6 +13709,7 @@
     "all_courses": [
       "ENGL 108",
       "ENGL 110",
+      "ENGL 201",
       "ENGL 322"
     ]
   },

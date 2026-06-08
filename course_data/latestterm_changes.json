@@ -1470,5 +1470,29 @@
     "section": "A",
     "instructor": "S Sindhu",
     "timestamp": "2026-06-05T06:42:34.079190+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 110 (B): TBD → I Sayed",
+    "course_code": "ENGL 110",
+    "section": "B",
+    "instructor": "I Sayed",
+    "timestamp": "2026-06-08T05:21:30.335433+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 201 (B): I Sayed → TBD",
+    "course_code": "ENGL 201",
+    "section": "B",
+    "instructor": "TBD",
+    "timestamp": "2026-06-08T05:21:30.335448+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENGL 350 (A) - M Shahid",
+    "course_code": "ENGL 350",
+    "section": "A",
+    "instructor": "M Shahid",
+    "timestamp": "2026-06-08T05:21:30.335455+00:00"
   }
 ]
