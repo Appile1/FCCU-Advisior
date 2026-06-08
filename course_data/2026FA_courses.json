@@ -109,7 +109,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | M | 14:00 - 15:50",
       "instructor": "S Butt",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 100",
@@ -133,7 +133,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "BIOL 105",
@@ -421,7 +421,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Yousaf",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BIOT 317",
@@ -445,7 +445,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | F | 11:00 - 12:50",
       "instructor": "S Dogar",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "BIOT 408",
@@ -1441,7 +1441,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "BUSN 360",
@@ -4297,7 +4297,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "ECON 100",
@@ -5221,7 +5221,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -6601,7 +6601,7 @@
       "schedule_raw": "W F | 08:00 - 08:50",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 101",
@@ -6685,7 +6685,7 @@
       "schedule_raw": "M W | 10:00 - 10:50",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 201",
@@ -6961,7 +6961,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "MATH 102",
@@ -7285,7 +7285,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "Dr S Abbas",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "MCOM 105",
