@@ -6181,7 +6181,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "K Shafiqu",
       "capacity": "10",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "GEOG 240",
@@ -7045,7 +7045,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Samuel",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MATH 107",
@@ -8401,7 +8401,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PLSC 102",
@@ -8653,7 +8653,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "15",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PLSC 403",
@@ -9865,7 +9865,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "18"
+      "available": "16"
     },
     {
       "course_code": "SOCL 325",
@@ -10021,7 +10021,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "STAT 101",
