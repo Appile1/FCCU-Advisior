@@ -97,7 +97,7 @@
       "schedule_raw": "M W | 12:00 - 12:50 | M | 14:00 - 15:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOL 100",
@@ -145,7 +145,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | R | 14:00 - 15:50",
       "instructor": "S Dogar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 201",
@@ -949,7 +949,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Afaf k",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "BUSN 230",
@@ -961,7 +961,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "B Usman",
       "capacity": "35",
-      "available": "9"
+      "available": "6"
     },
     {
       "course_code": "BUSN 230",
@@ -1117,7 +1117,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 280",
@@ -4969,7 +4969,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "EDUC 120",
@@ -5005,7 +5005,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "EDUC 120",
@@ -5125,7 +5125,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "EDUC 360",
@@ -6541,7 +6541,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "HPED 112",
