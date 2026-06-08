@@ -709,7 +709,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "20"
     },
     {
       "course_code": "BUSN 201",
@@ -721,7 +721,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 201",
@@ -1057,7 +1057,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "BUSN 280",
@@ -1741,7 +1741,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "BUSN 460",
@@ -4069,7 +4069,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "DATA 102",
@@ -4129,7 +4129,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ayub",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "DATA 206",
@@ -4297,7 +4297,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "ECON 100",
@@ -10441,7 +10441,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khokhar",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "URDU 101",
