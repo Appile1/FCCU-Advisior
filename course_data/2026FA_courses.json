@@ -73,7 +73,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "ARTS 203",
@@ -97,7 +97,7 @@
       "schedule_raw": "M W | 12:00 - 12:50 | M | 14:00 - 15:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 100",
@@ -241,7 +241,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | T | 14:00 - 15:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "BIOL 325",
@@ -265,7 +265,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BIOT 201",
@@ -949,7 +949,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Afaf k",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "BUSN 230",
@@ -2329,7 +2329,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | T | 11:00 - 12:50",
       "instructor": "M Asghar",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "CHEM 150",
@@ -5113,7 +5113,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khokhar",
       "capacity": "15",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "EDUC 350",
@@ -6505,7 +6505,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "HPED 101",
@@ -6541,7 +6541,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "HPED 112",
@@ -7369,7 +7369,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "MCOM 203",
@@ -7897,7 +7897,7 @@
       "schedule_raw": "T R | 11:00 - 11:50 | W | 14:00 - 16:00",
       "instructor": "K Javed",
       "capacity": "35",
-      "available": "0"
+      "available": "2"
     },
     {
       "course_code": "PHYS 101",
@@ -9829,7 +9829,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "SOCL 290",
@@ -10477,7 +10477,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
@@ -10501,7 +10501,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
