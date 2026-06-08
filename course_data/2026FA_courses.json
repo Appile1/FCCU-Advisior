@@ -2473,7 +2473,7 @@
       "schedule_raw": "M | 11:00 - 12:50 | M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "CHEM 413",
@@ -2485,7 +2485,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50 | F | 11:00 - 12:50",
       "instructor": "M Iqbal",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "CHEM 470",
@@ -2605,7 +2605,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Azeem",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "CHEM 699B",
@@ -2881,7 +2881,7 @@
       "schedule_raw": "M W | 14:00 - 15:50",
       "instructor": "S Abbasi",
       "capacity": "25",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "COMP 213",
@@ -2917,7 +2917,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "N Sabahat",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "COMP 300",
@@ -2929,7 +2929,7 @@
       "schedule_raw": "M W | 09:00 - 10:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "COMP 300",
@@ -3577,7 +3577,7 @@
       "schedule_raw": "W | 15:00 - 18:00",
       "instructor": "D Lanz",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "CRST 535E",
@@ -3625,7 +3625,7 @@
       "schedule_raw": "W | 15:00 - 18:00",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "CRST 691",
@@ -3673,7 +3673,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CSCS 105",
@@ -3865,7 +3865,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "CSCS 321",
@@ -9889,7 +9889,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "SOCL 425",
@@ -10165,7 +10165,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "STAT 201",
