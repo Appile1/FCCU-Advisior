@@ -1069,7 +1069,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BUSN 280",
@@ -3229,7 +3229,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "112"
+      "available": "111"
     },
     {
       "course_code": "COMP 497B",
@@ -4117,7 +4117,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "DATA 202",
@@ -4237,7 +4237,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "DATA 317",
@@ -5329,7 +5329,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Javed",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -6517,7 +6517,7 @@
       "schedule_raw": "M W | 16:00 - 17:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HPED 102",
@@ -7789,7 +7789,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Shaggan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MUSC 250",
@@ -7813,7 +7813,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHIL 101",
@@ -7979,7 +7979,7 @@
       "credits": "4.00",
       "classroom": "SBLOCKS029",
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
-      "instructor": "TBD",
+      "instructor": "L Kahlon",
       "capacity": "35",
       "available": "34"
     },
@@ -8003,7 +8003,7 @@
       "credits": "4.00",
       "classroom": "SBLOCKS016 | SBLOCKS016B",
       "schedule_raw": "M W F | 11:00 - 11:50 | M | 14:00 - 15:50",
-      "instructor": "TBD",
+      "instructor": "L Kahlon",
       "capacity": "35",
       "available": "29"
     },
@@ -8039,7 +8039,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS039",
       "schedule_raw": "T R | 12:30 - 13:45",
-      "instructor": "TBD",
+      "instructor": "H Latif",
       "capacity": "35",
       "available": "31"
     },
@@ -8051,7 +8051,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS016",
       "schedule_raw": "T R | 11:00 - 12:15",
-      "instructor": "L Kahlon",
+      "instructor": "S Zaheer",
       "capacity": "35",
       "available": "33"
     },
@@ -8135,7 +8135,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS016",
       "schedule_raw": "M W | 14:00 - 15:15",
-      "instructor": "L Kahlon",
+      "instructor": "S Zaheer",
       "capacity": "30",
       "available": "30"
     },
@@ -8533,7 +8533,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "PLSC 311",
@@ -8869,7 +8869,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "N Asif",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 150",
@@ -10225,7 +10225,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Mughal",
       "capacity": "20",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "STAT 207",
@@ -10369,7 +10369,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Ashraf",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",

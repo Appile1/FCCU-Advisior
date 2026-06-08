@@ -1494,5 +1494,45 @@
     "section": "A",
     "instructor": "M Shahid",
     "timestamp": "2026-06-08T05:21:30.335455+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PHYS 103 (B): TBD → L Kahlon",
+    "course_code": "PHYS 103",
+    "section": "B",
+    "instructor": "L Kahlon",
+    "timestamp": "2026-06-08T07:00:44.415092+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PHYS 221 (A): TBD → L Kahlon",
+    "course_code": "PHYS 221",
+    "section": "A",
+    "instructor": "L Kahlon",
+    "timestamp": "2026-06-08T07:00:44.415110+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PHYS 342 (A): TBD → H Latif",
+    "course_code": "PHYS 342",
+    "section": "A",
+    "instructor": "H Latif",
+    "timestamp": "2026-06-08T07:00:44.415114+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PHYS 352 (A): L Kahlon → S Zaheer",
+    "course_code": "PHYS 352",
+    "section": "A",
+    "instructor": "S Zaheer",
+    "timestamp": "2026-06-08T07:00:44.415116+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PHYS 511 (A): L Kahlon → S Zaheer",
+    "course_code": "PHYS 511",
+    "section": "A",
+    "instructor": "S Zaheer",
+    "timestamp": "2026-06-08T07:00:44.415119+00:00"
   }
 ]

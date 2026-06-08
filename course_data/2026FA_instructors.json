@@ -5982,6 +5982,14 @@
         "unique": "PHYS 103/A"
       },
       {
+        "course_code": "PHYS 342",
+        "section": "A",
+        "course_name": "Computationl Physics",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS039",
+        "unique": "PHYS 342/A"
+      },
+      {
         "course_code": "PHYS 503",
         "section": "A",
         "course_name": "Computational Physic",
@@ -6002,6 +6010,7 @@
       "PHYS 100",
       "PHYS 102",
       "PHYS 103",
+      "PHYS 342",
       "PHYS 503",
       "PHYS 510",
       "PHYS 713"
@@ -6062,24 +6071,26 @@
     ],
     "current_courses": [
       {
-        "course_code": "PHYS 352",
-        "section": "A",
-        "course_name": "Plasma Physics",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS016",
-        "unique": "PHYS 352/A"
+        "course_code": "PHYS 103",
+        "section": "B",
+        "course_name": "*Mechanics",
+        "schedule": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
+        "classroom": "SBLOCKS029",
+        "unique": "PHYS 103/B"
       },
       {
-        "course_code": "PHYS 511",
+        "course_code": "PHYS 221",
         "section": "A",
-        "course_name": "Plasma Physics I",
-        "schedule": "M W | 14:00 - 15:15",
-        "classroom": "SBLOCKS016",
-        "unique": "PHYS 511/A"
+        "course_name": "Elect. & Magnetism",
+        "schedule": "M W F | 11:00 - 11:50 | M | 14:00 - 15:50",
+        "classroom": "SBLOCKS016 | SBLOCKS016B",
+        "unique": "PHYS 221/A"
       }
     ],
     "all_courses": [
       "PHYS 100",
+      "PHYS 103",
+      "PHYS 221",
       "PHYS 301",
       "PHYS 321",
       "PHYS 341",
@@ -6228,6 +6239,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "PHYS 352",
+        "section": "A",
+        "course_name": "Plasma Physics",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS016",
+        "unique": "PHYS 352/A"
+      },
+      {
         "course_code": "PHYS 461",
         "section": "A",
         "course_name": "Quantum Mechanics I",
@@ -6242,6 +6261,14 @@
         "schedule": "MTWRF",
         "classroom": "TBDTBD",
         "unique": "PHYS 499A/A"
+      },
+      {
+        "course_code": "PHYS 511",
+        "section": "A",
+        "course_name": "Plasma Physics I",
+        "schedule": "M W | 14:00 - 15:15",
+        "classroom": "SBLOCKS016",
+        "unique": "PHYS 511/A"
       },
       {
         "course_code": "PHYS 699A",
@@ -6312,12 +6339,14 @@
       "PHYS 100",
       "PHYS 104",
       "PHYS 332",
+      "PHYS 352",
       "PHYS 461",
       "PHYS 462",
       "PHYS 499",
       "PHYS 499A",
       "PHYS 499B",
       "PHYS 502",
+      "PHYS 511",
       "PHYS 696",
       "PHYS 696A",
       "PHYS 696B",
@@ -6348,36 +6377,12 @@
         "unique": "PHYS 100/A"
       },
       {
-        "course_code": "PHYS 103",
-        "section": "B",
-        "course_name": "*Mechanics",
-        "schedule": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
-        "classroom": "SBLOCKS029",
-        "unique": "PHYS 103/B"
-      },
-      {
-        "course_code": "PHYS 221",
-        "section": "A",
-        "course_name": "Elect. & Magnetism",
-        "schedule": "M W F | 11:00 - 11:50 | M | 14:00 - 15:50",
-        "classroom": "SBLOCKS016 | SBLOCKS016B",
-        "unique": "PHYS 221/A"
-      },
-      {
         "course_code": "PHYS 331",
         "section": "A",
         "course_name": "*Electronics I",
         "schedule": "M W F | 09:00 - 09:50 | F | 14:00 - 15:50",
         "classroom": "SBLOCKS016A | SBLOCKS027B",
         "unique": "PHYS 331/A"
-      },
-      {
-        "course_code": "PHYS 342",
-        "section": "A",
-        "course_name": "Computationl Physics",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "SBLOCKS039",
-        "unique": "PHYS 342/A"
       },
       {
         "course_code": "PHYS 499B",
