@@ -649,7 +649,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Hamid",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "BUSN 170",
@@ -1369,7 +1369,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Ramish",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "BUSN 360",
@@ -3649,7 +3649,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 100",
@@ -4669,7 +4669,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ECON 313",
@@ -5317,7 +5317,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -6385,7 +6385,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 302",
@@ -6517,7 +6517,7 @@
       "schedule_raw": "M W | 16:00 - 17:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HPED 102",
@@ -8845,7 +8845,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Majeed",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 101",
@@ -9709,7 +9709,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "SOCL 100",
@@ -10501,7 +10501,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
