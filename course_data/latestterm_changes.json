@@ -1534,5 +1534,21 @@
     "section": "A",
     "instructor": "S Zaheer",
     "timestamp": "2026-06-08T07:00:44.415119+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for LING 217 (A): TBD → A  Javed",
+    "course_code": "LING 217",
+    "section": "A",
+    "instructor": "A  Javed",
+    "timestamp": "2026-06-08T11:00:42.635315+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for LING 302 (A): TBD → A  Khalid",
+    "course_code": "LING 302",
+    "section": "A",
+    "instructor": "A  Khalid",
+    "timestamp": "2026-06-08T11:00:42.635333+00:00"
   }
 ]

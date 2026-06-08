@@ -4744,6 +4744,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "LING 302",
+        "section": "A",
+        "course_name": "Morphology and Synta",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE227",
+        "unique": "LING 302/A"
+      },
+      {
         "course_code": "LING 415",
         "section": "A",
         "course_name": "Forensic Linguistics",
@@ -4753,6 +4761,7 @@
       }
     ],
     "all_courses": [
+      "LING 302",
       "LING 415",
       "LING 495"
     ]
@@ -12367,6 +12376,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "LING 217",
+        "section": "A",
+        "course_name": "Introduction to Ling",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE227",
+        "unique": "LING 217/A"
+      },
+      {
         "course_code": "LING 450",
         "section": "A",
         "course_name": "Stylistics",
@@ -12376,6 +12393,7 @@
       }
     ],
     "all_courses": [
+      "LING 217",
       "LING 370",
       "LING 450"
     ]
@@ -13735,24 +13753,7 @@
     "departments": [
       "LING"
     ],
-    "current_courses": [
-      {
-        "course_code": "LING 217",
-        "section": "A",
-        "course_name": "Introduction to Ling",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE227",
-        "unique": "LING 217/A"
-      },
-      {
-        "course_code": "LING 302",
-        "section": "A",
-        "course_name": "Morphology and Synta",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "EBLOCKE227",
-        "unique": "LING 302/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "LING 217",
       "LING 302"
