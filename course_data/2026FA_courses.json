@@ -1189,7 +1189,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "BUSN 321",
@@ -5545,7 +5545,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "ENGL 325",
@@ -5557,7 +5557,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ENGL 331",
@@ -5581,7 +5581,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Shahid",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "ENGL 403",
@@ -6901,7 +6901,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "MATH 095",
@@ -7904,7 +7904,7 @@
       "section": "A",
       "unique": "PHYS 101/A",
       "course_name": "*General Physics I",
-      "credits": "4.00",
+      "credits": "3.00",
       "classroom": "SBLOCKS039 | SBLOCKS029",
       "schedule_raw": "T R | 09:30 - 10:45 | F | 14:00 - 15:50",
       "instructor": "S Shah",
@@ -7916,7 +7916,7 @@
       "section": "B",
       "unique": "PHYS 101/B",
       "course_name": "*General Physics I",
-      "credits": "4.00",
+      "credits": "3.00",
       "classroom": "SBLOCKS029",
       "schedule_raw": "M W F | 10:00 - 10:50 | M | 14:00 - 16:00",
       "instructor": "K Javed",
@@ -7928,7 +7928,7 @@
       "section": "C",
       "unique": "PHYS 101/C",
       "course_name": "*General Physics I",
-      "credits": "4.00",
+      "credits": "3.00",
       "classroom": "SBLOCKS007 | SBLOCKS029",
       "schedule_raw": "M W F | 11:00 - 11:50 | T | 14:00 - 15:50",
       "instructor": "A Rehman",
