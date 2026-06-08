@@ -5713,7 +5713,7 @@
       "schedule_raw": "M W | 11:00 - 11:50 | M | 14:00 - 15:50",
       "instructor": "S Machado",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENVR 101",
@@ -5761,7 +5761,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "K Shafiqu",
       "capacity": "25",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "ENVR 240",
@@ -8857,7 +8857,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "N Asif",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 150",
