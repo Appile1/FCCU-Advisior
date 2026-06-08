@@ -4297,7 +4297,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "20"
+      "available": "18"
     },
     {
       "course_code": "ECON 100",
@@ -4921,7 +4921,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "EDUC 110",
@@ -5221,7 +5221,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -8617,7 +8617,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "PLSC 340",
@@ -9721,7 +9721,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "13"
+      "available": "11"
     },
     {
       "course_code": "SOCL 100",
@@ -9745,7 +9745,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -10417,7 +10417,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Ashraf",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
