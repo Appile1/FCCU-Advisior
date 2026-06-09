@@ -4969,7 +4969,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 120",
@@ -5029,7 +5029,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "EDUC 210",
@@ -5377,7 +5377,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ENGL 108",
@@ -8989,7 +8989,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PSYC 165",
@@ -9085,7 +9085,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khan",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "PSYC 285",
@@ -9685,7 +9685,7 @@
       "schedule_raw": "M W | 14:00 - 15:30",
       "instructor": "U Ilyas",
       "capacity": "30",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "PSYC 620",
@@ -9697,7 +9697,7 @@
       "schedule_raw": "R | 14:00 - 16:00",
       "instructor": "U Rizwan",
       "capacity": "30",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "PSYC 671",
@@ -9709,7 +9709,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "A  Nazim",
       "capacity": "30",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "PSYC 680",
@@ -9721,7 +9721,7 @@
       "schedule_raw": "T | 14:00 - 16:00",
       "instructor": "N Habib",
       "capacity": "30",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "PSYC 699A",
@@ -9733,7 +9733,7 @@
       "schedule_raw": "M W | 15:30 - 17:00 | T R | 16:00 - 17:00 | F | 14:00 - 17:00",
       "instructor": "S Samuel",
       "capacity": "30",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "PSYC 740",
