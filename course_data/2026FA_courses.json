@@ -6205,7 +6205,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "K Shafiqu",
       "capacity": "10",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "GEOG 323",
@@ -7381,7 +7381,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "MCOM 203",
@@ -10285,7 +10285,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "I Naqvi",
       "capacity": "25",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "STAT 317",
