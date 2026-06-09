@@ -4969,7 +4969,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 120",
@@ -4981,7 +4981,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "EDUC 120",
@@ -5209,7 +5209,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ENGL 106",
@@ -8017,7 +8017,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | T | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 102",
@@ -8929,7 +8929,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Majeed",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 101",
@@ -9289,7 +9289,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 350",
@@ -9373,7 +9373,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Shahed",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "PSYC 380",
@@ -10105,7 +10105,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "STAT 101",
@@ -10177,7 +10177,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "STAT 102",
