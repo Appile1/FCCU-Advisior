@@ -1609,7 +1609,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "I Nasir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 385",
@@ -3157,7 +3157,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "COMP 410",
@@ -3193,7 +3193,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "COMP 451",
@@ -3229,7 +3229,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "111"
+      "available": "110"
     },
     {
       "course_code": "COMP 497B",
@@ -3793,7 +3793,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "CSCS 203",
@@ -6937,7 +6937,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "MATH 102",
@@ -7297,7 +7297,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MCOM 200",
@@ -8785,7 +8785,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "PLSC 699E",
