@@ -7847,7 +7847,7 @@
         "section": "G",
         "course_name": "Intro to Sociology",
         "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE103",
+        "classroom": "EBLOCKE105",
         "unique": "SOCL 100/G"
       },
       {
@@ -11406,6 +11406,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "ENGL 108",
+        "section": "M",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE244",
+        "unique": "ENGL 108/M"
+      },
+      {
         "course_code": "ENGL 201",
         "section": "C",
         "course_name": "Intro to English lit",
@@ -11431,6 +11439,7 @@
       }
     ],
     "all_courses": [
+      "ENGL 108",
       "ENGL 201",
       "ENGL 301",
       "ENGL 325",
@@ -12539,7 +12548,7 @@
         "section": "E",
         "course_name": "Intro to Sociology",
         "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE103",
+        "classroom": "EBLOCKE105",
         "unique": "SOCL 100/E"
       },
       {

@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 892,
+  "total_courses": 893,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -1189,7 +1189,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "BUSN 321",
@@ -3541,7 +3541,7 @@
       "schedule_raw": "F | 11:00 - 11:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "CRST 439C",
@@ -5321,6 +5321,18 @@
     },
     {
       "course_code": "ENGL 108",
+      "section": "M",
+      "unique": "ENGL 108/M",
+      "course_name": "Expository Writing",
+      "credits": "3.00",
+      "classroom": "EBLOCKE244",
+      "schedule_raw": "M W F | 09:00 - 09:50",
+      "instructor": "F Zaheer",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "ENGL 108",
       "section": "P",
       "unique": "ENGL 108/P",
       "course_name": "Expository Writing",
@@ -6157,7 +6169,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "GEOG 133",
@@ -8641,7 +8653,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "PLSC 400",
@@ -8833,7 +8845,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M  Niazi",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 100",
@@ -9717,7 +9729,7 @@
       "unique": "SOCL 100/E",
       "course_name": "Intro to Sociology",
       "credits": "3.00",
-      "classroom": "EBLOCKE103",
+      "classroom": "EBLOCKE105",
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Shahid",
       "capacity": "35",
@@ -9741,7 +9753,7 @@
       "unique": "SOCL 100/G",
       "course_name": "Intro to Sociology",
       "credits": "3.00",
-      "classroom": "EBLOCKE103",
+      "classroom": "EBLOCKE105",
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "T Ashraf",
       "capacity": "35",
