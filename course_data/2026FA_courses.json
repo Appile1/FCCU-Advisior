@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 899,
+  "total_courses": 898,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -97,7 +97,7 @@
       "schedule_raw": "M W | 12:00 - 12:50 | M | 14:00 - 15:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOL 100",
@@ -709,7 +709,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "BUSN 201",
@@ -733,7 +733,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "U Sharif",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 201",
@@ -4081,7 +4081,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Ayub",
       "capacity": "15",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "DATA 102",
@@ -5041,7 +5041,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "EDUC 240",
@@ -5208,18 +5208,6 @@
       "classroom": "EBLOCKE227",
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
-      "capacity": "25",
-      "available": "25"
-    },
-    {
-      "course_code": "ENGL 106",
-      "section": "AA",
-      "unique": "ENGL 106/AA",
-      "course_name": "Functional English",
-      "credits": "3.00",
-      "classroom": "EBLOCKE102",
-      "schedule_raw": "M W F | 10:00 - 10:50",
-      "instructor": "R John",
       "capacity": "25",
       "available": "25"
     },
@@ -8941,7 +8929,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Majeed",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 101",
@@ -9049,7 +9037,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | F | 13:00 - 14:50",
       "instructor": "U Ilyas",
       "capacity": "30",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 220",
@@ -9325,7 +9313,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | M | 15:00 - 16:50",
       "instructor": "N Asif",
       "capacity": "30",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 354",
@@ -9409,7 +9397,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Majeed",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 385",
@@ -10201,7 +10189,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Ayub",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "STAT 102",

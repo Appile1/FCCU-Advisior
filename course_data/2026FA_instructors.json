@@ -12880,14 +12880,6 @@
     "current_courses": [
       {
         "course_code": "ENGL 106",
-        "section": "AA",
-        "course_name": "Functional English",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE102",
-        "unique": "ENGL 106/AA"
-      },
-      {
-        "course_code": "ENGL 106",
         "section": "II",
         "course_name": "Functional English",
         "schedule": "T R | 12:30 - 13:45",
