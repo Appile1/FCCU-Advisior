@@ -2629,7 +2629,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Iqbal",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "CHEM 746",
@@ -2641,7 +2641,7 @@
       "schedule_raw": "M W | 14:00 - 15:15",
       "instructor": "D Ahmed",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "CHEM 762",
@@ -2653,7 +2653,7 @@
       "schedule_raw": "M W | 15:30 - 16:45",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "CHEM 799A",
@@ -4021,7 +4021,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Samuel",
       "capacity": "5",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "DATA 101",
@@ -4069,7 +4069,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "DATA 102",
@@ -4417,7 +4417,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "ECON 103",
@@ -4441,7 +4441,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ECON 103",
@@ -4621,7 +4621,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "T Numan",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ECON 307",
@@ -5833,7 +5833,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | F | 09:00 - 10:50",
       "instructor": "M Shahbaz",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "ENVR 345",
@@ -8641,7 +8641,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "PLSC 402",
@@ -9721,7 +9721,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "SOCL 100",
@@ -10249,7 +10249,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "R Butt",
       "capacity": "20",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "STAT 212",
