@@ -1105,7 +1105,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 280",
@@ -5029,7 +5029,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "EDUC 210",
@@ -5905,7 +5905,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | W | 14:00 - 15:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENVR 340",
@@ -5929,7 +5929,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Machado",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "ENVR 406",
@@ -6421,7 +6421,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "HIST 204",
