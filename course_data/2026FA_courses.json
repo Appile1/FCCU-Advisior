@@ -97,7 +97,7 @@
       "schedule_raw": "M W | 12:00 - 12:50 | M | 14:00 - 15:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 100",
@@ -8617,7 +8617,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PLSC 311",
@@ -8641,7 +8641,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "PLSC 321",
@@ -8689,7 +8689,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "PLSC 335",
