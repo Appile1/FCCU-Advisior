@@ -229,7 +229,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | R | 14:00 - 15:50",
       "instructor": "S Mehnaz",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "BIOL 319",
@@ -301,7 +301,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | W | 11:00 - 12:50",
       "instructor": "A Maqbool",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "BIOT 211",
@@ -325,7 +325,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | W | 14:00 - 15:50",
       "instructor": "S Ali",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "BIOT 302",
@@ -337,7 +337,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "S Ali",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOT 305",
@@ -493,7 +493,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "N Asghar",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "BIOT 413",
@@ -2473,7 +2473,7 @@
       "schedule_raw": "M | 11:00 - 12:50 | M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "CHEM 413",
@@ -5461,7 +5461,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Syeda",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "ENGL 250",
@@ -5509,7 +5509,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "ENGL 308",
@@ -7297,7 +7297,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "Dr S Abbas",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MCOM 105",
@@ -7345,7 +7345,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "MCOM 201",
@@ -8317,7 +8317,7 @@
       "schedule_raw": "T R | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PKST 101",
@@ -8365,7 +8365,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "PLSC 101",
@@ -8401,7 +8401,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "PLSC 102",
@@ -8413,7 +8413,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PLSC 102",
@@ -9373,7 +9373,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 425",
@@ -9421,7 +9421,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "PSYC 465",
@@ -10189,7 +10189,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Mughal",
       "capacity": "20",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "STAT 206",
@@ -10261,7 +10261,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "R Butt",
       "capacity": "20",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "STAT 212",
