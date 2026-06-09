@@ -1558,5 +1558,21 @@
     "section": "B",
     "instructor": "T Ahmed",
     "timestamp": "2026-06-09T08:00:41.507741+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for HIST 255 (A): F Masih → M Shafqat",
+    "course_code": "HIST 255",
+    "section": "A",
+    "instructor": "M Shafqat",
+    "timestamp": "2026-06-09T09:21:31.724088+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for HIST 308 (A): U Ibad → M Shafqat",
+    "course_code": "HIST 308",
+    "section": "A",
+    "instructor": "M Shafqat",
+    "timestamp": "2026-06-09T09:21:31.724108+00:00"
   }
 ]

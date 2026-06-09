@@ -4280,14 +4280,6 @@
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "EBLOCKE121",
         "unique": "HIST 103/A"
-      },
-      {
-        "course_code": "HIST 255",
-        "section": "A",
-        "course_name": "The Indus Valley",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "EBLOCKE041",
-        "unique": "HIST 255/A"
       }
     ],
     "all_courses": [
@@ -4311,14 +4303,6 @@
         "schedule": "T R | 09:30 - 10:45",
         "classroom": "SBLOCKS008",
         "unique": "HIST 301/A"
-      },
-      {
-        "course_code": "HIST 308",
-        "section": "A",
-        "course_name": "History of Lahore",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE041",
-        "unique": "HIST 308/A"
       },
       {
         "course_code": "HIST 311",
@@ -12287,6 +12271,22 @@
         "schedule": "M W F | 08:00 - 08:50",
         "classroom": "EBLOCKE040",
         "unique": "HIST 207/A"
+      },
+      {
+        "course_code": "HIST 255",
+        "section": "A",
+        "course_name": "The Indus Valley",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE041",
+        "unique": "HIST 255/A"
+      },
+      {
+        "course_code": "HIST 308",
+        "section": "A",
+        "course_name": "History of Lahore",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE041",
+        "unique": "HIST 308/A"
       }
     ],
     "all_courses": [
