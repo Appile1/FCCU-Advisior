@@ -757,7 +757,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "BUSN 201",
@@ -1441,7 +1441,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "BUSN 360",
@@ -2641,7 +2641,7 @@
       "schedule_raw": "M W | 14:00 - 15:15",
       "instructor": "D Ahmed",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "CHEM 762",
@@ -2653,7 +2653,7 @@
       "schedule_raw": "M W | 15:30 - 16:45",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "CHEM 799A",
@@ -3445,7 +3445,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "CRST 211",
@@ -5557,7 +5557,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "ENGL 331",
@@ -6793,7 +6793,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "LING 302",
@@ -6913,7 +6913,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "MATH 101",
@@ -7081,7 +7081,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Raza",
       "capacity": "15",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "MATH 108",
@@ -7093,7 +7093,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "MATH 108",
@@ -7153,7 +7153,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "MATH 209",
@@ -9397,7 +9397,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 440",
@@ -9469,7 +9469,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "PSYC 501",
@@ -10021,7 +10021,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "STAT 101",
@@ -10237,7 +10237,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Mughal",
       "capacity": "20",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "STAT 207",
@@ -10273,7 +10273,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "I Naqvi",
       "capacity": "25",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "STAT 317",
@@ -10297,7 +10297,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Mushtaq",
       "capacity": "25",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "STAT 414",
