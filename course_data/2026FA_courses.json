@@ -5758,7 +5758,7 @@
       "course_name": "Intro to Sources",
       "credits": "3.00",
       "classroom": "SBLOCKS424",
-      "schedule_raw": "M W F | 11:00 - 11:50",
+      "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Akram",
       "capacity": "35",
       "available": "0"
@@ -5857,7 +5857,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ilyas",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "ENVR 411",
@@ -5893,7 +5893,7 @@
       "schedule_raw": "M   F | 10:00 - 10:50 | W | 09:00 - 10:50",
       "instructor": "S Ilyas",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "ENVR 499",
@@ -7813,7 +7813,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHIL 101",
@@ -9793,7 +9793,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "SOCL 170",
@@ -10237,7 +10237,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Mughal",
       "capacity": "20",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "STAT 207",
