@@ -2293,7 +2293,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | R | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "CHEM 100",
@@ -4345,7 +4345,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "T Numan",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "ECON 101",
@@ -5113,7 +5113,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "EDUC 335",
@@ -6793,7 +6793,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "ISLM 306",
@@ -8017,7 +8017,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | T | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHYS 102",
@@ -10669,7 +10669,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Jamal",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "URDU 306",
