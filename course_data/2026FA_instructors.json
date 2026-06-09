@@ -5350,14 +5350,6 @@
         "unique": "MCOM 101/D"
       },
       {
-        "course_code": "MCOM 202",
-        "section": "B",
-        "course_name": "Sub-Editing",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE039",
-        "unique": "MCOM 202/B"
-      },
-      {
         "course_code": "MCOM 290",
         "section": "A",
         "course_name": "Fundamentals of Rese",
@@ -5372,6 +5364,14 @@
         "schedule": "M W F | 10:00 - 10:50",
         "classroom": "EBLOCKE040",
         "unique": "MCOM 301/B"
+      },
+      {
+        "course_code": "MCOM 302",
+        "section": "A",
+        "course_name": "Opinion Writing",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE040",
+        "unique": "MCOM 302/A"
       }
     ],
     "all_courses": [
@@ -5601,12 +5601,12 @@
         "unique": "MCOM 202/A"
       },
       {
-        "course_code": "MCOM 302",
-        "section": "A",
-        "course_name": "Opinion Writing",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE040",
-        "unique": "MCOM 302/A"
+        "course_code": "MCOM 202",
+        "section": "B",
+        "course_name": "Sub-Editing",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE039",
+        "unique": "MCOM 202/B"
       },
       {
         "course_code": "MCOM 303",

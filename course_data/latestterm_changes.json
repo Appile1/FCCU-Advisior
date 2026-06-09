@@ -1574,5 +1574,21 @@
     "section": "A",
     "instructor": "M Shafqat",
     "timestamp": "2026-06-09T09:21:31.724108+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for MCOM 202 (B): A Malik → S A Naeem",
+    "course_code": "MCOM 202",
+    "section": "B",
+    "instructor": "S A Naeem",
+    "timestamp": "2026-06-09T09:42:35.164273+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for MCOM 302 (A): S A Naeem → A Malik",
+    "course_code": "MCOM 302",
+    "section": "A",
+    "instructor": "A Malik",
+    "timestamp": "2026-06-09T09:42:35.164293+00:00"
   }
 ]
