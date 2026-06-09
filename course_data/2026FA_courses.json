@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 891,
+  "total_courses": 892,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -37,7 +37,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Ahmad",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS 111",
@@ -457,7 +457,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 09:30 - 10:45",
       "instructor": "M Imran",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "BIOT 409",
@@ -841,7 +841,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R John",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 230",
@@ -1945,7 +1945,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BUSN 480",
@@ -2341,7 +2341,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "CHEM 160",
@@ -4477,7 +4477,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "ECON 202",
@@ -4489,7 +4489,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Z Manzoor",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "ECON 202",
@@ -4633,7 +4633,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "G Shabbir",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "ECON 307",
@@ -4729,7 +4729,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "ECON 402",
@@ -4910,6 +4910,18 @@
       "instructor": "M Bhatti",
       "capacity": "25",
       "available": "25"
+    },
+    {
+      "course_code": "ECON 799E",
+      "section": "B",
+      "unique": "ECON 799E/B",
+      "course_name": "Reserach Thesis",
+      "credits": "0",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "T Ahmed",
+      "capacity": "25",
+      "available": "24"
     },
     {
       "course_code": "EDUC 110",
@@ -7117,7 +7129,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "MATH 111",
@@ -7129,7 +7141,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "MATH 201",
@@ -7285,7 +7297,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "Dr S Abbas",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "MCOM 105",
@@ -8305,7 +8317,7 @@
       "schedule_raw": "T R | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PKST 101",
@@ -9025,7 +9037,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "PSYC 295",
@@ -9853,7 +9865,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Jafree",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "SOCL 301",
@@ -9877,7 +9889,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Amjad",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "SOCL 350",
@@ -9913,7 +9925,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "SOCL 494",
@@ -10177,7 +10189,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Mughal",
       "capacity": "20",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "STAT 206",
@@ -10297,7 +10309,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Mushtaq",
       "capacity": "25",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "STAT 414",
@@ -10477,7 +10489,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",

@@ -10345,6 +10345,14 @@
         "schedule": "W | 17:00 - 20:00",
         "classroom": "EBLOCKE201",
         "unique": "ECON 703/A"
+      },
+      {
+        "course_code": "ECON 799E",
+        "section": "B",
+        "course_name": "Reserach Thesis",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "ECON 799E/B"
       }
     ],
     "all_courses": [
@@ -10352,7 +10360,8 @@
       "ECON 101",
       "ECON 201",
       "ECON 505",
-      "ECON 703"
+      "ECON 703",
+      "ECON 799E"
     ]
   },
   {
