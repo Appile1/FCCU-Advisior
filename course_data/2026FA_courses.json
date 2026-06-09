@@ -2449,7 +2449,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
       "instructor": "S Azeem",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "CHEM 361",
@@ -2485,7 +2485,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50 | F | 11:00 - 12:50",
       "instructor": "M Iqbal",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "CHEM 470",
@@ -3961,7 +3961,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "F Ullah",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "CSCS 460",
@@ -3997,7 +3997,7 @@
       "schedule_raw": "M | 11:00 - 12:50 | F | 11:00 - 12:50",
       "instructor": "U  Nisar",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "DATA 101",
@@ -4993,7 +4993,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "EDUC 120",
@@ -5761,7 +5761,7 @@
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "F Zaheer",
       "capacity": "25",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ENGL 620",
@@ -5785,7 +5785,7 @@
       "schedule_raw": "M | 16:00 - 19:00",
       "instructor": "S Hanif",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "ENGL 699",
@@ -6469,7 +6469,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 302",
@@ -9853,7 +9853,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "SOCL 100",
