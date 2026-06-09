@@ -685,7 +685,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "33",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "BUSN 201",
@@ -889,7 +889,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "BUSN 230",
@@ -1033,7 +1033,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "BUSN 280",
@@ -9025,7 +9025,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "PSYC 295",
