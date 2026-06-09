@@ -11295,11 +11295,27 @@
     "current_courses": [
       {
         "course_code": "ENGL 108",
+        "section": "N",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE103",
+        "unique": "ENGL 108/N"
+      },
+      {
+        "course_code": "ENGL 108",
         "section": "P",
         "course_name": "Expository Writing",
         "schedule": "T R | 15:30 - 16:45",
         "classroom": "SBLOCKS412",
         "unique": "ENGL 108/P"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "Q",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE103",
+        "unique": "ENGL 108/Q"
       },
       {
         "course_code": "ENGL 690",
@@ -12864,6 +12880,14 @@
     "current_courses": [
       {
         "course_code": "ENGL 106",
+        "section": "AA",
+        "course_name": "Functional English",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE102",
+        "unique": "ENGL 106/AA"
+      },
+      {
+        "course_code": "ENGL 106",
         "section": "II",
         "course_name": "Functional English",
         "schedule": "T R | 12:30 - 13:45",
@@ -13007,9 +13031,19 @@
     "departments": [
       "ENGL"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "ENGL 108",
+        "section": "C",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE242",
+        "unique": "ENGL 108/C"
+      }
+    ],
     "all_courses": [
-      "ENGL 106"
+      "ENGL 106",
+      "ENGL 108"
     ]
   },
   {
@@ -13707,6 +13741,22 @@
     ],
     "current_courses": [
       {
+        "course_code": "ENGL 106",
+        "section": "A",
+        "course_name": "Functional English",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE227",
+        "unique": "ENGL 106/A"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "B",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE230",
+        "unique": "ENGL 108/B"
+      },
+      {
         "course_code": "ENGL 108",
         "section": "I",
         "course_name": "Expository Writing",
@@ -13748,6 +13798,7 @@
       }
     ],
     "all_courses": [
+      "ENGL 106",
       "ENGL 108",
       "ENGL 110",
       "ENGL 201",

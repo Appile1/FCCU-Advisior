@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 893,
+  "total_courses": 899,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -3661,7 +3661,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 100",
@@ -5201,6 +5201,30 @@
     },
     {
       "course_code": "ENGL 106",
+      "section": "A",
+      "unique": "ENGL 106/A",
+      "course_name": "Functional English",
+      "credits": "3.00",
+      "classroom": "EBLOCKE227",
+      "schedule_raw": "T R | 08:00 - 09:15",
+      "instructor": "TBD",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "ENGL 106",
+      "section": "AA",
+      "unique": "ENGL 106/AA",
+      "course_name": "Functional English",
+      "credits": "3.00",
+      "classroom": "EBLOCKE102",
+      "schedule_raw": "M W F | 10:00 - 10:50",
+      "instructor": "R John",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "ENGL 106",
       "section": "II",
       "unique": "ENGL 106/II",
       "course_name": "Functional English",
@@ -5234,6 +5258,30 @@
       "instructor": "M Saleh",
       "capacity": "25",
       "available": "1"
+    },
+    {
+      "course_code": "ENGL 108",
+      "section": "B",
+      "unique": "ENGL 108/B",
+      "course_name": "Expository Writing",
+      "credits": "3.00",
+      "classroom": "EBLOCKE230",
+      "schedule_raw": "T R | 09:30 - 10:45",
+      "instructor": "TBD",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "ENGL 108",
+      "section": "C",
+      "unique": "ENGL 108/C",
+      "course_name": "Expository Writing",
+      "credits": "3.00",
+      "classroom": "EBLOCKE242",
+      "schedule_raw": "M W F | 16:00 - 16:50",
+      "instructor": "N Justin",
+      "capacity": "25",
+      "available": "25"
     },
     {
       "course_code": "ENGL 108",
@@ -5333,6 +5381,18 @@
     },
     {
       "course_code": "ENGL 108",
+      "section": "N",
+      "unique": "ENGL 108/N",
+      "course_name": "Expository Writing",
+      "credits": "3.00",
+      "classroom": "EBLOCKE103",
+      "schedule_raw": "M W F | 15:00 - 15:50",
+      "instructor": "S Hanif",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "ENGL 108",
       "section": "P",
       "unique": "ENGL 108/P",
       "course_name": "Expository Writing",
@@ -5342,6 +5402,18 @@
       "instructor": "S Hanif",
       "capacity": "25",
       "available": "0"
+    },
+    {
+      "course_code": "ENGL 108",
+      "section": "Q",
+      "unique": "ENGL 108/Q",
+      "course_name": "Expository Writing",
+      "credits": "3.00",
+      "classroom": "EBLOCKE103",
+      "schedule_raw": "M W F | 11:00 - 11:50",
+      "instructor": "S Hanif",
+      "capacity": "25",
+      "available": "25"
     },
     {
       "course_code": "ENGL 108",
@@ -6649,7 +6721,7 @@
       "schedule_raw": "M | 12:00 - 12:50 | F | 12:00 - 12:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
@@ -6661,7 +6733,7 @@
       "schedule_raw": "T R | 09:00 - 09:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 101",
@@ -7837,7 +7909,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHIL 101",
@@ -8845,7 +8917,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M  Niazi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 100",
@@ -8977,7 +9049,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | F | 13:00 - 14:50",
       "instructor": "U Ilyas",
       "capacity": "30",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 220",
@@ -9025,7 +9097,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "PSYC 285",
@@ -9421,7 +9493,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 440",
