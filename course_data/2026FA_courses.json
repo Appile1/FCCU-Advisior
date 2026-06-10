@@ -4129,7 +4129,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ayub",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "DATA 206",
@@ -4225,7 +4225,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Mughal",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "DATA 302",
@@ -6793,7 +6793,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "ISLM 306",
@@ -6853,7 +6853,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Javed",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "LING 217",
@@ -9433,7 +9433,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "PSYC 415",
@@ -9505,7 +9505,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | T | 14:00 - 15:50",
       "instructor": "A aziz",
       "capacity": "30",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "PSYC 465",
