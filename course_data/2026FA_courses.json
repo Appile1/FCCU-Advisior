@@ -145,7 +145,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | R | 14:00 - 15:50",
       "instructor": "S Dogar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOL 201",
@@ -445,7 +445,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | F | 11:00 - 12:50",
       "instructor": "S Dogar",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "BIOT 408",
@@ -1813,7 +1813,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Naumaan Ch",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 460",
@@ -1825,7 +1825,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Naumaan Ch",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 460",
@@ -5257,7 +5257,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "21"
+      "available": "18"
     },
     {
       "course_code": "ENGL 108",
@@ -5353,7 +5353,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "0"
+      "available": "2"
     },
     {
       "course_code": "ENGL 108",
@@ -7273,7 +7273,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "MATH 309",
@@ -8989,7 +8989,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "PSYC 165",
