@@ -1669,7 +1669,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "I Ahmed",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "BUSN 404",
@@ -3961,7 +3961,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "F Ullah",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "CSCS 460",
@@ -8665,7 +8665,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "PLSC 323",
@@ -9085,7 +9085,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khan",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "PSYC 285",
