@@ -961,7 +961,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "B Usman",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 230",
@@ -985,7 +985,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "B Usman",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 230",
@@ -4345,7 +4345,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "T Numan",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "ECON 101",
@@ -9109,7 +9109,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "PSYC 295",
@@ -9121,7 +9121,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "PSYC 298",
@@ -9433,7 +9433,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "PSYC 415",
@@ -9481,7 +9481,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 440",
@@ -9493,7 +9493,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "PSYC 465",
