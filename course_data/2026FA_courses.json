@@ -1033,7 +1033,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "BUSN 280",
@@ -4153,7 +4153,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "DATA 206",
@@ -5521,7 +5521,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "ENGL 220",
@@ -10273,7 +10273,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Hanook",
       "capacity": "20",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "STAT 206",
