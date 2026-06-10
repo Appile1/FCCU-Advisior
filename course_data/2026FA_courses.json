@@ -265,7 +265,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "BIOT 201",
@@ -6625,7 +6625,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "HPED 112",
@@ -8617,7 +8617,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PLSC 311",
