@@ -133,7 +133,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "BIOL 105",
@@ -745,7 +745,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "BUSN 201",
@@ -781,7 +781,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "U Sharif",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 201",
@@ -5293,7 +5293,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -6709,7 +6709,7 @@
       "schedule_raw": "M | 12:00 - 12:50 | F | 12:00 - 12:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
@@ -6985,7 +6985,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "MATH 095",
@@ -7525,7 +7525,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "MCOM 302",
@@ -7597,7 +7597,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "MCOM 310",
@@ -7669,7 +7669,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Dr S Abbas",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "MCOM 414",
@@ -7693,7 +7693,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "F Jabeen",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "MCOM 430",
