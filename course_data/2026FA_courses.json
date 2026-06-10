@@ -805,7 +805,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 201",
@@ -2724,8 +2724,8 @@
       "classroom": "EBLOCKE244",
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Z Kexin",
-      "capacity": "10",
-      "available": "0"
+      "capacity": "20",
+      "available": "10"
     },
     {
       "course_code": "CHIN 101",
@@ -2736,8 +2736,8 @@
       "classroom": "EBLOCKE244",
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "Z Kexin",
-      "capacity": "10",
-      "available": "0"
+      "capacity": "20",
+      "available": "10"
     },
     {
       "course_code": "COMP 111",
@@ -4345,7 +4345,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "T Numan",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "ECON 101",
@@ -4993,7 +4993,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "EDUC 120",
@@ -5821,7 +5821,7 @@
       "schedule_raw": "T R | 11:00 - 11:50 | R | 09:00 - 10:50",
       "instructor": "D Bakker",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENVR 101",
@@ -6229,7 +6229,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "GEOG 133",
@@ -6385,7 +6385,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "HIST 102",
@@ -6816,8 +6816,8 @@
       "classroom": "EBLOCKE244",
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S K Sook",
-      "capacity": "10",
-      "available": "0"
+      "capacity": "20",
+      "available": "10"
     },
     {
       "course_code": "KORN 102",
@@ -6828,8 +6828,8 @@
       "classroom": "EBLOCKE244",
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S K Sook",
-      "capacity": "10",
-      "available": "7"
+      "capacity": "20",
+      "available": "17"
     },
     {
       "course_code": "LING 207",
@@ -8461,7 +8461,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -9361,7 +9361,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "PSYC 375",
@@ -9817,7 +9817,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
