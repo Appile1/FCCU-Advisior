@@ -3385,7 +3385,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CRIM 230",
@@ -6433,7 +6433,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "D C Norman",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "HIST 207",
@@ -6673,7 +6673,7 @@
       "schedule_raw": "T R | 08:00 - 08:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "ISLM 101",
@@ -6829,7 +6829,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S K Sook",
       "capacity": "20",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "LING 207",
@@ -7921,7 +7921,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "PHIL 221",
@@ -8545,7 +8545,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PLSC 212",
@@ -9913,7 +9913,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "SOCL 290",
@@ -10105,7 +10105,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 101",
