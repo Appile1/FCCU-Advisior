@@ -2305,7 +2305,7 @@
       "schedule_raw": "M W | 11:00 - 11:50 | W | 09:00 - 10:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHEM 150",
@@ -3469,7 +3469,7 @@
       "schedule_raw": "W | 12:00 - 12:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "CRST 231",
@@ -5281,7 +5281,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -8809,7 +8809,7 @@
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "M Younis",
       "capacity": "25",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "PLSC 508",
@@ -8833,7 +8833,7 @@
       "schedule_raw": "T | 16:00 - 19:00",
       "instructor": "A. Indrias",
       "capacity": "25",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "PLSC 521",
