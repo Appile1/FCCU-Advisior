@@ -2725,7 +2725,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Z Kexin",
       "capacity": "20",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "CHIN 101",
@@ -3877,7 +3877,7 @@
       "schedule_raw": "M W | 11:00 - 12:50",
       "instructor": "M Butt",
       "capacity": "25",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "CSCS 342",
@@ -6829,7 +6829,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S K Sook",
       "capacity": "20",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "LING 207",
@@ -8077,7 +8077,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Shah",
       "capacity": "20",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "PHYS 221",
@@ -8437,7 +8437,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "PLSC 101",
@@ -9025,7 +9025,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Nazim",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "PSYC 220",
