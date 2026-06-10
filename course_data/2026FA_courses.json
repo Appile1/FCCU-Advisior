@@ -2737,7 +2737,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "Z Kexin",
       "capacity": "20",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "COMP 111",
@@ -5581,7 +5581,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "ENGL 308",
@@ -5845,7 +5845,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENVR 210",
@@ -8485,7 +8485,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "PLSC 102",
@@ -10561,7 +10561,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
