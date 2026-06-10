@@ -5845,7 +5845,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENVR 210",
@@ -6709,7 +6709,7 @@
       "schedule_raw": "M | 12:00 - 12:50 | F | 12:00 - 12:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 101",
@@ -10657,7 +10657,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "N Khokhar",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "URDU 302",
