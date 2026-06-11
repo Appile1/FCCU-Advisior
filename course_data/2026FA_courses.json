@@ -2029,7 +2029,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "BUSN 485",
@@ -2041,7 +2041,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "BUSN 485",
@@ -2301,7 +2301,7 @@
       "unique": "CHEM 100/E",
       "course_name": "*Intro. to Chemistry",
       "credits": "3.00",
-      "classroom": "SBLOCKS213 | SBLOCKS148",
+      "classroom": "SBLOCKS210 | SBLOCKS148",
       "schedule_raw": "M W | 09:00 - 09:50 | R | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
@@ -5413,7 +5413,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "ENGL 108",
