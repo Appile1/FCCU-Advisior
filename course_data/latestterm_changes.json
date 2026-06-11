@@ -1646,5 +1646,37 @@
     "section": "Q",
     "instructor": "S Hanif",
     "timestamp": "2026-06-09T11:21:33.346993+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 170 (F): S Hamid → TBD",
+    "course_code": "BUSN 170",
+    "section": "F",
+    "instructor": "TBD",
+    "timestamp": "2026-06-11T05:15:40.822786+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 490 (A): M Khalid → TBD",
+    "course_code": "BUSN 490",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-11T05:15:40.822829+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 521 (A): M Khalid → TBD",
+    "course_code": "BUSN 521",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-11T05:15:40.822834+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 521 (B): M Khalid → TBD",
+    "course_code": "BUSN 521",
+    "section": "B",
+    "instructor": "TBD",
+    "timestamp": "2026-06-11T05:15:40.822837+00:00"
   }
 ]

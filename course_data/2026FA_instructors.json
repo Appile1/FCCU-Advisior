@@ -1023,16 +1023,7 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [
-      {
-        "course_code": "BUSN 170",
-        "section": "F",
-        "course_name": "Principles of Manage",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE330",
-        "unique": "BUSN 170/F"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "BUSN 170",
       "BUSN 201",
@@ -2191,32 +2182,7 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [
-      {
-        "course_code": "BUSN 490",
-        "section": "A",
-        "course_name": "Analysis of Inst",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "EBLOCKE213",
-        "unique": "BUSN 490/A"
-      },
-      {
-        "course_code": "BUSN 521",
-        "section": "A",
-        "course_name": "MANAGERIAL ECON",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE324",
-        "unique": "BUSN 521/A"
-      },
-      {
-        "course_code": "BUSN 521",
-        "section": "B",
-        "course_name": "MANAGERIAL ECON",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE323",
-        "unique": "BUSN 521/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "BUSN 490",
       "BUSN 521",
@@ -9476,6 +9442,14 @@
       },
       {
         "course_code": "BUSN 170",
+        "section": "F",
+        "course_name": "Principles of Manage",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE330",
+        "unique": "BUSN 170/F"
+      },
+      {
+        "course_code": "BUSN 170",
         "section": "M",
         "course_name": "Principles of Manage",
         "schedule": "M W F | 15:00 - 15:50",
@@ -9825,6 +9799,30 @@
         "schedule": "M W F | 15:00 - 15:50",
         "classroom": "EBLOCKE240",
         "unique": "BUSN 480/F"
+      },
+      {
+        "course_code": "BUSN 490",
+        "section": "A",
+        "course_name": "Analysis of Inst",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE213",
+        "unique": "BUSN 490/A"
+      },
+      {
+        "course_code": "BUSN 521",
+        "section": "A",
+        "course_name": "MANAGERIAL ECON",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE324",
+        "unique": "BUSN 521/A"
+      },
+      {
+        "course_code": "BUSN 521",
+        "section": "B",
+        "course_name": "MANAGERIAL ECON",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE323",
+        "unique": "BUSN 521/B"
       }
     ],
     "all_courses": [
@@ -9847,7 +9845,9 @@
       "BUSN 460",
       "BUSN 461",
       "BUSN 480",
-      "BUSN 498"
+      "BUSN 490",
+      "BUSN 498",
+      "BUSN 521"
     ]
   },
   {

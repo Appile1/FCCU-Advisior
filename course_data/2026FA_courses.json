@@ -647,7 +647,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE330",
       "schedule_raw": "T R | 14:00 - 15:15",
-      "instructor": "S Hamid",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "28"
     },
@@ -2017,7 +2017,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "BUSN 485",
@@ -2029,7 +2029,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "BUSN 485",
@@ -2051,7 +2051,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE213",
       "schedule_raw": "T R | 12:30 - 13:45",
-      "instructor": "M Khalid",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "0"
     },
@@ -2111,7 +2111,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE324",
       "schedule_raw": "T R | 15:30 - 16:45",
-      "instructor": "M Khalid",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "35"
     },
@@ -2123,7 +2123,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE323",
       "schedule_raw": "T R | 14:00 - 15:15",
-      "instructor": "M Khalid",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "35"
     },
@@ -3757,7 +3757,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "CSCS 202",
@@ -6541,7 +6541,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "HIST 312",
@@ -6889,7 +6889,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Khalid",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "LING 319",
@@ -7201,7 +7201,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "MATH 111",
@@ -9865,7 +9865,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "SOCL 118",
