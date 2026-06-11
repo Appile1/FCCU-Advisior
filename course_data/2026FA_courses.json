@@ -817,7 +817,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "BUSN 201",
@@ -913,7 +913,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Idrees",
       "capacity": "33",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 230",
@@ -1273,7 +1273,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Rao",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 321",
@@ -1525,7 +1525,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Bilal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 364",
@@ -10501,7 +10501,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Virk",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
@@ -10537,7 +10537,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khokhar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
@@ -10645,7 +10645,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "URDU 104",
