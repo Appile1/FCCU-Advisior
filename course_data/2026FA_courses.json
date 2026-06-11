@@ -1045,7 +1045,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "BUSN 280",
@@ -2053,7 +2053,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "BUSN 490",
@@ -5917,7 +5917,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | W | 14:00 - 15:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENVR 340",
@@ -7033,7 +7033,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "MATH 102",
@@ -7557,8 +7557,8 @@
       "unique": "MCOM 303/A",
       "course_name": "Public Relations",
       "credits": "3.00",
-      "classroom": "EBLOCKE040",
-      "schedule_raw": "M W F | 15:00 - 15:50",
+      "classroom": "EBLOCKE243",
+      "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Batool",
       "capacity": "35",
       "available": "23"
