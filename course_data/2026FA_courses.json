@@ -2341,7 +2341,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | T | 11:00 - 12:50",
       "instructor": "M Asghar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CHEM 150",
@@ -2353,7 +2353,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHEM 160",
@@ -4669,7 +4669,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Ayyubi",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ECON 311",
@@ -5353,7 +5353,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "ENGL 108",
@@ -5413,7 +5413,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ENGL 108",
@@ -6217,7 +6217,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "GEOG 101",
@@ -6445,7 +6445,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "D C Norman",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "HIST 207",
@@ -6673,7 +6673,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "HPED 151",
@@ -6949,7 +6949,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A  Khalid",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "LING 422",
@@ -10237,7 +10237,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "N Mushtaq",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 115",
