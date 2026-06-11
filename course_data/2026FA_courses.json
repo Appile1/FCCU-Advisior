@@ -7069,7 +7069,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 103",
@@ -8677,7 +8677,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "PLSC 323",
@@ -10381,7 +10381,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Samuel",
       "capacity": "25",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "STAT 414",
