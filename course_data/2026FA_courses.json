@@ -1741,7 +1741,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "F Tasneem",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "BUSN 460",
@@ -5341,7 +5341,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -5497,7 +5497,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "ENGL 201",
@@ -6217,7 +6217,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "GEOG 101",
@@ -6301,7 +6301,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "GEOG 371",
@@ -6757,7 +6757,7 @@
       "schedule_raw": "W F | 12:00 - 12:50",
       "instructor": "H Ghani",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
@@ -7417,7 +7417,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "MCOM 201",
@@ -10189,7 +10189,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "STAT 102",
@@ -10201,7 +10201,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Ayub",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "STAT 102",
