@@ -8473,7 +8473,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -8965,7 +8965,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "N Asif",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 150",
