@@ -1686,5 +1686,29 @@
     "section": "B",
     "instructor": "TBD",
     "timestamp": "2026-06-11T06:00:53.534361+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for EDUC 110 (F): R. Farooq → TBD",
+    "course_code": "EDUC 110",
+    "section": "F",
+    "instructor": "TBD",
+    "timestamp": "2026-06-11T06:30:37.538782+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for URDU 101 (K): M Tahir → A Samuel",
+    "course_code": "URDU 101",
+    "section": "K",
+    "instructor": "A Samuel",
+    "timestamp": "2026-06-11T06:30:37.538907+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (Q) - M Tahir",
+    "course_code": "URDU 101",
+    "section": "Q",
+    "instructor": "M Tahir",
+    "timestamp": "2026-06-11T06:30:37.538914+00:00"
   }
 ]

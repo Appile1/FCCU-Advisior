@@ -8806,12 +8806,12 @@
         "unique": "URDU 101/I"
       },
       {
-        "course_code": "URDU 306",
-        "section": "A",
-        "course_name": "Travelogues in Urdu",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE102",
-        "unique": "URDU 306/A"
+        "course_code": "URDU 101",
+        "section": "K",
+        "course_name": "Communicative Urdu",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE101",
+        "unique": "URDU 101/K"
       },
       {
         "course_code": "URDU 504",
@@ -8973,19 +8973,19 @@
     "current_courses": [
       {
         "course_code": "URDU 101",
-        "section": "K",
-        "course_name": "Communicative Urdu",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE101",
-        "unique": "URDU 101/K"
-      },
-      {
-        "course_code": "URDU 101",
         "section": "M",
         "course_name": "Communicative Urdu",
         "schedule": "T R | 12:30 - 13:45",
         "classroom": "EBLOCKE101",
         "unique": "URDU 101/M"
+      },
+      {
+        "course_code": "URDU 101",
+        "section": "Q",
+        "course_name": "Communicative Urdu",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE102",
+        "unique": "URDU 101/Q"
       },
       {
         "course_code": "URDU 204",
@@ -11158,14 +11158,6 @@
       "EDUC"
     ],
     "current_courses": [
-      {
-        "course_code": "EDUC 110",
-        "section": "F",
-        "course_name": "Foundations of Educ.",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE140",
-        "unique": "EDUC 110/F"
-      },
       {
         "course_code": "EDUC 120",
         "section": "C",
@@ -14231,6 +14223,25 @@
     ],
     "all_courses": [
       "ARTS 101"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "EDUC"
+    ],
+    "current_courses": [
+      {
+        "course_code": "EDUC 110",
+        "section": "F",
+        "course_name": "Foundations of Educ.",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE140",
+        "unique": "EDUC 110/F"
+      }
+    ],
+    "all_courses": [
+      "EDUC 110"
     ]
   }
 ]
