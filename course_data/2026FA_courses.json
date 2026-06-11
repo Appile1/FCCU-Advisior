@@ -1489,7 +1489,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Bilal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 360",
@@ -1513,7 +1513,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Bilal",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 360",
@@ -5017,7 +5017,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "EDUC 120",
@@ -10645,7 +10645,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "URDU 104",
@@ -10681,7 +10681,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "N Khokhar",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "URDU 302",
