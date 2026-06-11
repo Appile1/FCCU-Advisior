@@ -14213,5 +14213,24 @@
       "ECON 307",
       "ECON 701"
     ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "ARTS"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ARTS 101",
+        "section": "B",
+        "course_name": "Introduction to Art",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS109",
+        "unique": "ARTS 101/B"
+      }
+    ],
+    "all_courses": [
+      "ARTS 101"
+    ]
   }
 ]
