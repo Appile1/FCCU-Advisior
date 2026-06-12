@@ -25,7 +25,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ARTS 102",
@@ -97,7 +97,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "21"
+      "available": "23"
     },
     {
       "course_code": "BIOL 100",
@@ -3805,7 +3805,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "CSCS 203",
@@ -5041,7 +5041,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "EDUC 210",
@@ -6421,7 +6421,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 202",
@@ -8533,7 +8533,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 203",
@@ -9865,7 +9865,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "SOCL 100",
