@@ -25,7 +25,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "ARTS 102",
@@ -4405,7 +4405,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "ECON 102",
@@ -4441,7 +4441,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "ECON 103",
@@ -4525,7 +4525,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Jalil",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "ECON 203",
@@ -6889,7 +6889,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "LING 302",
@@ -6937,7 +6937,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "LING 415",
