@@ -5965,7 +5965,7 @@
       "schedule_raw": "T R | 09:00 - 10:50",
       "instructor": "S Aslam",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "ENVR 414",
@@ -6229,7 +6229,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 133",
@@ -6661,7 +6661,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | M | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "HPED 150",
@@ -6673,7 +6673,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "HPED 151",
@@ -10177,7 +10177,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Raza",
       "capacity": "15",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "STAT 102",
