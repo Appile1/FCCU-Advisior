@@ -4369,7 +4369,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "ECON 101",
@@ -4393,7 +4393,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "ECON 102",
@@ -4405,7 +4405,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "ECON 102",
@@ -5413,7 +5413,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "ENGL 108",
@@ -6601,7 +6601,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "HPED 101",
@@ -6889,7 +6889,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "LING 302",
@@ -6913,7 +6913,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Justin",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "LING 410",
