@@ -6541,7 +6541,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Sumbal",
       "capacity": "35",
-      "available": "35"
+      "available": "33"
     },
     {
       "course_code": "HIST 311",
@@ -7453,7 +7453,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "MCOM 202",
@@ -10369,7 +10369,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "I Naqvi",
       "capacity": "25",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "STAT 317",
