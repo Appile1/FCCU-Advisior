@@ -481,7 +481,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Muaz",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "BIOT 411",
@@ -1249,7 +1249,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BUSN 321",
@@ -1465,7 +1465,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "BUSN 360",
@@ -1609,7 +1609,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "BUSN 385",
@@ -4537,7 +4537,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Z  Iqbal",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "ECON 300",
@@ -9805,7 +9805,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "SOCL 100",
@@ -10333,7 +10333,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Mughal",
       "capacity": "20",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "STAT 207",
@@ -10381,7 +10381,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Samuel",
       "capacity": "25",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "STAT 414",
