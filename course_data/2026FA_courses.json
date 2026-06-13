@@ -1153,7 +1153,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "BUSN 280",
@@ -1165,7 +1165,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "BUSN 280",
@@ -1753,7 +1753,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "BUSN 460",
@@ -1777,7 +1777,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 460",
@@ -2749,7 +2749,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "Z Kexin",
       "capacity": "20",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "COMP 111",
@@ -9829,7 +9829,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -9865,7 +9865,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -10657,7 +10657,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "URDU 204",
