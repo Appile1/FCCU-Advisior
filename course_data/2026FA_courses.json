@@ -889,7 +889,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "R John",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "BUSN 230",
@@ -913,7 +913,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Idrees",
       "capacity": "33",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 230",
@@ -1777,7 +1777,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 460",
