@@ -5029,7 +5029,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "EDUC 120",
@@ -8005,7 +8005,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | F | 14:00 - 15:50",
       "instructor": "S Shah",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHYS 101",
