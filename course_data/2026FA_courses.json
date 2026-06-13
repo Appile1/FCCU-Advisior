@@ -1669,7 +1669,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "BUSN 404",
@@ -6697,7 +6697,7 @@
       "schedule_raw": "W F | 08:00 - 08:50",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 101",
@@ -8965,7 +8965,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "N Asif",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 150",
