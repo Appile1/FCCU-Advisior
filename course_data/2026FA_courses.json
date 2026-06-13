@@ -181,7 +181,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | F | 09:00 - 10:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "BIOL 212",
@@ -4057,7 +4057,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "5",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "DATA 101",
@@ -8017,7 +8017,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | M | 14:00 - 16:00",
       "instructor": "K Javed",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 101",
