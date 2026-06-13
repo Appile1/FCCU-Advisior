@@ -4429,7 +4429,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "ECON 103",
@@ -5437,7 +5437,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Saeed",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 110",
@@ -6601,7 +6601,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "HPED 101",
@@ -9001,7 +9001,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "PSYC 165",
@@ -10141,7 +10141,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Samuel",
       "capacity": "15",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "STAT 101",
@@ -10309,7 +10309,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Bashir",
       "capacity": "20",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "STAT 207",
@@ -10333,7 +10333,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Mughal",
       "capacity": "20",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "STAT 207",
@@ -10345,7 +10345,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "R Butt",
       "capacity": "20",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "STAT 212",
