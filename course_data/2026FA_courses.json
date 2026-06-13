@@ -4213,7 +4213,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "DATA 300",
@@ -4729,7 +4729,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Ahmed",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "ECON 401",
