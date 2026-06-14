@@ -1225,7 +1225,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "33",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "BUSN 321",
@@ -7069,7 +7069,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 103",
@@ -7177,7 +7177,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Raza",
       "capacity": "15",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "MATH 108",
@@ -8497,7 +8497,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "PLSC 102",
