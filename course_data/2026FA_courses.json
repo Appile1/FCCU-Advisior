@@ -241,7 +241,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | R | 14:00 - 15:50",
       "instructor": "S Mehnaz",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "BIOL 319",
@@ -469,7 +469,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 09:30 - 10:45",
       "instructor": "M Imran",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "BIOT 409",
