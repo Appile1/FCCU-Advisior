@@ -733,7 +733,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 201",
@@ -757,7 +757,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BUSN 201",
@@ -2065,7 +2065,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 501",
@@ -8965,7 +8965,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "N Asif",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 150",
@@ -10621,7 +10621,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "N Jamal",
       "capacity": "35",
-      "available": "2"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
@@ -10645,7 +10645,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "URDU 104",
