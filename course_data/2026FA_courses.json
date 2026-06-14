@@ -2869,7 +2869,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | R | 11:00 - 13:50",
       "instructor": "S Minhas",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "COMP 213",
@@ -3769,7 +3769,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "CSCS 202",
@@ -6469,7 +6469,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "HIST 301",
@@ -6481,7 +6481,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 302",
@@ -10501,7 +10501,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Virk",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
