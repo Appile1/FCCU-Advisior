@@ -145,7 +145,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "BIOL 105",
@@ -2365,7 +2365,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | T | 09:00 - 10:50",
       "instructor": "D Ahmed",
       "capacity": "20",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "CHEM 160",
