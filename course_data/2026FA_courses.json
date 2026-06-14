@@ -8965,7 +8965,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "N Asif",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 150",
@@ -10237,7 +10237,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "N Mushtaq",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 115",
@@ -10261,7 +10261,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "18"
+      "available": "16"
     },
     {
       "course_code": "STAT 201",
@@ -10621,7 +10621,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "N Jamal",
       "capacity": "35",
-      "available": "0"
+      "available": "2"
     },
     {
       "course_code": "URDU 101",
