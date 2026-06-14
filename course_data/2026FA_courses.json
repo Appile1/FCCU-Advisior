@@ -13,7 +13,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS 101",
@@ -49,7 +49,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Ahmad",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS 111",
@@ -5233,7 +5233,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "R John",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 106",
@@ -7381,7 +7381,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "Dr S Abbas",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MCOM 105",
