@@ -133,7 +133,7 @@
       "schedule_raw": "T R | 09:30 - 10:20 | F | 14:00 - 15:50",
       "instructor": "B Sadiq",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 102",
@@ -721,7 +721,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "BUSN 201",
@@ -817,7 +817,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 201",
@@ -901,7 +901,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "BUSN 230",
@@ -973,7 +973,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "B Usman",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 230",
@@ -5317,7 +5317,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
