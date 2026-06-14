@@ -133,7 +133,7 @@
       "schedule_raw": "T R | 09:30 - 10:20 | F | 14:00 - 15:50",
       "instructor": "B Sadiq",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOL 102",
@@ -3781,7 +3781,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "CSCS 202",
@@ -8053,7 +8053,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | W | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "10",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHYS 103",
@@ -10153,7 +10153,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 101",
@@ -10237,7 +10237,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "N Mushtaq",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 115",
@@ -10261,7 +10261,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "STAT 201",
