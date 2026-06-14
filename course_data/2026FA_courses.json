@@ -2857,7 +2857,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | T | 11:00 - 13:50",
       "instructor": "S Minhas",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "COMP 206",
@@ -2869,7 +2869,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | R | 11:00 - 13:50",
       "instructor": "S Minhas",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "COMP 213",
@@ -7057,7 +7057,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "MATH 102",
@@ -7405,7 +7405,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "MCOM 200",
@@ -7417,7 +7417,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "MCOM 201",
@@ -10249,7 +10249,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "STAT 115",
@@ -10261,7 +10261,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "STAT 201",
