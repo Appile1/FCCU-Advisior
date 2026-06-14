@@ -2737,7 +2737,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Z Kexin",
       "capacity": "20",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "CHIN 101",
@@ -2749,7 +2749,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "Z Kexin",
       "capacity": "20",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "COMP 111",
@@ -5929,7 +5929,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | F | 09:00 - 10:50",
       "instructor": "M Shahbaz",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "ENVR 345",
@@ -8065,7 +8065,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | W | 08:00 - 09:50",
       "instructor": "H Latif",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "PHYS 103",
@@ -10573,7 +10573,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Samuel",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
