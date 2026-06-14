@@ -5749,7 +5749,7 @@
       "schedule_raw": "T | 16:00 - 19:00",
       "instructor": "S Maqbool",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "ENGL 610",
@@ -5797,7 +5797,7 @@
       "schedule_raw": "M | 16:00 - 19:00",
       "instructor": "S Hanif",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "ENGL 699",
@@ -10237,7 +10237,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "N Mushtaq",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 115",
