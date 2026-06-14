@@ -733,7 +733,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 201",
@@ -2365,7 +2365,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | T | 09:00 - 10:50",
       "instructor": "D Ahmed",
       "capacity": "20",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "CHEM 160",
@@ -7441,7 +7441,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MCOM 202",
@@ -7477,7 +7477,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "MCOM 290",
@@ -7525,7 +7525,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "MCOM 302",
@@ -8017,7 +8017,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | M | 14:00 - 16:00",
       "instructor": "K Javed",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 101",
@@ -8641,7 +8641,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M U Farooq",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "PLSC 317",
@@ -8761,7 +8761,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "M Younis",
       "capacity": "15",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "PLSC 403",
