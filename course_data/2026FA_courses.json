@@ -3073,7 +3073,7 @@
       "schedule_raw": "M W | 11:00 - 12:50",
       "instructor": "M Mushtaq",
       "capacity": "25",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "COMP 311",
@@ -3085,7 +3085,7 @@
       "schedule_raw": "T R | 11:00 - 12:50",
       "instructor": "M Mushtaq",
       "capacity": "25",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "COMP 311",
@@ -10189,7 +10189,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "STAT 102",
