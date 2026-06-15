@@ -1813,7 +1813,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "BUSN 460",
@@ -6505,7 +6505,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "HIST 306",
@@ -6541,7 +6541,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Sumbal",
       "capacity": "35",
-      "available": "31"
+      "available": "28"
     },
     {
       "course_code": "HIST 311",
@@ -6553,7 +6553,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "24"
+      "available": "21"
     },
     {
       "course_code": "HIST 312",
