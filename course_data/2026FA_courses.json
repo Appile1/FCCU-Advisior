@@ -1537,7 +1537,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Mughal",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 364",
@@ -2749,7 +2749,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "Z Kexin",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "COMP 111",
@@ -8545,7 +8545,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M U Farooq",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "PLSC 204",
@@ -8941,7 +8941,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Majeed",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 101",
@@ -9181,7 +9181,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "E Shahid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 301",
@@ -9493,7 +9493,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 440",
