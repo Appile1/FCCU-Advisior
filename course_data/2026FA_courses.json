@@ -373,7 +373,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "28"
+      "available": "29"
     },
     {
       "course_code": "BIOT 309",
@@ -2749,7 +2749,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "Z Kexin",
       "capacity": "20",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "COMP 111",
@@ -7009,7 +7009,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "MATH 101",
