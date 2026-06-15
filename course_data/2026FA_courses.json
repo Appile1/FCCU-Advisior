@@ -325,7 +325,7 @@
       "schedule_raw": "M W | 12:00 - 12:50 | T | 14:00 - 15:50",
       "instructor": "M Imran",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "BIOT 301",
@@ -925,7 +925,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "F Idrees",
       "capacity": "33",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "BUSN 230",
@@ -6505,7 +6505,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "34"
+      "available": "32"
     },
     {
       "course_code": "HIST 306",
@@ -8005,7 +8005,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | F | 14:00 - 15:50",
       "instructor": "S Shah",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 101",
