@@ -5377,7 +5377,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Zaheer",
       "capacity": "25",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ENGL 108",
@@ -10369,7 +10369,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "I Naqvi",
       "capacity": "25",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "STAT 317",
