@@ -3409,7 +3409,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "CRST 151",
@@ -6673,7 +6673,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "HPED 151",
