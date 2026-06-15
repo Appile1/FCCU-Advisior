@@ -2749,7 +2749,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "Z Kexin",
       "capacity": "20",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "COMP 111",
@@ -10657,7 +10657,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "URDU 204",
