@@ -1710,5 +1710,21 @@
     "section": "Q",
     "instructor": "M Tahir",
     "timestamp": "2026-06-11T06:30:37.538914+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for FREN 101 (C): TBD → A Anwar",
+    "course_code": "FREN 101",
+    "section": "C",
+    "instructor": "A Anwar",
+    "timestamp": "2026-06-15T09:45:44.227370+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for FREN 101 (D): TBD → A Anwar",
+    "course_code": "FREN 101",
+    "section": "D",
+    "instructor": "A Anwar",
+    "timestamp": "2026-06-15T09:45:44.227392+00:00"
   }
 ]
