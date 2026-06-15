@@ -1777,7 +1777,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "BUSN 460",
@@ -3925,7 +3925,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "F Ullah",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "CSCS 405",
@@ -5389,7 +5389,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "ENGL 108",
@@ -6505,7 +6505,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "HIST 306",
@@ -6541,7 +6541,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Sumbal",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "HIST 311",
@@ -7537,7 +7537,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "MCOM 302",
@@ -7549,7 +7549,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "MCOM 303",
@@ -9697,7 +9697,7 @@
       "schedule_raw": "M W | 14:00 - 15:30",
       "instructor": "U Ilyas",
       "capacity": "30",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PSYC 620",
@@ -9709,7 +9709,7 @@
       "schedule_raw": "R | 14:00 - 16:00",
       "instructor": "U Rizwan",
       "capacity": "30",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PSYC 671",
@@ -9721,7 +9721,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "A  Nazim",
       "capacity": "30",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PSYC 680",
@@ -9733,7 +9733,7 @@
       "schedule_raw": "T | 14:00 - 16:00",
       "instructor": "N Habib",
       "capacity": "30",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PSYC 699A",
@@ -9745,7 +9745,7 @@
       "schedule_raw": "M W | 15:30 - 17:00 | T R | 16:00 - 17:00 | F | 14:00 - 17:00",
       "instructor": "S Samuel",
       "capacity": "30",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PSYC 740",
