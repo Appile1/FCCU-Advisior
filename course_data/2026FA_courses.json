@@ -2845,7 +2845,7 @@
       "schedule_raw": "M | 13:00 - 15:50 | T R | 11:00 - 12:15",
       "instructor": "I Iqbal",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "COMP 206",
@@ -3829,7 +3829,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "CSCS 290",
@@ -6385,7 +6385,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Mahmood",
       "capacity": "20",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "HIST 101",
@@ -6409,7 +6409,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Haider",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 103",
@@ -6481,7 +6481,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 302",
@@ -6601,7 +6601,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "HPED 101",
@@ -10321,7 +10321,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Mughal",
       "capacity": "20",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "STAT 207",
