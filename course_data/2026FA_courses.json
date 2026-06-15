@@ -3205,7 +3205,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "COMP 451",
@@ -6673,7 +6673,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "HPED 151",
