@@ -1681,7 +1681,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "I Ahmed",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "BUSN 404",
@@ -3445,7 +3445,7 @@
       "schedule_raw": "M W | 11:00 - 11:50",
       "instructor": "Z West",
       "capacity": "25",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "CRST 155",
@@ -6505,7 +6505,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "HIST 306",
@@ -7009,7 +7009,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "MATH 101",
