@@ -3205,7 +3205,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "COMP 451",
@@ -3217,7 +3217,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "COMP 451",
@@ -3253,7 +3253,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "132"
+      "available": "131"
     },
     {
       "course_code": "CPPG 601",
