@@ -169,7 +169,7 @@
       "schedule_raw": "M W | 08:00 - 08:50 | F | 14:00 - 15:50",
       "instructor": "M Yousaf",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "BIOL 203",
@@ -229,7 +229,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | W | 14:00 - 15:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "BIOL 315",
@@ -9241,7 +9241,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "U Ilyas",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "PSYC 320",
