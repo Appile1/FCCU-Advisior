@@ -2917,7 +2917,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Toor",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "COMP 220",
@@ -3025,7 +3025,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "COMP 303",
@@ -5065,7 +5065,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Aslam",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "EDUC 260",
@@ -5449,7 +5449,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Zia",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "ENGL 110",
@@ -7717,7 +7717,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "MCOM 499",
@@ -9253,7 +9253,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "PSYC 330",
