@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 899,
+  "total_courses": 898,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -3409,7 +3409,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CRST 151",
@@ -6805,7 +6805,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "ISLM 306",
@@ -7009,7 +7009,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "MATH 101",
@@ -9961,7 +9961,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "SOCL 325",
@@ -10658,18 +10658,6 @@
       "instructor": "A  Anwar",
       "capacity": "35",
       "available": "18"
-    },
-    {
-      "course_code": "URDU 204",
-      "section": "A",
-      "unique": "URDU 204/A",
-      "course_name": "Urdu Grammar and Lit",
-      "credits": "3.00",
-      "classroom": "EBLOCKE102",
-      "schedule_raw": "T R | 14:00 - 15:15",
-      "instructor": "M Tahir",
-      "capacity": "35",
-      "available": "32"
     },
     {
       "course_code": "URDU 208",
