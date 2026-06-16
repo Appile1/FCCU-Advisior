@@ -3253,7 +3253,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "133"
+      "available": "132"
     },
     {
       "course_code": "CPPG 601",
@@ -10463,7 +10463,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE101",
       "schedule_raw": "M W F | 09:00 - 09:50",
-      "instructor": "S Ashraf",
+      "instructor": "A Virk",
       "capacity": "35",
       "available": "0"
     },
@@ -10711,7 +10711,7 @@
       "course_code": "URDU 505",
       "section": "A",
       "unique": "URDU 505/A",
-      "course_name": "Principles and Appli",
+      "course_name": "Critical Theory",
       "credits": "3.00",
       "classroom": "EBLOCKE101",
       "schedule_raw": "M | 16:00 - 19:00",

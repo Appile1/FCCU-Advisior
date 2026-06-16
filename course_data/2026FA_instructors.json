@@ -8841,6 +8841,14 @@
     "current_courses": [
       {
         "course_code": "URDU 101",
+        "section": "A",
+        "course_name": "Communicative Urdu",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE101",
+        "unique": "URDU 101/A"
+      },
+      {
+        "course_code": "URDU 101",
         "section": "C",
         "course_name": "Communicative Urdu",
         "schedule": "M W F | 08:00 - 08:50",
@@ -8877,14 +8885,6 @@
       "URDU"
     ],
     "current_courses": [
-      {
-        "course_code": "URDU 101",
-        "section": "A",
-        "course_name": "Communicative Urdu",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE101",
-        "unique": "URDU 101/A"
-      },
       {
         "course_code": "URDU 101",
         "section": "B",
@@ -9063,7 +9063,7 @@
       {
         "course_code": "URDU 505",
         "section": "A",
-        "course_name": "Principles and Appli",
+        "course_name": "Critical Theory",
         "schedule": "M | 16:00 - 19:00",
         "classroom": "EBLOCKE101",
         "unique": "URDU 505/A"

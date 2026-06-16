@@ -1726,5 +1726,13 @@
     "section": "D",
     "instructor": "A Anwar",
     "timestamp": "2026-06-15T09:45:44.227392+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for URDU 101 (A): S Ashraf → A Virk",
+    "course_code": "URDU 101",
+    "section": "A",
+    "instructor": "A Virk",
+    "timestamp": "2026-06-16T06:15:37.921342+00:00"
   }
 ]
