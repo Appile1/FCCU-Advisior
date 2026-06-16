@@ -145,7 +145,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BIOL 105",
@@ -1417,7 +1417,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "I yusuf",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 360",
@@ -1883,7 +1883,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE346",
       "schedule_raw": "T R | 09:30 - 10:45",
-      "instructor": "F Malik",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "0"
     },
@@ -1907,7 +1907,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE331",
       "schedule_raw": "T R | 11:00 - 12:15",
-      "instructor": "F Malik",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "13"
     },
@@ -2941,7 +2941,7 @@
       "schedule_raw": "M W | 09:00 - 10:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "12"
+      "available": "10"
     },
     {
       "course_code": "COMP 300",
@@ -5509,7 +5509,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "ENGL 201",
@@ -8077,7 +8077,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
       "instructor": "L Kahlon",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "PHYS 151",
@@ -9241,7 +9241,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "U Ilyas",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "PSYC 320",

@@ -2086,24 +2086,7 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [
-      {
-        "course_code": "BUSN 461",
-        "section": "B",
-        "course_name": "New Prod.Development",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE346",
-        "unique": "BUSN 461/B"
-      },
-      {
-        "course_code": "BUSN 464",
-        "section": "B",
-        "course_name": "Total Quality Manage",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE331",
-        "unique": "BUSN 464/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "BUSN 461",
       "BUSN 464",
@@ -9745,6 +9728,22 @@
         "unique": "BUSN 461/A"
       },
       {
+        "course_code": "BUSN 461",
+        "section": "B",
+        "course_name": "New Prod.Development",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE346",
+        "unique": "BUSN 461/B"
+      },
+      {
+        "course_code": "BUSN 464",
+        "section": "B",
+        "course_name": "Total Quality Manage",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE331",
+        "unique": "BUSN 464/B"
+      },
+      {
         "course_code": "BUSN 480",
         "section": "A",
         "course_name": "Marketing Research",
@@ -9836,6 +9835,7 @@
       "BUSN 450",
       "BUSN 460",
       "BUSN 461",
+      "BUSN 464",
       "BUSN 480",
       "BUSN 490",
       "BUSN 498",

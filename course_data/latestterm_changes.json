@@ -1734,5 +1734,21 @@
     "section": "A",
     "instructor": "A Virk",
     "timestamp": "2026-06-16T06:15:37.921342+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 461 (B): F Malik → TBD",
+    "course_code": "BUSN 461",
+    "section": "B",
+    "instructor": "TBD",
+    "timestamp": "2026-06-16T10:00:53.452368+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 464 (B): F Malik → TBD",
+    "course_code": "BUSN 464",
+    "section": "B",
+    "instructor": "TBD",
+    "timestamp": "2026-06-16T10:00:53.452388+00:00"
   }
 ]
