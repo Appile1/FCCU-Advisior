@@ -1489,7 +1489,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Bilal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 360",
@@ -2053,7 +2053,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "BUSN 490",
@@ -2617,7 +2617,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Azeem",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "CHEM 699B",
@@ -4729,7 +4729,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Ahmed",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ECON 401",
@@ -5005,7 +5005,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "EDUC 120",
@@ -5497,7 +5497,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "ENGL 201",
@@ -8449,7 +8449,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "PLSC 101",
