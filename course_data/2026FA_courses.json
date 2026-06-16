@@ -1057,7 +1057,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BUSN 280",
@@ -3217,7 +3217,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "COMP 451",
@@ -3949,7 +3949,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "CSCS 453",
@@ -4177,7 +4177,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "DATA 207",
@@ -7057,7 +7057,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "MATH 102",
@@ -7069,7 +7069,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 103",
