@@ -5461,7 +5461,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ENGL 175",
@@ -9817,7 +9817,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "SOCL 100",
