@@ -10954,12 +10954,12 @@
         "unique": "EDUC 110/H"
       },
       {
-        "course_code": "EDUC 380",
+        "course_code": "EDUC 355",
         "section": "A",
-        "course_name": "Teaching Mathematics",
+        "course_name": "Teaching of English",
         "schedule": "T R | 14:00 - 15:15",
         "classroom": "EBLOCKE214",
-        "unique": "EDUC 380/A"
+        "unique": "EDUC 355/A"
       }
     ],
     "all_courses": [
