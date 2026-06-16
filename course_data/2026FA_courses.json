@@ -1681,7 +1681,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "I Ahmed",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 404",
@@ -1717,7 +1717,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "BUSN 450",
@@ -4477,7 +4477,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Ahmed",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "ECON 201",
@@ -4501,7 +4501,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Z Manzoor",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ECON 202",
@@ -4609,7 +4609,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "U Hanif",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ECON 303",
@@ -6733,7 +6733,7 @@
       "schedule_raw": "T R | 09:00 - 09:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 101",
