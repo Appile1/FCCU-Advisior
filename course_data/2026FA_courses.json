@@ -6445,7 +6445,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Hayat",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "HIST 207",
@@ -6805,7 +6805,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "ISLM 306",
@@ -8077,7 +8077,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
       "instructor": "L Kahlon",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "PHYS 151",
