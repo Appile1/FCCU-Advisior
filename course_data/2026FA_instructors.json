@@ -4290,6 +4290,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "HIST 204",
+        "section": "A",
+        "course_name": "History of the U.S",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE121",
+        "unique": "HIST 204/A"
+      },
+      {
         "course_code": "HIST 400",
         "section": "A",
         "course_name": "Research Methodology",
@@ -13283,16 +13291,7 @@
     "departments": [
       "HIST"
     ],
-    "current_courses": [
-      {
-        "course_code": "HIST 204",
-        "section": "A",
-        "course_name": "History of the U.S",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE121",
-        "unique": "HIST 204/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "HIST 204"
     ]

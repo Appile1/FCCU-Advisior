@@ -1758,5 +1758,13 @@
     "section": "A",
     "instructor": "J Hassan",
     "timestamp": "2026-06-16T10:45:41.387070+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for HIST 204 (A): D C Norman → S Hayat",
+    "course_code": "HIST 204",
+    "section": "A",
+    "instructor": "S Hayat",
+    "timestamp": "2026-06-16T12:00:52.281607+00:00"
   }
 ]
