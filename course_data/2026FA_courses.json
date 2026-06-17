@@ -73,7 +73,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "ARTS 201",
@@ -5089,7 +5089,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "EDUC 300",
@@ -5149,7 +5149,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khokhar",
       "capacity": "15",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "EDUC 350",
@@ -5173,7 +5173,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "J Hassan",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "EDUC 360",
@@ -6241,7 +6241,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 133",
@@ -7045,7 +7045,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "MATH 102",
@@ -9949,7 +9949,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "SOCL 291",
