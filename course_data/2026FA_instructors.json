@@ -8979,6 +8979,14 @@
         "unique": "URDU 101/Q"
       },
       {
+        "course_code": "URDU 105",
+        "section": "A",
+        "course_name": "Intro to Genres",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE102",
+        "unique": "URDU 105/A"
+      },
+      {
         "course_code": "URDU 507",
         "section": "A",
         "course_name": "Art of Creative Writ",
@@ -8989,6 +8997,7 @@
     ],
     "all_courses": [
       "URDU 101",
+      "URDU 105",
       "URDU 204",
       "URDU 507"
     ]
@@ -9081,14 +9090,6 @@
         "schedule": "M W F | 15:00 - 15:50",
         "classroom": "EBLOCKE101",
         "unique": "URDU 101/G"
-      },
-      {
-        "course_code": "URDU 208",
-        "section": "A",
-        "course_name": "Script Wr in Urdu",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE102",
-        "unique": "URDU 208/A"
       },
       {
         "course_code": "URDU 504",

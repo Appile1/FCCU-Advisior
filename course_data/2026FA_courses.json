@@ -361,7 +361,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "I John",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "BIOT 307",
@@ -5605,7 +5605,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ENGL 308",
@@ -7909,7 +7909,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Shaggan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHIL 101",
@@ -8737,7 +8737,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "PLSC 400",
@@ -9181,7 +9181,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A  Ateeq",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "PSYC 301",
@@ -9265,7 +9265,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "PSYC 330",
@@ -10672,16 +10672,16 @@
       "available": "19"
     },
     {
-      "course_code": "URDU 208",
+      "course_code": "URDU 105",
       "section": "A",
-      "unique": "URDU 208/A",
-      "course_name": "Script Wr in Urdu",
+      "unique": "URDU 105/A",
+      "course_name": "Intro to Genres",
       "credits": "3.00",
       "classroom": "EBLOCKE102",
-      "schedule_raw": "M W F | 16:00 - 16:50",
-      "instructor": "N Khokhar",
+      "schedule_raw": "T R | 14:00 - 15:15",
+      "instructor": "M Tahir",
       "capacity": "35",
-      "available": "31"
+      "available": "35"
     },
     {
       "course_code": "URDU 302",
