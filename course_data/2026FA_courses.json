@@ -7921,7 +7921,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHIL 101",
@@ -10369,7 +10369,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Hanook",
       "capacity": "10",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "STAT 317",
@@ -10657,7 +10657,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "URDU 104",
