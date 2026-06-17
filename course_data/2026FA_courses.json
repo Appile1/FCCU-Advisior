@@ -2293,7 +2293,7 @@
       "schedule_raw": "T R | 12:30 - 13:20 | F | 11:00 - 12:50",
       "instructor": "M Abbas",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "CHEM 100",
@@ -5401,7 +5401,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ENGL 108",
@@ -7993,7 +7993,7 @@
       "schedule_raw": "T R | 14:00 - 14:50 | F | 14:00 - 16:00",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PHYS 100",
@@ -10105,7 +10105,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Butt",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "STAT 100",
@@ -10417,7 +10417,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Mushtaq",
       "capacity": "25",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "STAT 516",
@@ -10657,7 +10657,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "URDU 104",
