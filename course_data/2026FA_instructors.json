@@ -10760,6 +10760,14 @@
         "schedule": "MTWRF",
         "classroom": "TBDTBD",
         "unique": "ECON 799B/A"
+      },
+      {
+        "course_code": "ECON 799E",
+        "section": "A",
+        "course_name": "Reserach Thesis",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "ECON 799E/A"
       }
     ],
     "all_courses": [

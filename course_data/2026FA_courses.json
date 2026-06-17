@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 898,
+  "total_courses": 899,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -4645,7 +4645,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "G Shabbir",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ECON 307",
@@ -4922,6 +4922,18 @@
       "instructor": "M Bhatti",
       "capacity": "25",
       "available": "25"
+    },
+    {
+      "course_code": "ECON 799E",
+      "section": "A",
+      "unique": "ECON 799E/A",
+      "course_name": "Reserach Thesis",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "M Bhatti",
+      "capacity": "25",
+      "available": "24"
     },
     {
       "course_code": "ECON 799E",
@@ -7153,7 +7165,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 107",
@@ -9085,7 +9097,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "PSYC 280",
@@ -10309,7 +10321,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Bashir",
       "capacity": "20",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "STAT 207",
