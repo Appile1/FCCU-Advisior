@@ -3161,8 +3161,8 @@
         "course_code": "COMP 451",
         "section": "A",
         "course_name": "Compiler Constructio",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "SBLOCKS319",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS120",
         "unique": "COMP 451/A"
       }
     ],
@@ -13107,7 +13107,7 @@
         "course_code": "ENGL 108",
         "section": "D",
         "course_name": "Expository Writing",
-        "schedule": "T R | 11:00 - 12:15",
+        "schedule": "T R | 14:00 - 15:15",
         "classroom": "SBLOCKS120",
         "unique": "ENGL 108/D"
       },

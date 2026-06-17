@@ -3213,11 +3213,11 @@
       "unique": "COMP 451/A",
       "course_name": "Compiler Constructio",
       "credits": "3.00",
-      "classroom": "SBLOCKS319",
-      "schedule_raw": "T R | 08:00 - 09:15",
+      "classroom": "SBLOCKS120",
+      "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Basharat",
-      "capacity": "35",
-      "available": "1"
+      "capacity": "25",
+      "available": "0"
     },
     {
       "course_code": "COMP 451",
@@ -5290,7 +5290,7 @@
       "course_name": "Expository Writing",
       "credits": "3.00",
       "classroom": "SBLOCKS120",
-      "schedule_raw": "T R | 11:00 - 12:15",
+      "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Wasim",
       "capacity": "25",
       "available": "0"
