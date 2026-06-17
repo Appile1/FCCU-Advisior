@@ -1249,7 +1249,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BUSN 321",
@@ -6625,7 +6625,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HPED 105",
@@ -6673,7 +6673,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "HPED 151",
@@ -7561,7 +7561,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "MCOM 303",
@@ -10537,7 +10537,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khokhar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
