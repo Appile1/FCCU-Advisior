@@ -1537,7 +1537,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Mughal",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 364",
@@ -5053,7 +5053,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "EDUC 210",
@@ -8749,7 +8749,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "PLSC 402",
