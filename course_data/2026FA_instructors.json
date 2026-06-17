@@ -8811,14 +8811,6 @@
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "EBLOCKE101",
         "unique": "URDU 101/K"
-      },
-      {
-        "course_code": "URDU 504",
-        "section": "A",
-        "course_name": "Lit. of the Minor.",
-        "schedule": "F | 16:00 - 19:00",
-        "classroom": "EBLOCKE101",
-        "unique": "URDU 504/A"
       }
     ],
     "all_courses": [
@@ -9097,6 +9089,14 @@
         "schedule": "M W F | 16:00 - 16:50",
         "classroom": "EBLOCKE102",
         "unique": "URDU 208/A"
+      },
+      {
+        "course_code": "URDU 504",
+        "section": "A",
+        "course_name": "Lit. of the Minor.",
+        "schedule": "F | 16:00 - 19:00",
+        "classroom": "EBLOCKE101",
+        "unique": "URDU 504/A"
       },
       {
         "course_code": "URDU 518",

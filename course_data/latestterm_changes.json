@@ -1782,5 +1782,13 @@
     "section": "B",
     "instructor": "S Kamran",
     "timestamp": "2026-06-17T07:30:47.460189+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for URDU 504 (A): A Samuel → N Khokhar",
+    "course_code": "URDU 504",
+    "section": "A",
+    "instructor": "N Khokhar",
+    "timestamp": "2026-06-17T09:30:44.517049+00:00"
   }
 ]
