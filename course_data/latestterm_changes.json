@@ -1774,5 +1774,13 @@
     "section": "A",
     "instructor": "M Bhatti",
     "timestamp": "2026-06-17T07:15:32.493422+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ARTS 101 (B): TBD → S Kamran",
+    "course_code": "ARTS 101",
+    "section": "B",
+    "instructor": "S Kamran",
+    "timestamp": "2026-06-17T07:30:47.460189+00:00"
   }
 ]

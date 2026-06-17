@@ -14,6 +14,14 @@
         "unique": "ARTS 101/A"
       },
       {
+        "course_code": "ARTS 101",
+        "section": "B",
+        "course_name": "Introduction to Art",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS109",
+        "unique": "ARTS 101/B"
+      },
+      {
         "course_code": "ARTS 203",
         "section": "A",
         "course_name": "Art and Architecture",
@@ -14211,16 +14219,7 @@
     "departments": [
       "ARTS"
     ],
-    "current_courses": [
-      {
-        "course_code": "ARTS 101",
-        "section": "B",
-        "course_name": "Introduction to Art",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "SBLOCKS109",
-        "unique": "ARTS 101/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "ARTS 101"
     ]
