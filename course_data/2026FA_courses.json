@@ -3529,7 +3529,7 @@
       "schedule_raw": "T R | 15:00 - 16:15",
       "instructor": "W Davey",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "CRST 391",
@@ -4057,7 +4057,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "5",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "DATA 101",
@@ -4321,7 +4321,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "ECON 100",
@@ -6229,7 +6229,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "GEOG 101",
@@ -8689,7 +8689,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PLSC 323",
@@ -8713,7 +8713,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "PLSC 335",
