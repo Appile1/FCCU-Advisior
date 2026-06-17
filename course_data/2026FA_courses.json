@@ -6241,7 +6241,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "GEOG 133",
@@ -7237,7 +7237,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "MATH 201",
@@ -9025,7 +9025,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "PSYC 175",
@@ -10657,7 +10657,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "URDU 104",
