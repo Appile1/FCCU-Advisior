@@ -4129,7 +4129,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "DATA 202",
@@ -5305,7 +5305,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -5917,7 +5917,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "ENVR 323",
@@ -7489,7 +7489,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "MCOM 290",
@@ -7717,7 +7717,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "F Jabeen",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "MCOM 430",
@@ -10417,7 +10417,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Mushtaq",
       "capacity": "25",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "STAT 516",
