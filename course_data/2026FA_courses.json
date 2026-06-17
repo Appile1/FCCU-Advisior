@@ -1945,7 +1945,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 480",
@@ -2041,7 +2041,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 485",
@@ -4249,7 +4249,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "DATA 317",
@@ -10333,7 +10333,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Mughal",
       "capacity": "20",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "STAT 207",
