@@ -3937,7 +3937,7 @@
       "schedule_raw": "T R | 16:00 - 17:15",
       "instructor": "Z Malik",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CSCS 410",
@@ -8749,7 +8749,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "PLSC 402",
@@ -8797,7 +8797,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "PLSC 499",
@@ -9829,7 +9829,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "SOCL 100",
