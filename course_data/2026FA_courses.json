@@ -4525,7 +4525,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Jalil",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ECON 203",
@@ -6997,7 +6997,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "MATH 095",
@@ -7729,7 +7729,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "F Jabeen",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "MCOM 510",
@@ -10093,7 +10093,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Butt",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "STAT 100",
