@@ -3145,7 +3145,7 @@
       "schedule_raw": "W | 15:00 - 15:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "COMP 401",
@@ -3949,7 +3949,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "CSCS 453",
@@ -5269,7 +5269,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "ENGL 108",
@@ -5401,7 +5401,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "ENGL 108",
@@ -6121,7 +6121,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "FREN 101",
