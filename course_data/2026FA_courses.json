@@ -1957,7 +1957,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "BUSN 480",
@@ -1969,7 +1969,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "BUSN 480",
@@ -2041,7 +2041,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 485",
@@ -2053,7 +2053,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "BUSN 490",
@@ -3889,7 +3889,7 @@
       "schedule_raw": "M W | 11:00 - 12:50",
       "instructor": "M Butt",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CSCS 342",
@@ -3937,7 +3937,7 @@
       "schedule_raw": "T R | 16:00 - 17:15",
       "instructor": "Z Malik",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 410",
@@ -6697,7 +6697,7 @@
       "schedule_raw": "T R | 08:00 - 08:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ISLM 101",
@@ -7417,7 +7417,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "MCOM 200",
