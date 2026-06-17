@@ -4165,7 +4165,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "DATA 206",
@@ -7057,7 +7057,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "N Shahid",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "MATH 102",
@@ -7069,7 +7069,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "MATH 102",
@@ -10309,7 +10309,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Bashir",
       "capacity": "20",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "STAT 206",
@@ -10657,7 +10657,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "URDU 104",
