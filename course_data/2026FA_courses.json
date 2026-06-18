@@ -3457,7 +3457,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "CRST 211",
@@ -4177,7 +4177,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "DATA 207",
@@ -6613,7 +6613,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "HPED 101",
@@ -8509,7 +8509,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "PLSC 102",
@@ -10321,7 +10321,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Bashir",
       "capacity": "20",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "STAT 207",
