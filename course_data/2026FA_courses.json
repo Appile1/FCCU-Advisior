@@ -85,7 +85,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ARTS 203",
@@ -3241,7 +3241,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "102"
+      "available": "101"
     },
     {
       "course_code": "COMP 497B",
@@ -7465,7 +7465,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "MCOM 202",
@@ -7477,7 +7477,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "25"
+      "available": "23"
     },
     {
       "course_code": "MCOM 203",
