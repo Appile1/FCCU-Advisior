@@ -2353,7 +2353,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "CHEM 160",
@@ -6817,7 +6817,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ISLM 306",
@@ -7417,7 +7417,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "MCOM 200",
@@ -7993,7 +7993,7 @@
       "schedule_raw": "T R | 14:00 - 14:50 | F | 14:00 - 16:00",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "PHYS 100",
@@ -8557,7 +8557,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M U Farooq",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "PLSC 204",
@@ -8569,7 +8569,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PLSC 212",
