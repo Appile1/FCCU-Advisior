@@ -3805,7 +3805,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "CSCS 203",
@@ -3889,7 +3889,7 @@
       "schedule_raw": "M W | 11:00 - 12:50",
       "instructor": "M Butt",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 342",
@@ -8641,7 +8641,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PLSC 311",
