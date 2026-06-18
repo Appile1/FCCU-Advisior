@@ -4021,7 +4021,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Tayyab",
       "capacity": "5",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "DATA 101",
@@ -4153,7 +4153,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Hanook",
       "capacity": "15",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "DATA 206",
@@ -4177,7 +4177,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "DATA 207",
@@ -4729,7 +4729,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Ahmed",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ECON 401",
@@ -5053,7 +5053,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "EDUC 210",
@@ -5077,7 +5077,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Aslam",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "EDUC 260",
@@ -6121,7 +6121,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "FREN 101",
@@ -9097,7 +9097,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "PSYC 280",
@@ -9385,7 +9385,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "PSYC 375",
@@ -9517,7 +9517,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "PSYC 465",
@@ -9865,7 +9865,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "SOCL 100",
@@ -9985,7 +9985,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Amjad",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "SOCL 350",
