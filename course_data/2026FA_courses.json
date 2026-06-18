@@ -205,7 +205,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | T | 11:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "BIOL 222",
@@ -217,7 +217,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | W | 14:00 - 15:50",
       "instructor": "S Butt",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BIOL 313",
@@ -841,7 +841,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "BUSN 230",
@@ -889,7 +889,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "R John",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BUSN 230",
@@ -1081,7 +1081,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "BUSN 280",
@@ -3049,7 +3049,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "COMP 303",
@@ -7453,7 +7453,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MCOM 202",
@@ -8677,7 +8677,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "PLSC 322",
