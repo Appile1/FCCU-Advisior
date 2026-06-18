@@ -157,7 +157,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | R | 14:00 - 15:50",
       "instructor": "S Dogar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 201",
@@ -889,7 +889,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "R John",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "BUSN 230",
@@ -901,7 +901,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BUSN 230",
@@ -2353,7 +2353,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "CHEM 160",
@@ -5353,7 +5353,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -5581,7 +5581,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "R Wasif",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ENGL 301",
@@ -5665,7 +5665,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "ENGL 331",
@@ -6469,7 +6469,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "HIST 255",
@@ -9025,7 +9025,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "PSYC 175",
@@ -9097,7 +9097,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "PSYC 280",
