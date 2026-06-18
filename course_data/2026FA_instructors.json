@@ -3105,7 +3105,7 @@
         "section": "A",
         "course_name": "Computer Networks",
         "schedule": "M W | 11:00 - 12:50",
-        "classroom": "SBLOCKS120",
+        "classroom": "SBLOCKS219",
         "unique": "COMP 311/A"
       },
       {
@@ -3169,8 +3169,8 @@
         "course_code": "COMP 451",
         "section": "A",
         "course_name": "Compiler Constructio",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS120",
+        "schedule": "T R | 11:00 - 12:50",
+        "classroom": "SBLOCKS219",
         "unique": "COMP 451/A"
       }
     ],
