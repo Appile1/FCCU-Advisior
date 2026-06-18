@@ -3073,7 +3073,7 @@
       "schedule_raw": "M W | 11:00 - 12:50",
       "instructor": "M Mushtaq",
       "capacity": "25",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "COMP 311",
@@ -3445,7 +3445,7 @@
       "schedule_raw": "M W | 11:00 - 11:50",
       "instructor": "Z West",
       "capacity": "25",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "CRST 155",
@@ -4729,7 +4729,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Ahmed",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "ECON 401",
@@ -5939,7 +5939,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS417 | SBLOCKS135",
       "schedule_raw": "M W | 09:00 - 09:50 | F | 09:00 - 10:50",
-      "instructor": "M Shahbaz",
+      "instructor": "D Bakker",
       "capacity": "35",
       "available": "24"
     },
@@ -6565,7 +6565,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "19"
+      "available": "17"
     },
     {
       "course_code": "HIST 312",

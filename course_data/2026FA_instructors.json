@@ -11745,16 +11745,7 @@
     "departments": [
       "ENVR"
     ],
-    "current_courses": [
-      {
-        "course_code": "ENVR 340",
-        "section": "A",
-        "course_name": "Envr. Chem. Funda.",
-        "schedule": "M W | 09:00 - 09:50 | F | 09:00 - 10:50",
-        "classroom": "SBLOCKS417 | SBLOCKS135",
-        "unique": "ENVR 340/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "ENVR 201",
       "ENVR 340",
@@ -11775,6 +11766,14 @@
         "schedule": "T R | 11:00 - 11:50 | R | 09:00 - 10:50",
         "classroom": "SBLOCKS424 | SBLOCKS135",
         "unique": "ENVR 101/B"
+      },
+      {
+        "course_code": "ENVR 340",
+        "section": "A",
+        "course_name": "Envr. Chem. Funda.",
+        "schedule": "M W | 09:00 - 09:50 | F | 09:00 - 10:50",
+        "classroom": "SBLOCKS417 | SBLOCKS135",
+        "unique": "ENVR 340/A"
       },
       {
         "course_code": "ENVR 499",
@@ -11820,6 +11819,7 @@
     "all_courses": [
       "ENVR 101",
       "ENVR 201",
+      "ENVR 340",
       "ENVR 404",
       "ENVR 499",
       "ENVR 499B",
