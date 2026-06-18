@@ -2893,7 +2893,7 @@
       "schedule_raw": "M W | 14:00 - 15:50",
       "instructor": "S Abbasi",
       "capacity": "25",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "COMP 213",
@@ -5725,7 +5725,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "F Syeda",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ENGL 501",
@@ -10657,7 +10657,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "URDU 104",
