@@ -85,7 +85,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ARTS 203",
@@ -1441,7 +1441,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "BUSN 360",
@@ -6085,7 +6085,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "D Bakker",
       "capacity": "15",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ENVR 699A",
@@ -10009,7 +10009,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "SOCL 465",
