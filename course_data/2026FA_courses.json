@@ -4669,7 +4669,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Ayyubi",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ECON 311",
@@ -4729,7 +4729,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Ahmed",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "ECON 401",
@@ -8773,7 +8773,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "M Younis",
       "capacity": "15",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "PLSC 403",
