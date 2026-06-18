@@ -277,7 +277,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "BIOT 201",
@@ -373,7 +373,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "BIOT 309",
@@ -2341,7 +2341,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | T | 11:00 - 12:50",
       "instructor": "M Asghar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHEM 150",
@@ -3529,7 +3529,7 @@
       "schedule_raw": "T R | 15:00 - 16:15",
       "instructor": "W Davey",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "CRST 391",
@@ -9109,7 +9109,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 285",
