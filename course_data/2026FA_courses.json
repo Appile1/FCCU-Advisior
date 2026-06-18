@@ -4669,7 +4669,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Ayyubi",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "ECON 311",
@@ -5545,7 +5545,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "ENGL 220",
@@ -5581,7 +5581,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "R Wasif",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "ENGL 301",
@@ -5989,7 +5989,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ENVR 418",
@@ -6397,7 +6397,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Mahmood",
       "capacity": "20",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "HIST 101",
@@ -8773,7 +8773,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "M Younis",
       "capacity": "15",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "PLSC 403",
@@ -10093,7 +10093,7 @@
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "S Rasheed",
       "capacity": "25",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "STAT 100",
@@ -10681,7 +10681,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "URDU 302",
