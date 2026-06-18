@@ -25,7 +25,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ARTS 102",
@@ -157,7 +157,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | R | 14:00 - 15:50",
       "instructor": "S Dogar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOL 201",
@@ -277,7 +277,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BIOT 201",
@@ -337,7 +337,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | W | 14:00 - 15:50",
       "instructor": "S Ali",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "BIOT 302",
@@ -373,7 +373,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "BIOT 309",
@@ -1453,7 +1453,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "BUSN 360",
@@ -2293,7 +2293,7 @@
       "schedule_raw": "T R | 12:30 - 13:20 | F | 11:00 - 12:50",
       "instructor": "M Abbas",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "CHEM 100",
@@ -4477,7 +4477,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Ahmed",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "ECON 201",
@@ -4501,7 +4501,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Z Manzoor",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ECON 202",
@@ -5029,7 +5029,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 120",
@@ -5281,7 +5281,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "ENGL 108",
@@ -5329,7 +5329,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -6397,7 +6397,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Mahmood",
       "capacity": "20",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "HIST 101",
@@ -6673,7 +6673,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | M | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "28"
+      "available": "29"
     },
     {
       "course_code": "HPED 150",
