@@ -1681,7 +1681,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "I Ahmed",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 404",
@@ -1717,7 +1717,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BUSN 450",
@@ -1801,7 +1801,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "BUSN 460",
@@ -2953,7 +2953,7 @@
       "schedule_raw": "T | 11:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "COMP 301",
@@ -3061,7 +3061,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "COMP 311",
@@ -3073,7 +3073,7 @@
       "schedule_raw": "M W | 11:00 - 12:50",
       "instructor": "M Mushtaq",
       "capacity": "25",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "COMP 311",
@@ -4477,7 +4477,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Ahmed",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ECON 201",
@@ -5041,7 +5041,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "EDUC 120",
@@ -6613,7 +6613,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "HPED 101",
@@ -9457,7 +9457,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "PSYC 415",
@@ -9517,7 +9517,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "PSYC 465",
@@ -9973,7 +9973,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "SOCL 325",
@@ -10093,7 +10093,7 @@
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "S Rasheed",
       "capacity": "25",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "STAT 100",
@@ -10417,7 +10417,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Mushtaq",
       "capacity": "25",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "STAT 516",
