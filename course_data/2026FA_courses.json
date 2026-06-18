@@ -3025,7 +3025,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "COMP 303",
@@ -3049,7 +3049,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "COMP 303",
@@ -8641,7 +8641,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PLSC 311",
@@ -8701,7 +8701,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "PLSC 330",
