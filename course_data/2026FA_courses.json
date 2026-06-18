@@ -5053,7 +5053,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "EDUC 210",
@@ -5581,7 +5581,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "R Wasif",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "ENGL 301",
@@ -6469,7 +6469,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "HIST 255",
@@ -6673,7 +6673,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | M | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "HPED 150",
