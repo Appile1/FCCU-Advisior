@@ -433,7 +433,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Yousaf",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "BIOT 317",
@@ -1873,7 +1873,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BUSN 461",
@@ -1897,7 +1897,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "I yusuf",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BUSN 464",
@@ -3409,7 +3409,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CRST 151",
@@ -3433,7 +3433,7 @@
       "schedule_raw": "M W | 09:00 - 09:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "CRST 152",
@@ -3445,7 +3445,7 @@
       "schedule_raw": "M W | 11:00 - 11:50",
       "instructor": "Z West",
       "capacity": "25",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "CRST 155",
@@ -3469,7 +3469,7 @@
       "schedule_raw": "M | 12:00 - 12:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "CRST 212",
@@ -4321,7 +4321,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "ECON 100",
@@ -4369,7 +4369,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "ECON 101",
@@ -5665,7 +5665,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "ENGL 331",
