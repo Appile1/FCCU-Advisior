@@ -3529,7 +3529,7 @@
       "schedule_raw": "T R | 15:00 - 16:15",
       "instructor": "W Davey",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "CRST 391",
@@ -9109,7 +9109,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 285",
