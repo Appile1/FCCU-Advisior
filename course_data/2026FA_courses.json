@@ -4525,7 +4525,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Z Manzoor",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ECON 202",
@@ -4621,7 +4621,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "U Hanif",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ECON 303",
@@ -5257,7 +5257,7 @@
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "A Khokhar",
       "capacity": "15",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "EDUC 650",
@@ -5269,7 +5269,7 @@
       "schedule_raw": "M | 16:00 - 19:00",
       "instructor": "M. Thomas",
       "capacity": "15",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "ENGL 106",
@@ -5329,7 +5329,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "ENGL 108",
