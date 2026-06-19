@@ -3889,7 +3889,7 @@
       "schedule_raw": "M W | 11:00 - 12:50",
       "instructor": "M Butt",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CSCS 342",
@@ -6493,7 +6493,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 302",
