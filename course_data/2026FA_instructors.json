@@ -9092,6 +9092,14 @@
         "unique": "URDU 101/G"
       },
       {
+        "course_code": "URDU 212",
+        "section": "A",
+        "course_name": "Urdu Drama",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE102",
+        "unique": "URDU 212/A"
+      },
+      {
         "course_code": "URDU 504",
         "section": "A",
         "course_name": "Lit. of the Minor.",
@@ -9111,6 +9119,7 @@
     "all_courses": [
       "URDU 101",
       "URDU 208",
+      "URDU 212",
       "URDU 402",
       "URDU 499",
       "URDU 504",
@@ -12666,7 +12675,7 @@
       {
         "course_code": "URDU 503",
         "section": "A",
-        "course_name": "Tran: Theo. & Prac.",
+        "course_name": "Literary Trends",
         "schedule": "T | 17:00 - 20:00",
         "classroom": "EBLOCKE101",
         "unique": "URDU 503/A"

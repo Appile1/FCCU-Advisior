@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 899,
+  "total_courses": 900,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -5869,7 +5869,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENVR 210",
@@ -10684,6 +10684,18 @@
       "available": "35"
     },
     {
+      "course_code": "URDU 212",
+      "section": "A",
+      "unique": "URDU 212/A",
+      "course_name": "Urdu Drama",
+      "credits": "3.00",
+      "classroom": "EBLOCKE102",
+      "schedule_raw": "M W F | 16:00 - 16:50",
+      "instructor": "N Khokhar",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
       "course_code": "URDU 302",
       "section": "A",
       "unique": "URDU 302/A",
@@ -10699,7 +10711,7 @@
       "course_code": "URDU 503",
       "section": "A",
       "unique": "URDU 503/A",
-      "course_name": "Tran: Theo. & Prac.",
+      "course_name": "Literary Trends",
       "credits": "3.00",
       "classroom": "EBLOCKE101",
       "schedule_raw": "T | 17:00 - 20:00",
