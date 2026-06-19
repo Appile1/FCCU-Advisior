@@ -6505,7 +6505,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Hayat",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "HIST 207",
@@ -6541,7 +6541,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 302",
@@ -10357,7 +10357,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Bashir",
       "capacity": "20",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "STAT 206",
