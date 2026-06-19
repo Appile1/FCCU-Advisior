@@ -4513,7 +4513,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "ECON 202",
@@ -4525,7 +4525,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Z Manzoor",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "ECON 202",
@@ -6661,7 +6661,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "HPED 101",
