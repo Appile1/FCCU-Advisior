@@ -6673,7 +6673,7 @@
       "schedule_raw": "M W | 16:00 - 17:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HPED 102",
@@ -6793,7 +6793,7 @@
       "schedule_raw": "T R | 09:00 - 09:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
@@ -8761,7 +8761,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "PLSC 335",
@@ -10201,7 +10201,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Samuel",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 101",
@@ -10549,7 +10549,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Virk",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
