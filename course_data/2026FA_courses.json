@@ -1393,7 +1393,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Ramish",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 360",
@@ -2845,7 +2845,7 @@
       "schedule_raw": "M | 13:00 - 15:50 | T R | 11:00 - 12:15",
       "instructor": "I Iqbal",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "COMP 206",
@@ -3145,7 +3145,7 @@
       "schedule_raw": "W | 15:00 - 15:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "COMP 401",
@@ -3181,7 +3181,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Iqbal",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "COMP 421",
@@ -3205,7 +3205,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "COMP 451",
@@ -3241,7 +3241,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "102"
+      "available": "101"
     },
     {
       "course_code": "COMP 497B",
@@ -3829,7 +3829,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "CSCS 290",
@@ -5845,7 +5845,7 @@
       "schedule_raw": "T R | 11:00 - 11:50 | R | 09:00 - 10:50",
       "instructor": "D Bakker",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENVR 101",
@@ -8941,7 +8941,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "ESchwaiger",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 100",
