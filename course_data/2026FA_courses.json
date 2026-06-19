@@ -757,7 +757,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "BUSN 201",
@@ -805,7 +805,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "BUSN 201",
@@ -1081,7 +1081,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BUSN 280",
@@ -1129,7 +1129,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "BUSN 280",
@@ -1213,7 +1213,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "BUSN 321",
@@ -1225,7 +1225,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "33",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "BUSN 321",
@@ -2293,7 +2293,7 @@
       "schedule_raw": "T R | 12:30 - 13:20 | F | 11:00 - 12:50",
       "instructor": "M Abbas",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "CHEM 100",
@@ -2305,7 +2305,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | R | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "CHEM 100",
@@ -5557,7 +5557,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "ENGL 201",
@@ -5581,7 +5581,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ENGL 209",
@@ -6793,7 +6793,7 @@
       "schedule_raw": "T R | 09:00 - 09:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "ISLM 101",
@@ -7249,7 +7249,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "MATH 108",
@@ -7273,7 +7273,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "MATH 111",
@@ -9169,7 +9169,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 290",
@@ -9889,7 +9889,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "SOCL 100",
@@ -10549,7 +10549,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Virk",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "URDU 101",
