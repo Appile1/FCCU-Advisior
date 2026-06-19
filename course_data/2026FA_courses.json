@@ -25,7 +25,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ARTS 102",
@@ -5449,7 +5449,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "ENGL 108",
@@ -5653,7 +5653,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "ENGL 308",
@@ -9169,7 +9169,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "PSYC 290",
