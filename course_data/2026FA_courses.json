@@ -1369,7 +1369,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Chughtai",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "BUSN 360",
@@ -1609,7 +1609,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "BUSN 385",
@@ -1741,7 +1741,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "F Tasneem",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "BUSN 460",
@@ -2473,7 +2473,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | T | 14:00 - 15:50",
       "instructor": "M Abbas",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "CHEM 370",
@@ -3433,7 +3433,7 @@
       "schedule_raw": "M W | 09:00 - 09:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "CRST 152",
@@ -3637,7 +3637,7 @@
       "schedule_raw": "W | 15:00 - 18:00",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "CRST 691",
@@ -7225,7 +7225,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "MATH 108",
@@ -9037,7 +9037,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "PSYC 165",
@@ -9961,7 +9961,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 290",
@@ -10501,7 +10501,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Virk",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
