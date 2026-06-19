@@ -73,7 +73,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "ARTS 201",
@@ -6541,7 +6541,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 302",
@@ -6733,7 +6733,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "HPED 151",
@@ -6793,7 +6793,7 @@
       "schedule_raw": "T R | 09:00 - 09:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 101",
@@ -8185,7 +8185,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Dr  H Shah",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "PHYS 342",
