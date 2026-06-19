@@ -3541,7 +3541,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "CRST 411",
@@ -7285,7 +7285,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "MATH 209",
@@ -7345,7 +7345,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "MATH 312",
@@ -7357,7 +7357,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "MATH 410",
@@ -8485,7 +8485,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "PLSC 101",
@@ -10129,7 +10129,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Butt",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "STAT 100",
