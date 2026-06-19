@@ -7069,7 +7069,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MATH 101",
@@ -10177,7 +10177,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 101",
@@ -10201,7 +10201,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Samuel",
       "capacity": "15",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 101",
