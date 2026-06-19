@@ -3433,7 +3433,7 @@
       "schedule_raw": "M W | 09:00 - 09:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "CRST 152",
@@ -3457,7 +3457,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "CRST 211",
@@ -5041,7 +5041,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "EDUC 120",
@@ -5353,7 +5353,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
