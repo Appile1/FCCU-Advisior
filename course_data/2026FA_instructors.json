@@ -3340,6 +3340,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "CPPG 101",
+        "section": "A",
+        "course_name": "Intro to Public poli",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE039",
+        "unique": "CPPG 101/A"
+      },
+      {
         "course_code": "CPPG 727",
         "section": "A",
         "course_name": "Inter. of South Asia",
@@ -3349,6 +3357,7 @@
       }
     ],
     "all_courses": [
+      "CPPG 101",
       "CPPG 606",
       "CPPG 626",
       "CPPG 679",
@@ -10091,8 +10100,18 @@
     "departments": [
       "CPPG"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "CPPG 111",
+        "section": "A",
+        "course_name": "Intro. to Public Adm",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE040",
+        "unique": "CPPG 111/A"
+      }
+    ],
     "all_courses": [
+      "CPPG 111",
       "CPPG 799D"
     ]
   },

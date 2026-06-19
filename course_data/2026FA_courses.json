@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 902,
+  "total_courses": 904,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -685,7 +685,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "BUSN 201",
@@ -757,7 +757,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "BUSN 201",
@@ -889,7 +889,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "R John",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "BUSN 230",
@@ -913,7 +913,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Idrees",
       "capacity": "33",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 230",
@@ -3256,6 +3256,30 @@
       "available": "131"
     },
     {
+      "course_code": "CPPG 101",
+      "section": "A",
+      "unique": "CPPG 101/A",
+      "course_name": "Intro to Public poli",
+      "credits": "3.00",
+      "classroom": "EBLOCKE039",
+      "schedule_raw": "M W F | 14:00 - 14:50",
+      "instructor": "W Azim",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "CPPG 111",
+      "section": "A",
+      "unique": "CPPG 111/A",
+      "course_name": "Intro. to Public Adm",
+      "credits": "3.00",
+      "classroom": "EBLOCKE040",
+      "schedule_raw": "M W F | 15:00 - 15:50",
+      "instructor": "TBD",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
       "course_code": "CPPG 601",
       "section": "A",
       "unique": "CPPG 601/A",
@@ -4141,7 +4165,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ayub",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "DATA 206",
@@ -5377,7 +5401,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -5533,7 +5557,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "ENGL 201",
@@ -6769,7 +6793,7 @@
       "schedule_raw": "T R | 09:00 - 09:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
@@ -9037,7 +9061,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "PSYC 165",
@@ -9853,7 +9877,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "SOCL 100",
@@ -9913,7 +9937,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "SOCL 118",
@@ -10525,7 +10549,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Virk",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
