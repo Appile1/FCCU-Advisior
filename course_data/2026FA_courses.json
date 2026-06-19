@@ -4789,7 +4789,7 @@
       "schedule_raw": "T R | 09:30 - 11:00",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "ECON 502",
@@ -4825,7 +4825,7 @@
       "schedule_raw": "M W | 09:00 - 10:30",
       "instructor": "M Ayyubi",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "ECON 699A",
@@ -7537,7 +7537,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "MCOM 301",
@@ -8533,7 +8533,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "PLSC 102",
@@ -10213,7 +10213,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Raza",
       "capacity": "15",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "STAT 102",
