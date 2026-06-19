@@ -2305,7 +2305,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | R | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "CHEM 100",
@@ -3469,7 +3469,7 @@
       "schedule_raw": "M W | 11:00 - 11:50",
       "instructor": "Z West",
       "capacity": "25",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "CRST 155",
@@ -5449,7 +5449,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "ENGL 108",
@@ -6673,7 +6673,7 @@
       "schedule_raw": "M W | 16:00 - 17:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HPED 102",
@@ -6721,7 +6721,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | M | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "HPED 150",
@@ -6733,7 +6733,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "HPED 151",
@@ -9145,7 +9145,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "PSYC 280",
