@@ -8893,12 +8893,12 @@
         "unique": "URDU 101/E"
       },
       {
-        "course_code": "URDU 512",
+        "course_code": "URDU 519",
         "section": "A",
-        "course_name": "Modern Poetry",
+        "course_name": "Teach. of Urdu Lang",
         "schedule": "W | 16:00 - 19:00",
         "classroom": "EBLOCKE101",
-        "unique": "URDU 512/A"
+        "unique": "URDU 519/A"
       }
     ],
     "all_courses": [
@@ -11023,6 +11023,14 @@
         "schedule": "T R | 12:30 - 13:45",
         "classroom": "EBLOCKE140",
         "unique": "EDUC 390/A"
+      },
+      {
+        "course_code": "EDUC 560",
+        "section": "A",
+        "course_name": "Policies of Educatio",
+        "schedule": "W | 16:00 - 19:00",
+        "classroom": "EBLOCKE140",
+        "unique": "EDUC 560/A"
       }
     ],
     "all_courses": [
@@ -11032,6 +11040,7 @@
       "EDUC 390",
       "EDUC 499",
       "EDUC 545",
+      "EDUC 560",
       "EDUC 699A",
       "EDUC 699B",
       "EDUC 699E"
@@ -11098,6 +11107,14 @@
         "schedule": "T | 16:00 - 19:00",
         "classroom": "EBLOCKE140",
         "unique": "EDUC 520/A"
+      },
+      {
+        "course_code": "EDUC 650",
+        "section": "A",
+        "course_name": "Proposal Development",
+        "schedule": "M | 16:00 - 19:00",
+        "classroom": "EBLOCKE140",
+        "unique": "EDUC 650/A"
       }
     ],
     "all_courses": [
@@ -11105,7 +11122,8 @@
       "EDUC 515",
       "EDUC 520",
       "EDUC 540",
-      "EDUC 640"
+      "EDUC 640",
+      "EDUC 650"
     ]
   },
   {

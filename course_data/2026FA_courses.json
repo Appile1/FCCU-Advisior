@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 900,
+  "total_courses": 902,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -2725,7 +2725,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Azeem",
       "capacity": "25",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "CHIN 101",
@@ -3133,7 +3133,7 @@
       "schedule_raw": "M | 15:00 - 15:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "COMP 401",
@@ -3181,7 +3181,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Iqbal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "COMP 421",
@@ -3769,7 +3769,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "CSCS 202",
@@ -3889,7 +3889,7 @@
       "schedule_raw": "M W | 11:00 - 12:50",
       "instructor": "M Butt",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 342",
@@ -5208,8 +5208,8 @@
       "classroom": "EBLOCKE140",
       "schedule_raw": "F | 16:00 - 19:00",
       "instructor": "M. Thomas",
-      "capacity": "25",
-      "available": "17"
+      "capacity": "15",
+      "available": "7"
     },
     {
       "course_code": "EDUC 520",
@@ -5220,8 +5220,32 @@
       "classroom": "EBLOCKE140",
       "schedule_raw": "T | 16:00 - 19:00",
       "instructor": "M. Thomas",
-      "capacity": "25",
-      "available": "17"
+      "capacity": "15",
+      "available": "7"
+    },
+    {
+      "course_code": "EDUC 560",
+      "section": "A",
+      "unique": "EDUC 560/A",
+      "course_name": "Policies of Educatio",
+      "credits": "3.00",
+      "classroom": "EBLOCKE140",
+      "schedule_raw": "W | 16:00 - 19:00",
+      "instructor": "A Khokhar",
+      "capacity": "15",
+      "available": "15"
+    },
+    {
+      "course_code": "EDUC 650",
+      "section": "A",
+      "unique": "EDUC 650/A",
+      "course_name": "Proposal Development",
+      "credits": "3.00",
+      "classroom": "EBLOCKE140",
+      "schedule_raw": "M | 16:00 - 19:00",
+      "instructor": "M. Thomas",
+      "capacity": "15",
+      "available": "15"
     },
     {
       "course_code": "ENGL 106",
@@ -6493,7 +6517,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 302",
@@ -8017,7 +8041,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | F | 14:00 - 15:50",
       "instructor": "S Shah",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 101",
@@ -10129,7 +10153,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 101",
@@ -10768,18 +10792,6 @@
       "available": "25"
     },
     {
-      "course_code": "URDU 512",
-      "section": "A",
-      "unique": "URDU 512/A",
-      "course_name": "Modern Poetry",
-      "credits": "3.00",
-      "classroom": "EBLOCKE101",
-      "schedule_raw": "W | 16:00 - 19:00",
-      "instructor": "S Ashraf",
-      "capacity": "25",
-      "available": "25"
-    },
-    {
       "course_code": "URDU 517",
       "section": "A",
       "unique": "URDU 517/A",
@@ -10800,6 +10812,18 @@
       "classroom": "EBLOCKE102",
       "schedule_raw": "R | 17:00 - 20:00",
       "instructor": "N Khokhar",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "URDU 519",
+      "section": "A",
+      "unique": "URDU 519/A",
+      "course_name": "Teach. of Urdu Lang",
+      "credits": "3.00",
+      "classroom": "EBLOCKE101",
+      "schedule_raw": "W | 16:00 - 19:00",
+      "instructor": "S Ashraf",
       "capacity": "25",
       "available": "25"
     }
