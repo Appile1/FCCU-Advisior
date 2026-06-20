@@ -5521,7 +5521,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ENGL 175",
@@ -6457,7 +6457,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 102",
@@ -8689,7 +8689,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PLSC 311",
@@ -9181,7 +9181,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PSYC 295",
@@ -10705,7 +10705,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 104",
