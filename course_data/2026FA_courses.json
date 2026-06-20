@@ -373,7 +373,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "BIOT 309",
@@ -421,7 +421,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50 | F | 09:00 - 10:50",
       "instructor": "M Irfan",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "BIOT 316",
