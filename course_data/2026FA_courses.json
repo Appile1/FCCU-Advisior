@@ -6745,7 +6745,7 @@
       "schedule_raw": "T R | 08:00 - 08:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "ISLM 101",
@@ -8185,7 +8185,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Dr  H Shah",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "PHYS 342",
@@ -10429,7 +10429,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "I Naqvi",
       "capacity": "25",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "STAT 317",
