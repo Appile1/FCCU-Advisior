@@ -5317,7 +5317,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ENGL 108",
@@ -5641,7 +5641,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "ENGL 307",
@@ -5653,7 +5653,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ENGL 308",
@@ -5665,7 +5665,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "ENGL 315",
