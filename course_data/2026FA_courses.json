@@ -2293,7 +2293,7 @@
       "schedule_raw": "T R | 12:30 - 13:20 | F | 11:00 - 12:50",
       "instructor": "M Abbas",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "CHEM 100",
@@ -4597,7 +4597,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Lodhi",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "ECON 302",
