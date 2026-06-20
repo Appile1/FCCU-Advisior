@@ -3133,7 +3133,7 @@
       "schedule_raw": "M | 15:00 - 15:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "COMP 401",
@@ -5509,7 +5509,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Zia",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "ENGL 110",
@@ -6865,7 +6865,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "ISLM 306",
