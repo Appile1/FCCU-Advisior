@@ -145,7 +145,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "BIOL 105",
@@ -2305,7 +2305,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | R | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "CHEM 100",
@@ -2617,7 +2617,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Azeem",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "CHEM 699B",
@@ -5317,7 +5317,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "ENGL 108",
@@ -5341,7 +5341,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "N Justin",
       "capacity": "25",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ENGL 108",
