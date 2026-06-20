@@ -5113,7 +5113,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "EDUC 300",
@@ -5161,7 +5161,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "EDUC 335",
@@ -8605,7 +8605,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M U Farooq",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "PLSC 204",
@@ -8617,7 +8617,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "PLSC 212",
@@ -8629,7 +8629,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "PLSC 301",
@@ -9133,7 +9133,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "N Khan",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "PSYC 275",
