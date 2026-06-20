@@ -217,7 +217,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | W | 14:00 - 15:50",
       "instructor": "S Butt",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "BIOL 313",
@@ -6133,7 +6133,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "D Bakker",
       "capacity": "15",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ENVR 699A",
@@ -6145,7 +6145,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "D Bakker",
       "capacity": "25",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "ENVR 699B",
