@@ -2293,7 +2293,7 @@
       "schedule_raw": "T R | 12:30 - 13:20 | F | 11:00 - 12:50",
       "instructor": "M Abbas",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "CHEM 100",
@@ -6877,7 +6877,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "H Ghani",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "KORN 101",
@@ -7249,7 +7249,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "MATH 108",
