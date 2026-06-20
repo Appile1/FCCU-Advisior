@@ -1093,7 +1093,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "TBD",
       "capacity": "33",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 280",
@@ -3457,7 +3457,7 @@
       "schedule_raw": "M W | 09:00 - 09:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "CRST 152",
@@ -6697,7 +6697,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "HPED 112",
@@ -6829,7 +6829,7 @@
       "schedule_raw": "M W | 09:00 - 09:50",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
