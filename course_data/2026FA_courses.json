@@ -373,7 +373,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "BIOT 309",
@@ -421,7 +421,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50 | F | 09:00 - 10:50",
       "instructor": "M Irfan",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "BIOT 316",
@@ -5329,7 +5329,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "ENGL 108",
@@ -5377,7 +5377,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -6661,7 +6661,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "HPED 101",
@@ -8497,7 +8497,7 @@
       "schedule_raw": "T R | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
