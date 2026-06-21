@@ -2353,7 +2353,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHEM 160",
@@ -5581,7 +5581,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "ENGL 209",
