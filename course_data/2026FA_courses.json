@@ -4201,7 +4201,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "DATA 207",
@@ -7465,7 +7465,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "MCOM 200",
