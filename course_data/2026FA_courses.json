@@ -5617,7 +5617,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "N Rehman",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "ENGL 300",
@@ -9013,7 +9013,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "E Shahid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 105",
