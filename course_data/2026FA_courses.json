@@ -1249,7 +1249,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "BUSN 321",
@@ -1441,7 +1441,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "BUSN 360",
@@ -1453,7 +1453,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "BUSN 360",
@@ -2029,7 +2029,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "BUSN 485",
@@ -7465,7 +7465,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "MCOM 200",
@@ -8149,7 +8149,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Shah",
       "capacity": "20",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "PHYS 221",
@@ -10177,7 +10177,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 101",
