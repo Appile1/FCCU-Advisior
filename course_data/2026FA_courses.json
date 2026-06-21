@@ -1357,7 +1357,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "BUSN 350",
@@ -4165,7 +4165,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ayub",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "DATA 206",
@@ -4249,7 +4249,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Naqvi",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "DATA 301",
@@ -4621,7 +4621,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "U Hanif",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "ECON 303",
@@ -4705,7 +4705,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "ECON 313",
@@ -8017,7 +8017,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "PHIL 499",
@@ -10465,7 +10465,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Mushtaq",
       "capacity": "25",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "STAT 516",
