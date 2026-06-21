@@ -877,7 +877,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "R John",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "BUSN 230",
@@ -889,7 +889,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "R John",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "BUSN 230",
@@ -6529,7 +6529,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "HIST 301",
