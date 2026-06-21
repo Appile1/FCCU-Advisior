@@ -181,7 +181,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | F | 09:00 - 10:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "BIOL 212",
@@ -253,7 +253,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | T | 14:00 - 15:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "BIOL 325",
@@ -4417,7 +4417,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "ECON 102",
@@ -4441,7 +4441,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Ayyubi",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "ECON 102",
@@ -7249,7 +7249,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "MATH 108",
