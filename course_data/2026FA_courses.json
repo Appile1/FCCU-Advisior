@@ -2317,7 +2317,7 @@
       "schedule_raw": "M W | 11:00 - 11:50 | W | 09:00 - 10:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CHEM 150",
@@ -2365,7 +2365,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | T | 09:00 - 10:50",
       "instructor": "D Ahmed",
       "capacity": "20",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "CHEM 160",
@@ -9013,7 +9013,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "E Shahid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 105",
@@ -10153,7 +10153,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Butt",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "STAT 100",
