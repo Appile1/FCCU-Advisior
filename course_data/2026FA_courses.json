@@ -1609,7 +1609,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "BUSN 385",
@@ -3241,7 +3241,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "97"
+      "available": "96"
     },
     {
       "course_code": "COMP 497B",
@@ -7249,7 +7249,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "MATH 108",
@@ -9061,7 +9061,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "PSYC 165",
