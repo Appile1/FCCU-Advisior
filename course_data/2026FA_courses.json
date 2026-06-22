@@ -3949,7 +3949,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "F Ullah",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "CSCS 405",
@@ -10693,7 +10693,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Tahir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
