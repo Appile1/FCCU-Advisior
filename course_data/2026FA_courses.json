@@ -673,7 +673,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "BUSN 201",
@@ -1225,7 +1225,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "33",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "BUSN 321",
@@ -7273,7 +7273,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "MATH 111",
@@ -9325,7 +9325,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A  Ateeq",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "PSYC 340",
