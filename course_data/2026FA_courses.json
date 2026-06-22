@@ -5473,7 +5473,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "2"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -7885,7 +7885,7 @@
       "schedule_raw": "M W | 16:00 - 17:30",
       "instructor": "N Asghar",
       "capacity": "20",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "MPGN 503",
@@ -7897,7 +7897,7 @@
       "schedule_raw": "T R | 16:00 - 17:30",
       "instructor": "M Yousaf",
       "capacity": "20",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "MPGN 504",
@@ -7909,7 +7909,7 @@
       "schedule_raw": "M W | 17:30 - 19:00",
       "instructor": "A  Arshad",
       "capacity": "20",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "MPGN 506",
@@ -7921,7 +7921,7 @@
       "schedule_raw": "F | 16:00 - 19:00",
       "instructor": "S Hanook",
       "capacity": "20",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "MPGN 699A",
