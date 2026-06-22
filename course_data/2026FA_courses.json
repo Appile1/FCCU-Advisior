@@ -1969,7 +1969,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "BUSN 480",
@@ -7165,7 +7165,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Ayub",
       "capacity": "5",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "MATH 105",
@@ -8641,7 +8641,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "PLSC 301",
@@ -10717,7 +10717,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "URDU 105",
