@@ -361,7 +361,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "I John",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "BIOT 307",
@@ -8749,7 +8749,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "PLSC 330",
@@ -9973,7 +9973,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "SOCL 220",
