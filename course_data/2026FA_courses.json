@@ -3421,7 +3421,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CRIM 230",
@@ -8041,7 +8041,7 @@
       "schedule_raw": "T R | 14:00 - 14:50 | F | 14:00 - 16:00",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "PHYS 100",
@@ -10237,7 +10237,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Raza",
       "capacity": "15",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "STAT 102",
