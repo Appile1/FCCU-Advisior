@@ -1225,7 +1225,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "33",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "BUSN 321",
@@ -1381,7 +1381,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Ramish",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BUSN 360",
@@ -4465,7 +4465,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "ECON 103",
@@ -4813,7 +4813,7 @@
       "schedule_raw": "T R | 09:30 - 11:00",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "ECON 502",
@@ -4861,7 +4861,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Bhatti",
       "capacity": "30",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "ECON 699B",
@@ -5329,7 +5329,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "ENGL 108",
@@ -6013,7 +6013,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ilyas",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ENVR 411",
@@ -7129,7 +7129,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "MATH 103",
@@ -9013,7 +9013,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "E Shahid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 105",
