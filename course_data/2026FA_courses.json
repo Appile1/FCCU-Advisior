@@ -6889,7 +6889,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S K Sook",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "KORN 102",
@@ -7165,7 +7165,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Ayub",
       "capacity": "5",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "MATH 105",
@@ -8953,7 +8953,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Sindhu",
       "capacity": "25",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "PSYC 100",
@@ -10237,7 +10237,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Raza",
       "capacity": "15",
-      "available": "7"
+      "available": "5"
     },
     {
       "course_code": "STAT 102",
