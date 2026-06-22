@@ -157,7 +157,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | R | 14:00 - 15:50",
       "instructor": "S Dogar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 201",
@@ -181,7 +181,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | F | 09:00 - 10:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "BIOL 212",
@@ -1753,7 +1753,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "BUSN 460",
@@ -4813,7 +4813,7 @@
       "schedule_raw": "T R | 09:30 - 11:00",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "ECON 502",
@@ -4825,7 +4825,7 @@
       "schedule_raw": "M W | 11:30 - 13:00",
       "instructor": "M Bhatti",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "ECON 505",
@@ -4837,7 +4837,7 @@
       "schedule_raw": "T R | 11:30 - 13:00",
       "instructor": "T Ahmed",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "ECON 605",
@@ -4849,7 +4849,7 @@
       "schedule_raw": "M W | 09:00 - 10:30",
       "instructor": "M Ayyubi",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "ECON 699A",
@@ -5257,7 +5257,7 @@
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "A Khokhar",
       "capacity": "15",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "EDUC 650",
@@ -5269,7 +5269,7 @@
       "schedule_raw": "M | 16:00 - 19:00",
       "instructor": "M. Thomas",
       "capacity": "15",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "ENGL 106",
