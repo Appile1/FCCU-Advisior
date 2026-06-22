@@ -145,7 +145,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BIOL 105",
@@ -3241,7 +3241,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "96"
+      "available": "95"
     },
     {
       "course_code": "COMP 497B",
@@ -3265,7 +3265,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "W Azim",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "CPPG 111",
@@ -6289,7 +6289,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 133",
@@ -6877,7 +6877,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "H Ghani",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "KORN 101",
@@ -7057,7 +7057,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "2"
+      "available": "0"
     },
     {
       "course_code": "MATH 095",
