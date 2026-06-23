@@ -1854,5 +1854,53 @@
     "section": "A",
     "instructor": "TBD",
     "timestamp": "2026-06-19T12:00:48.233267+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 501 (A): Quratulaen → S Hanif",
+    "course_code": "ENGL 501",
+    "section": "A",
+    "instructor": "S Hanif",
+    "timestamp": "2026-06-23T06:15:41.609569+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 616 (A): F Zaheer → TBD",
+    "course_code": "ENGL 616",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-23T06:15:41.609588+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 690 (A): S Hanif → TBD",
+    "course_code": "ENGL 690",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-23T06:15:41.609594+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENGL 701 (A) - Quratulaen",
+    "course_code": "ENGL 701",
+    "section": "A",
+    "instructor": "Quratulaen",
+    "timestamp": "2026-06-23T06:15:41.609597+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENGL 703 (A) - F Zaheer",
+    "course_code": "ENGL 703",
+    "section": "A",
+    "instructor": "F Zaheer",
+    "timestamp": "2026-06-23T06:15:41.609598+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENGL 705 (A) - F Syeda",
+    "course_code": "ENGL 705",
+    "section": "A",
+    "instructor": "F Syeda",
+    "timestamp": "2026-06-23T06:15:41.609600+00:00"
   }
 ]

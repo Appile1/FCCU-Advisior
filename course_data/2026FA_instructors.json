@@ -11373,17 +11373,18 @@
         "unique": "ENGL 108/Q"
       },
       {
-        "course_code": "ENGL 690",
+        "course_code": "ENGL 501",
         "section": "A",
-        "course_name": "Special Res Seminar",
+        "course_name": "Research Methods",
         "schedule": "M | 16:00 - 19:00",
-        "classroom": "EBLOCKE041",
-        "unique": "ENGL 690/A"
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 501/A"
       }
     ],
     "all_courses": [
       "ENGL 108",
       "ENGL 175",
+      "ENGL 501",
       "ENGL 690"
     ]
   },
@@ -11501,12 +11502,12 @@
         "unique": "ENGL 325/A"
       },
       {
-        "course_code": "ENGL 616",
+        "course_code": "ENGL 703",
         "section": "A",
-        "course_name": "American Literature",
-        "schedule": "W | 16:00 - 19:00",
-        "classroom": "EBLOCKE222",
-        "unique": "ENGL 616/A"
+        "course_name": "Narratology in Liter",
+        "schedule": "T | 10:00 - 13:00",
+        "classroom": "EBLOCKE206",
+        "unique": "ENGL 703/A"
       }
     ],
     "all_courses": [
@@ -11516,7 +11517,8 @@
       "ENGL 325",
       "ENGL 400",
       "ENGL 520",
-      "ENGL 616"
+      "ENGL 616",
+      "ENGL 703"
     ]
   },
   {
@@ -11550,12 +11552,12 @@
         "unique": "ENGL 403/A"
       },
       {
-        "course_code": "ENGL 501",
+        "course_code": "ENGL 701",
         "section": "A",
-        "course_name": "Research Methods",
-        "schedule": "M | 16:00 - 19:00",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 501/A"
+        "course_name": "Research in English",
+        "schedule": "M | 10:00 - 13:00",
+        "classroom": "EBLOCKE206",
+        "unique": "ENGL 701/A"
       }
     ],
     "all_courses": [
@@ -11564,7 +11566,8 @@
       "ENGL 303",
       "ENGL 403",
       "ENGL 501",
-      "ENGL 611"
+      "ENGL 611",
+      "ENGL 701"
     ]
   },
   {
@@ -11683,6 +11686,14 @@
         "schedule": "MTWRF",
         "classroom": "TBDTBD",
         "unique": "ENGL 699/A"
+      },
+      {
+        "course_code": "ENGL 705",
+        "section": "A",
+        "course_name": "Critical Gender Stud",
+        "schedule": "W | 10:00 - 13:00",
+        "classroom": "EBLOCKE206",
+        "unique": "ENGL 705/A"
       }
     ],
     "all_courses": [
@@ -11695,7 +11706,8 @@
       "ENGL 699",
       "ENGL 699A",
       "ENGL 699B",
-      "ENGL 699E"
+      "ENGL 699E",
+      "ENGL 705"
     ]
   },
   {
@@ -13834,6 +13846,22 @@
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "EBLOCKE221",
         "unique": "ENGL 322/A"
+      },
+      {
+        "course_code": "ENGL 616",
+        "section": "A",
+        "course_name": "American Literature",
+        "schedule": "W | 16:00 - 19:00",
+        "classroom": "EBLOCKE222",
+        "unique": "ENGL 616/A"
+      },
+      {
+        "course_code": "ENGL 690",
+        "section": "A",
+        "course_name": "Special Res Seminar",
+        "schedule": "M | 16:00 - 19:00",
+        "classroom": "EBLOCKE041",
+        "unique": "ENGL 690/A"
       }
     ],
     "all_courses": [
@@ -13841,7 +13869,9 @@
       "ENGL 108",
       "ENGL 110",
       "ENGL 201",
-      "ENGL 322"
+      "ENGL 322",
+      "ENGL 616",
+      "ENGL 690"
     ]
   },
   {

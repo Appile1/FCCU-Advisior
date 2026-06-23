@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 904,
+  "total_courses": 907,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -3097,7 +3097,7 @@
       "schedule_raw": "W | 09:00 - 10:50 | F | 09:00 - 10:50",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "COMP 360",
@@ -3217,7 +3217,7 @@
       "schedule_raw": "T R | 11:00 - 12:50",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "COMP 451",
@@ -5783,7 +5783,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE221",
       "schedule_raw": "M | 16:00 - 19:00",
-      "instructor": "Quratulaen",
+      "instructor": "S Hanif",
       "capacity": "35",
       "available": "35"
     },
@@ -5831,7 +5831,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE222",
       "schedule_raw": "W | 16:00 - 19:00",
-      "instructor": "F Zaheer",
+      "instructor": "TBD",
       "capacity": "25",
       "available": "22"
     },
@@ -5855,7 +5855,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE041",
       "schedule_raw": "M | 16:00 - 19:00",
-      "instructor": "S Hanif",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "18"
     },
@@ -5870,6 +5870,42 @@
       "instructor": "F Syeda",
       "capacity": "35",
       "available": "23"
+    },
+    {
+      "course_code": "ENGL 701",
+      "section": "A",
+      "unique": "ENGL 701/A",
+      "course_name": "Research in English",
+      "credits": "3.00",
+      "classroom": "EBLOCKE206",
+      "schedule_raw": "M | 10:00 - 13:00",
+      "instructor": "Quratulaen",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "ENGL 703",
+      "section": "A",
+      "unique": "ENGL 703/A",
+      "course_name": "Narratology in Liter",
+      "credits": "3.00",
+      "classroom": "EBLOCKE206",
+      "schedule_raw": "T | 10:00 - 13:00",
+      "instructor": "F Zaheer",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "ENGL 705",
+      "section": "A",
+      "unique": "ENGL 705/A",
+      "course_name": "Critical Gender Stud",
+      "credits": "3.00",
+      "classroom": "EBLOCKE206",
+      "schedule_raw": "W | 10:00 - 13:00",
+      "instructor": "F Syeda",
+      "capacity": "25",
+      "available": "25"
     },
     {
       "course_code": "ENVR 101",
@@ -7201,7 +7237,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Samuel",
       "capacity": "15",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "MATH 107",
@@ -9397,7 +9433,7 @@
       "schedule_raw": "T R | 15:30 - 16:45 | W | 15:00 - 16:50",
       "instructor": "S Jabeen",
       "capacity": "30",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "PSYC 360",
