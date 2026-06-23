@@ -2929,7 +2929,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Toor",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "COMP 220",
@@ -3133,7 +3133,7 @@
       "schedule_raw": "W | 11:00 - 12:50 | F | 11:00 - 12:50",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "COMP 401",
@@ -9217,7 +9217,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 290",
