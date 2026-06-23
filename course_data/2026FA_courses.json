@@ -3913,7 +3913,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "CSCS 321",
@@ -5557,7 +5557,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Bokhari",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "ENGL 201",
@@ -6037,7 +6037,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | F | 09:00 - 10:50",
       "instructor": "D Bakker",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "ENVR 345",
@@ -6085,7 +6085,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "ENVR 418",
@@ -9577,7 +9577,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M  Niazi",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "PSYC 430",
@@ -9613,7 +9613,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "PSYC 465",
@@ -10741,7 +10741,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Tahir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
