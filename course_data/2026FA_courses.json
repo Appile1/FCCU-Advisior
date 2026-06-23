@@ -3745,7 +3745,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | W | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "25",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "CSCS 201",
@@ -3805,7 +3805,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "CSCS 202",
@@ -3829,7 +3829,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "CSCS 203",
@@ -4021,7 +4021,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "CSCS 468",
