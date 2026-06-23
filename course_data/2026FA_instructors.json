@@ -9611,6 +9611,14 @@
         "unique": "BUSN 280/M"
       },
       {
+        "course_code": "BUSN 301",
+        "section": "C",
+        "course_name": "Financial Reporting",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE345",
+        "unique": "BUSN 301/C"
+      },
+      {
         "course_code": "BUSN 321",
         "section": "A",
         "course_name": "Financial Mgt. I",
@@ -9861,6 +9869,7 @@
       "BUSN 230",
       "BUSN 250",
       "BUSN 280",
+      "BUSN 301",
       "BUSN 321",
       "BUSN 360",
       "BUSN 383",
