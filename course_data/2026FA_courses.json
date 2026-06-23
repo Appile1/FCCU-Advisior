@@ -181,7 +181,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | F | 09:00 - 10:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BIOL 212",
@@ -1549,7 +1549,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Mughal",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 364",
@@ -1561,7 +1561,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Mughal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 383",
@@ -5065,7 +5065,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 120",
@@ -6793,7 +6793,7 @@
       "schedule_raw": "T R | 08:00 - 08:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ISLM 101",
@@ -7297,7 +7297,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "MATH 108",
