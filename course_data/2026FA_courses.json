@@ -373,7 +373,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "BIOT 309",
@@ -1669,7 +1669,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "BUSN 404",
