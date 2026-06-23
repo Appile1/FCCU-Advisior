@@ -361,7 +361,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "I John",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "BIOT 307",
@@ -6385,7 +6385,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "K Shafiqu",
       "capacity": "10",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 240",
@@ -7633,7 +7633,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "MCOM 302",
@@ -7645,7 +7645,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "MCOM 302",
@@ -7669,7 +7669,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "21"
+      "available": "19"
     },
     {
       "course_code": "MCOM 303",
@@ -7693,7 +7693,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "23"
+      "available": "21"
     },
     {
       "course_code": "MCOM 304",
@@ -7717,7 +7717,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "MCOM 310",
@@ -7765,7 +7765,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "MCOM 404",
@@ -10081,7 +10081,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Amjad",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "SOCL 350",
