@@ -1201,7 +1201,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 301",
@@ -1213,7 +1213,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "BUSN 321",
@@ -5221,7 +5221,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "EDUC 390",
@@ -6577,7 +6577,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "HIST 301",
@@ -6601,7 +6601,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M Haider",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "HIST 302",
@@ -6661,7 +6661,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "HIST 312",
@@ -6793,7 +6793,7 @@
       "schedule_raw": "T R | 08:00 - 08:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "ISLM 101",
@@ -10645,7 +10645,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khokhar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
