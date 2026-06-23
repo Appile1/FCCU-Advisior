@@ -721,7 +721,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "BUSN 201",
@@ -841,7 +841,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BUSN 230",
@@ -7189,7 +7189,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "MATH 105",
@@ -10261,7 +10261,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "STAT 101",
