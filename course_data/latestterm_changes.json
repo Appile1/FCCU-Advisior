@@ -1910,5 +1910,29 @@
     "section": "C",
     "instructor": "TBD",
     "timestamp": "2026-06-23T07:45:35.015459+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (R) - A  Anwar",
+    "course_code": "URDU 101",
+    "section": "R",
+    "instructor": "A  Anwar",
+    "timestamp": "2026-06-23T10:30:45.713523+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for URDU 104 (A): A  Anwar → S Ashraf",
+    "course_code": "URDU 104",
+    "section": "A",
+    "instructor": "S Ashraf",
+    "timestamp": "2026-06-23T10:30:45.713543+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 201 (A) - N Jamal",
+    "course_code": "URDU 201",
+    "section": "A",
+    "instructor": "N Jamal",
+    "timestamp": "2026-06-23T10:30:45.713547+00:00"
   }
 ]

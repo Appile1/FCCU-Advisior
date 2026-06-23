@@ -8902,6 +8902,14 @@
         "unique": "URDU 101/E"
       },
       {
+        "course_code": "URDU 104",
+        "section": "A",
+        "course_name": "Sel Rep Urdu Prose",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE102",
+        "unique": "URDU 104/A"
+      },
+      {
         "course_code": "URDU 519",
         "section": "A",
         "course_name": "Teach. of Urdu Lang",
@@ -8912,6 +8920,7 @@
     ],
     "all_courses": [
       "URDU 101",
+      "URDU 104",
       "URDU 304",
       "URDU 512",
       "URDU 519"
@@ -8940,12 +8949,12 @@
         "unique": "URDU 101/H"
       },
       {
-        "course_code": "URDU 104",
-        "section": "A",
-        "course_name": "Sel Rep Urdu Prose",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE102",
-        "unique": "URDU 104/A"
+        "course_code": "URDU 101",
+        "section": "R",
+        "course_name": "Communicative Urdu",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE244",
+        "unique": "URDU 101/R"
       },
       {
         "course_code": "URDU 517",
@@ -9062,12 +9071,12 @@
         "unique": "URDU 101/O"
       },
       {
-        "course_code": "URDU 302",
+        "course_code": "URDU 201",
         "section": "A",
-        "course_name": "Criticism",
+        "course_name": "A brf. Hist.of Urdu",
         "schedule": "T R | 09:30 - 10:45",
         "classroom": "EBLOCKE102",
-        "unique": "URDU 302/A"
+        "unique": "URDU 201/A"
       },
       {
         "course_code": "URDU 505",
@@ -9081,6 +9090,7 @@
     "all_courses": [
       "URDU 101",
       "URDU 104",
+      "URDU 201",
       "URDU 302",
       "URDU 502",
       "URDU 505"
