@@ -169,7 +169,7 @@
       "schedule_raw": "M W | 08:00 - 08:50 | F | 14:00 - 15:50",
       "instructor": "M Yousaf",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "BIOL 203",
@@ -217,7 +217,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | W | 14:00 - 15:50",
       "instructor": "S Butt",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BIOL 313",
@@ -421,7 +421,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50 | F | 09:00 - 10:50",
       "instructor": "M Irfan",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "BIOT 316",
@@ -2353,7 +2353,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | T | 11:00 - 12:50",
       "instructor": "M Asghar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHEM 150",
@@ -3277,7 +3277,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "W Azim",
       "capacity": "35",
-      "available": "33"
+      "available": "31"
     },
     {
       "course_code": "CPPG 111",
@@ -10201,7 +10201,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Butt",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "STAT 100",
