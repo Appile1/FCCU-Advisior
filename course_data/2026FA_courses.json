@@ -181,7 +181,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | F | 09:00 - 10:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BIOL 212",
@@ -373,7 +373,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "BIOT 309",
@@ -469,7 +469,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 09:30 - 10:45",
       "instructor": "M Imran",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "BIOT 409",
@@ -1201,7 +1201,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 301",
@@ -1837,7 +1837,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Naumaan Ch",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 460",
@@ -1945,7 +1945,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "BUSN 480",
@@ -4357,7 +4357,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ECON 100",
@@ -5197,7 +5197,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "EDUC 355",
@@ -9133,7 +9133,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Ateeq",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "PSYC 180",
@@ -10876,6 +10876,18 @@
       "available": "25"
     },
     {
+      "course_code": "URDU 510",
+      "section": "A",
+      "unique": "URDU 510/A",
+      "course_name": "Services of Oriental",
+      "credits": "3.00",
+      "classroom": "EBLOCKE102",
+      "schedule_raw": "F | 17:00 - 20:00",
+      "instructor": "A Samuel",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
       "course_code": "URDU 517",
       "section": "A",
       "unique": "URDU 517/A",
@@ -10884,18 +10896,6 @@
       "classroom": "EBLOCKE101",
       "schedule_raw": "R | 17:00 - 20:00",
       "instructor": "A  Anwar",
-      "capacity": "25",
-      "available": "25"
-    },
-    {
-      "course_code": "URDU 518",
-      "section": "A",
-      "unique": "URDU 518/A",
-      "course_name": "Urdu Short Stories",
-      "credits": "3.00",
-      "classroom": "EBLOCKE102",
-      "schedule_raw": "R | 17:00 - 20:00",
-      "instructor": "N Khokhar",
       "capacity": "25",
       "available": "25"
     },

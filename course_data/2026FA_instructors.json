@@ -8820,6 +8820,14 @@
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "EBLOCKE101",
         "unique": "URDU 101/K"
+      },
+      {
+        "course_code": "URDU 510",
+        "section": "A",
+        "course_name": "Services of Oriental",
+        "schedule": "F | 17:00 - 20:00",
+        "classroom": "EBLOCKE102",
+        "unique": "URDU 510/A"
       }
     ],
     "all_courses": [
@@ -8828,6 +8836,7 @@
       "URDU 306",
       "URDU 503",
       "URDU 504",
+      "URDU 510",
       "URDU 699A",
       "URDU 699B",
       "URDU 699E"
@@ -9125,14 +9134,6 @@
         "schedule": "F | 16:00 - 19:00",
         "classroom": "EBLOCKE101",
         "unique": "URDU 504/A"
-      },
-      {
-        "course_code": "URDU 518",
-        "section": "A",
-        "course_name": "Urdu Short Stories",
-        "schedule": "R | 17:00 - 20:00",
-        "classroom": "EBLOCKE102",
-        "unique": "URDU 518/A"
       }
     ],
     "all_courses": [
