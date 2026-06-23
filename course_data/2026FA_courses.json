@@ -253,7 +253,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | T | 14:00 - 15:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BIOL 325",
@@ -469,7 +469,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 09:30 - 10:45",
       "instructor": "M Imran",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "BIOT 409",
@@ -7537,7 +7537,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "MCOM 201",
@@ -7717,7 +7717,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "MCOM 310",
@@ -10645,7 +10645,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khokhar",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "URDU 101",
@@ -10765,7 +10765,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "URDU 104",
