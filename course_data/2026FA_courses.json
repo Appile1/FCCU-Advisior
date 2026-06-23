@@ -3061,7 +3061,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "16"
+      "available": "14"
     },
     {
       "course_code": "COMP 303",
@@ -3229,7 +3229,7 @@
       "schedule_raw": "T R | 11:00 - 12:50",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "COMP 451",
@@ -8845,7 +8845,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "PLSC 402",
@@ -10645,7 +10645,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khokhar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
@@ -10765,7 +10765,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "URDU 105",
