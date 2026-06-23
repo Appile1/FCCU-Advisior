@@ -169,7 +169,7 @@
       "schedule_raw": "M W | 08:00 - 08:50 | F | 14:00 - 15:50",
       "instructor": "M Yousaf",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "BIOL 203",
@@ -6061,7 +6061,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ilyas",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "ENVR 411",
@@ -6709,7 +6709,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "HPED 101",
@@ -6793,7 +6793,7 @@
       "schedule_raw": "T R | 08:00 - 08:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "ISLM 101",
@@ -7381,7 +7381,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "MATH 213",
@@ -8245,7 +8245,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "H Latif",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "PHYS 352",
@@ -8821,7 +8821,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PLSC 340",
@@ -8833,7 +8833,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "PLSC 400",
