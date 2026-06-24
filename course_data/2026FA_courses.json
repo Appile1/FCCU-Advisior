@@ -217,7 +217,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | W | 14:00 - 15:50",
       "instructor": "S Butt",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "BIOL 313",
@@ -5449,7 +5449,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Zaheer",
       "capacity": "25",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ENGL 108",
@@ -5497,7 +5497,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Javed",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -10393,7 +10393,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Bashir",
       "capacity": "20",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "STAT 206",
@@ -10417,7 +10417,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Mughal",
       "capacity": "20",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "STAT 207",
@@ -10489,7 +10489,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Mushtaq",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "STAT 414",
@@ -10501,7 +10501,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Mushtaq",
       "capacity": "25",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "STAT 516",
@@ -10753,7 +10753,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "URDU 104",
