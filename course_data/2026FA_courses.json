@@ -685,7 +685,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "BUSN 201",
@@ -6841,7 +6841,7 @@
       "schedule_raw": "T R | 09:00 - 09:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
