@@ -1261,7 +1261,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "BUSN 321",
@@ -4729,7 +4729,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "ECON 322",
@@ -4741,7 +4741,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "ECON 323",
@@ -6613,7 +6613,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "28"
+      "available": "26"
     },
     {
       "course_code": "HIST 306",
