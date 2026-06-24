@@ -2977,7 +2977,7 @@
       "schedule_raw": "M | 09:00 - 10:50 | W | 09:00 - 10:50",
       "instructor": "M Chaudhry",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "COMP 301",
@@ -3001,7 +3001,7 @@
       "schedule_raw": "T | 11:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "M Butt",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "COMP 302",
@@ -3769,7 +3769,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 201",
@@ -3793,7 +3793,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "CSCS 202",
@@ -5029,7 +5029,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 120",
@@ -6565,7 +6565,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "HIST 255",
@@ -8089,7 +8089,7 @@
       "schedule_raw": "T R | 14:00 - 14:50 | F | 14:00 - 16:00",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "PHYS 100",
