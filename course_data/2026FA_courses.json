@@ -3073,7 +3073,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "COMP 311",
@@ -3133,7 +3133,7 @@
       "schedule_raw": "W | 11:00 - 12:50 | F | 11:00 - 12:50",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "COMP 401",
@@ -3181,7 +3181,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "COMP 410",
@@ -7249,7 +7249,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Samuel",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MATH 107",
