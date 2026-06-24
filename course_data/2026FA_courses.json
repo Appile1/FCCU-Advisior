@@ -2401,7 +2401,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | T | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "CHEM 250",
@@ -3001,7 +3001,7 @@
       "schedule_raw": "T | 11:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "M Butt",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "COMP 302",
@@ -3133,7 +3133,7 @@
       "schedule_raw": "W | 11:00 - 12:50 | F | 11:00 - 12:50",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "COMP 401",
@@ -5077,7 +5077,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "EDUC 120",
@@ -5461,7 +5461,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ENGL 108",
@@ -9133,7 +9133,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Nazim",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "PSYC 220",
@@ -9913,7 +9913,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "SOCL 100",
@@ -10753,7 +10753,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "URDU 104",
