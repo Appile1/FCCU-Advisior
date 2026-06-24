@@ -2905,7 +2905,7 @@
       "schedule_raw": "M W | 14:00 - 15:50",
       "instructor": "S Abbasi",
       "capacity": "25",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "COMP 213",
@@ -3025,7 +3025,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Yousaf",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "COMP 302",
@@ -4993,7 +4993,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 110",
@@ -5077,7 +5077,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "EDUC 120",
@@ -6181,7 +6181,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "D Bakker",
       "capacity": "15",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "ENVR 699A",
@@ -6193,7 +6193,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "D Bakker",
       "capacity": "25",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ENVR 699B",
@@ -7513,7 +7513,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MCOM 200",
@@ -8593,7 +8593,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "PLSC 102",
@@ -9973,7 +9973,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "SOCL 118",
@@ -10621,7 +10621,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
@@ -10741,7 +10741,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
