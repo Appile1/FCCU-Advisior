@@ -85,7 +85,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "ARTS 203",
@@ -3697,7 +3697,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 100",
@@ -5125,7 +5125,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "EDUC 300",
@@ -6073,7 +6073,7 @@
       "schedule_raw": "T R | 09:00 - 10:50",
       "instructor": "S Aslam",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "ENVR 414",
@@ -8689,7 +8689,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "PLSC 301",
