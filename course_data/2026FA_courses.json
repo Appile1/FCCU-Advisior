@@ -169,7 +169,7 @@
       "schedule_raw": "M W | 08:00 - 08:50 | F | 14:00 - 15:50",
       "instructor": "M Yousaf",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BIOL 203",
@@ -853,7 +853,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R John",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "BUSN 230",
@@ -10273,7 +10273,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Raza",
       "capacity": "15",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "STAT 102",
