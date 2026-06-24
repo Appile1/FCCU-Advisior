@@ -4261,7 +4261,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Naqvi",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "DATA 301",
@@ -5521,7 +5521,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Zia",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ENGL 110",
@@ -6553,7 +6553,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Hayat",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "HIST 207",
@@ -8785,7 +8785,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PLSC 323",
@@ -10477,7 +10477,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "I Naqvi",
       "capacity": "25",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "STAT 317",
