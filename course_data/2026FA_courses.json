@@ -877,7 +877,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "R John",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 230",
@@ -1405,7 +1405,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Ramish",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "BUSN 360",
@@ -1453,7 +1453,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "10"
+      "available": "8"
     },
     {
       "course_code": "BUSN 360",
@@ -1957,7 +1957,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 480",
@@ -2809,7 +2809,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Chaudhry",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "COMP 200",
@@ -2869,7 +2869,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | T | 11:00 - 13:50",
       "instructor": "S Minhas",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "COMP 206",
@@ -3757,7 +3757,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | W | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "25",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "CSCS 201",
@@ -3781,7 +3781,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CSCS 201",
@@ -10741,7 +10741,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "URDU 101",
