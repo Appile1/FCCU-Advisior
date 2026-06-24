@@ -6038,14 +6038,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "PHYS 103",
-        "section": "B",
-        "course_name": "*Mechanics",
-        "schedule": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
-        "classroom": "SBLOCKS029",
-        "unique": "PHYS 103/B"
-      },
-      {
         "course_code": "PHYS 221",
         "section": "A",
         "course_name": "Elect. & Magnetism",

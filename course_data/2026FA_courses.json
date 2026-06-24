@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 909,
+  "total_courses": 908,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -2593,7 +2593,7 @@
       "schedule_raw": "M W | 14:00 - 15:15",
       "instructor": "M Qamar",
       "capacity": "25",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "CHEM 566",
@@ -2629,7 +2629,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Azeem",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "CHEM 699B",
@@ -8176,18 +8176,6 @@
       "available": "18"
     },
     {
-      "course_code": "PHYS 103",
-      "section": "B",
-      "unique": "PHYS 103/B",
-      "course_name": "*Mechanics",
-      "credits": "4.00",
-      "classroom": "SBLOCKS029",
-      "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
-      "instructor": "L Kahlon",
-      "capacity": "35",
-      "available": "33"
-    },
-    {
       "course_code": "PHYS 151",
       "section": "A",
       "unique": "PHYS 151/A",
@@ -9241,7 +9229,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "PSYC 298",
