@@ -4429,7 +4429,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ECON 102",
@@ -9409,7 +9409,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 354",
@@ -9433,7 +9433,7 @@
       "schedule_raw": "T R | 15:30 - 16:45 | W | 15:00 - 16:50",
       "instructor": "S Jabeen",
       "capacity": "30",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "PSYC 360",
@@ -9589,7 +9589,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 440",
