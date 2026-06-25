@@ -157,7 +157,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | R | 14:00 - 15:50",
       "instructor": "S Dogar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 201",
@@ -7189,7 +7189,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "MATH 105",
@@ -7429,7 +7429,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "MATH 410",
@@ -8221,7 +8221,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Dr  H Shah",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "PHYS 342",
@@ -8257,7 +8257,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Shah",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "PHYS 461",
@@ -8293,7 +8293,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "PHYS 503",
@@ -8641,7 +8641,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M U Farooq",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "PLSC 204",
@@ -8689,7 +8689,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "PLSC 302",
@@ -10741,7 +10741,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
@@ -10753,7 +10753,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "URDU 104",
