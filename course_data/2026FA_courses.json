@@ -4381,7 +4381,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "ECON 100",
@@ -6961,7 +6961,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "R John",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "LING 217",
@@ -10093,7 +10093,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "SOCL 465",
