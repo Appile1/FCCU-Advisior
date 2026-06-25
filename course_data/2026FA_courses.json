@@ -313,7 +313,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | W | 11:00 - 12:50",
       "instructor": "A Maqbool",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "BIOT 211",
@@ -397,7 +397,7 @@
       "schedule_raw": "M | 11:00 - 12:50 | T R | 14:00 - 15:15",
       "instructor": "A Maqbool",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "BIOT 314",
