@@ -3013,7 +3013,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Yousaf",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "COMP 302",
@@ -3793,7 +3793,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "CSCS 202",
