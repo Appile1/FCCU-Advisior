@@ -3601,7 +3601,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "CRST 525B",
@@ -4009,7 +4009,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "F Ullah",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "CSCS 460",
@@ -4033,7 +4033,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "CSCS 468",
