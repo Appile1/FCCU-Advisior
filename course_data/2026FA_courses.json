@@ -3757,7 +3757,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | W | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "25",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "CSCS 201",
@@ -5341,7 +5341,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "ENGL 108",
@@ -5425,7 +5425,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "ENGL 108",
@@ -6901,7 +6901,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "ISLM 301",
