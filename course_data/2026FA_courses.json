@@ -73,7 +73,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "ARTS 201",
@@ -5065,7 +5065,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 120",
