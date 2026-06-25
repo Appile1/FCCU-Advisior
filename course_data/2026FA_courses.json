@@ -1777,7 +1777,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "BUSN 460",
@@ -5485,7 +5485,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -5881,7 +5881,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "F Syeda",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ENGL 701",
@@ -7117,7 +7117,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "R Malik",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 101",
@@ -7981,7 +7981,7 @@
       "schedule_raw": "MTWRF | 08:00 - 16:00",
       "instructor": "B Sadiq",
       "capacity": "20",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "MUSC 101",
@@ -10465,7 +10465,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "I Naqvi",
       "capacity": "25",
-      "available": "6"
+      "available": "8"
     },
     {
       "course_code": "STAT 317",
@@ -10477,7 +10477,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Samuel",
       "capacity": "25",
-      "available": "3"
+      "available": "1"
     },
     {
       "course_code": "STAT 414",
@@ -10741,7 +10741,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
