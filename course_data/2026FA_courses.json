@@ -4357,7 +4357,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ECON 100",
@@ -4825,7 +4825,7 @@
       "schedule_raw": "T R | 09:30 - 11:00",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "ECON 502",
@@ -4837,7 +4837,7 @@
       "schedule_raw": "M W | 11:30 - 13:00",
       "instructor": "M Bhatti",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "ECON 505",
@@ -4849,7 +4849,7 @@
       "schedule_raw": "T R | 11:30 - 13:00",
       "instructor": "T Ahmed",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "ECON 605",
@@ -4861,7 +4861,7 @@
       "schedule_raw": "M W | 09:00 - 10:30",
       "instructor": "M Ayyubi",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "ECON 699A",
@@ -6217,7 +6217,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "FREN 101",
@@ -6817,7 +6817,7 @@
       "schedule_raw": "W F | 09:00 - 09:50",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
@@ -7177,7 +7177,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "MATH 103",
@@ -8233,7 +8233,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "H Latif",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "PHYS 352",
@@ -8245,7 +8245,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Zaheer",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "PHYS 460",
@@ -8293,7 +8293,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "PHYS 503",
@@ -8509,7 +8509,7 @@
       "schedule_raw": "M W | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PKST 101",
@@ -9901,7 +9901,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -10393,7 +10393,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Bashir",
       "capacity": "20",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "STAT 206",
