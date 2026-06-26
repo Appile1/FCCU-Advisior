@@ -2917,7 +2917,7 @@
       "schedule_raw": "W F | 11:00 - 12:50",
       "instructor": "N Sabahat",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "COMP 220",
@@ -3073,7 +3073,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "COMP 311",
@@ -3193,7 +3193,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Iqbal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "COMP 421",
@@ -4489,7 +4489,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "ECON 103",
@@ -4741,7 +4741,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ECON 323",
@@ -6913,7 +6913,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ISLM 306",
@@ -7513,7 +7513,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MCOM 200",
@@ -7537,7 +7537,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "MCOM 201",
