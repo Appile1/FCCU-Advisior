@@ -2905,7 +2905,7 @@
       "schedule_raw": "M W | 14:00 - 15:50",
       "instructor": "S Abbasi",
       "capacity": "25",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "COMP 213",
@@ -3853,7 +3853,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "CSCS 203",
@@ -5569,7 +5569,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "ENGL 201",
