@@ -1237,7 +1237,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "33",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "BUSN 321",
@@ -1393,7 +1393,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Ramish",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "BUSN 360",
@@ -3409,7 +3409,7 @@
       "schedule_raw": "W | 17:00 - 20:00",
       "instructor": "W Azim",
       "capacity": "10",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "CPPG 729",
@@ -3433,7 +3433,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CRIM 230",
@@ -4369,7 +4369,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "ECON 100",
@@ -4741,7 +4741,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "ECON 323",
@@ -5569,7 +5569,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ENGL 201",
@@ -6961,7 +6961,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "R John",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "LING 217",
@@ -9901,7 +9901,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
