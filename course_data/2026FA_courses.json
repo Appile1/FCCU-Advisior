@@ -2809,7 +2809,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Chaudhry",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "COMP 200",
@@ -3793,7 +3793,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "CSCS 202",
