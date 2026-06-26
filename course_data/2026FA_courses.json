@@ -6037,7 +6037,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | F | 09:00 - 10:50",
       "instructor": "D Bakker",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "ENVR 345",
@@ -6553,7 +6553,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Hayat",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "HIST 207",
@@ -8773,7 +8773,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "PLSC 323",
@@ -8797,7 +8797,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "PLSC 335",
