@@ -4213,7 +4213,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "DATA 207",
@@ -6181,7 +6181,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "D Bakker",
       "capacity": "15",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "ENVR 699A",
@@ -6193,7 +6193,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "D Bakker",
       "capacity": "25",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "ENVR 699B",
@@ -6793,7 +6793,7 @@
       "schedule_raw": "T R | 08:00 - 08:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "ISLM 101",
