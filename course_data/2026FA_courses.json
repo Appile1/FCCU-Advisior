@@ -721,7 +721,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "BUSN 201",
@@ -769,7 +769,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "BUSN 201",
@@ -2317,7 +2317,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | R | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "CHEM 100",
@@ -7585,7 +7585,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "MCOM 290",
@@ -10273,7 +10273,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Raza",
       "capacity": "15",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "STAT 102",
