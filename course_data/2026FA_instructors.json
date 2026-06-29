@@ -5949,28 +5949,20 @@
         "unique": "PHYS 103/A"
       },
       {
-        "course_code": "PHYS 342",
+        "course_code": "PHYS 509",
         "section": "A",
-        "course_name": "Computationl Physics",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "SBLOCKS039",
-        "unique": "PHYS 342/A"
+        "course_name": "N-Phys.&N-Tech.",
+        "schedule": "M W | 15:30 - 16:50",
+        "classroom": "SBLOCKS016",
+        "unique": "PHYS 509/A"
       },
       {
-        "course_code": "PHYS 503",
+        "course_code": "PHYS 716",
         "section": "A",
-        "course_name": "Computational Physic",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS039",
-        "unique": "PHYS 503/A"
-      },
-      {
-        "course_code": "PHYS 713",
-        "section": "A",
-        "course_name": "Adv. Comp. Materials",
+        "course_name": "Photovoltaic Devices",
         "schedule": "M W | 16:00 - 17:15",
         "classroom": "SBLOCKS027A",
-        "unique": "PHYS 713/A"
+        "unique": "PHYS 716/A"
       }
     ],
     "all_courses": [
@@ -5979,8 +5971,10 @@
       "PHYS 103",
       "PHYS 342",
       "PHYS 503",
+      "PHYS 509",
       "PHYS 510",
-      "PHYS 713"
+      "PHYS 713",
+      "PHYS 716"
     ]
   },
   {
@@ -6344,6 +6338,14 @@
         "unique": "PHYS 331/A"
       },
       {
+        "course_code": "PHYS 342",
+        "section": "A",
+        "course_name": "Computationl Physics",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS039",
+        "unique": "PHYS 342/A"
+      },
+      {
         "course_code": "PHYS 499B",
         "section": "A",
         "course_name": "Senior Thesis Projec",
@@ -6352,12 +6354,12 @@
         "unique": "PHYS 499B/A"
       },
       {
-        "course_code": "PHYS 509",
+        "course_code": "PHYS 503",
         "section": "A",
-        "course_name": "N-Phys.&N-Tech.",
-        "schedule": "M W | 15:30 - 16:50",
-        "classroom": "SBLOCKS016",
-        "unique": "PHYS 509/A"
+        "course_name": "Computational Physic",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS039",
+        "unique": "PHYS 503/A"
       }
     ],
     "all_courses": [
@@ -6367,6 +6369,7 @@
       "PHYS 331",
       "PHYS 342",
       "PHYS 499B",
+      "PHYS 503",
       "PHYS 509"
     ]
   },

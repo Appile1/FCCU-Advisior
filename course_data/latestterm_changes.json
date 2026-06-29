@@ -1942,5 +1942,37 @@
     "section": "A",
     "instructor": "A Samuel",
     "timestamp": "2026-06-23T10:45:34.206021+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PHYS 342 (A): H Latif → TBD",
+    "course_code": "PHYS 342",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-29T06:00:49.201025+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PHYS 503 (A): H Latif → TBD",
+    "course_code": "PHYS 503",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-29T06:00:49.201044+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PHYS 509 (A): TBD → H Latif",
+    "course_code": "PHYS 509",
+    "section": "A",
+    "instructor": "H Latif",
+    "timestamp": "2026-06-29T06:00:49.201047+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PHYS 716 (A) - H Latif",
+    "course_code": "PHYS 716",
+    "section": "A",
+    "instructor": "H Latif",
+    "timestamp": "2026-06-29T06:00:49.201052+00:00"
   }
 ]
