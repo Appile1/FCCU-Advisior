@@ -1974,5 +1974,77 @@
     "section": "A",
     "instructor": "H Latif",
     "timestamp": "2026-06-29T06:00:49.201052+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 305 (A): S Majeed → TBD",
+    "course_code": "PSYC 305",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-29T09:30:44.351151+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 370 (A): I Batool → TBD",
+    "course_code": "PSYC 370",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-29T09:30:44.351170+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 395 (A): A  Nazim → TBD",
+    "course_code": "PSYC 395",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-29T09:30:44.351175+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 541 (A): S Shahed → U Ilyas",
+    "course_code": "PSYC 541",
+    "section": "A",
+    "instructor": "U Ilyas",
+    "timestamp": "2026-06-29T09:30:44.351182+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 550 (A): U Ilyas → TBD",
+    "course_code": "PSYC 550",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-06-29T09:30:44.351187+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 740 (A): TBD → S Shahed",
+    "course_code": "PSYC 740",
+    "section": "A",
+    "instructor": "S Shahed",
+    "timestamp": "2026-06-29T09:30:44.351190+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 741 (A): TBD → S Majeed",
+    "course_code": "PSYC 741",
+    "section": "A",
+    "instructor": "S Majeed",
+    "timestamp": "2026-06-29T09:30:44.351193+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 745 (A): TBD → I Batool",
+    "course_code": "PSYC 745",
+    "section": "A",
+    "instructor": "I Batool",
+    "timestamp": "2026-06-29T09:30:44.351195+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 750 (A): TBD → A  Nazim",
+    "course_code": "PSYC 750",
+    "section": "A",
+    "instructor": "A  Nazim",
+    "timestamp": "2026-06-29T09:30:44.351197+00:00"
   }
 ]

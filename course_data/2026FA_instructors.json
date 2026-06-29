@@ -7331,14 +7331,6 @@
         "unique": "PSYC 385/B"
       },
       {
-        "course_code": "PSYC 395",
-        "section": "A",
-        "course_name": "Correctional Psyc",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE246",
-        "unique": "PSYC 395/A"
-      },
-      {
         "course_code": "PSYC 510",
         "section": "A",
         "course_name": "Psyc. Asses. Child.",
@@ -7361,6 +7353,14 @@
         "schedule": "MTWRF",
         "classroom": "TBDTBD",
         "unique": "PSYC 671/A"
+      },
+      {
+        "course_code": "PSYC 750",
+        "section": "A",
+        "course_name": "Indigenous Instrumen",
+        "schedule": "T R | 15:30 - 17:00",
+        "classroom": "EBLOCKE201",
+        "unique": "PSYC 750/A"
       }
     ],
     "all_courses": [
@@ -7374,7 +7374,8 @@
       "PSYC 512",
       "PSYC 670",
       "PSYC 671",
-      "PSYC 672"
+      "PSYC 672",
+      "PSYC 750"
     ]
   },
   {
@@ -7419,12 +7420,12 @@
         "unique": "PSYC 310/B"
       },
       {
-        "course_code": "PSYC 550",
+        "course_code": "PSYC 541",
         "section": "A",
-        "course_name": "Biol. Basis of Behav",
-        "schedule": "M W | 14:00 - 15:30",
-        "classroom": "EBLOCKE243",
-        "unique": "PSYC 550/A"
+        "course_name": "Research Methods",
+        "schedule": "T R | 10:30 - 12:00",
+        "classroom": "EBLOCKE347",
+        "unique": "PSYC 541/A"
       }
     ],
     "all_courses": [
@@ -7432,6 +7433,7 @@
       "PSYC 280",
       "PSYC 305",
       "PSYC 310",
+      "PSYC 541",
       "PSYC 550",
       "PSYC 620"
     ]
@@ -7506,12 +7508,12 @@
         "unique": "PSYC 301/B"
       },
       {
-        "course_code": "PSYC 370",
+        "course_code": "PSYC 745",
         "section": "A",
-        "course_name": "Geriatric Psychology",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE229",
-        "unique": "PSYC 370/A"
+        "course_name": "Advanced Qualitative",
+        "schedule": "T R | 14:00 - 15:30",
+        "classroom": "EBLOCKE201",
+        "unique": "PSYC 745/A"
       }
     ],
     "all_courses": [
@@ -7520,7 +7522,8 @@
       "PSYC 298",
       "PSYC 301",
       "PSYC 360",
-      "PSYC 370"
+      "PSYC 370",
+      "PSYC 745"
     ]
   },
   {
@@ -7696,12 +7699,12 @@
         "unique": "PSYC 430/A"
       },
       {
-        "course_code": "PSYC 541",
+        "course_code": "PSYC 740",
         "section": "A",
-        "course_name": "Research Methods",
-        "schedule": "T R | 10:30 - 12:00",
-        "classroom": "EBLOCKE347",
-        "unique": "PSYC 541/A"
+        "course_name": "Advanced Quantitativ",
+        "schedule": "M W | 14:00 - 15:30",
+        "classroom": "EBLOCKE201",
+        "unique": "PSYC 740/A"
       }
     ],
     "all_courses": [
@@ -7711,7 +7714,8 @@
       "PSYC 430",
       "PSYC 541",
       "PSYC 550",
-      "PSYC 630"
+      "PSYC 630",
+      "PSYC 740"
     ]
   },
   {
@@ -7729,20 +7733,20 @@
         "unique": "PSYC 100/H"
       },
       {
-        "course_code": "PSYC 305",
-        "section": "A",
-        "course_name": "Res  Meth in Psyc I",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE246",
-        "unique": "PSYC 305/A"
-      },
-      {
         "course_code": "PSYC 385",
         "section": "A",
         "course_name": "Forensic Psychology",
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "EBLOCKE246",
         "unique": "PSYC 385/A"
+      },
+      {
+        "course_code": "PSYC 741",
+        "section": "A",
+        "course_name": "Advanced Statistics",
+        "schedule": "M W | 15:30 - 17:00",
+        "classroom": "EBLOCKE201",
+        "unique": "PSYC 741/A"
       }
     ],
     "all_courses": [
@@ -7752,7 +7756,8 @@
       "PSYC 395",
       "PSYC 465",
       "PSYC 540",
-      "PSYC 541"
+      "PSYC 541",
+      "PSYC 741"
     ]
   },
   {
@@ -13563,6 +13568,30 @@
     ],
     "current_courses": [
       {
+        "course_code": "PSYC 305",
+        "section": "A",
+        "course_name": "Res  Meth in Psyc I",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE246",
+        "unique": "PSYC 305/A"
+      },
+      {
+        "course_code": "PSYC 370",
+        "section": "A",
+        "course_name": "Geriatric Psychology",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE229",
+        "unique": "PSYC 370/A"
+      },
+      {
+        "course_code": "PSYC 395",
+        "section": "A",
+        "course_name": "Correctional Psyc",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE246",
+        "unique": "PSYC 395/A"
+      },
+      {
         "course_code": "PSYC 440",
         "section": "A",
         "course_name": "Counseling Psycholog",
@@ -13587,41 +13616,21 @@
         "unique": "PSYC 470/A"
       },
       {
-        "course_code": "PSYC 740",
+        "course_code": "PSYC 550",
         "section": "A",
-        "course_name": "Advanced Quantitativ",
+        "course_name": "Biol. Basis of Behav",
         "schedule": "M W | 14:00 - 15:30",
-        "classroom": "EBLOCKE201",
-        "unique": "PSYC 740/A"
-      },
-      {
-        "course_code": "PSYC 741",
-        "section": "A",
-        "course_name": "Advanced Statistics",
-        "schedule": "M W | 15:30 - 17:00",
-        "classroom": "EBLOCKE201",
-        "unique": "PSYC 741/A"
-      },
-      {
-        "course_code": "PSYC 745",
-        "section": "A",
-        "course_name": "Advanced Qualitative",
-        "schedule": "T R | 14:00 - 15:30",
-        "classroom": "EBLOCKE201",
-        "unique": "PSYC 745/A"
-      },
-      {
-        "course_code": "PSYC 750",
-        "section": "A",
-        "course_name": "Indigenous Instrumen",
-        "schedule": "T R | 15:30 - 17:00",
-        "classroom": "EBLOCKE201",
-        "unique": "PSYC 750/A"
+        "classroom": "EBLOCKE243",
+        "unique": "PSYC 550/A"
       }
     ],
     "all_courses": [
+      "PSYC 305",
+      "PSYC 370",
+      "PSYC 395",
       "PSYC 440",
       "PSYC 470",
+      "PSYC 550",
       "PSYC 740",
       "PSYC 741",
       "PSYC 745",
