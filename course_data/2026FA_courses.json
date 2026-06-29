@@ -85,7 +85,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "ARTS 203",
@@ -3997,7 +3997,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Shaheen",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "CSCS 456",
@@ -10753,7 +10753,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
@@ -10765,7 +10765,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "URDU 104",
