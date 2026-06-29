@@ -13568,6 +13568,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "PSYC 100",
+        "section": "I",
+        "course_name": "Intro to Psychology",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "SBLOCKS116",
+        "unique": "PSYC 100/I"
+      },
+      {
         "course_code": "PSYC 305",
         "section": "A",
         "course_name": "Res  Meth in Psyc I",
@@ -13625,6 +13633,7 @@
       }
     ],
     "all_courses": [
+      "PSYC 100",
       "PSYC 305",
       "PSYC 370",
       "PSYC 395",

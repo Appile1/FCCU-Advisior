@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 908,
+  "total_courses": 909,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -1237,7 +1237,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "33",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "BUSN 321",
@@ -9038,6 +9038,18 @@
       "instructor": "S Majeed",
       "capacity": "35",
       "available": "0"
+    },
+    {
+      "course_code": "PSYC 100",
+      "section": "I",
+      "unique": "PSYC 100/I",
+      "course_name": "Intro to Psychology",
+      "credits": "3.00",
+      "classroom": "SBLOCKS116",
+      "schedule_raw": "M W F | 16:00 - 16:50",
+      "instructor": "TBD",
+      "capacity": "35",
+      "available": "35"
     },
     {
       "course_code": "PSYC 101",
