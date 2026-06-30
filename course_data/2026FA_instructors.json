@@ -11140,14 +11140,6 @@
         "unique": "EDUC 515/A"
       },
       {
-        "course_code": "EDUC 520",
-        "section": "A",
-        "course_name": "Qualitative Research",
-        "schedule": "T | 16:00 - 19:00",
-        "classroom": "EBLOCKE140",
-        "unique": "EDUC 520/A"
-      },
-      {
         "course_code": "EDUC 650",
         "section": "A",
         "course_name": "Proposal Development",
@@ -11309,6 +11301,14 @@
         "schedule": "T R | 12:30 - 13:45",
         "classroom": "EBLOCKE214",
         "unique": "EDUC 315/A"
+      },
+      {
+        "course_code": "EDUC 520",
+        "section": "A",
+        "course_name": "Qualitative Research",
+        "schedule": "T | 16:00 - 19:00",
+        "classroom": "EBLOCKE140",
+        "unique": "EDUC 520/A"
       }
     ],
     "all_courses": [
@@ -11316,7 +11316,8 @@
       "EDUC 260",
       "EDUC 300",
       "EDUC 315",
-      "EDUC 340"
+      "EDUC 340",
+      "EDUC 520"
     ]
   },
   {

@@ -2054,5 +2054,13 @@
     "section": "I",
     "instructor": "TBD",
     "timestamp": "2026-06-29T09:45:37.508328+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for EDUC 520 (A): M. Thomas → S Burhan",
+    "course_code": "EDUC 520",
+    "section": "A",
+    "instructor": "S Burhan",
+    "timestamp": "2026-06-30T06:15:41.916841+00:00"
   }
 ]
