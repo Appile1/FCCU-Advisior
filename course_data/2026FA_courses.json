@@ -3253,7 +3253,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "88"
+      "available": "87"
     },
     {
       "course_code": "COMP 497B",
@@ -7237,7 +7237,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 107",
@@ -8857,7 +8857,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "M Younis",
       "capacity": "15",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "PLSC 403",
