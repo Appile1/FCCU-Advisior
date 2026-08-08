@@ -471,7 +471,7 @@
         "section": "A",
         "course_name": "*BioSaf. & BioSec",
         "schedule": "M W | 12:00 - 12:50 | T | 14:00 - 15:50",
-        "classroom": "SBLOCKS312 | SBLOCKS321",
+        "classroom": "SBLOCKS413 | SBLOCKS321",
         "unique": "BIOT 211/A"
       },
       {
@@ -1320,7 +1320,7 @@
         "section": "L",
         "course_name": "Entrepreneurship",
         "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE330",
+        "classroom": "EBLOCKE333",
         "unique": "BUSN 230/L"
       },
       {
@@ -1338,6 +1338,14 @@
         "schedule": "M W F | 12:00 - 12:50",
         "classroom": "EBLOCKE332",
         "unique": "BUSN 230/N"
+      },
+      {
+        "course_code": "BUSN 498",
+        "section": "IS",
+        "course_name": "Business Strategy",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "BUSN 498/IS"
       }
     ],
     "all_courses": [
@@ -1376,7 +1384,7 @@
         "section": "D",
         "course_name": "Consumer Behavior",
         "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE332",
+        "classroom": "EBLOCKE330",
         "unique": "BUSN 385/D"
       }
     ],
@@ -1530,6 +1538,14 @@
         "unique": "BUSN 301/B"
       },
       {
+        "course_code": "BUSN 401",
+        "section": "IS",
+        "course_name": "Principles of Auditi",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "BUSN 401/IS"
+      },
+      {
         "course_code": "BUSN 410",
         "section": "B",
         "course_name": "Account Info Sys",
@@ -1549,6 +1565,7 @@
     "all_courses": [
       "BUSN 206",
       "BUSN 301",
+      "BUSN 401",
       "BUSN 410",
       "BUSN 501",
       "BUSN 506"
@@ -1575,7 +1592,7 @@
         "section": "F",
         "course_name": "Financial Mgt. I",
         "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE332",
+        "classroom": "EBLOCKE330",
         "unique": "BUSN 321/F"
       },
       {
@@ -1776,7 +1793,7 @@
         "section": "J",
         "course_name": "Ope. & Proj. Mgt. I",
         "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE330",
+        "classroom": "EBLOCKE332",
         "unique": "BUSN 360/J"
       },
       {
@@ -1792,7 +1809,7 @@
         "section": "L",
         "course_name": "Ope. & Proj. Mgt. I",
         "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE333",
+        "classroom": "EBLOCKE332",
         "unique": "BUSN 360/L"
       },
       {
@@ -1800,14 +1817,23 @@
         "section": "M",
         "course_name": "Ope. & Proj. Mgt. I",
         "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE331",
+        "classroom": "EBLOCKE332",
         "unique": "BUSN 360/M"
+      },
+      {
+        "course_code": "BUSN 469",
+        "section": "IS",
+        "course_name": "Project Mang Proc",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "BUSN 469/IS"
       }
     ],
     "all_courses": [
       "BUSN 360",
       "BUSN 361",
-      "BUSN 368"
+      "BUSN 368",
+      "BUSN 469"
     ]
   },
   {
@@ -2062,7 +2088,7 @@
         "section": "I",
         "course_name": "Business Law",
         "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE330",
+        "classroom": "EBLOCKE331",
         "unique": "BUSN 460/I"
       },
       {
@@ -2349,14 +2375,6 @@
         "schedule": "T R | 12:30 - 13:45 | F | 11:00 - 12:45",
         "classroom": "SBLOCKS212 | SBLOCKS135",
         "unique": "CHEM 160/B"
-      },
-      {
-        "course_code": "CHEM 261",
-        "section": "A",
-        "course_name": "*Organic Chemistry I",
-        "schedule": "M W F | 09:00 - 09:50 | M | 11:00 - 12:50",
-        "classroom": "SBLOCKS212 | SBLOCKS135",
-        "unique": "CHEM 261/A"
       }
     ],
     "all_courses": [
@@ -2391,12 +2409,12 @@
         "unique": "CHEM 150/C"
       },
       {
-        "course_code": "CHEM 470",
-        "section": "A",
-        "course_name": "Polymer Chemistry",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS210",
-        "unique": "CHEM 470/A"
+        "course_code": "CHEM 150",
+        "section": "D",
+        "course_name": "*Intro. Inorg. Chem",
+        "schedule": "T R | 14:00 - 15:15 | W | 14:00 - 16:00",
+        "classroom": "SBLOCKS210 | SBLOCKS138",
+        "unique": "CHEM 150/D"
       }
     ],
     "all_courses": [
@@ -2416,7 +2434,7 @@
         "course_code": "CHEM 150",
         "section": "A",
         "course_name": "*Intro. Inorg. Chem",
-        "schedule": "M W F | 10:00 - 10:50 | M | 11:00 - 11:50",
+        "schedule": "M W F | 10:00 - 10:50 | M | 11:00 - 12:50",
         "classroom": "SBLOCKS112 | SBLOCKS138",
         "unique": "CHEM 150/A"
       },
@@ -2425,7 +2443,7 @@
         "section": "A",
         "course_name": "*Coordination Chem",
         "schedule": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
-        "classroom": "SBLOCKS112 | SBLOCKS138",
+        "classroom": "SBLOCKS213 | SBLOCKS138",
         "unique": "CHEM 350/A"
       },
       {
@@ -2577,6 +2595,22 @@
     ],
     "current_courses": [
       {
+        "course_code": "CHEM 270",
+        "section": "A",
+        "course_name": "*Thermodyna Equilib",
+        "schedule": "T R | 14:00 - 15:15 | R | 09:00 - 10:50",
+        "classroom": "SBLOCKS213 | SBLOCKS148",
+        "unique": "CHEM 270/A"
+      },
+      {
+        "course_code": "CHEM 370",
+        "section": "A",
+        "course_name": "*Kinetic & Mechanism",
+        "schedule": "M | 11:00 - 12:50 | M W F | 15:00 - 15:50",
+        "classroom": "SBLOCKS148 | SBLOCKS210",
+        "unique": "CHEM 370/A"
+      },
+      {
         "course_code": "CHEM 566",
         "section": "A",
         "course_name": "Topics in Phys, Chem",
@@ -2589,6 +2623,7 @@
       "CHEM 100",
       "CHEM 170",
       "CHEM 270",
+      "CHEM 370",
       "CHEM 473",
       "CHEM 566"
     ]
@@ -2600,12 +2635,12 @@
     ],
     "current_courses": [
       {
-        "course_code": "CHEM 250",
-        "section": "A",
-        "course_name": "*Chem Main Groups",
-        "schedule": "M | 09:00 - 10:50 | M W F | 11:00 - 11:50",
-        "classroom": "SBLOCKS138 | SBLOCKS212",
-        "unique": "CHEM 250/A"
+        "course_code": "CHEM 150",
+        "section": "E",
+        "course_name": "*Intro. Inorg. Chem",
+        "schedule": "M W F | 09:00 - 09:50 | F | 11:00 - 12:50",
+        "classroom": "SBLOCKS212 | SBLOCKS138",
+        "unique": "CHEM 150/E"
       },
       {
         "course_code": "CHEM 525",
@@ -2640,12 +2675,12 @@
     ],
     "current_courses": [
       {
-        "course_code": "CHEM 413",
+        "course_code": "CHEM 250",
         "section": "A",
-        "course_name": "*Instrument Meth Ana",
-        "schedule": "M W F | 14:00 - 14:50 | F | 11:00 - 12:50",
-        "classroom": "SBLOCKS210 | SBLOCKS138",
-        "unique": "CHEM 413/A"
+        "course_name": "*Chem Main Groups",
+        "schedule": "M | 09:00 - 10:50 | M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS138 | SBLOCKS212",
+        "unique": "CHEM 250/A"
       },
       {
         "course_code": "CHEM 526",
@@ -2773,6 +2808,14 @@
       "COMP"
     ],
     "current_courses": [
+      {
+        "course_code": "COMP 102",
+        "section": "E",
+        "course_name": "Programming Fundamen",
+        "schedule": "M W F | 14:00 - 14:50 | F | 08:00 - 10:50",
+        "classroom": "SBLOCKS316 | SBLOCKS218",
+        "unique": "COMP 102/E"
+      },
       {
         "course_code": "COMP 111",
         "section": "B",
@@ -3045,7 +3088,7 @@
         "section": "B",
         "course_name": "Compiler Constructio",
         "schedule": "T | 13:00 - 14:50 | R | 13:00 - 14:50",
-        "classroom": "SBLOCKS219 | SBLOCKS215",
+        "classroom": "SBLOCKS219",
         "unique": "COMP 451/B"
       }
     ],
@@ -3238,16 +3281,7 @@
     "departments": [
       "COMP"
     ],
-    "current_courses": [
-      {
-        "course_code": "COMP 421",
-        "section": "B",
-        "course_name": "Information Security",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "SBLOCKS316",
-        "unique": "COMP 421/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "COMP 303",
       "COMP 421"
@@ -3452,22 +3486,6 @@
         "unique": "CRST 151/A"
       },
       {
-        "course_code": "CRST 211",
-        "section": "A",
-        "course_name": "Applied Theology 1",
-        "schedule": "M | 12:00 - 12:50",
-        "classroom": "XBLOCKX002",
-        "unique": "CRST 211/A"
-      },
-      {
-        "course_code": "CRST 212",
-        "section": "A",
-        "course_name": "Applied Theology 2",
-        "schedule": "W | 12:00 - 12:50",
-        "classroom": "XBLOCKX002",
-        "unique": "CRST 212/A"
-      },
-      {
         "course_code": "CRST 391",
         "section": "A",
         "course_name": "New Testament II",
@@ -3542,6 +3560,30 @@
         "unique": "CRST 152/A"
       },
       {
+        "course_code": "CRST 211",
+        "section": "A",
+        "course_name": "Applied Theology 1",
+        "schedule": "M | 12:00 - 12:50",
+        "classroom": "XBLOCKX002",
+        "unique": "CRST 211/A"
+      },
+      {
+        "course_code": "CRST 212",
+        "section": "A",
+        "course_name": "Applied Theology 2",
+        "schedule": "W | 12:00 - 12:50",
+        "classroom": "XBLOCKX002",
+        "unique": "CRST 212/A"
+      },
+      {
+        "course_code": "CRST 313",
+        "section": "A",
+        "course_name": "Applied Theology 8: The Church",
+        "schedule": "F | 10:00 - 10:50",
+        "classroom": "EBLOCKE243",
+        "unique": "CRST 313/A"
+      },
+      {
         "course_code": "CRST 411",
         "section": "A",
         "course_name": "Applied Theology 5",
@@ -3560,7 +3602,10 @@
     ],
     "all_courses": [
       "CRST 152",
+      "CRST 211",
+      "CRST 212",
       "CRST 281",
+      "CRST 313",
       "CRST 411",
       "CRST 439B",
       "CRST 439C"
@@ -3723,16 +3768,7 @@
     "departments": [
       "CSCS"
     ],
-    "current_courses": [
-      {
-        "course_code": "CSCS 465",
-        "section": "A",
-        "course_name": "IS Standard and Reg",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS317",
-        "unique": "CSCS 465/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "CSCS 100",
       "CSCS 101",
@@ -3772,7 +3808,7 @@
         "section": "A",
         "course_name": "*Basic Electronics",
         "schedule": "M W F | 14:00 - 14:50 | F | 08:00 - 10:50",
-        "classroom": "SBLOCKS215 | SBLOCKS027",
+        "classroom": "SBLOCKS215 | SBLOCKS027B",
         "unique": "CSCS 105/A"
       },
       {
@@ -3875,11 +3911,20 @@
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "SBLOCKS320",
         "unique": "CSCS 100/D"
+      },
+      {
+        "course_code": "CSCS 473",
+        "section": "A",
+        "course_name": "Agentic AI Systems",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS317",
+        "unique": "CSCS 473/A"
       }
     ],
     "all_courses": [
       "CSCS 100",
-      "CSCS 460"
+      "CSCS 460",
+      "CSCS 473"
     ]
   },
   {
@@ -4060,7 +4105,7 @@
         "section": "A",
         "course_name": "Differential Equatio",
         "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "SBLOCKS413",
+        "classroom": "SBLOCKS312",
         "unique": "CSCS 203/A"
       },
       {
@@ -4775,16 +4820,7 @@
     "departments": [
       "MATH"
     ],
-    "current_courses": [
-      {
-        "course_code": "MATH 101",
-        "section": "D",
-        "course_name": "Pre-Calc & Trigonom.",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS412",
-        "unique": "MATH 101/D"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "MATH 100",
       "MATH 101",
@@ -4843,14 +4879,6 @@
       "MATH"
     ],
     "current_courses": [
-      {
-        "course_code": "MATH 101",
-        "section": "A",
-        "course_name": "Pre-Calc & Trigonom.",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "SBLOCKS412",
-        "unique": "MATH 101/A"
-      },
       {
         "course_code": "MATH 102",
         "section": "C",
@@ -7359,7 +7387,7 @@
         "section": "A",
         "course_name": "Indigenous Instrumen",
         "schedule": "T R | 15:30 - 17:00",
-        "classroom": "EBLOCKE201",
+        "classroom": "EBLOCKE104",
         "unique": "PSYC 750/A"
       }
     ],
@@ -7512,7 +7540,7 @@
         "section": "A",
         "course_name": "Advanced Qualitative",
         "schedule": "T R | 14:00 - 15:30",
-        "classroom": "EBLOCKE201",
+        "classroom": "EBLOCKE104",
         "unique": "PSYC 745/A"
       }
     ],
@@ -7703,7 +7731,7 @@
         "section": "A",
         "course_name": "Advanced Quantitativ",
         "schedule": "M W | 14:00 - 15:30",
-        "classroom": "EBLOCKE201",
+        "classroom": "EBLOCKE104",
         "unique": "PSYC 740/A"
       }
     ],
@@ -7745,7 +7773,7 @@
         "section": "A",
         "course_name": "Advanced Statistics",
         "schedule": "M W | 15:30 - 17:00",
-        "classroom": "EBLOCKE201",
+        "classroom": "EBLOCKE104",
         "unique": "PSYC 741/A"
       }
     ],
@@ -7821,7 +7849,7 @@
         "section": "G",
         "course_name": "Intro to Sociology",
         "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE105",
+        "classroom": "EBLOCKE244",
         "unique": "SOCL 100/G"
       },
       {
@@ -7879,7 +7907,7 @@
         "section": "A",
         "course_name": "Sociol.of South Asia",
         "schedule": "T | 16:00 - 19:00",
-        "classroom": "EBLOCKE104",
+        "classroom": "EBLOCKE103",
         "unique": "SOCL 506/A"
       }
     ],
@@ -8017,7 +8045,7 @@
         "section": "Q",
         "course_name": "Intro to Sociology",
         "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE103",
+        "classroom": "SBLOCKS215",
         "unique": "SOCL 100/Q"
       },
       {
@@ -8232,14 +8260,6 @@
         "unique": "STAT 101/B"
       },
       {
-        "course_code": "STAT 115",
-        "section": "C",
-        "course_name": "Probability & Stat.",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS421",
-        "unique": "STAT 115/C"
-      },
-      {
         "course_code": "STAT 317",
         "section": "B",
         "course_name": "Data Visualization R",
@@ -8299,14 +8319,6 @@
         "schedule": "T R | 09:30 - 10:45",
         "classroom": "SBLOCKS320",
         "unique": "STAT 103/A"
-      },
-      {
-        "course_code": "STAT 115",
-        "section": "B",
-        "course_name": "Probability & Stat.",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "SBLOCKS420",
-        "unique": "STAT 115/B"
       }
     ],
     "all_courses": [
@@ -8337,7 +8349,7 @@
         "section": "A",
         "course_name": "Prob & Prob. Distrib",
         "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS420",
+        "classroom": "SBLOCKS425",
         "unique": "STAT 102/A"
       },
       {
@@ -9482,7 +9494,7 @@
         "section": "A",
         "course_name": "Intermediate Account",
         "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE332",
+        "classroom": "EBLOCKE330",
         "unique": "BUSN 201/A"
       },
       {
@@ -9922,24 +9934,7 @@
     "departments": [
       "CHEM"
     ],
-    "current_courses": [
-      {
-        "course_code": "CHEM 270",
-        "section": "A",
-        "course_name": "*Thermodyna Equilib",
-        "schedule": "T R | 14:00 - 15:15 | R | 09:00 - 10:50",
-        "classroom": "SBLOCKS213 | SBLOCKS148",
-        "unique": "CHEM 270/A"
-      },
-      {
-        "course_code": "CHEM 370",
-        "section": "A",
-        "course_name": "*Kinetic & Mechanism",
-        "schedule": "M | 11:00 - 12:50 | M W F | 15:00 - 15:50",
-        "classroom": "SBLOCKS148 | SBLOCKS210",
-        "unique": "CHEM 370/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "CHEM 100",
       "CHEM 160",
@@ -10078,11 +10073,20 @@
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "SBLOCKS320",
         "unique": "COMP 303/B"
+      },
+      {
+        "course_code": "COMP 421",
+        "section": "B",
+        "course_name": "Information Security",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "SBLOCKS316",
+        "unique": "COMP 421/B"
       }
     ],
     "all_courses": [
       "COMP 302",
       "COMP 303",
+      "COMP 421",
       "COMP 504"
     ]
   },
@@ -11132,6 +11136,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "EDUC 110",
+        "section": "A",
+        "course_name": "Foundations of Educ.",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE140",
+        "unique": "EDUC 110/A"
+      },
+      {
         "course_code": "EDUC 515",
         "section": "A",
         "course_name": "Research Methods",
@@ -11386,19 +11398,19 @@
         "unique": "ENGL 108/P"
       },
       {
-        "course_code": "ENGL 108",
-        "section": "Q",
-        "course_name": "Expository Writing",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE103",
-        "unique": "ENGL 108/Q"
+        "course_code": "ENGL 175",
+        "section": "A",
+        "course_name": "Crit. Think.&Reading",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE222",
+        "unique": "ENGL 175/A"
       },
       {
         "course_code": "ENGL 501",
         "section": "A",
         "course_name": "Research Methods",
         "schedule": "M | 16:00 - 19:00",
-        "classroom": "EBLOCKE221",
+        "classroom": "EBLOCKE206",
         "unique": "ENGL 501/A"
       }
     ],
@@ -11618,7 +11630,7 @@
         "section": "A",
         "course_name": "Transcultural Lite",
         "schedule": "R | 16:00 - 19:00",
-        "classroom": "EBLOCKE221",
+        "classroom": "EBLOCKE206",
         "unique": "ENGL 510/A"
       }
     ],
@@ -11638,12 +11650,12 @@
     ],
     "current_courses": [
       {
-        "course_code": "ENGL 175",
-        "section": "A",
-        "course_name": "Crit. Think.&Reading",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE222",
-        "unique": "ENGL 175/A"
+        "course_code": "ENGL 108",
+        "section": "Q",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE103",
+        "unique": "ENGL 108/Q"
       },
       {
         "course_code": "ENGL 315",
@@ -11658,12 +11670,13 @@
         "section": "A",
         "course_name": "Hydropoetics",
         "schedule": "T | 16:00 - 19:00",
-        "classroom": "EBLOCKE221",
+        "classroom": "EBLOCKE206",
         "unique": "ENGL 526/A"
       }
     ],
     "all_courses": [
       "ENGL 106",
+      "ENGL 108",
       "ENGL 175",
       "ENGL 315",
       "ENGL 526",
@@ -11697,7 +11710,7 @@
         "section": "A",
         "course_name": "Digit.Appr to. Lit.",
         "schedule": "W | 16:00 - 19:00",
-        "classroom": "EBLOCKE221",
+        "classroom": "EBLOCKE206",
         "unique": "ENGL 610/A"
       },
       {
@@ -11748,7 +11761,7 @@
       {
         "course_code": "ENVR 323",
         "section": "A",
-        "course_name": "Ecology & Evolution",
+        "course_name": "Applied Ecology",
         "schedule": "M W F | 12:00 - 12:50 | W | 14:00 - 15:50",
         "classroom": "SBLOCKS417 | SBLOCKS135",
         "unique": "ENVR 323/A"
@@ -11756,7 +11769,7 @@
       {
         "course_code": "ENVR 414",
         "section": "A",
-        "course_name": "Sustainable Develop",
+        "course_name": "Sustainable Development in a Changi",
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "SBLOCKS424",
         "unique": "ENVR 414/A"
@@ -11778,7 +11791,7 @@
       {
         "course_code": "ENVR 406",
         "section": "A",
-        "course_name": "Climate, Past,Presen",
+        "course_name": "Climate Change Adaptation and Mitig",
         "schedule": "M W F | 11:00 - 11:50",
         "classroom": "SBLOCKS417",
         "unique": "ENVR 406/A"
@@ -11798,6 +11811,14 @@
         "schedule": "M | 16:00 - 17:15 | F | 16:00 - 17:15",
         "classroom": "SBLOCKS417",
         "unique": "ENVR 502/A"
+      },
+      {
+        "course_code": "ENVR 696",
+        "section": "A",
+        "course_name": "Seminar",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "ENVR 696/A"
       }
     ],
     "all_courses": [
@@ -11806,7 +11827,8 @@
       "ENVR 406",
       "ENVR 418",
       "ENVR 502",
-      "ENVR 602"
+      "ENVR 602",
+      "ENVR 696"
     ]
   },
   {
@@ -11869,14 +11891,6 @@
         "schedule": "T R | 17:30 - 18:45",
         "classroom": "SBLOCKS417",
         "unique": "ENVR 505/A"
-      },
-      {
-        "course_code": "ENVR 696",
-        "section": "A",
-        "course_name": "Seminar",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "ENVR 696/A"
       },
       {
         "course_code": "ENVR 699A",
@@ -12004,7 +12018,7 @@
       {
         "course_code": "ENVR 345",
         "section": "A",
-        "course_name": "Envr. Impact Assess",
+        "course_name": "Strategic and Env. Impact Assessmen",
         "schedule": "M W F | 12:00 - 12:50",
         "classroom": "SBLOCKS424",
         "unique": "ENVR 345/A"
@@ -12833,7 +12847,7 @@
         "section": "A",
         "course_name": "Social Statistics",
         "schedule": "M | 16:00 - 19:00",
-        "classroom": "EBLOCKE104",
+        "classroom": "EBLOCKE105",
         "unique": "SOCL 505/A"
       }
     ],
@@ -13103,7 +13117,7 @@
         "section": "A",
         "course_name": "Trauma Lit.&Theory",
         "schedule": "F | 16:00 - 19:00",
-        "classroom": "EBLOCKE221",
+        "classroom": "EBLOCKE206",
         "unique": "ENGL 620/A"
       }
     ],
@@ -13118,9 +13132,19 @@
     "departments": [
       "ENGL"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "ENGL 108",
+        "section": "C",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE242",
+        "unique": "ENGL 108/C"
+      }
+    ],
     "all_courses": [
-      "ENGL 106"
+      "ENGL 106",
+      "ENGL 108"
     ]
   },
   {
@@ -13131,11 +13155,11 @@
     "current_courses": [
       {
         "course_code": "ENGL 108",
-        "section": "C",
+        "section": "B",
         "course_name": "Expository Writing",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE242",
-        "unique": "ENGL 108/C"
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE230",
+        "unique": "ENGL 108/B"
       }
     ],
     "all_courses": [
@@ -13156,11 +13180,20 @@
         "schedule": "M W F | 11:00 - 11:50",
         "classroom": "EBLOCKE222",
         "unique": "ENGL 175/B"
+      },
+      {
+        "course_code": "ENGL 616",
+        "section": "A",
+        "course_name": "American Literature",
+        "schedule": "W | 16:00 - 19:00",
+        "classroom": "EBLOCKE222",
+        "unique": "ENGL 616/A"
       }
     ],
     "all_courses": [
       "ENGL 106",
-      "ENGL 175"
+      "ENGL 175",
+      "ENGL 616"
     ]
   },
   {
@@ -13220,7 +13253,7 @@
         "section": "G",
         "course_name": "Expository Writing",
         "schedule": "T R | 15:30 - 16:45",
-        "classroom": "SBLOCKS215",
+        "classroom": "SBLOCKS216",
         "unique": "ENGL 108/G"
       }
     ],
@@ -13593,14 +13626,6 @@
         "unique": "PSYC 370/A"
       },
       {
-        "course_code": "PSYC 395",
-        "section": "A",
-        "course_name": "Correctional Psyc",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE246",
-        "unique": "PSYC 395/A"
-      },
-      {
         "course_code": "PSYC 440",
         "section": "A",
         "course_name": "Counseling Psycholog",
@@ -13658,7 +13683,7 @@
         "section": "A",
         "course_name": "Advanced Readings",
         "schedule": "R | 16:00 - 19:00",
-        "classroom": "EBLOCKE104",
+        "classroom": "EBLOCKE103",
         "unique": "SOCL 520/A"
       }
     ],
@@ -13679,7 +13704,7 @@
         "section": "A",
         "course_name": "Religion in the Post",
         "schedule": "W | 16:00 - 19:00",
-        "classroom": "EBLOCKE104",
+        "classroom": "EBLOCKE103",
         "unique": "SOCL 522/A"
       }
     ],
@@ -13826,36 +13851,12 @@
     ],
     "current_courses": [
       {
-        "course_code": "ENGL 106",
-        "section": "A",
-        "course_name": "Functional English",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE227",
-        "unique": "ENGL 106/A"
-      },
-      {
-        "course_code": "ENGL 108",
-        "section": "B",
-        "course_name": "Expository Writing",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE230",
-        "unique": "ENGL 108/B"
-      },
-      {
         "course_code": "ENGL 108",
         "section": "I",
         "course_name": "Expository Writing",
         "schedule": "T R | 14:00 - 15:15",
         "classroom": "SBLOCKS412",
         "unique": "ENGL 108/I"
-      },
-      {
-        "course_code": "ENGL 108",
-        "section": "J",
-        "course_name": "Expository Writing",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE122",
-        "unique": "ENGL 108/J"
       },
       {
         "course_code": "ENGL 108",
@@ -13866,14 +13867,6 @@
         "unique": "ENGL 108/K"
       },
       {
-        "course_code": "ENGL 201",
-        "section": "B",
-        "course_name": "Intro to English lit",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 201/B"
-      },
-      {
         "course_code": "ENGL 322",
         "section": "A",
         "course_name": "American Prose & Fic",
@@ -13882,20 +13875,12 @@
         "unique": "ENGL 322/A"
       },
       {
-        "course_code": "ENGL 616",
+        "course_code": "ENGL 613",
         "section": "A",
-        "course_name": "American Literature",
-        "schedule": "W | 16:00 - 19:00",
-        "classroom": "EBLOCKE222",
-        "unique": "ENGL 616/A"
-      },
-      {
-        "course_code": "ENGL 690",
-        "section": "A",
-        "course_name": "Special Res Seminar",
-        "schedule": "M | 16:00 - 19:00",
-        "classroom": "EBLOCKE041",
-        "unique": "ENGL 690/A"
+        "course_name": "Eng.Worl.Lit in Tran",
+        "schedule": "F | 16:00 - 19:00",
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 613/A"
       }
     ],
     "all_courses": [
@@ -13904,6 +13889,7 @@
       "ENGL 110",
       "ENGL 201",
       "ENGL 322",
+      "ENGL 613",
       "ENGL 616",
       "ENGL 690"
     ]
@@ -14186,7 +14172,7 @@
       {
         "course_code": "DATA 317",
         "section": "A",
-        "course_name": "Data Visualization",
+        "course_name": "Data Visualization R",
         "schedule": "T R | 12:30 - 13:45",
         "classroom": "SBLOCKS421",
         "unique": "DATA 317/A"
@@ -14214,7 +14200,7 @@
       {
         "course_code": "DATA 317",
         "section": "B",
-        "course_name": "Data Visualization",
+        "course_name": "Data Visualization R",
         "schedule": "M W F | 15:00 - 15:50",
         "classroom": "SBLOCKS425",
         "unique": "DATA 317/B"
@@ -14352,6 +14338,52 @@
     ],
     "all_courses": [
       "EDUC 110"
+    ]
+  },
+  {
+    "name": "N Langah",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 106",
+        "section": "A",
+        "course_name": "Functional English",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE227",
+        "unique": "ENGL 106/A"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "J",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE122",
+        "unique": "ENGL 108/J"
+      },
+      {
+        "course_code": "ENGL 201",
+        "section": "B",
+        "course_name": "Intro to English lit",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 201/B"
+      },
+      {
+        "course_code": "ENGL 690",
+        "section": "A",
+        "course_name": "Special Res Seminar",
+        "schedule": "M | 16:00 - 19:00",
+        "classroom": "EBLOCKE041",
+        "unique": "ENGL 690/A"
+      }
+    ],
+    "all_courses": [
+      "ENGL 106",
+      "ENGL 108",
+      "ENGL 201",
+      "ENGL 690"
     ]
   }
 ]

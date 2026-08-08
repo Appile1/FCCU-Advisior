@@ -2062,5 +2062,213 @@
     "section": "A",
     "instructor": "S Burhan",
     "timestamp": "2026-06-30T06:15:41.916841+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: BUSN 401 (IS) - A Ali Shah",
+    "course_code": "BUSN 401",
+    "section": "IS",
+    "instructor": "A Ali Shah",
+    "timestamp": "2026-08-08T13:45:44.421796+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: BUSN 469 (IS) - S Bilal",
+    "course_code": "BUSN 469",
+    "section": "IS",
+    "instructor": "S Bilal",
+    "timestamp": "2026-08-08T13:45:44.421818+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: BUSN 498 (IS) - B Usman",
+    "course_code": "BUSN 498",
+    "section": "IS",
+    "instructor": "B Usman",
+    "timestamp": "2026-08-08T13:45:44.421823+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: CHEM 150 (D) - H Abid",
+    "course_code": "CHEM 150",
+    "section": "D",
+    "instructor": "H Abid",
+    "timestamp": "2026-08-08T13:45:44.421832+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: CHEM 150 (E) - M Rashida",
+    "course_code": "CHEM 150",
+    "section": "E",
+    "instructor": "M Rashida",
+    "timestamp": "2026-08-08T13:45:44.421834+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CHEM 250 (A): M Rashida → M Iqbal",
+    "course_code": "CHEM 250",
+    "section": "A",
+    "instructor": "M Iqbal",
+    "timestamp": "2026-08-08T13:45:44.421837+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CHEM 270 (A): TBD → A Hussain",
+    "course_code": "CHEM 270",
+    "section": "A",
+    "instructor": "A Hussain",
+    "timestamp": "2026-08-08T13:45:44.421839+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CHEM 370 (A): TBD → A Hussain",
+    "course_code": "CHEM 370",
+    "section": "A",
+    "instructor": "A Hussain",
+    "timestamp": "2026-08-08T13:45:44.421841+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: COMP 102 (E) - Q Quraishi",
+    "course_code": "COMP 102",
+    "section": "E",
+    "instructor": "Q Quraishi",
+    "timestamp": "2026-08-08T13:45:44.421847+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for COMP 421 (B): S Saleem → TBD",
+    "course_code": "COMP 421",
+    "section": "B",
+    "instructor": "TBD",
+    "timestamp": "2026-08-08T13:45:44.421857+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CRST 211 (A): R Wetmore → D Ephraim",
+    "course_code": "CRST 211",
+    "section": "A",
+    "instructor": "D Ephraim",
+    "timestamp": "2026-08-08T13:45:44.421863+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CRST 212 (A): R Wetmore → D Ephraim",
+    "course_code": "CRST 212",
+    "section": "A",
+    "instructor": "D Ephraim",
+    "timestamp": "2026-08-08T13:45:44.421867+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: CRST 313 (A) - D Ephraim",
+    "course_code": "CRST 313",
+    "section": "A",
+    "instructor": "D Ephraim",
+    "timestamp": "2026-08-08T13:45:44.421869+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: CSCS 473 (A) - Q Quraishi",
+    "course_code": "CSCS 473",
+    "section": "A",
+    "instructor": "Q Quraishi",
+    "timestamp": "2026-08-08T13:45:44.421879+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: EDUC 110 (A) - M. Thomas",
+    "course_code": "EDUC 110",
+    "section": "A",
+    "instructor": "M. Thomas",
+    "timestamp": "2026-08-08T13:45:44.421896+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 106 (A): TBD → N Langah",
+    "course_code": "ENGL 106",
+    "section": "A",
+    "instructor": "N Langah",
+    "timestamp": "2026-08-08T13:45:44.421905+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 108 (B): TBD → N Justin",
+    "course_code": "ENGL 108",
+    "section": "B",
+    "instructor": "N Justin",
+    "timestamp": "2026-08-08T13:45:44.421909+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 108 (C): N Justin → M Zia",
+    "course_code": "ENGL 108",
+    "section": "C",
+    "instructor": "M Zia",
+    "timestamp": "2026-08-08T13:45:44.421910+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 108 (J): TBD → N Langah",
+    "course_code": "ENGL 108",
+    "section": "J",
+    "instructor": "N Langah",
+    "timestamp": "2026-08-08T13:45:44.421913+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 108 (Q): S Hanif → S Maqbool",
+    "course_code": "ENGL 108",
+    "section": "Q",
+    "instructor": "S Maqbool",
+    "timestamp": "2026-08-08T13:45:44.421916+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 175 (A): S Maqbool → S Hanif",
+    "course_code": "ENGL 175",
+    "section": "A",
+    "instructor": "S Hanif",
+    "timestamp": "2026-08-08T13:45:44.421918+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 201 (B): TBD → N Langah",
+    "course_code": "ENGL 201",
+    "section": "B",
+    "instructor": "N Langah",
+    "timestamp": "2026-08-08T13:45:44.421920+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENGL 613 (A) - TBD",
+    "course_code": "ENGL 613",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-08-08T13:45:44.421926+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 616 (A): TBD → T Bokhari",
+    "course_code": "ENGL 616",
+    "section": "A",
+    "instructor": "T Bokhari",
+    "timestamp": "2026-08-08T13:45:44.421928+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 690 (A): TBD → N Langah",
+    "course_code": "ENGL 690",
+    "section": "A",
+    "instructor": "N Langah",
+    "timestamp": "2026-08-08T13:45:44.421930+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENVR 696 (A): D Bakker → S Ilyas",
+    "course_code": "ENVR 696",
+    "section": "A",
+    "instructor": "S Ilyas",
+    "timestamp": "2026-08-08T13:45:44.421937+00:00"
   }
 ]
