@@ -1045,7 +1045,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "BUSN 280",
@@ -1153,7 +1153,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "BUSN 280",
@@ -1837,7 +1837,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BUSN 460",
@@ -1849,7 +1849,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Naumaan Ch",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 460",
@@ -6397,7 +6397,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 101",
@@ -7285,7 +7285,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 107",
@@ -8593,7 +8593,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "PLSC 101",
@@ -10669,7 +10669,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khokhar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
