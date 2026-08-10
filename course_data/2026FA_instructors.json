@@ -12647,6 +12647,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "SOCL 100",
+        "section": "I",
+        "course_name": "Intro to Sociology",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS215",
+        "unique": "SOCL 100/I"
+      },
+      {
         "course_code": "SOCL 118",
         "section": "A",
         "course_name": "Law and Human Rights",
