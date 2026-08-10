@@ -661,7 +661,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BUSN 170",
@@ -673,7 +673,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "BUSN 201",
@@ -4081,7 +4081,7 @@
       "schedule_raw": "M | 11:00 - 12:50 | F | 11:00 - 12:50",
       "instructor": "U  Nisar",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "CSCS 473",
@@ -5665,7 +5665,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ENGL 220",
