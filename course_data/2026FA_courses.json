@@ -49,7 +49,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Ahmad",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS 111",
@@ -721,7 +721,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 201",
@@ -853,7 +853,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R John",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 230",
@@ -1081,7 +1081,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "BUSN 280",
@@ -1201,7 +1201,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "BUSN 301",
@@ -2353,7 +2353,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | R | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "CHEM 100",
@@ -6325,7 +6325,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Anwar",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "FSQM 501",
@@ -7693,7 +7693,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "MCOM 302",
@@ -7705,7 +7705,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "MCOM 303",
