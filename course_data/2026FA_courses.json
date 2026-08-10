@@ -5521,7 +5521,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ENGL 108",
@@ -5545,7 +5545,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Maqbool",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -6565,7 +6565,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Mahmood",
       "capacity": "20",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "HIST 101",
@@ -10405,7 +10405,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Mughal",
       "capacity": "20",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "STAT 206",
