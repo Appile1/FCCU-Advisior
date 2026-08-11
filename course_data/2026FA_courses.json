@@ -2077,7 +2077,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 485",
@@ -4357,7 +4357,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Samuel",
       "capacity": "10",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "DATA 414",
@@ -4429,7 +4429,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "ECON 100",
@@ -5041,7 +5041,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M. Thomas",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "EDUC 110",
@@ -6649,7 +6649,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "HIST 301",
