@@ -73,7 +73,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "ARTS 201",
@@ -469,7 +469,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 09:30 - 10:45",
       "instructor": "M Imran",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BIOT 409",
@@ -5413,7 +5413,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M Zia",
       "capacity": "25",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "ENGL 108",
@@ -9181,7 +9181,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Ateeq",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PSYC 180",
@@ -9277,7 +9277,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "PSYC 295",
@@ -9325,7 +9325,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A  Ateeq",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "PSYC 301",
@@ -9985,7 +9985,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "SOCL 100",
@@ -10717,7 +10717,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Tahir",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
