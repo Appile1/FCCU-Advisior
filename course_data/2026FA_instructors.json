@@ -8106,14 +8106,6 @@
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "SBLOCKS421",
         "unique": "STAT 101/D"
-      },
-      {
-        "course_code": "STAT 207",
-        "section": "C",
-        "course_name": "Business Analytics",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "SBLOCKS425",
-        "unique": "STAT 207/C"
       }
     ],
     "all_courses": [

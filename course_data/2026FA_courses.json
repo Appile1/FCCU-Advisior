@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 911,
+  "total_courses": 910,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -5365,7 +5365,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "R John",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 106",
@@ -6421,7 +6421,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "GEOG 133",
@@ -6469,7 +6469,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "K Shafiqu",
       "capacity": "10",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "GEOG 323",
@@ -7057,7 +7057,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "LING 301",
@@ -9985,7 +9985,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "SOCL 100",
@@ -10466,18 +10466,6 @@
       "instructor": "M Mughal",
       "capacity": "20",
       "available": "0"
-    },
-    {
-      "course_code": "STAT 207",
-      "section": "C",
-      "unique": "STAT 207/C",
-      "course_name": "Business Analytics",
-      "credits": "3.00",
-      "classroom": "SBLOCKS425",
-      "schedule_raw": "T R | 12:30 - 13:45",
-      "instructor": "R Butt",
-      "capacity": "20",
-      "available": "13"
     },
     {
       "course_code": "STAT 212",
