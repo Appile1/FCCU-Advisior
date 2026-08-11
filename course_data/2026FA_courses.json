@@ -2281,7 +2281,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "BUSN 640",
@@ -2293,7 +2293,7 @@
       "schedule_raw": "M W | 10:00 - 11:15",
       "instructor": "W Khan",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "BUSN 650",
@@ -2305,7 +2305,7 @@
       "schedule_raw": "M W | 15:30 - 16:45",
       "instructor": "F Tasneem",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "BUSN 660",
@@ -2317,7 +2317,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "R Hashim",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "BUSN 690",
@@ -2329,7 +2329,7 @@
       "schedule_raw": "M W | 11:45 - 13:00",
       "instructor": "W Khan",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "CHEM 100",
@@ -2437,7 +2437,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | T | 09:00 - 10:50",
       "instructor": "D Ahmed",
       "capacity": "20",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "CHEM 160",
@@ -5269,7 +5269,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "J Hassan",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "EDUC 360",
@@ -5713,7 +5713,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "ENGL 307",
@@ -6853,7 +6853,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "HPED 151",
@@ -7057,7 +7057,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "LING 301",
@@ -8761,7 +8761,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Q Memon",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "PLSC 304",
