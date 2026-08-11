@@ -2953,7 +2953,7 @@
       "schedule_raw": "W F | 11:00 - 12:50",
       "instructor": "N Sabahat",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "COMP 220",
@@ -3169,7 +3169,7 @@
       "schedule_raw": "W | 11:00 - 12:50 | F | 11:00 - 12:50",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "COMP 401",
@@ -3481,7 +3481,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CRST 151",
@@ -4501,7 +4501,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Ayyubi",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "ECON 102",
@@ -5389,7 +5389,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -10129,7 +10129,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Amjad",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "SOCL 350",
