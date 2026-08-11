@@ -3313,7 +3313,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "W Azim",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "CPPG 111",
@@ -5125,7 +5125,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 120",
@@ -5521,7 +5521,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "ENGL 108",
@@ -5545,7 +5545,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Maqbool",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -7789,7 +7789,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "MCOM 402",
@@ -8701,7 +8701,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PLSC 212",
