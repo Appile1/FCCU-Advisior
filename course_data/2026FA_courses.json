@@ -277,7 +277,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "BIOT 201",
@@ -925,7 +925,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "F Idrees",
       "capacity": "33",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "BUSN 230",
@@ -4681,7 +4681,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "U Hanif",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "ECON 303",
@@ -8641,7 +8641,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "PLSC 102",
