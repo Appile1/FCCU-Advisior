@@ -5173,7 +5173,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Aslam",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "EDUC 260",
@@ -5197,7 +5197,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Aslam",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "EDUC 310",
@@ -6397,7 +6397,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "GEOG 101",
@@ -6421,7 +6421,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "GEOG 133",
@@ -7981,7 +7981,7 @@
       "schedule_raw": "M W | 16:00 - 17:30",
       "instructor": "N Asghar",
       "capacity": "20",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "MPGN 503",
@@ -7993,7 +7993,7 @@
       "schedule_raw": "T R | 16:00 - 17:30",
       "instructor": "M Yousaf",
       "capacity": "20",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "MPGN 504",
@@ -8005,7 +8005,7 @@
       "schedule_raw": "M W | 17:30 - 19:00",
       "instructor": "A  Arshad",
       "capacity": "20",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "MPGN 506",
@@ -8017,7 +8017,7 @@
       "schedule_raw": "F | 16:00 - 19:00",
       "instructor": "S Hanook",
       "capacity": "20",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "MPGN 699A",
@@ -10285,7 +10285,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 101",
@@ -10669,7 +10669,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khokhar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
@@ -10705,7 +10705,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Samuel",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
