@@ -2065,7 +2065,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "BUSN 485",
@@ -2089,7 +2089,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "BUSN 490",
@@ -2377,7 +2377,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | M | 11:00 - 12:50",
       "instructor": "S Azeem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CHEM 150",
@@ -2977,7 +2977,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "N Sabahat",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "COMP 300",
@@ -2989,7 +2989,7 @@
       "schedule_raw": "M W | 09:00 - 10:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "COMP 300",
@@ -3001,7 +3001,7 @@
       "schedule_raw": "T | 11:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "COMP 301",
@@ -3793,7 +3793,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 11:00 - 12:15",
       "instructor": "H Latif",
       "capacity": "25",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "CSCS 105",
@@ -6397,7 +6397,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "GEOG 101",
@@ -6421,7 +6421,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "GEOG 133",
@@ -6973,7 +6973,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "ISLM 301",
@@ -10117,7 +10117,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "SOCL 325",
@@ -10393,7 +10393,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "N Mushtaq",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 201",
