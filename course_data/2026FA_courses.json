@@ -613,7 +613,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "B Sadiq",
       "capacity": "20",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BIOT 799D",
@@ -3313,7 +3313,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "W Azim",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "CPPG 111",
@@ -7297,7 +7297,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Samuel",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MATH 107",
@@ -9157,7 +9157,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "PSYC 165",
@@ -10105,7 +10105,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Jafree",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "SOCL 301",
