@@ -3313,7 +3313,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "W Azim",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "CPPG 111",
@@ -4585,7 +4585,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Z Manzoor",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "ECON 202",
@@ -4597,7 +4597,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "ECON 203",
@@ -6133,7 +6133,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ilyas",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "ENVR 411",
@@ -7201,7 +7201,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "N Shahid",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "MATH 102",
@@ -8605,7 +8605,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 101",
