@@ -5101,7 +5101,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "EDUC 120",
@@ -6252,8 +6252,8 @@
       "classroom": "TBDTBD",
       "schedule_raw": "MTWRF",
       "instructor": "S Ilyas",
-      "capacity": "15",
-      "available": "0"
+      "capacity": "25",
+      "available": "10"
     },
     {
       "course_code": "ENVR 699A",
@@ -10309,7 +10309,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 101",
@@ -10333,7 +10333,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Raza",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 102",
