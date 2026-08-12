@@ -2269,7 +2269,7 @@
       "schedule_raw": "F | 09:00 - 12:00",
       "instructor": "I Ahmed",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "BUSN 630",
@@ -2281,7 +2281,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "BUSN 640",
@@ -2293,7 +2293,7 @@
       "schedule_raw": "M W | 10:00 - 11:15",
       "instructor": "W Khan",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "BUSN 650",
@@ -2305,7 +2305,7 @@
       "schedule_raw": "M W | 15:30 - 16:45",
       "instructor": "F Tasneem",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "BUSN 660",
@@ -2317,7 +2317,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "R Hashim",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "BUSN 690",
@@ -4417,7 +4417,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ECON 100",
@@ -5509,7 +5509,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Zaheer",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -6421,7 +6421,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "GEOG 133",
@@ -7321,7 +7321,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "2"
+      "available": "0"
     },
     {
       "course_code": "MATH 107",
@@ -7345,7 +7345,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "MATH 108",
@@ -8737,7 +8737,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "PLSC 302",
