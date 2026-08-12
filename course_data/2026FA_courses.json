@@ -3313,7 +3313,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "W Azim",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "CPPG 111",
@@ -5113,7 +5113,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "EDUC 120",
@@ -6397,7 +6397,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 101",
