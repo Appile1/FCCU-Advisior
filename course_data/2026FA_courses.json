@@ -1897,7 +1897,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BUSN 461",
@@ -6097,7 +6097,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | W | 14:00 - 15:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "ENVR 340",
@@ -8137,7 +8137,7 @@
       "schedule_raw": "T R | 14:00 - 14:50 | F | 14:00 - 16:00",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "PHYS 100",
@@ -10069,7 +10069,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "SOCL 201",
@@ -10129,7 +10129,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "SOCL 325",
@@ -10165,7 +10165,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "SOCL 465",
@@ -10177,7 +10177,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "SOCL 494",
