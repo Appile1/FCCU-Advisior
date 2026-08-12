@@ -145,7 +145,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "BIOL 105",
@@ -1453,7 +1453,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 360",
@@ -2089,7 +2089,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BUSN 490",
@@ -2425,7 +2425,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | F | 11:00 - 12:50",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "CHEM 160",
@@ -5113,7 +5113,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "EDUC 120",
@@ -5761,7 +5761,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "N Rehman",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "ENGL 322",
@@ -6637,7 +6637,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "HIST 255",
@@ -6649,7 +6649,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "HIST 301",
@@ -7129,7 +7129,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A  Khalid",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "LING 422",
@@ -7621,7 +7621,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "MCOM 203",
@@ -8605,7 +8605,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -10333,7 +10333,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "STAT 101",
