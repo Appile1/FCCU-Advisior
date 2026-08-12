@@ -5101,7 +5101,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "EDUC 120",
@@ -6817,7 +6817,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "HPED 112",
@@ -7201,7 +7201,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "N Shahid",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "MATH 102",
@@ -7765,7 +7765,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MCOM 310",
