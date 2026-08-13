@@ -4789,7 +4789,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "ECON 323",
@@ -10453,7 +10453,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Bashir",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 207",
