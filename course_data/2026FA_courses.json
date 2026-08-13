@@ -889,7 +889,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "R John",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 230",
@@ -1921,7 +1921,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "I yusuf",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "BUSN 464",
@@ -4393,7 +4393,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "17"
+      "available": "15"
     },
     {
       "course_code": "ECON 100",
@@ -4681,7 +4681,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "U Hanif",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ECON 303",
@@ -4789,7 +4789,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "ECON 323",
@@ -4825,7 +4825,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "ECON 402",
@@ -5041,7 +5041,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M. Thomas",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "EDUC 110",
@@ -5509,7 +5509,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Zaheer",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -5521,7 +5521,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "ENGL 108",
@@ -6301,7 +6301,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "FREN 101",
@@ -6601,7 +6601,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "2"
+      "available": "0"
     },
     {
       "course_code": "HIST 202",
@@ -6853,7 +6853,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "HPED 151",
@@ -7045,7 +7045,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Javed",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "LING 217",
@@ -7633,7 +7633,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "MCOM 290",
@@ -8665,7 +8665,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 203",
@@ -8689,7 +8689,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M U Farooq",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "PLSC 204",
@@ -8701,7 +8701,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PLSC 212",
@@ -9169,7 +9169,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "PSYC 165",
@@ -10657,7 +10657,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
