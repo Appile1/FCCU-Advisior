@@ -3541,7 +3541,7 @@
       "schedule_raw": "M | 12:00 - 12:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "20"
+      "available": "22"
     },
     {
       "course_code": "CRST 212",
@@ -5137,7 +5137,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 120",
@@ -6817,7 +6817,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "HPED 112",
@@ -8137,7 +8137,7 @@
       "schedule_raw": "T R | 14:00 - 14:50 | F | 14:00 - 16:00",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "PHYS 100",
