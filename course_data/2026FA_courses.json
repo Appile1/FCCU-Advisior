@@ -4213,7 +4213,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "DATA 202",
@@ -4225,7 +4225,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ayub",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "DATA 206",
@@ -8701,7 +8701,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PLSC 212",
