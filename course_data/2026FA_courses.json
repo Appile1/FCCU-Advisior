@@ -2365,7 +2365,7 @@
       "schedule_raw": "M W | 11:00 - 11:50 | W | 09:00 - 10:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CHEM 150",
@@ -3121,7 +3121,7 @@
       "schedule_raw": "M W | 11:00 - 12:50",
       "instructor": "M Mushtaq",
       "capacity": "25",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "COMP 311",
@@ -3217,7 +3217,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "COMP 410",
@@ -5101,7 +5101,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "EDUC 120",
@@ -7345,7 +7345,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "MATH 108",
@@ -7621,7 +7621,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "MCOM 203",
@@ -8137,7 +8137,7 @@
       "schedule_raw": "T R | 14:00 - 14:50 | F | 14:00 - 16:00",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHYS 100",
@@ -8773,7 +8773,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 311",
@@ -8869,7 +8869,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "PLSC 400",
