@@ -145,7 +145,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BIOL 105",
@@ -1777,7 +1777,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "7"
+      "available": "9"
     },
     {
       "course_code": "BUSN 460",
@@ -1837,7 +1837,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "16"
+      "available": "14"
     },
     {
       "course_code": "BUSN 460",
@@ -3841,7 +3841,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "CSCS 202",
@@ -10105,7 +10105,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "SOCL 291",
