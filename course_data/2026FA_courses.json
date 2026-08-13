@@ -1261,7 +1261,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 321",
@@ -3541,7 +3541,7 @@
       "schedule_raw": "M | 12:00 - 12:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "CRST 212",
@@ -3745,7 +3745,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CSCS 100",
@@ -5521,7 +5521,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -6745,7 +6745,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "HIST 313",
@@ -6781,7 +6781,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "HPED 101",
@@ -7693,7 +7693,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "MCOM 302",
@@ -10129,7 +10129,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "SOCL 325",
@@ -10777,7 +10777,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
