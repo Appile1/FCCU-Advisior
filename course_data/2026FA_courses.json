@@ -3109,7 +3109,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "COMP 311",
@@ -3529,7 +3529,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "CRST 211",
@@ -3793,7 +3793,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 11:00 - 12:15",
       "instructor": "H Latif",
       "capacity": "25",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "CSCS 105",
@@ -6073,7 +6073,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Aslam",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ENVR 305",
