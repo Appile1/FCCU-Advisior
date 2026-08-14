@@ -889,7 +889,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "R John",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 230",
@@ -2341,7 +2341,7 @@
       "schedule_raw": "T R | 12:30 - 13:20 | F | 11:00 - 12:50",
       "instructor": "M Abbas",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CHEM 100",
@@ -2353,7 +2353,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | R | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CHEM 100",
@@ -5149,7 +5149,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "EDUC 210",
@@ -5485,7 +5485,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Langah",
       "capacity": "25",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "ENGL 108",
@@ -5509,7 +5509,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Zaheer",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -9973,7 +9973,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -9997,7 +9997,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "SOCL 100",
