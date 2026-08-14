@@ -3313,7 +3313,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "W Azim",
       "capacity": "35",
-      "available": "2"
+      "available": "0"
     },
     {
       "course_code": "CPPG 111",
@@ -4513,7 +4513,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "ECON 103",
@@ -4573,7 +4573,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "ECON 202",
@@ -5605,7 +5605,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Hanif",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "ENGL 175",
@@ -6121,7 +6121,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Machado",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "ENVR 406",
@@ -6145,7 +6145,7 @@
       "schedule_raw": "T R | 09:00 - 10:50",
       "instructor": "S Aslam",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ENVR 414",
@@ -9181,7 +9181,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "PSYC 175",
@@ -10057,7 +10057,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 170",
