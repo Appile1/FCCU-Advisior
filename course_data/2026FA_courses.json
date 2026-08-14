@@ -3505,7 +3505,7 @@
       "schedule_raw": "M W | 09:00 - 09:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CRST 152",
@@ -3517,7 +3517,7 @@
       "schedule_raw": "M W | 11:00 - 11:50",
       "instructor": "Z West",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CRST 155",
