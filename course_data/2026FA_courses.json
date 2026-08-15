@@ -4225,7 +4225,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ayub",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "DATA 206",
@@ -4513,7 +4513,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "ECON 103",
@@ -6421,7 +6421,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "GEOG 133",
@@ -10525,7 +10525,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Mushtaq",
       "capacity": "25",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "STAT 414",
@@ -10537,7 +10537,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Mushtaq",
       "capacity": "25",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "STAT 516",
