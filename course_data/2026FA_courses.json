@@ -3289,7 +3289,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "51"
+      "available": "50"
     },
     {
       "course_code": "COMP 497B",
@@ -4045,7 +4045,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Shaheen",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "CSCS 456",
