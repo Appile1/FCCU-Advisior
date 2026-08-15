@@ -2797,7 +2797,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50 | F | 08:00 - 10:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "COMP 111",
@@ -2821,7 +2821,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | M | 15:00 - 17:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "COMP 113",
@@ -2833,7 +2833,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Atique",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "COMP 113",
@@ -7381,7 +7381,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "MATH 201",
