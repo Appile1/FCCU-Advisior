@@ -1777,7 +1777,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BUSN 460",
@@ -1825,7 +1825,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "BUSN 460",
@@ -7117,7 +7117,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "28"
+      "available": "29"
     },
     {
       "course_code": "LING 415",
