@@ -925,7 +925,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "F Idrees",
       "capacity": "33",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "BUSN 230",
@@ -4273,7 +4273,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Mughal",
       "capacity": "15",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "DATA 207",
