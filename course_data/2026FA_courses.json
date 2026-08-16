@@ -4405,7 +4405,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "ECON 100",
@@ -6649,7 +6649,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "HIST 301",
@@ -10105,7 +10105,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "SOCL 291",
