@@ -2977,7 +2977,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "N Sabahat",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "COMP 300",
@@ -3169,7 +3169,7 @@
       "schedule_raw": "W | 11:00 - 12:50 | F | 11:00 - 12:50",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "COMP 401",
@@ -7213,7 +7213,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "MATH 102",
@@ -7813,7 +7813,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "MCOM 404",
@@ -10321,7 +10321,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 101",
@@ -10333,7 +10333,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "STAT 101",
