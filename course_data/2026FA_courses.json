@@ -85,7 +85,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ARTS 203",
@@ -145,7 +145,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOL 105",
@@ -1261,7 +1261,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 321",
@@ -1369,7 +1369,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BUSN 350",
@@ -7213,7 +7213,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "MATH 102",
@@ -8785,7 +8785,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M U Farooq",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "PLSC 317",
