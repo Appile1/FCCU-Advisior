@@ -5161,7 +5161,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "EDUC 240",
@@ -5281,7 +5281,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "EDUC 390",
@@ -6841,7 +6841,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | M | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "HPED 150",
