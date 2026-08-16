@@ -25,7 +25,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS 102",
@@ -3049,7 +3049,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Yousaf",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "COMP 302",
@@ -3745,7 +3745,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 100",
@@ -6637,7 +6637,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "HIST 255",
@@ -9649,7 +9649,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 440",
