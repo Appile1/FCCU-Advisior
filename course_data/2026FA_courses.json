@@ -1045,7 +1045,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "BUSN 280",
@@ -1057,7 +1057,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "BUSN 280",
@@ -5677,7 +5677,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Syeda",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ENGL 250",
@@ -8029,7 +8029,7 @@
       "schedule_raw": "MTWRF | 08:00 - 16:00",
       "instructor": "B Sadiq",
       "capacity": "20",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "MUSC 101",
