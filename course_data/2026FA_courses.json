@@ -241,7 +241,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | R | 14:00 - 15:50",
       "instructor": "S Mehnaz",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "BIOL 319",
@@ -493,7 +493,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Irfan",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "BIOT 412",
@@ -5065,7 +5065,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M. Thomas",
       "capacity": "35",
-      "available": "0"
+      "available": "2"
     },
     {
       "course_code": "EDUC 110",
@@ -6325,7 +6325,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "FREN 101",
@@ -9205,7 +9205,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "PSYC 175",
