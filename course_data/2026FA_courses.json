@@ -3001,7 +3001,7 @@
       "schedule_raw": "T | 11:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "COMP 301",
@@ -3853,7 +3853,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "CSCS 202",
@@ -4405,7 +4405,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON 100",
@@ -10705,7 +10705,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Samuel",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
