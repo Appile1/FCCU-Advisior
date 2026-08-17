@@ -493,7 +493,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Irfan",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "BIOT 412",
@@ -1381,7 +1381,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "BUSN 350",
@@ -1477,7 +1477,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "BUSN 360",
@@ -3637,7 +3637,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "CRST 411",
@@ -5185,7 +5185,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "EDUC 240",
