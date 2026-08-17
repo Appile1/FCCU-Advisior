@@ -97,7 +97,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "BIOL 100",
@@ -8761,7 +8761,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "PLSC 302",
