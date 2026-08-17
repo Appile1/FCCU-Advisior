@@ -3517,7 +3517,7 @@
       "schedule_raw": "M W | 09:00 - 09:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CRST 152",
@@ -4633,7 +4633,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Z  Iqbal",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ECON 300",
@@ -6649,7 +6649,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "HIST 255",
@@ -10801,7 +10801,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 104",
