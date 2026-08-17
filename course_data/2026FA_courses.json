@@ -3877,7 +3877,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "CSCS 202",
@@ -6817,7 +6817,7 @@
       "schedule_raw": "M W | 16:00 - 17:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HPED 102",
@@ -7009,7 +7009,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "ISLM 306",
@@ -9265,7 +9265,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "N Khan",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "PSYC 275",
@@ -10153,7 +10153,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "SOCL 325",
