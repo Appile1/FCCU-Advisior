@@ -5420,12 +5420,12 @@
     ],
     "current_courses": [
       {
-        "course_code": "MCOM 414",
-        "section": "A",
-        "course_name": "Research Methodology",
+        "course_code": "MCOM 409",
+        "section": "B",
+        "course_name": "Theories of Mass Com",
         "schedule": "M W F | 10:00 - 10:50",
         "classroom": "EBLOCKE041",
-        "unique": "MCOM 414/A"
+        "unique": "MCOM 409/B"
       },
       {
         "course_code": "MCOM 414",

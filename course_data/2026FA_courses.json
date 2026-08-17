@@ -2461,7 +2461,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | F | 11:00 - 12:45",
       "instructor": "S Jelani",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "CHEM 170",
@@ -3781,7 +3781,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CSCS 105",
@@ -7765,7 +7765,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "MCOM 304",
@@ -7864,16 +7864,16 @@
       "available": "0"
     },
     {
-      "course_code": "MCOM 414",
-      "section": "A",
-      "unique": "MCOM 414/A",
-      "course_name": "Research Methodology",
+      "course_code": "MCOM 409",
+      "section": "B",
+      "unique": "MCOM 409/B",
+      "course_name": "Theories of Mass Com",
       "credits": "3.00",
       "classroom": "EBLOCKE041",
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "F Jabeen",
       "capacity": "35",
-      "available": "33"
+      "available": "35"
     },
     {
       "course_code": "MCOM 414",
@@ -8629,7 +8629,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 101",
