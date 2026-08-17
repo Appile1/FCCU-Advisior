@@ -2845,7 +2845,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Atique",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "COMP 113",
@@ -6469,7 +6469,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "K Shafiqu",
       "capacity": "10",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "GEOG 240",
@@ -6985,7 +6985,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "ISLM 301",
@@ -10852,18 +10852,6 @@
       "available": "33"
     },
     {
-      "course_code": "URDU 503",
-      "section": "A",
-      "unique": "URDU 503/A",
-      "course_name": "Literary Trends",
-      "credits": "3.00",
-      "classroom": "EBLOCKE101",
-      "schedule_raw": "T | 17:00 - 20:00",
-      "instructor": "TBD",
-      "capacity": "25",
-      "available": "25"
-    },
-    {
       "course_code": "URDU 504",
       "section": "A",
       "unique": "URDU 504/A",
@@ -10891,7 +10879,7 @@
       "course_code": "URDU 506",
       "section": "A",
       "unique": "URDU 506/A",
-      "course_name": "Comparative Literatu",
+      "course_name": "Research Seminar",
       "credits": "3.00",
       "classroom": "EBLOCKE102",
       "schedule_raw": "T | 17:00 - 20:00",
@@ -10920,6 +10908,18 @@
       "classroom": "EBLOCKE102",
       "schedule_raw": "F | 17:00 - 20:00",
       "instructor": "A Samuel",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "URDU 511",
+      "section": "A",
+      "unique": "URDU 511/A",
+      "course_name": "Significant Literary Trend",
+      "credits": "3.00",
+      "classroom": "EBLOCKE101",
+      "schedule_raw": "T | 17:00 - 20:00",
+      "instructor": "TBD",
       "capacity": "25",
       "available": "25"
     },

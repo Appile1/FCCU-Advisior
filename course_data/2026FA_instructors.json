@@ -8895,7 +8895,7 @@
       {
         "course_code": "URDU 506",
         "section": "A",
-        "course_name": "Comparative Literatu",
+        "course_name": "Research Seminar",
         "schedule": "T | 17:00 - 20:00",
         "classroom": "EBLOCKE102",
         "unique": "URDU 506/A"
@@ -12773,17 +12773,18 @@
     ],
     "current_courses": [
       {
-        "course_code": "URDU 503",
+        "course_code": "URDU 511",
         "section": "A",
-        "course_name": "Literary Trends",
+        "course_name": "Significant Literary Trend",
         "schedule": "T | 17:00 - 20:00",
         "classroom": "EBLOCKE101",
-        "unique": "URDU 503/A"
+        "unique": "URDU 511/A"
       }
     ],
     "all_courses": [
       "URDU 101",
-      "URDU 503"
+      "URDU 503",
+      "URDU 511"
     ]
   },
   {
