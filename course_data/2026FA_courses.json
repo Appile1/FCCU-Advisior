@@ -2917,7 +2917,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | T | 11:00 - 13:50",
       "instructor": "S Minhas",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "COMP 206",
@@ -2929,7 +2929,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | R | 11:00 - 13:50",
       "instructor": "S Minhas",
       "capacity": "30",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "COMP 213",
@@ -3241,7 +3241,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Iqbal",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "COMP 421",
@@ -4525,7 +4525,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ECON 103",
