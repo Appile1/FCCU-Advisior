@@ -2310,5 +2310,29 @@
     "section": "B",
     "instructor": "I Iqbal",
     "timestamp": "2026-08-17T12:10:35.165465+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 230 (H): Ambreen K → TBD",
+    "course_code": "BUSN 230",
+    "section": "H",
+    "instructor": "TBD",
+    "timestamp": "2026-08-17T12:50:39.617166+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 521 (A): TBD → M Habib",
+    "course_code": "BUSN 521",
+    "section": "A",
+    "instructor": "M Habib",
+    "timestamp": "2026-08-17T12:50:39.617207+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 521 (B): TBD → Ambreen K",
+    "course_code": "BUSN 521",
+    "section": "B",
+    "instructor": "Ambreen K",
+    "timestamp": "2026-08-17T12:50:39.617213+00:00"
   }
 ]

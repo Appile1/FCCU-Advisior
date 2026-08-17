@@ -947,7 +947,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE331",
       "schedule_raw": "T R | 14:00 - 15:15",
-      "instructor": "Ambreen K",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "0"
     },
@@ -2183,7 +2183,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE324",
       "schedule_raw": "T R | 15:30 - 16:45",
-      "instructor": "TBD",
+      "instructor": "M Habib",
       "capacity": "35",
       "available": "35"
     },
@@ -2195,7 +2195,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE323",
       "schedule_raw": "T R | 14:00 - 15:15",
-      "instructor": "TBD",
+      "instructor": "Ambreen K",
       "capacity": "35",
       "available": "35"
     },
@@ -6745,7 +6745,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Sumbal",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "HIST 311",
@@ -6757,7 +6757,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "HIST 312",
@@ -7837,7 +7837,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "MCOM 404",
@@ -9265,7 +9265,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "N Khan",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "PSYC 275",

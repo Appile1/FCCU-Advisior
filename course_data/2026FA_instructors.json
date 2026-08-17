@@ -1004,10 +1004,20 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 521",
+        "section": "A",
+        "course_name": "MANAGERIAL ECON",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE324",
+        "unique": "BUSN 521/A"
+      }
+    ],
     "all_courses": [
       "BUSN 170",
-      "BUSN 225"
+      "BUSN 225",
+      "BUSN 521"
     ]
   },
   {
@@ -1233,14 +1243,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "BUSN 230",
-        "section": "H",
-        "course_name": "Entrepreneurship",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE331",
-        "unique": "BUSN 230/H"
-      },
-      {
         "course_code": "BUSN 485",
         "section": "A",
         "course_name": "E-Business",
@@ -1263,12 +1265,21 @@
         "schedule": "T R | 12:30 - 13:45",
         "classroom": "EBLOCKE346",
         "unique": "BUSN 485/C"
+      },
+      {
+        "course_code": "BUSN 521",
+        "section": "B",
+        "course_name": "MANAGERIAL ECON",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE323",
+        "unique": "BUSN 521/B"
       }
     ],
     "all_courses": [
       "BUSN 121",
       "BUSN 230",
-      "BUSN 485"
+      "BUSN 485",
+      "BUSN 521"
     ]
   },
   {
@@ -9564,6 +9575,14 @@
       },
       {
         "course_code": "BUSN 230",
+        "section": "H",
+        "course_name": "Entrepreneurship",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE331",
+        "unique": "BUSN 230/H"
+      },
+      {
+        "course_code": "BUSN 230",
         "section": "I",
         "course_name": "Entrepreneurship",
         "schedule": "T R | 15:30 - 16:45",
@@ -9881,22 +9900,6 @@
         "schedule": "T R | 12:30 - 13:45",
         "classroom": "EBLOCKE213",
         "unique": "BUSN 490/A"
-      },
-      {
-        "course_code": "BUSN 521",
-        "section": "A",
-        "course_name": "MANAGERIAL ECON",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE324",
-        "unique": "BUSN 521/A"
-      },
-      {
-        "course_code": "BUSN 521",
-        "section": "B",
-        "course_name": "MANAGERIAL ECON",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE323",
-        "unique": "BUSN 521/B"
       }
     ],
     "all_courses": [
