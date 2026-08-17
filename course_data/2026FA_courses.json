@@ -2928,8 +2928,8 @@
       "classroom": "SBLOCKS027",
       "schedule_raw": "M W F | 10:00 - 10:50 | R | 11:00 - 13:50",
       "instructor": "S Minhas",
-      "capacity": "25",
-      "available": "0"
+      "capacity": "30",
+      "available": "2"
     },
     {
       "course_code": "COMP 213",
@@ -4837,7 +4837,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "ECON 402",
