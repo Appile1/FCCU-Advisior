@@ -683,6 +683,14 @@
         "unique": "BIOT 699A/A"
       },
       {
+        "course_code": "BIOT 699B",
+        "section": "A",
+        "course_name": "Research",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "BIOT 699B/A"
+      },
+      {
         "course_code": "BIOT 799A",
         "section": "A",
         "course_name": "Research",

@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 911,
+  "total_courses": 912,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -578,6 +578,18 @@
       "instructor": "B Sadiq",
       "capacity": "20",
       "available": "11"
+    },
+    {
+      "course_code": "BIOT 699B",
+      "section": "A",
+      "unique": "BIOT 699B/A",
+      "course_name": "Research",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "B Sadiq",
+      "capacity": "20",
+      "available": "19"
     },
     {
       "course_code": "BIOT 799A",
@@ -3841,7 +3853,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "CSCS 202",
@@ -3901,7 +3913,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "CSCS 203",
@@ -8221,7 +8233,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | W | 08:00 - 09:50",
       "instructor": "H Latif",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "PHYS 151",
@@ -9541,7 +9553,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "PSYC 375",
@@ -10705,7 +10717,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Samuel",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
