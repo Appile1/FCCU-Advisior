@@ -25,7 +25,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ARTS 102",
@@ -1837,7 +1837,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "15"
+      "available": "13"
     },
     {
       "course_code": "BUSN 460",
@@ -3985,7 +3985,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "CSCS 321",
@@ -4645,7 +4645,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Z  Iqbal",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "ECON 300",
@@ -4753,7 +4753,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "G Shabbir",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "ECON 307",
@@ -6037,7 +6037,7 @@
       "schedule_raw": "T R | 11:00 - 11:50 | R | 09:00 - 10:50",
       "instructor": "D Bakker",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENVR 101",
@@ -6421,7 +6421,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 101",
@@ -6865,7 +6865,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | M | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "HPED 150",
@@ -7609,7 +7609,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "MCOM 201",
@@ -8617,7 +8617,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "PLSC 101",
@@ -8869,7 +8869,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "PLSC 335",
@@ -9193,7 +9193,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "PSYC 165",
@@ -10165,7 +10165,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Amjad",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "SOCL 350",
