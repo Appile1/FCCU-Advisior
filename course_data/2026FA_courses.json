@@ -4285,7 +4285,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Mughal",
       "capacity": "15",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "DATA 207",
@@ -7225,7 +7225,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "MATH 102",
@@ -7273,7 +7273,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Ayub",
       "capacity": "5",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 105",
@@ -9181,7 +9181,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "PSYC 165",
