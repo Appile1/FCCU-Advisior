@@ -7405,7 +7405,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "28"
+      "available": "29"
     },
     {
       "course_code": "MATH 203",
@@ -8101,7 +8101,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "PHIL 221",
@@ -8257,7 +8257,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | M | 14:00 - 15:50",
       "instructor": "L Kahlon",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "PHYS 331",
@@ -10093,7 +10093,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "SOCL 220",
@@ -10117,7 +10117,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "SOCL 291",
