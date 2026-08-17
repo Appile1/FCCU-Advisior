@@ -2449,7 +2449,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | T | 09:00 - 10:50",
       "instructor": "D Ahmed",
       "capacity": "20",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "CHEM 160",
@@ -5053,7 +5053,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M. Thomas",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "EDUC 110",
@@ -7165,7 +7165,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A  Javed",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "LING 499",
@@ -7213,7 +7213,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "N Shahid",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "MATH 102",
@@ -10345,7 +10345,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "STAT 101",
