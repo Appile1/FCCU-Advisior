@@ -3156,7 +3156,7 @@
         "section": "A",
         "course_name": "Computer Networks",
         "schedule": "M W | 11:00 - 12:50",
-        "classroom": "SBLOCKS219",
+        "classroom": "SBLOCKS120",
         "unique": "COMP 311/A"
       },
       {
@@ -4159,7 +4159,7 @@
         "section": "A",
         "course_name": "Cyber Security",
         "schedule": "M W | 11:00 - 12:50",
-        "classroom": "SBLOCKS120",
+        "classroom": "SBLOCKS219",
         "unique": "CSCS 321/A"
       }
     ],

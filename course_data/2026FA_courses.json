@@ -3129,7 +3129,7 @@
       "unique": "COMP 311/A",
       "course_name": "Computer Networks",
       "credits": "3.00",
-      "classroom": "SBLOCKS219",
+      "classroom": "SBLOCKS120",
       "schedule_raw": "M W | 11:00 - 12:50",
       "instructor": "M Mushtaq",
       "capacity": "25",
@@ -3981,11 +3981,11 @@
       "unique": "CSCS 321/A",
       "course_name": "Cyber Security",
       "credits": "3.00",
-      "classroom": "SBLOCKS120",
+      "classroom": "SBLOCKS219",
       "schedule_raw": "M W | 11:00 - 12:50",
       "instructor": "M Butt",
-      "capacity": "25",
-      "available": "0"
+      "capacity": "35",
+      "available": "10"
     },
     {
       "course_code": "CSCS 342",
@@ -4741,7 +4741,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "G Shabbir",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "ECON 307",
@@ -4765,7 +4765,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Ayyubi",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ECON 311",
@@ -5497,7 +5497,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Langah",
       "capacity": "25",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "ENGL 108",
@@ -6073,7 +6073,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "K Shafiqu",
       "capacity": "25",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "ENVR 252",
@@ -7057,7 +7057,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Javed",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "LING 217",
@@ -8149,7 +8149,7 @@
       "schedule_raw": "T R | 14:00 - 14:50 | F | 14:00 - 16:00",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 100",
