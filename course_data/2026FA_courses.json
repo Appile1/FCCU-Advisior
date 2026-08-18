@@ -5737,7 +5737,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "ENGL 220",
@@ -7417,7 +7417,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "MATH 108",
@@ -10777,7 +10777,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Samuel",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
