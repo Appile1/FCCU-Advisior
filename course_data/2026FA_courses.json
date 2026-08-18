@@ -6613,7 +6613,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Haider",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 103",
@@ -7897,7 +7897,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "MCOM 499",
@@ -8653,7 +8653,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "PLSC 102",
@@ -9133,7 +9133,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "E Shahid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 105",
@@ -9517,7 +9517,7 @@
       "schedule_raw": "T R | 15:30 - 16:45 | W | 15:00 - 16:50",
       "instructor": "S Jabeen",
       "capacity": "30",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PSYC 360",
@@ -9661,7 +9661,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 440",
@@ -9673,7 +9673,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "PSYC 465",
