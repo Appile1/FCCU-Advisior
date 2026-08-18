@@ -6016,7 +6016,7 @@
         "course_code": "PHYS 716",
         "section": "A",
         "course_name": "Photovoltaic Devices",
-        "schedule": "M W | 16:00 - 17:15",
+        "schedule": "M W | 17:00 - 18:15",
         "classroom": "SBLOCKS027A",
         "unique": "PHYS 716/A"
       }
@@ -6141,18 +6141,10 @@
         "unique": "PHYS 151/A"
       },
       {
-        "course_code": "PHYS 460",
-        "section": "A",
-        "course_name": "Intr. to Med. Phys.",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS029",
-        "unique": "PHYS 460/A"
-      },
-      {
         "course_code": "PHYS 710",
         "section": "A",
         "course_name": "Biomaterials",
-        "schedule": "T R | 15:30 - 16:45",
+        "schedule": "M W | 16:00 - 17:15",
         "classroom": "SBLOCKS039",
         "unique": "PHYS 710/A"
       }

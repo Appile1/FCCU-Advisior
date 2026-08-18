@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 913,
+  "total_courses": 912,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -8320,18 +8320,6 @@
       "available": "31"
     },
     {
-      "course_code": "PHYS 460",
-      "section": "A",
-      "unique": "PHYS 460/A",
-      "course_name": "Intr. to Med. Phys.",
-      "credits": "3.00",
-      "classroom": "SBLOCKS029",
-      "schedule_raw": "T R | 11:00 - 12:15",
-      "instructor": "S Shah",
-      "capacity": "35",
-      "available": "34"
-    },
-    {
       "course_code": "PHYS 461",
       "section": "A",
       "unique": "PHYS 461/A",
@@ -8458,7 +8446,7 @@
       "course_name": "Biomaterials",
       "credits": "3.00",
       "classroom": "SBLOCKS039",
-      "schedule_raw": "T R | 15:30 - 16:45",
+      "schedule_raw": "M W | 16:00 - 17:15",
       "instructor": "S Shah",
       "capacity": "25",
       "available": "25"
@@ -8494,7 +8482,7 @@
       "course_name": "Photovoltaic Devices",
       "credits": "3.00",
       "classroom": "SBLOCKS027A",
-      "schedule_raw": "M W | 16:00 - 17:15",
+      "schedule_raw": "M W | 17:00 - 18:15",
       "instructor": "H Latif",
       "capacity": "10",
       "available": "10"
@@ -9133,7 +9121,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 101",
