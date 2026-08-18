@@ -14032,14 +14032,6 @@
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "SBLOCKS421",
         "unique": "DATA 101/D"
-      },
-      {
-        "course_code": "DATA 207",
-        "section": "C",
-        "course_name": "Business Analytics",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "SBLOCKS425",
-        "unique": "DATA 207/C"
       }
     ],
     "all_courses": [
@@ -14197,16 +14189,7 @@
     "departments": [
       "DATA"
     ],
-    "current_courses": [
-      {
-        "course_code": "DATA 202",
-        "section": "A",
-        "course_name": "Python for Data Anal",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "SBLOCKS420",
-        "unique": "DATA 202/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "DATA 202"
     ]

@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 918,
+  "total_courses": 916,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -181,7 +181,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | F | 09:00 - 10:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 212",
@@ -505,7 +505,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "N Asghar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOT 413",
@@ -4301,18 +4301,6 @@
     },
     {
       "course_code": "DATA 202",
-      "section": "A",
-      "unique": "DATA 202/A",
-      "course_name": "Python for Data Anal",
-      "credits": "3.00",
-      "classroom": "SBLOCKS420",
-      "schedule_raw": "M W F | 14:00 - 14:50",
-      "instructor": "A Sarwar",
-      "capacity": "35",
-      "available": "34"
-    },
-    {
-      "course_code": "DATA 202",
       "section": "B",
       "unique": "DATA 202/B",
       "course_name": "Python for Data Anal",
@@ -4382,18 +4370,6 @@
       "instructor": "M Mughal",
       "capacity": "15",
       "available": "3"
-    },
-    {
-      "course_code": "DATA 207",
-      "section": "C",
-      "unique": "DATA 207/C",
-      "course_name": "Business Analytics",
-      "credits": "3.00",
-      "classroom": "SBLOCKS425",
-      "schedule_raw": "T R | 12:30 - 13:45",
-      "instructor": "R Butt",
-      "capacity": "15",
-      "available": "9"
     },
     {
       "course_code": "DATA 300",
@@ -5617,7 +5593,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
