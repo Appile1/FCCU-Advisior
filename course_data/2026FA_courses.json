@@ -1237,7 +1237,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "BUSN 321",
@@ -1381,7 +1381,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "BUSN 350",
@@ -2773,7 +2773,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Azeem",
       "capacity": "25",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "CHIN 101",
@@ -4333,7 +4333,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Naqvi",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "DATA 301",
@@ -5137,7 +5137,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "EDUC 120",
@@ -6445,7 +6445,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 133",
@@ -8629,7 +8629,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 101",
@@ -9613,7 +9613,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "PSYC 415",
@@ -9673,7 +9673,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "PSYC 465",
