@@ -1057,7 +1057,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "BUSN 280",
@@ -1261,7 +1261,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "BUSN 321",
@@ -1381,7 +1381,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "BUSN 350",
@@ -2425,7 +2425,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | W | 14:00 - 16:00",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "CHEM 150",
@@ -3961,7 +3961,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "N Shahid",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "CSCS 320",
@@ -3985,7 +3985,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "CSCS 321",
@@ -5629,7 +5629,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Hanif",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "ENGL 175",
@@ -6613,7 +6613,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Haider",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 103",
@@ -8365,7 +8365,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "PHYS 509",
@@ -8377,7 +8377,7 @@
       "schedule_raw": "M W | 15:30 - 16:50",
       "instructor": "H Latif",
       "capacity": "30",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "PHYS 511",
@@ -8389,7 +8389,7 @@
       "schedule_raw": "M W | 14:00 - 15:15",
       "instructor": "S Zaheer",
       "capacity": "30",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "PHYS 520",
@@ -8401,7 +8401,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "K Javed",
       "capacity": "25",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "PHYS 699A",
