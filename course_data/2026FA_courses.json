@@ -745,7 +745,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 201",
@@ -853,7 +853,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "BUSN 230",
@@ -8749,7 +8749,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M U Farooq",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "PLSC 204",
@@ -8761,7 +8761,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "PLSC 212",
@@ -8857,7 +8857,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "PLSC 321",
@@ -8869,7 +8869,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "PLSC 322",
