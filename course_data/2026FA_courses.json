@@ -8713,7 +8713,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 202",
@@ -10873,7 +10873,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ashraf",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "URDU 105",
