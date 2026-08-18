@@ -8120,14 +8120,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "STAT 100",
-        "section": "A",
-        "course_name": "Stats For Everyone",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "SBLOCKS420",
-        "unique": "STAT 100/A"
-      },
-      {
         "course_code": "STAT 101",
         "section": "D",
         "course_name": "Statistical Methods",
@@ -8316,12 +8308,21 @@
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "SBLOCKS425",
         "unique": "STAT 102/C"
+      },
+      {
+        "course_code": "STAT 202",
+        "section": "A",
+        "course_name": "Statisl Inference II",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 202/A"
       }
     ],
     "all_courses": [
       "STAT 100",
       "STAT 101",
       "STAT 102",
+      "STAT 202",
       "STAT 208",
       "STAT 508"
     ]
@@ -8353,8 +8354,18 @@
     "departments": [
       "STAT"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "STAT 100",
+        "section": "A",
+        "course_name": "Stats For Everyone",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 100/A"
+      }
+    ],
     "all_courses": [
+      "STAT 100",
       "STAT 101"
     ]
   },
@@ -14124,14 +14135,6 @@
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "SBLOCKS425",
         "unique": "DATA 102/C"
-      },
-      {
-        "course_code": "DATA 202",
-        "section": "B",
-        "course_name": "Python for Data Anal",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "SBLOCKS420",
-        "unique": "DATA 202/B"
       }
     ],
     "all_courses": [
@@ -14189,7 +14192,16 @@
     "departments": [
       "DATA"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "DATA 202",
+        "section": "B",
+        "course_name": "Python for Data Anal",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS420",
+        "unique": "DATA 202/B"
+      }
+    ],
     "all_courses": [
       "DATA 202"
     ]

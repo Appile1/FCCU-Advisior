@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 916,
+  "total_courses": 917,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -2353,7 +2353,7 @@
       "schedule_raw": "F | 09:00 - 12:00",
       "instructor": "I Ahmed",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "BUSN 630",
@@ -2365,7 +2365,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "BUSN 640",
@@ -2377,7 +2377,7 @@
       "schedule_raw": "M W | 10:00 - 11:15",
       "instructor": "W Khan",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "BUSN 650",
@@ -2389,7 +2389,7 @@
       "schedule_raw": "M W | 15:30 - 16:45",
       "instructor": "F Tasneem",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "BUSN 660",
@@ -2401,7 +2401,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "R Hashim",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "BUSN 690",
@@ -4307,7 +4307,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS420",
       "schedule_raw": "M W F | 11:00 - 11:50",
-      "instructor": "S Ayub",
+      "instructor": "A Sarwar",
       "capacity": "35",
       "available": "17"
     },
@@ -10319,7 +10319,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS420",
       "schedule_raw": "M W F | 08:00 - 08:50",
-      "instructor": "R Butt",
+      "instructor": "H Rehman",
       "capacity": "35",
       "available": "1"
     },
@@ -10478,6 +10478,18 @@
       "instructor": "M Mughal",
       "capacity": "20",
       "available": "10"
+    },
+    {
+      "course_code": "STAT 202",
+      "section": "A",
+      "unique": "STAT 202/A",
+      "course_name": "Statisl Inference II",
+      "credits": "3.00",
+      "classroom": "SBLOCKS420",
+      "schedule_raw": "M W F | 14:00 - 14:50",
+      "instructor": "S Ayub",
+      "capacity": "35",
+      "available": "35"
     },
     {
       "course_code": "STAT 206",
