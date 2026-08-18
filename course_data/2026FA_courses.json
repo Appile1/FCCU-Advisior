@@ -433,7 +433,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Yousaf",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "BIOT 317",
@@ -7093,7 +7093,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S K Sook",
       "capacity": "20",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "LING 207",
@@ -7417,7 +7417,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "MATH 108",
