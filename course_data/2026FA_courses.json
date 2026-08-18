@@ -6817,7 +6817,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 313",
@@ -8353,7 +8353,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "28"
+      "available": "29"
     },
     {
       "course_code": "PHYS 352",
@@ -8365,7 +8365,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Zaheer",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "PHYS 461",
