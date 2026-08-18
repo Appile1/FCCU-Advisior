@@ -9892,6 +9892,54 @@
         "schedule": "T R | 12:30 - 13:45",
         "classroom": "EBLOCKE213",
         "unique": "BUSN 490/A"
+      },
+      {
+        "course_code": "BUSN 507E",
+        "section": "A",
+        "course_name": "Financial Accounting",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "BUSN 507E/A"
+      },
+      {
+        "course_code": "BUSN 516E",
+        "section": "A",
+        "course_name": "Quantitative Methods for Business",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "BUSN 516E/A"
+      },
+      {
+        "course_code": "BUSN 526E",
+        "section": "A",
+        "course_name": "Business Ethics & Legal Compliance",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "BUSN 526E/A"
+      },
+      {
+        "course_code": "BUSN 536E",
+        "section": "A",
+        "course_name": "Management Communications",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "BUSN 536E/A"
+      },
+      {
+        "course_code": "BUSN 546E",
+        "section": "A",
+        "course_name": "Organizational Behavior",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "BUSN 546E/A"
+      },
+      {
+        "course_code": "BUSN 556E",
+        "section": "A",
+        "course_name": "Marketing and Sales Management",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "BUSN 556E/A"
       }
     ],
     "all_courses": [
@@ -9918,7 +9966,13 @@
       "BUSN 480",
       "BUSN 490",
       "BUSN 498",
-      "BUSN 521"
+      "BUSN 507E",
+      "BUSN 516E",
+      "BUSN 521",
+      "BUSN 526E",
+      "BUSN 536E",
+      "BUSN 546E",
+      "BUSN 556E"
     ]
   },
   {

@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 912,
+  "total_courses": 918,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -2152,6 +2152,18 @@
       "available": "35"
     },
     {
+      "course_code": "BUSN 507E",
+      "section": "A",
+      "unique": "BUSN 507E/A",
+      "course_name": "Financial Accounting",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "TBD",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
       "course_code": "BUSN 510",
       "section": "A",
       "unique": "BUSN 510/A",
@@ -2172,6 +2184,18 @@
       "classroom": "EBLOCKE323",
       "schedule_raw": "M W | 15:30 - 16:45",
       "instructor": "I yusuf",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "BUSN 516E",
+      "section": "A",
+      "unique": "BUSN 516E/A",
+      "course_name": "Quantitative Methods for Business",
+      "credits": "2.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "35"
     },
@@ -2200,6 +2224,18 @@
       "available": "35"
     },
     {
+      "course_code": "BUSN 526E",
+      "section": "A",
+      "unique": "BUSN 526E/A",
+      "course_name": "Business Ethics & Legal Compliance",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "TBD",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
       "course_code": "BUSN 535",
       "section": "A",
       "unique": "BUSN 535/A",
@@ -2224,6 +2260,30 @@
       "available": "35"
     },
     {
+      "course_code": "BUSN 536E",
+      "section": "A",
+      "unique": "BUSN 536E/A",
+      "course_name": "Management Communications",
+      "credits": "2.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "TBD",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "BUSN 546E",
+      "section": "A",
+      "unique": "BUSN 546E/A",
+      "course_name": "Organizational Behavior",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "TBD",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
       "course_code": "BUSN 550",
       "section": "A",
       "unique": "BUSN 550/A",
@@ -2244,6 +2304,18 @@
       "classroom": "EBLOCKE323",
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Afaf k",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "BUSN 556E",
+      "section": "A",
+      "unique": "BUSN 556E/A",
+      "course_name": "Marketing and Sales Management",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "35"
     },
@@ -2281,7 +2353,7 @@
       "schedule_raw": "F | 09:00 - 12:00",
       "instructor": "I Ahmed",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "BUSN 630",
@@ -2341,7 +2413,7 @@
       "schedule_raw": "M W | 11:45 - 13:00",
       "instructor": "W Khan",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "CHEM 100",
@@ -6625,7 +6697,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 202",
@@ -7849,7 +7921,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "MCOM 409",
@@ -10021,7 +10093,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
@@ -10273,7 +10345,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Butt",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 100",
