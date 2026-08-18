@@ -9277,7 +9277,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 280",
@@ -9337,7 +9337,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 298",
