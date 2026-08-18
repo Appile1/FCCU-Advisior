@@ -4717,7 +4717,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Z  Iqbal",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ECON 300",
@@ -7837,7 +7837,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "MCOM 304",
@@ -8821,7 +8821,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "PLSC 302",
@@ -8893,7 +8893,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "PLSC 322",
@@ -8929,7 +8929,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "PLSC 335",
@@ -9037,7 +9037,7 @@
       "schedule_raw": "M | 16:00 - 19:00",
       "instructor": "M Farooqi",
       "capacity": "25",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PLSC 507",
@@ -9049,7 +9049,7 @@
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "M Younis",
       "capacity": "25",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PLSC 508",
@@ -9061,7 +9061,7 @@
       "schedule_raw": "F | 16:00 - 19:00",
       "instructor": "A Qureshi",
       "capacity": "25",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PLSC 514",
@@ -9097,7 +9097,7 @@
       "schedule_raw": "R | 16:00 - 19:00",
       "instructor": "S Sindhu",
       "capacity": "25",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PLSC 699A",
@@ -10093,7 +10093,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
