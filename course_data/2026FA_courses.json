@@ -2521,7 +2521,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | T | 09:00 - 10:50",
       "instructor": "D Ahmed",
       "capacity": "20",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "CHEM 160",
@@ -5557,7 +5557,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Langah",
       "capacity": "25",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "ENGL 108",
@@ -5725,7 +5725,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "ENGL 209",
@@ -6169,7 +6169,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | W | 14:00 - 15:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "ENVR 340",
