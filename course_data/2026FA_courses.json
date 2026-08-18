@@ -4273,7 +4273,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Ayub",
       "capacity": "15",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "DATA 102",
@@ -4549,7 +4549,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ECON 102",
@@ -7057,7 +7057,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "ISLM 306",
