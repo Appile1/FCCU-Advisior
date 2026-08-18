@@ -1477,7 +1477,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "BUSN 360",
@@ -3181,7 +3181,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "COMP 303",
@@ -5677,7 +5677,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Hanif",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ENGL 175",
@@ -7705,7 +7705,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "MCOM 290",
@@ -10369,7 +10369,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Samuel",
       "capacity": "15",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 101",
@@ -10777,7 +10777,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Samuel",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
