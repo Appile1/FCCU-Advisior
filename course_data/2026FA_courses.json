@@ -289,7 +289,7 @@
       "schedule_raw": "M W | 10:00 - 10:50 | F | 09:00 - 10:50",
       "instructor": "M Imran",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "BIOT 201",
@@ -9397,7 +9397,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A  Ateeq",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "PSYC 301",
@@ -10573,7 +10573,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "I Naqvi",
       "capacity": "25",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "STAT 317",
