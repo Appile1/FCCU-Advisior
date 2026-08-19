@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 917,
+  "total_courses": 916,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -2509,7 +2509,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | F | 11:00 - 12:50",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "CHEM 160",
@@ -3866,18 +3866,6 @@
       "instructor": "A Atique",
       "capacity": "35",
       "available": "32"
-    },
-    {
-      "course_code": "CSCS 105",
-      "section": "B",
-      "unique": "CSCS 105/B",
-      "course_name": "*Basic Electronics",
-      "credits": "4.00",
-      "classroom": "SBLOCKS316 | SBLOCKS027A",
-      "schedule_raw": "T R | 09:30 - 10:45 | W | 11:00 - 13:50",
-      "instructor": "I Iqbal",
-      "capacity": "25",
-      "available": "25"
     },
     {
       "course_code": "CSCS 105",
@@ -10393,7 +10381,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "STAT 101",
