@@ -6088,6 +6088,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "PHYS 100",
+        "section": "A",
+        "course_name": "*Intro. to Physics",
+        "schedule": "T R | 14:00 - 14:50 | F | 14:00 - 16:00",
+        "classroom": "SBLOCKS039 | SBLOCKS027A",
+        "unique": "PHYS 100/A"
+      },
+      {
         "course_code": "PHYS 221",
         "section": "A",
         "course_name": "Elect. & Magnetism",
@@ -6370,14 +6378,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "PHYS 100",
-        "section": "A",
-        "course_name": "*Intro. to Physics",
-        "schedule": "T R | 14:00 - 14:50 | F | 14:00 - 16:00",
-        "classroom": "SBLOCKS007 | SBLOCKS027A",
-        "unique": "PHYS 100/A"
-      },
-      {
         "course_code": "PHYS 331",
         "section": "A",
         "course_name": "*Electronics I",
@@ -6406,7 +6406,7 @@
         "section": "A",
         "course_name": "Computational Physic",
         "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS039",
+        "classroom": "SBLOCKS007",
         "unique": "PHYS 503/A"
       }
     ],

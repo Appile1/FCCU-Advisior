@@ -2414,5 +2414,13 @@
     "section": "A",
     "instructor": "S Ayub",
     "timestamp": "2026-08-18T11:30:44.355335+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PHYS 100 (A): TBD → L Kahlon",
+    "course_code": "PHYS 100",
+    "section": "A",
+    "instructor": "L Kahlon",
+    "timestamp": "2026-08-19T05:30:43.366990+00:00"
   }
 ]

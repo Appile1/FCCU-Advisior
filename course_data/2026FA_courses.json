@@ -277,7 +277,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BIOT 201",
@@ -385,7 +385,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Ali",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "BIOT 313",
@@ -6181,7 +6181,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | F | 09:00 - 10:50",
       "instructor": "D Bakker",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "ENVR 345",
@@ -8205,9 +8205,9 @@
       "unique": "PHYS 100/A",
       "course_name": "*Intro. to Physics",
       "credits": "3.00",
-      "classroom": "SBLOCKS007 | SBLOCKS027A",
+      "classroom": "SBLOCKS039 | SBLOCKS027A",
       "schedule_raw": "T R | 14:00 - 14:50 | F | 14:00 - 16:00",
-      "instructor": "TBD",
+      "instructor": "L Kahlon",
       "capacity": "35",
       "available": "0"
     },
@@ -8409,7 +8409,7 @@
       "unique": "PHYS 503/A",
       "course_name": "Computational Physic",
       "credits": "3.00",
-      "classroom": "SBLOCKS039",
+      "classroom": "SBLOCKS007",
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "25",
@@ -10189,7 +10189,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "SOCL 325",
