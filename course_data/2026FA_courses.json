@@ -7381,7 +7381,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "MATH 107",
@@ -7885,7 +7885,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "MCOM 402",
@@ -10177,7 +10177,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "SOCL 291",
@@ -10405,7 +10405,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "STAT 101",
