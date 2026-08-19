@@ -1729,7 +1729,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BUSN 410",
@@ -5221,7 +5221,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "EDUC 240",
@@ -8893,7 +8893,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PLSC 335",
@@ -8929,7 +8929,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "PLSC 402",
@@ -10261,7 +10261,7 @@
       "schedule_raw": "M | 16:00 - 19:00",
       "instructor": "S Jafree",
       "capacity": "25",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "SOCL 506",
@@ -10273,7 +10273,7 @@
       "schedule_raw": "T | 16:00 - 19:00",
       "instructor": "S Athar",
       "capacity": "25",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "SOCL 520",
@@ -10285,7 +10285,7 @@
       "schedule_raw": "R | 16:00 - 19:00",
       "instructor": "S Iqbal",
       "capacity": "25",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "SOCL 522",
@@ -10297,7 +10297,7 @@
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "S Rasheed",
       "capacity": "25",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "STAT 100",
