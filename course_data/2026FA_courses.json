@@ -97,7 +97,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "BIOL 100",
@@ -8149,7 +8149,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PHIL 221",
