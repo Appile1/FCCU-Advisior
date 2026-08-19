@@ -3229,7 +3229,7 @@
       "schedule_raw": "W | 09:00 - 10:50 | F | 09:00 - 10:50",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "COMP 360",
@@ -3577,7 +3577,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "CRST 152",
@@ -3709,7 +3709,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "CRST 411",
@@ -5221,7 +5221,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "EDUC 240",
@@ -5257,7 +5257,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Aslam",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "EDUC 310",
