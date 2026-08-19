@@ -25,7 +25,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS 102",
@@ -85,7 +85,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ARTS 203",
@@ -97,7 +97,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "BIOL 100",
@@ -1201,7 +1201,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 301",
@@ -1213,7 +1213,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "BUSN 301",
@@ -3901,7 +3901,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | W | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "CSCS 201",
@@ -3949,7 +3949,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "CSCS 202",
@@ -4009,7 +4009,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "CSCS 290",
@@ -4525,7 +4525,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "ECON 101",
@@ -5557,7 +5557,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Langah",
       "capacity": "25",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "ENGL 108",
@@ -5689,7 +5689,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Bokhari",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "ENGL 201",
@@ -7609,7 +7609,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "Dr S Abbas",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MCOM 105",
@@ -9121,7 +9121,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 100",
