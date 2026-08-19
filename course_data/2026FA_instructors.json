@@ -4839,7 +4839,24 @@
     "departments": [
       "MATH"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "MATH 109",
+        "section": "A",
+        "course_name": "QR-I (Advanced)",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS410",
+        "unique": "MATH 109/A"
+      },
+      {
+        "course_code": "MATH 109",
+        "section": "C",
+        "course_name": "QR-I (Advanced)",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "SBLOCKS410",
+        "unique": "MATH 109/C"
+      }
+    ],
     "all_courses": [
       "MATH 100",
       "MATH 101",
