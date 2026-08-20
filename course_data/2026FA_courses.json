@@ -169,7 +169,7 @@
       "schedule_raw": "M W | 08:00 - 08:50 | F | 14:00 - 15:50",
       "instructor": "M Yousaf",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BIOL 203",
@@ -2629,7 +2629,7 @@
       "schedule_raw": "M | 11:00 - 12:50 | M W F | 15:00 - 15:50",
       "instructor": "A Hussain",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "CHEM 499A",
@@ -4273,7 +4273,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Ayub",
       "capacity": "15",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "DATA 201",
@@ -6445,7 +6445,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "GEOG 201",
@@ -10141,7 +10141,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "SOCL 425",
