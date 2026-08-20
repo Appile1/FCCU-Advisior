@@ -4765,7 +4765,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "U Hanif",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ECON 305",
@@ -5725,7 +5725,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ENGL 220",
@@ -5928,8 +5928,8 @@
       "classroom": "EBLOCKE140",
       "schedule_raw": "R | 16:00 - 19:00",
       "instructor": "R Wasif",
-      "capacity": "15",
-      "available": "15"
+      "capacity": "35",
+      "available": "35"
     },
     {
       "course_code": "ENGL 616",
@@ -5940,8 +5940,8 @@
       "classroom": "EBLOCKE222",
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "T Bokhari",
-      "capacity": "25",
-      "available": "20"
+      "capacity": "35",
+      "available": "30"
     },
     {
       "course_code": "ENGL 690",
@@ -7693,7 +7693,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "MCOM 302",
@@ -7873,7 +7873,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "MCOM 499",
@@ -8953,7 +8953,7 @@
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "M Younis",
       "capacity": "25",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "PLSC 508",
