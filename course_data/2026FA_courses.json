@@ -2509,7 +2509,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | F | 11:00 - 12:50",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "CHEM 160",
@@ -2917,7 +2917,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Atique",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "COMP 113",
@@ -3397,7 +3397,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "W Azim",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "CPPG 111",
@@ -9961,7 +9961,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
