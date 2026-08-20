@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 918,
+  "total_courses": 915,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -2413,7 +2413,7 @@
       "schedule_raw": "M W | 11:45 - 13:00",
       "instructor": "W Khan",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "CHEM 100",
@@ -3709,7 +3709,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "CRST 411",
@@ -5812,18 +5812,6 @@
       "available": "14"
     },
     {
-      "course_code": "ENGL 318",
-      "section": "A",
-      "unique": "ENGL 318/A",
-      "course_name": "Creative Nonfiction",
-      "credits": "3.00",
-      "classroom": "EBLOCKE222",
-      "schedule_raw": "M W F | 08:00 - 08:50",
-      "instructor": "N Rehman",
-      "capacity": "35",
-      "available": "31"
-    },
-    {
       "course_code": "ENGL 322",
       "section": "A",
       "unique": "ENGL 322/A",
@@ -5858,18 +5846,6 @@
       "instructor": "S Mir",
       "capacity": "35",
       "available": "20"
-    },
-    {
-      "course_code": "ENGL 350",
-      "section": "A",
-      "unique": "ENGL 350/A",
-      "course_name": "Adv. Creative Writin",
-      "credits": "3.00",
-      "classroom": "EBLOCKE122",
-      "schedule_raw": "M W F | 14:00 - 14:50",
-      "instructor": "M Shahid",
-      "capacity": "35",
-      "available": "33"
     },
     {
       "course_code": "ENGL 403",
@@ -6913,7 +6889,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HPED 151",
@@ -7177,19 +7153,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "30"
-    },
-    {
-      "course_code": "LING 422",
-      "section": "A",
-      "unique": "LING 422/A",
-      "course_name": "Corpus Linguistics",
-      "credits": "3.00",
-      "classroom": "EBLOCKE227",
-      "schedule_raw": "M W F | 14:00 - 14:50",
-      "instructor": "M Zia",
-      "capacity": "35",
-      "available": "33"
+      "available": "29"
     },
     {
       "course_code": "LING 499",
@@ -8089,7 +8053,7 @@
       "schedule_raw": "MTWRF | 08:00 - 16:00",
       "instructor": "B Sadiq",
       "capacity": "20",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "MUSC 101",
@@ -8893,7 +8857,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "PLSC 335",
@@ -10165,7 +10129,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Jafree",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "SOCL 301",
@@ -10921,7 +10885,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "N Khokhar",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "URDU 504",

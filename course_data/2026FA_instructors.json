@@ -13165,14 +13165,6 @@
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "EBLOCKE222",
         "unique": "ENGL 250/A"
-      },
-      {
-        "course_code": "ENGL 318",
-        "section": "A",
-        "course_name": "Creative Nonfiction",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE222",
-        "unique": "ENGL 318/A"
       }
     ],
     "all_courses": [
@@ -13314,16 +13306,7 @@
     "departments": [
       "ENGL"
     ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 350",
-        "section": "A",
-        "course_name": "Adv. Creative Writin",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE122",
-        "unique": "ENGL 350/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "ENGL 106",
       "ENGL 350"
@@ -13545,16 +13528,7 @@
     "departments": [
       "LING"
     ],
-    "current_courses": [
-      {
-        "course_code": "LING 422",
-        "section": "A",
-        "course_name": "Corpus Linguistics",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE227",
-        "unique": "LING 422/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "LING 422"
     ]
