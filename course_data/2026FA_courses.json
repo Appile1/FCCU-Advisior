@@ -229,7 +229,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | W | 14:00 - 15:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BIOL 315",
@@ -241,7 +241,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | R | 14:00 - 15:50",
       "instructor": "S Mehnaz",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "BIOL 319",
@@ -277,7 +277,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "BIOT 201",
@@ -361,7 +361,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "I John",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "BIOT 307",
@@ -3613,7 +3613,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "CRST 211",
@@ -5257,7 +5257,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Aslam",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "EDUC 310",
@@ -10489,7 +10489,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "STAT 115",
