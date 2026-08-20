@@ -7189,7 +7189,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "MATH 102",
@@ -7585,7 +7585,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "MCOM 201",
@@ -8677,7 +8677,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M U Farooq",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PLSC 204",
@@ -9277,7 +9277,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "PSYC 295",
