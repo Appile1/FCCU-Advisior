@@ -6157,7 +6157,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | W | 14:00 - 15:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "ENVR 340",
@@ -8977,7 +8977,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "M Younis",
       "capacity": "15",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "PLSC 403",
@@ -8989,7 +8989,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "Q Memon",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 407",
