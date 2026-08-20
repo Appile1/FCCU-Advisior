@@ -2917,7 +2917,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Atique",
       "capacity": "35",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "COMP 113",
@@ -2929,7 +2929,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Chaudhry",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "COMP 200",
@@ -3613,7 +3613,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "CRST 211",
@@ -7189,7 +7189,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MATH 102",
@@ -9169,7 +9169,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PSYC 175",
