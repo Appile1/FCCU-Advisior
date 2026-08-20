@@ -8280,6 +8280,14 @@
         "unique": "STAT 101/B"
       },
       {
+        "course_code": "STAT 115",
+        "section": "C",
+        "course_name": "Probability & Stat.",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 115/C"
+      },
+      {
         "course_code": "STAT 317",
         "section": "B",
         "course_name": "Data Visualization R",
@@ -8348,6 +8356,14 @@
         "schedule": "T R | 09:30 - 10:45",
         "classroom": "SBLOCKS320",
         "unique": "STAT 103/A"
+      },
+      {
+        "course_code": "STAT 115",
+        "section": "B",
+        "course_name": "Probability & Stat.",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 115/B"
       }
     ],
     "all_courses": [
