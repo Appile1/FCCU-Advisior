@@ -3397,7 +3397,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "W Azim",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "CPPG 111",
@@ -3613,7 +3613,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "11"
+      "available": "9"
     },
     {
       "course_code": "CRST 211",
@@ -6709,7 +6709,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Sumbal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 308",
@@ -6997,7 +6997,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ISLM 306",
