@@ -1081,7 +1081,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BUSN 280",
@@ -2989,7 +2989,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | T | 11:00 - 13:50",
       "instructor": "S Minhas",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "COMP 206",
@@ -3001,7 +3001,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | R | 11:00 - 13:50",
       "instructor": "S Minhas",
       "capacity": "30",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "COMP 213",
@@ -6085,7 +6085,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Aslam",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "ENVR 305",
@@ -6493,7 +6493,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "GEOG 371",
@@ -10081,7 +10081,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 290",
@@ -10405,7 +10405,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "STAT 115",
