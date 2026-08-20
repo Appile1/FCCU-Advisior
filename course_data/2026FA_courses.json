@@ -97,7 +97,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "BIOL 100",
@@ -5665,7 +5665,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Hanif",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ENGL 175",
@@ -9229,7 +9229,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "N Khan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 275",
