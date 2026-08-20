@@ -3937,7 +3937,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "CSCS 202",
@@ -6481,7 +6481,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "K Shafiqu",
       "capacity": "10",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "GEOG 323",
@@ -10105,7 +10105,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Jafree",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "SOCL 301",
@@ -10165,7 +10165,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "SOCL 494",
