@@ -5101,7 +5101,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M. Thomas",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "EDUC 110",
@@ -5341,7 +5341,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "EDUC 390",
@@ -10933,7 +10933,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Jamal",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "URDU 212",
