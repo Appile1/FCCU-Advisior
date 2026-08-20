@@ -3169,7 +3169,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "COMP 303",
@@ -3193,7 +3193,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "COMP 311",
