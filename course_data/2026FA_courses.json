@@ -673,7 +673,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 170",
@@ -685,7 +685,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BUSN 201",
@@ -6577,7 +6577,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Mahmood",
       "capacity": "20",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "HIST 101",
@@ -6649,7 +6649,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "HIST 255",
@@ -10405,7 +10405,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "STAT 115",
