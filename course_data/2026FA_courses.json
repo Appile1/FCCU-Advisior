@@ -229,7 +229,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | W | 14:00 - 15:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "BIOL 315",
@@ -277,7 +277,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "BIOT 201",
@@ -5221,7 +5221,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "EDUC 240",
@@ -5257,7 +5257,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Aslam",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "EDUC 310",
@@ -6661,7 +6661,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "HIST 301",
