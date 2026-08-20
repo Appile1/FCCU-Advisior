@@ -11712,20 +11712,20 @@
     ],
     "current_courses": [
       {
+        "course_code": "ENGL 322",
+        "section": "A",
+        "course_name": "American Prose & Fic",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 322/A"
+      },
+      {
         "course_code": "ENGL 331",
         "section": "A",
         "course_name": "Research Methods",
         "schedule": "T R | 12:30 - 13:45",
         "classroom": "EBLOCKE222",
         "unique": "ENGL 331/A"
-      },
-      {
-        "course_code": "ENGL 409",
-        "section": "A",
-        "course_name": "Transcultural Litera",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE222",
-        "unique": "ENGL 409/A"
       },
       {
         "course_code": "ENGL 510",
@@ -11739,6 +11739,7 @@
     "all_courses": [
       "ENGL 106",
       "ENGL 310",
+      "ENGL 322",
       "ENGL 331",
       "ENGL 409",
       "ENGL 510",
@@ -13188,9 +13189,19 @@
     "departments": [
       "ENGL"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "ENGL 108",
+        "section": "I",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS412",
+        "unique": "ENGL 108/I"
+      }
+    ],
     "all_courses": [
-      "ENGL 106"
+      "ENGL 106",
+      "ENGL 108"
     ]
   },
   {
@@ -13206,14 +13217,6 @@
         "schedule": "M W F | 15:00 - 15:50",
         "classroom": "EBLOCKE039",
         "unique": "ENGL 108/A"
-      },
-      {
-        "course_code": "ENGL 620",
-        "section": "A",
-        "course_name": "Trauma Lit.&Theory",
-        "schedule": "F | 16:00 - 19:00",
-        "classroom": "EBLOCKE206",
-        "unique": "ENGL 620/A"
       }
     ],
     "all_courses": [
@@ -13929,27 +13932,11 @@
     "current_courses": [
       {
         "course_code": "ENGL 108",
-        "section": "I",
-        "course_name": "Expository Writing",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS412",
-        "unique": "ENGL 108/I"
-      },
-      {
-        "course_code": "ENGL 108",
         "section": "K",
         "course_name": "Expository Writing",
         "schedule": "M W F | 16:00 - 16:50",
         "classroom": "EBLOCKE121",
         "unique": "ENGL 108/K"
-      },
-      {
-        "course_code": "ENGL 322",
-        "section": "A",
-        "course_name": "American Prose & Fic",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 322/A"
       }
     ],
     "all_courses": [

@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 915,
+  "total_courses": 913,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -5531,7 +5531,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS412",
       "schedule_raw": "T R | 14:00 - 15:15",
-      "instructor": "TBD",
+      "instructor": "A  Khalid",
       "capacity": "25",
       "available": "0"
     },
@@ -5819,7 +5819,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE221",
       "schedule_raw": "M W F | 14:00 - 14:50",
-      "instructor": "TBD",
+      "instructor": "S Mir",
       "capacity": "35",
       "available": "30"
     },
@@ -5858,18 +5858,6 @@
       "instructor": "Quratulaen",
       "capacity": "35",
       "available": "23"
-    },
-    {
-      "course_code": "ENGL 409",
-      "section": "A",
-      "unique": "ENGL 409/A",
-      "course_name": "Transcultural Litera",
-      "credits": "3.00",
-      "classroom": "EBLOCKE222",
-      "schedule_raw": "T R | 09:30 - 10:45",
-      "instructor": "S Mir",
-      "capacity": "35",
-      "available": "32"
     },
     {
       "course_code": "ENGL 499",
@@ -5954,18 +5942,6 @@
       "instructor": "T Bokhari",
       "capacity": "25",
       "available": "20"
-    },
-    {
-      "course_code": "ENGL 620",
-      "section": "A",
-      "unique": "ENGL 620/A",
-      "course_name": "Trauma Lit.&Theory",
-      "credits": "3.00",
-      "classroom": "EBLOCKE206",
-      "schedule_raw": "F | 16:00 - 19:00",
-      "instructor": "M Saleh",
-      "capacity": "35",
-      "available": "35"
     },
     {
       "course_code": "ENGL 690",
@@ -8965,7 +8941,7 @@
       "schedule_raw": "M | 16:00 - 19:00",
       "instructor": "M Farooqi",
       "capacity": "25",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PLSC 507",
@@ -9025,7 +9001,7 @@
       "schedule_raw": "R | 16:00 - 19:00",
       "instructor": "S Sindhu",
       "capacity": "25",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "PLSC 699A",
