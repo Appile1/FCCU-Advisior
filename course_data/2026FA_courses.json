@@ -1849,7 +1849,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "BUSN 460",
@@ -1861,7 +1861,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Naumaan Ch",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 460",
@@ -2509,7 +2509,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | F | 11:00 - 12:50",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "CHEM 160",
@@ -7465,7 +7465,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "MATH 201",
@@ -8500,16 +8500,16 @@
       "available": "30"
     },
     {
-      "course_code": "PHYS 710",
+      "course_code": "PHYS 709",
       "section": "A",
-      "unique": "PHYS 710/A",
-      "course_name": "Biomaterials",
+      "unique": "PHYS 709/A",
+      "course_name": "Magnetic materials",
       "credits": "3.00",
       "classroom": "SBLOCKS039",
       "schedule_raw": "M W | 16:00 - 17:15",
       "instructor": "S Shah",
-      "capacity": "25",
-      "available": "25"
+      "capacity": "20",
+      "available": "20"
     },
     {
       "course_code": "PHYS 712",
