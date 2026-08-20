@@ -1909,7 +1909,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BUSN 461",
@@ -1933,7 +1933,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "I yusuf",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 464",
@@ -2881,7 +2881,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50 | F | 08:00 - 10:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "COMP 111",
@@ -3133,7 +3133,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Yousaf",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "COMP 302",
