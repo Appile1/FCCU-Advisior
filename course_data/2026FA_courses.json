@@ -229,7 +229,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | W | 14:00 - 15:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BIOL 315",
@@ -277,7 +277,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "BIOT 201",
@@ -3133,7 +3133,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Yousaf",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "COMP 302",
@@ -4513,7 +4513,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ECON 101",
@@ -4561,7 +4561,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Ayyubi",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ECON 102",
@@ -6493,7 +6493,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "GEOG 371",
@@ -6841,7 +6841,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "HPED 150",
