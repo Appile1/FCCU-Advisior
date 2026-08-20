@@ -3937,7 +3937,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "CSCS 202",
@@ -5449,7 +5449,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -5665,7 +5665,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Hanif",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 175",
@@ -6085,7 +6085,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Aslam",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ENVR 305",
@@ -6661,7 +6661,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "HIST 301",
