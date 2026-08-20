@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 920,
+  "total_courses": 918,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -2005,7 +2005,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 480",
@@ -3649,7 +3649,7 @@
       "schedule_raw": "T R | 16:45 - 18:00",
       "instructor": "Z West",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "CRST 271",
@@ -3697,7 +3697,7 @@
       "schedule_raw": "T R | 15:00 - 16:15",
       "instructor": "W Davey",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "CRST 391",
@@ -4141,7 +4141,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "F Ullah",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "CSCS 460",
@@ -5961,9 +5961,9 @@
       "unique": "ENGL 613/A",
       "course_name": "Eng.Worl.Lit in Tran",
       "credits": "3.00",
-      "classroom": "EBLOCKE221",
-      "schedule_raw": "F | 16:00 - 19:00",
-      "instructor": "TBD",
+      "classroom": "EBLOCKE140",
+      "schedule_raw": "R | 16:00 - 19:00",
+      "instructor": "R Wasif",
       "capacity": "15",
       "available": "15"
     },
@@ -6757,7 +6757,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Sumbal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 308",
@@ -6913,7 +6913,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HPED 151",
@@ -7180,18 +7180,6 @@
       "available": "30"
     },
     {
-      "course_code": "LING 415",
-      "section": "A",
-      "unique": "LING 415/A",
-      "course_name": "Forensic Linguistics",
-      "credits": "3.00",
-      "classroom": "EBLOCKE222",
-      "schedule_raw": "T R | 15:30 - 16:45",
-      "instructor": "A  Khalid",
-      "capacity": "35",
-      "available": "31"
-    },
-    {
       "course_code": "LING 422",
       "section": "A",
       "unique": "LING 422/A",
@@ -7200,18 +7188,6 @@
       "classroom": "EBLOCKE227",
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Zia",
-      "capacity": "35",
-      "available": "34"
-    },
-    {
-      "course_code": "LING 450",
-      "section": "A",
-      "unique": "LING 450/A",
-      "course_name": "Stylistics",
-      "credits": "3.00",
-      "classroom": "EBLOCKE222",
-      "schedule_raw": "M W F | 14:00 - 14:50",
-      "instructor": "A  Javed",
       "capacity": "35",
       "available": "33"
     },
@@ -7717,7 +7693,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "MCOM 290",

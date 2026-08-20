@@ -4772,14 +4772,6 @@
         "schedule": "T R | 12:30 - 13:45",
         "classroom": "EBLOCKE227",
         "unique": "LING 302/A"
-      },
-      {
-        "course_code": "LING 415",
-        "section": "A",
-        "course_name": "Forensic Linguistics",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE222",
-        "unique": "LING 415/A"
       }
     ],
     "all_courses": [
@@ -11535,12 +11527,21 @@
         "schedule": "M W F | 16:00 - 16:50",
         "classroom": "EBLOCKE227",
         "unique": "ENGL 300/A"
+      },
+      {
+        "course_code": "ENGL 613",
+        "section": "A",
+        "course_name": "Eng.Worl.Lit in Tran",
+        "schedule": "R | 16:00 - 19:00",
+        "classroom": "EBLOCKE140",
+        "unique": "ENGL 613/A"
       }
     ],
     "all_courses": [
       "ENGL 106",
       "ENGL 201",
-      "ENGL 300"
+      "ENGL 300",
+      "ENGL 613"
     ]
   },
   {
@@ -12636,14 +12637,6 @@
         "schedule": "T R | 11:00 - 12:15",
         "classroom": "EBLOCKE227",
         "unique": "LING 217/A"
-      },
-      {
-        "course_code": "LING 450",
-        "section": "A",
-        "course_name": "Stylistics",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE222",
-        "unique": "LING 450/A"
       }
     ],
     "all_courses": [
@@ -13983,14 +13976,6 @@
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "EBLOCKE221",
         "unique": "ENGL 322/A"
-      },
-      {
-        "course_code": "ENGL 613",
-        "section": "A",
-        "course_name": "Eng.Worl.Lit in Tran",
-        "schedule": "F | 16:00 - 19:00",
-        "classroom": "EBLOCKE221",
-        "unique": "ENGL 613/A"
       }
     ],
     "all_courses": [
