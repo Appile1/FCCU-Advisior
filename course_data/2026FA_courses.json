@@ -781,7 +781,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "BUSN 201",
@@ -3685,7 +3685,7 @@
       "schedule_raw": "T R | 17:00 - 18:15",
       "instructor": "D Lanz",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "CRST 371",
@@ -5233,7 +5233,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Aslam",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "EDUC 260",
@@ -9169,7 +9169,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PSYC 175",
@@ -9265,7 +9265,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 290",
