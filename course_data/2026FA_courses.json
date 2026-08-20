@@ -3397,7 +3397,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "W Azim",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "CPPG 111",
@@ -5101,7 +5101,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M. Thomas",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 110",
@@ -6793,7 +6793,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "HPED 101",
@@ -8581,7 +8581,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "PLSC 101",
