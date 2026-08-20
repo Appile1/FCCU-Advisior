@@ -5149,7 +5149,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 120",
@@ -6625,7 +6625,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Mahmood",
       "capacity": "20",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "HIST 101",
@@ -9397,7 +9397,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 300",
@@ -9781,7 +9781,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "PSYC 499A",
