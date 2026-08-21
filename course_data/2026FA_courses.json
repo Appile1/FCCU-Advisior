@@ -4537,7 +4537,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ECON 102",
@@ -4621,7 +4621,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Ahmed",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "ECON 201",
@@ -4705,7 +4705,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "M Bhatti",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "ECON 302",
@@ -4741,7 +4741,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "U Hanif",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "ECON 303",
