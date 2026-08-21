@@ -361,7 +361,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "I John",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "BIOT 307",
@@ -649,7 +649,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "BUSN 101",
@@ -3577,7 +3577,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "CRST 152",
@@ -7009,7 +7009,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "ISLM 301",
@@ -7033,7 +7033,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "H Ghani",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "KORN 101",
@@ -7837,7 +7837,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "MCOM 404",
@@ -9613,7 +9613,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "PSYC 415",
