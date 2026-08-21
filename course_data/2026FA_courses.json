@@ -5161,7 +5161,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 120",
@@ -6205,7 +6205,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "D Bakker",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "ENVR 501",
@@ -7093,7 +7093,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "LING 301",
@@ -7201,7 +7201,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "N Shahid",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "MATH 102",
@@ -9721,7 +9721,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "PSYC 501",
