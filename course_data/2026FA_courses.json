@@ -3373,7 +3373,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "43"
+      "available": "42"
     },
     {
       "course_code": "COMP 497B",
@@ -5269,7 +5269,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Aslam",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "EDUC 310",
@@ -6097,7 +6097,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Aslam",
       "capacity": "35",
-      "available": "4"
+      "available": "2"
     },
     {
       "course_code": "ENVR 305",
