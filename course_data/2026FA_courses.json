@@ -2545,7 +2545,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | T | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "CHEM 250",
@@ -2605,7 +2605,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
       "instructor": "S Azeem",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "CHEM 361",
@@ -10513,7 +10513,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Hanook",
       "capacity": "10",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "STAT 317",
