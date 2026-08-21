@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 916,
+  "total_courses": 915,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -745,7 +745,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 201",
@@ -937,7 +937,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "F Idrees",
       "capacity": "33",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "BUSN 230",
@@ -961,7 +961,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "33",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BUSN 230",
@@ -2761,7 +2761,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Iqbal",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "CHEM 746",
@@ -2773,7 +2773,7 @@
       "schedule_raw": "M W | 14:00 - 15:15",
       "instructor": "D Ahmed",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "CHEM 762",
@@ -2785,7 +2785,7 @@
       "schedule_raw": "M W | 15:30 - 16:45",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "CHEM 799A",
@@ -4381,7 +4381,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Naqvi",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "DATA 301",
@@ -4525,7 +4525,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ECON 101",
@@ -4549,7 +4549,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ECON 102",
@@ -5617,7 +5617,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Maqbool",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -5833,7 +5833,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Mir",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "ENGL 325",
@@ -6433,7 +6433,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "GEOG 101",
@@ -8194,7 +8194,7 @@
       "course_name": "*General Physics I",
       "credits": "3.00",
       "classroom": "SBLOCKS039 | SBLOCKS029",
-      "schedule_raw": "T R | 09:30 - 10:45 | F | 14:00 - 15:50",
+      "schedule_raw": "T R | 09:30 - 10:20 | F | 14:00 - 15:50",
       "instructor": "S Shah",
       "capacity": "35",
       "available": "0"
@@ -8206,7 +8206,7 @@
       "course_name": "*General Physics I",
       "credits": "3.00",
       "classroom": "SBLOCKS029",
-      "schedule_raw": "M W F | 10:00 - 10:50 | M | 14:00 - 16:00",
+      "schedule_raw": "M W | 10:00 - 10:50 | M | 14:00 - 16:00",
       "instructor": "K Javed",
       "capacity": "35",
       "available": "0"
@@ -8218,7 +8218,7 @@
       "course_name": "*General Physics I",
       "credits": "3.00",
       "classroom": "SBLOCKS007 | SBLOCKS029",
-      "schedule_raw": "M W F | 11:00 - 11:50 | T | 14:00 - 15:50",
+      "schedule_raw": "M W | 11:00 - 11:50 | T | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "35",
       "available": "0"
@@ -8284,18 +8284,6 @@
       "available": "30"
     },
     {
-      "course_code": "PHYS 331",
-      "section": "A",
-      "unique": "PHYS 331/A",
-      "course_name": "*Electronics I",
-      "credits": "4.00",
-      "classroom": "SBLOCKS016A | SBLOCKS027B",
-      "schedule_raw": "M W F | 09:00 - 09:50 | F | 14:00 - 15:50",
-      "instructor": "TBD",
-      "capacity": "35",
-      "available": "33"
-    },
-    {
       "course_code": "PHYS 334",
       "section": "A",
       "unique": "PHYS 334/A",
@@ -8351,7 +8339,7 @@
       "credits": "3.00",
       "classroom": "TBDTBD",
       "schedule_raw": "MTWRF",
-      "instructor": "S Zaheer",
+      "instructor": "K Javed",
       "capacity": "35",
       "available": "35"
     },
@@ -8363,7 +8351,7 @@
       "credits": "3.00",
       "classroom": "TBDTBD",
       "schedule_raw": "MTWRF",
-      "instructor": "TBD",
+      "instructor": "K Javed",
       "capacity": "35",
       "available": "32"
     },
@@ -8420,10 +8408,10 @@
       "section": "A",
       "unique": "PHYS 699A/A",
       "course_name": "Research Project",
-      "credits": "7.00",
+      "credits": "3.00",
       "classroom": "TBDTBD",
       "schedule_raw": "MTWRF",
-      "instructor": "S Zaheer",
+      "instructor": "K Javed",
       "capacity": "25",
       "available": "23"
     },
@@ -8432,10 +8420,10 @@
       "section": "A",
       "unique": "PHYS 699B/A",
       "course_name": "Research Project",
-      "credits": "7.00",
+      "credits": "3.00",
       "classroom": "TBDTBD",
       "schedule_raw": "MTWRF",
-      "instructor": "S Zaheer",
+      "instructor": "K Javed",
       "capacity": "25",
       "available": "25"
     },
@@ -8507,7 +8495,7 @@
       "credits": "3.00",
       "classroom": "TBDTBD",
       "schedule_raw": "MTWRF",
-      "instructor": "S Zaheer",
+      "instructor": "K Javed",
       "capacity": "30",
       "available": "30"
     },
@@ -8519,7 +8507,7 @@
       "credits": "3.00",
       "classroom": "TBDTBD",
       "schedule_raw": "MTWRF",
-      "instructor": "S Zaheer",
+      "instructor": "K Javed",
       "capacity": "20",
       "available": "20"
     },
@@ -8531,7 +8519,7 @@
       "credits": "3.00",
       "classroom": "TBDTBD",
       "schedule_raw": "MTWRF",
-      "instructor": "S Zaheer",
+      "instructor": "K Javed",
       "capacity": "20",
       "available": "20"
     },
@@ -8543,7 +8531,7 @@
       "credits": "3.00",
       "classroom": "TBDTBD",
       "schedule_raw": "MTWRF",
-      "instructor": "S Zaheer",
+      "instructor": "K Javed",
       "capacity": "30",
       "available": "30"
     },
@@ -8555,7 +8543,7 @@
       "credits": "0",
       "classroom": "TBDTBD",
       "schedule_raw": "MTWRF",
-      "instructor": "S Zaheer",
+      "instructor": "K Javed",
       "capacity": "25",
       "available": "25"
     },

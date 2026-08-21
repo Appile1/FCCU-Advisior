@@ -6060,9 +6060,25 @@
         "course_code": "PHYS 101",
         "section": "B",
         "course_name": "*General Physics I",
-        "schedule": "M W F | 10:00 - 10:50 | M | 14:00 - 16:00",
+        "schedule": "M W | 10:00 - 10:50 | M | 14:00 - 16:00",
         "classroom": "SBLOCKS029",
         "unique": "PHYS 101/B"
+      },
+      {
+        "course_code": "PHYS 499A",
+        "section": "A",
+        "course_name": "Senior Thesis Proj.",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "PHYS 499A/A"
+      },
+      {
+        "course_code": "PHYS 499B",
+        "section": "A",
+        "course_name": "Senior Thesis Projec",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "PHYS 499B/A"
       },
       {
         "course_code": "PHYS 520",
@@ -6073,21 +6089,86 @@
         "unique": "PHYS 520/A"
       },
       {
+        "course_code": "PHYS 699A",
+        "section": "A",
+        "course_name": "Research Project",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "PHYS 699A/A"
+      },
+      {
+        "course_code": "PHYS 699B",
+        "section": "A",
+        "course_name": "Research Project",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "PHYS 699B/A"
+      },
+      {
         "course_code": "PHYS 712",
         "section": "A",
         "course_name": "Mechanics of Materia",
         "schedule": "T R | 14:00 - 15:15",
         "classroom": "SBLOCKS027B",
         "unique": "PHYS 712/A"
+      },
+      {
+        "course_code": "PHYS 799A",
+        "section": "A",
+        "course_name": "Research",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "PHYS 799A/A"
+      },
+      {
+        "course_code": "PHYS 799B",
+        "section": "A",
+        "course_name": "Research",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "PHYS 799B/A"
+      },
+      {
+        "course_code": "PHYS 799C",
+        "section": "A",
+        "course_name": "PhD Thesis Project",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "PHYS 799C/A"
+      },
+      {
+        "course_code": "PHYS 799D",
+        "section": "A",
+        "course_name": "Research",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "PHYS 799D/A"
+      },
+      {
+        "course_code": "PHYS COMP",
+        "section": "A",
+        "course_name": "Comprehensive Exam",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "PHYS COMP/A"
       }
     ],
     "all_courses": [
       "PHYS 100",
       "PHYS 101",
       "PHYS 483",
+      "PHYS 499A",
+      "PHYS 499B",
       "PHYS 504",
       "PHYS 520",
-      "PHYS 712"
+      "PHYS 699A",
+      "PHYS 699B",
+      "PHYS 712",
+      "PHYS 799A",
+      "PHYS 799B",
+      "PHYS 799C",
+      "PHYS 799D",
+      "PHYS COMP"
     ]
   },
   {
@@ -6145,7 +6226,7 @@
         "course_code": "PHYS 101",
         "section": "A",
         "course_name": "*General Physics I",
-        "schedule": "T R | 09:30 - 10:45 | F | 14:00 - 15:50",
+        "schedule": "T R | 09:30 - 10:20 | F | 14:00 - 15:50",
         "classroom": "SBLOCKS039 | SBLOCKS029",
         "unique": "PHYS 101/A"
       },
@@ -6186,7 +6267,7 @@
         "course_code": "PHYS 101",
         "section": "C",
         "course_name": "*General Physics I",
-        "schedule": "M W F | 11:00 - 11:50 | T | 14:00 - 15:50",
+        "schedule": "M W | 11:00 - 11:50 | T | 14:00 - 15:50",
         "classroom": "SBLOCKS007 | SBLOCKS029",
         "unique": "PHYS 101/C"
       },
@@ -6273,14 +6354,6 @@
         "unique": "PHYS 461/A"
       },
       {
-        "course_code": "PHYS 499A",
-        "section": "A",
-        "course_name": "Senior Thesis Proj.",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "PHYS 499A/A"
-      },
-      {
         "course_code": "PHYS 511",
         "section": "A",
         "course_name": "Plasma Physics I",
@@ -6289,68 +6362,12 @@
         "unique": "PHYS 511/A"
       },
       {
-        "course_code": "PHYS 699A",
-        "section": "A",
-        "course_name": "Research Project",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "PHYS 699A/A"
-      },
-      {
-        "course_code": "PHYS 699B",
-        "section": "A",
-        "course_name": "Research Project",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "PHYS 699B/A"
-      },
-      {
         "course_code": "PHYS 715",
         "section": "A",
         "course_name": "Adv.Spc.Plasma Physi",
         "schedule": "M W | 14:00 - 15:15",
         "classroom": "SBLOCKS027B",
         "unique": "PHYS 715/A"
-      },
-      {
-        "course_code": "PHYS 799A",
-        "section": "A",
-        "course_name": "Research",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "PHYS 799A/A"
-      },
-      {
-        "course_code": "PHYS 799B",
-        "section": "A",
-        "course_name": "Research",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "PHYS 799B/A"
-      },
-      {
-        "course_code": "PHYS 799C",
-        "section": "A",
-        "course_name": "PhD Thesis Project",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "PHYS 799C/A"
-      },
-      {
-        "course_code": "PHYS 799D",
-        "section": "A",
-        "course_name": "Research",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "PHYS 799D/A"
-      },
-      {
-        "course_code": "PHYS COMP",
-        "section": "A",
-        "course_name": "Comprehensive Exam",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "PHYS COMP/A"
       }
     ],
     "all_courses": [
@@ -6387,28 +6404,12 @@
     ],
     "current_courses": [
       {
-        "course_code": "PHYS 331",
-        "section": "A",
-        "course_name": "*Electronics I",
-        "schedule": "M W F | 09:00 - 09:50 | F | 14:00 - 15:50",
-        "classroom": "SBLOCKS016A | SBLOCKS027B",
-        "unique": "PHYS 331/A"
-      },
-      {
         "course_code": "PHYS 342",
         "section": "A",
         "course_name": "Computationl Physics",
         "schedule": "T R | 12:30 - 13:45",
         "classroom": "SBLOCKS039",
         "unique": "PHYS 342/A"
-      },
-      {
-        "course_code": "PHYS 499B",
-        "section": "A",
-        "course_name": "Senior Thesis Projec",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "PHYS 499B/A"
       },
       {
         "course_code": "PHYS 503",
