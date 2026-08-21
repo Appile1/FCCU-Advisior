@@ -3613,7 +3613,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "CRST 211",
@@ -4537,7 +4537,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ECON 101",
@@ -6529,7 +6529,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "GEOG 371",
@@ -6805,7 +6805,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Hayat",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "HPED 101",
@@ -7321,7 +7321,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "MATH 107",
@@ -7453,7 +7453,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "MATH 213",
@@ -7825,7 +7825,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "MCOM 402",
@@ -7873,7 +7873,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "F Jabeen",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "MCOM 414",
@@ -9709,7 +9709,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "PSYC 490",
