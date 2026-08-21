@@ -4549,7 +4549,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "ECON 102",
@@ -5125,7 +5125,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 110",
@@ -9009,8 +9009,8 @@
       "unique": "PLSC 521/A",
       "course_name": "Women and Politics",
       "credits": "3.00",
-      "classroom": "EBLOCKE139",
-      "schedule_raw": "R | 16:00 - 19:00",
+      "classroom": "EBLOCKE222",
+      "schedule_raw": "T | 16:00 - 19:00",
       "instructor": "S Awan",
       "capacity": "25",
       "available": "25"
