@@ -3613,7 +3613,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "CRST 211",
@@ -5545,7 +5545,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A  Khalid",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -6433,7 +6433,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Shakrul",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "GEOG 101",
@@ -6481,7 +6481,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "GEOG 201",
@@ -8749,7 +8749,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "PLSC 302",
@@ -9133,7 +9133,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "E Shahid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 105",
@@ -9193,7 +9193,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PSYC 175",
