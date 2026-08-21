@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 914,
+  "total_courses": 916,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -229,7 +229,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | W | 14:00 - 15:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BIOL 315",
@@ -6425,6 +6425,30 @@
     },
     {
       "course_code": "GEOG 101",
+      "section": "C",
+      "unique": "GEOG 101/C",
+      "course_name": "Funda of Geography",
+      "credits": "3.00",
+      "classroom": "EBLOCKE228",
+      "schedule_raw": "T R | 09:30 - 10:45",
+      "instructor": "K Shakrul",
+      "capacity": "35",
+      "available": "7"
+    },
+    {
+      "course_code": "GEOG 101",
+      "section": "E",
+      "unique": "GEOG 101/E",
+      "course_name": "Funda of Geography",
+      "credits": "3.00",
+      "classroom": "EBLOCKE228",
+      "schedule_raw": "M W F | 10:00 - 10:50",
+      "instructor": "K Shafiqu",
+      "capacity": "35",
+      "available": "1"
+    },
+    {
+      "course_code": "GEOG 101",
       "section": "F",
       "unique": "GEOG 101/F",
       "course_name": "Funda of Geography",
@@ -7561,7 +7585,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MCOM 200",

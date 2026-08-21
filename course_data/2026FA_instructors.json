@@ -12319,6 +12319,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "GEOG 101",
+        "section": "C",
+        "course_name": "Funda of Geography",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE228",
+        "unique": "GEOG 101/C"
+      },
+      {
         "course_code": "GEOG 323",
         "section": "A",
         "course_name": "Population Geography",
@@ -12358,6 +12366,14 @@
       "GEOG"
     ],
     "current_courses": [
+      {
+        "course_code": "GEOG 101",
+        "section": "E",
+        "course_name": "Funda of Geography",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE228",
+        "unique": "GEOG 101/E"
+      },
       {
         "course_code": "GEOG 210",
         "section": "A",
