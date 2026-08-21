@@ -877,7 +877,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "R John",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 230",
@@ -937,7 +937,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "F Idrees",
       "capacity": "33",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "BUSN 230",
@@ -4489,7 +4489,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "ECON 100",
@@ -7237,7 +7237,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "MATH 105",
@@ -8113,7 +8113,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PHIL 221",
@@ -10405,7 +10405,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "STAT 115",
