@@ -361,7 +361,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "I John",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "BIOT 307",
@@ -697,7 +697,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "BUSN 201",
@@ -745,7 +745,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 201",
@@ -6445,7 +6445,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "GEOG 201",
@@ -7057,7 +7057,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Javed",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "LING 217",
