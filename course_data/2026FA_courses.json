@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 915,
+  "total_courses": 914,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -397,7 +397,7 @@
       "schedule_raw": "M | 11:00 - 12:50 | T R | 14:00 - 15:15",
       "instructor": "A Maqbool",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOT 314",
@@ -6748,18 +6748,6 @@
       "available": "0"
     },
     {
-      "course_code": "HIST 308",
-      "section": "A",
-      "unique": "HIST 308/A",
-      "course_name": "History of Lahore",
-      "credits": "3.00",
-      "classroom": "EBLOCKE041",
-      "schedule_raw": "T R | 14:00 - 15:15",
-      "instructor": "M Shafqat",
-      "capacity": "35",
-      "available": "33"
-    },
-    {
       "course_code": "HIST 310",
       "section": "B",
       "unique": "HIST 310/B",
@@ -9721,7 +9709,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "PSYC 499A",
@@ -9733,7 +9721,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "PSYC 501",

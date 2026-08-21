@@ -12552,14 +12552,6 @@
         "schedule": "T R | 12:30 - 13:45",
         "classroom": "EBLOCKE041",
         "unique": "HIST 255/A"
-      },
-      {
-        "course_code": "HIST 308",
-        "section": "A",
-        "course_name": "History of Lahore",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE041",
-        "unique": "HIST 308/A"
       }
     ],
     "all_courses": [
