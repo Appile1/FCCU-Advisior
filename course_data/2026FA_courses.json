@@ -877,7 +877,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "R John",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 230",
@@ -1429,7 +1429,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 360",
@@ -5125,7 +5125,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 110",
@@ -5353,7 +5353,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "EDUC 390",
@@ -7873,7 +7873,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "F Jabeen",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "MCOM 414",
@@ -9193,7 +9193,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "PSYC 175",
@@ -9553,7 +9553,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "PSYC 375",
@@ -9613,7 +9613,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "PSYC 415",
@@ -10177,7 +10177,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "SOCL 465",
@@ -10513,7 +10513,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Mughal",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 207",
