@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 914,
+  "total_courses": 915,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -3073,7 +3073,7 @@
       "schedule_raw": "M W | 09:00 - 10:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "COMP 300",
@@ -6877,7 +6877,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | M | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "HPED 150",
@@ -6889,7 +6889,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HPED 151",
@@ -8524,6 +8524,18 @@
       "available": "30"
     },
     {
+      "course_code": "PHYS 799E",
+      "section": "A",
+      "unique": "PHYS 799E/A",
+      "course_name": "Research",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "K Javed",
+      "capacity": "25",
+      "available": "24"
+    },
+    {
       "course_code": "PHYS COMP",
       "section": "A",
       "unique": "PHYS COMP/A",
@@ -8809,7 +8821,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 322",

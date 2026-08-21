@@ -6145,6 +6145,14 @@
         "unique": "PHYS 799D/A"
       },
       {
+        "course_code": "PHYS 799E",
+        "section": "A",
+        "course_name": "Research",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "PHYS 799E/A"
+      },
+      {
         "course_code": "PHYS COMP",
         "section": "A",
         "course_name": "Comprehensive Exam",
@@ -6168,6 +6176,7 @@
       "PHYS 799B",
       "PHYS 799C",
       "PHYS 799D",
+      "PHYS 799E",
       "PHYS COMP"
     ]
   },
