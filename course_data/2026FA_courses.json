@@ -5221,7 +5221,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "EDUC 240",
@@ -5833,7 +5833,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ENGL 331",
@@ -8749,7 +8749,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Q Memon",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PLSC 304",
