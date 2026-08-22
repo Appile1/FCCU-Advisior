@@ -2509,7 +2509,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | F | 11:00 - 12:50",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "CHEM 160",
@@ -8989,7 +8989,7 @@
       "schedule_raw": "F | 16:00 - 19:00",
       "instructor": "A Qureshi",
       "capacity": "25",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "PLSC 514",
@@ -9013,7 +9013,7 @@
       "schedule_raw": "T | 16:00 - 19:00",
       "instructor": "S Awan",
       "capacity": "25",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "PLSC 523",
@@ -9637,7 +9637,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M  Niazi",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "PSYC 430",
@@ -10117,7 +10117,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "SOCL 291",
