@@ -2605,7 +2605,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
       "instructor": "S Azeem",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "CHEM 361",
@@ -6169,7 +6169,7 @@
       "schedule_raw": "T R | 09:00 - 10:50",
       "instructor": "S Aslam",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "ENVR 414",
@@ -6697,7 +6697,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "HIST 301",
@@ -10537,7 +10537,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Hanook",
       "capacity": "10",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "STAT 317",
