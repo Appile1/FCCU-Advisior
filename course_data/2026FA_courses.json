@@ -3577,7 +3577,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "CRST 152",
@@ -7861,7 +7861,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Dr S Abbas",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MCOM 409",
@@ -7873,7 +7873,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "F Jabeen",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "MCOM 414",
@@ -9313,7 +9313,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 298",
@@ -10129,7 +10129,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Jafree",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "SOCL 301",
