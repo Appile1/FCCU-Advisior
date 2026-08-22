@@ -697,7 +697,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BUSN 201",
@@ -1057,7 +1057,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "BUSN 280",
@@ -3181,7 +3181,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "COMP 303",
@@ -5233,7 +5233,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "EDUC 240",
@@ -9193,7 +9193,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "PSYC 175",
