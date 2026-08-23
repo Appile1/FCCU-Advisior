@@ -5233,7 +5233,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "EDUC 240",
@@ -7321,7 +7321,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "MATH 107",
@@ -10465,7 +10465,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Ayub",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "STAT 206",
