@@ -2622,5 +2622,21 @@
     "section": "B",
     "instructor": "H Mahmood",
     "timestamp": "2026-08-23T15:10:40.716773+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENVR 101 (C): TBD → Team",
+    "course_code": "ENVR 101",
+    "section": "C",
+    "instructor": "Team",
+    "timestamp": "2026-08-23T15:30:41.046249+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENVR 305 (A): TBD → Team",
+    "course_code": "ENVR 305",
+    "section": "A",
+    "instructor": "Team",
+    "timestamp": "2026-08-23T15:30:41.046270+00:00"
   }
 ]

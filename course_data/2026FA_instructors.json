@@ -12208,8 +12208,27 @@
     "departments": [
       "ENVR"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "ENVR 101",
+        "section": "C",
+        "course_name": "*Intro Env Sciences",
+        "schedule": "M | 14:00 - 15:50 | T R | 14:00 - 14:50",
+        "classroom": "SBLOCKS341 | SBLOCKS424",
+        "unique": "ENVR 101/C"
+      },
+      {
+        "course_code": "ENVR 305",
+        "section": "A",
+        "course_name": "Pop. Dynamics & Urbn",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS424",
+        "unique": "ENVR 305/A"
+      }
+    ],
     "all_courses": [
+      "ENVR 101",
+      "ENVR 305",
       "ENVR 605"
     ]
   },
@@ -12943,22 +12962,6 @@
       "ENVR"
     ],
     "current_courses": [
-      {
-        "course_code": "ENVR 101",
-        "section": "C",
-        "course_name": "*Intro Env Sciences",
-        "schedule": "M | 14:00 - 15:50 | T R | 14:00 - 14:50",
-        "classroom": "SBLOCKS341 | SBLOCKS424",
-        "unique": "ENVR 101/C"
-      },
-      {
-        "course_code": "ENVR 305",
-        "section": "A",
-        "course_name": "Pop. Dynamics & Urbn",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "SBLOCKS424",
-        "unique": "ENVR 305/A"
-      },
       {
         "course_code": "ENVR 503",
         "section": "A",
