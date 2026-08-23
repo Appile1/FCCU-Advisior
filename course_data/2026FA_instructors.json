@@ -12221,6 +12221,22 @@
     "current_courses": [
       {
         "course_code": "FREN 101",
+        "section": "A",
+        "course_name": "French 1",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE244",
+        "unique": "FREN 101/A"
+      },
+      {
+        "course_code": "FREN 101",
+        "section": "B",
+        "course_name": "French 1",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE244",
+        "unique": "FREN 101/B"
+      },
+      {
+        "course_code": "FREN 101",
         "section": "C",
         "course_name": "French 1",
         "schedule": "T R | 12:30 - 13:45",
@@ -12433,6 +12449,22 @@
     "current_courses": [
       {
         "course_code": "GRMN 101",
+        "section": "A",
+        "course_name": "German I",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE244",
+        "unique": "GRMN 101/A"
+      },
+      {
+        "course_code": "GRMN 101",
+        "section": "B",
+        "course_name": "German I",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE244",
+        "unique": "GRMN 101/B"
+      },
+      {
+        "course_code": "GRMN 101",
         "section": "C",
         "course_name": "German I",
         "schedule": "T R | 08:00 - 09:15",
@@ -12458,24 +12490,7 @@
     "departments": [
       "GRMN"
     ],
-    "current_courses": [
-      {
-        "course_code": "GRMN 101",
-        "section": "A",
-        "course_name": "German I",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE244",
-        "unique": "GRMN 101/A"
-      },
-      {
-        "course_code": "GRMN 101",
-        "section": "B",
-        "course_name": "German I",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "EBLOCKE244",
-        "unique": "GRMN 101/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "GRMN 101"
     ]
@@ -13409,24 +13424,7 @@
     "departments": [
       "FREN"
     ],
-    "current_courses": [
-      {
-        "course_code": "FREN 101",
-        "section": "A",
-        "course_name": "French 1",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE244",
-        "unique": "FREN 101/A"
-      },
-      {
-        "course_code": "FREN 101",
-        "section": "B",
-        "course_name": "French 1",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE244",
-        "unique": "FREN 101/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "FREN 101"
     ]

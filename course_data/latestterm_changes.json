@@ -2590,5 +2590,37 @@
     "section": "A",
     "instructor": "K Javed",
     "timestamp": "2026-08-21T10:30:40.811161+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for FREN 101 (A): TBD → A Anwar",
+    "course_code": "FREN 101",
+    "section": "A",
+    "instructor": "A Anwar",
+    "timestamp": "2026-08-23T15:10:40.716739+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for FREN 101 (B): TBD → A Anwar",
+    "course_code": "FREN 101",
+    "section": "B",
+    "instructor": "A Anwar",
+    "timestamp": "2026-08-23T15:10:40.716761+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for GRMN 101 (A): Qurit U An → H Mahmood",
+    "course_code": "GRMN 101",
+    "section": "A",
+    "instructor": "H Mahmood",
+    "timestamp": "2026-08-23T15:10:40.716770+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for GRMN 101 (B): Qurit U An → H Mahmood",
+    "course_code": "GRMN 101",
+    "section": "B",
+    "instructor": "H Mahmood",
+    "timestamp": "2026-08-23T15:10:40.716773+00:00"
   }
 ]

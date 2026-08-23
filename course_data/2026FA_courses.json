@@ -1477,7 +1477,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "BUSN 360",
@@ -1849,7 +1849,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "BUSN 460",
@@ -6311,7 +6311,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE244",
       "schedule_raw": "M W F | 12:00 - 12:50",
-      "instructor": "TBD",
+      "instructor": "A Anwar",
       "capacity": "20",
       "available": "0"
     },
@@ -6323,7 +6323,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE244",
       "schedule_raw": "M W F | 14:00 - 14:50",
-      "instructor": "TBD",
+      "instructor": "A Anwar",
       "capacity": "20",
       "available": "0"
     },
@@ -6575,7 +6575,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE244",
       "schedule_raw": "T R | 11:00 - 12:15",
-      "instructor": "Qurit U An",
+      "instructor": "H Mahmood",
       "capacity": "20",
       "available": "0"
     },
@@ -6587,7 +6587,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE244",
       "schedule_raw": "T R | 12:30 - 13:45",
-      "instructor": "Qurit U An",
+      "instructor": "H Mahmood",
       "capacity": "20",
       "available": "0"
     },
@@ -7645,7 +7645,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "MCOM 203",
