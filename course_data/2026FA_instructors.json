@@ -2964,14 +2964,6 @@
     "current_courses": [
       {
         "course_code": "COMP 213",
-        "section": "A",
-        "course_name": "Database Systems",
-        "schedule": "M W | 10:00 - 11:50",
-        "classroom": "SBLOCKS320",
-        "unique": "COMP 213/A"
-      },
-      {
-        "course_code": "COMP 213",
         "section": "B",
         "course_name": "Database Systems",
         "schedule": "M W | 14:00 - 15:50",
@@ -3822,14 +3814,6 @@
       "CSCS"
     ],
     "current_courses": [
-      {
-        "course_code": "CSCS 105",
-        "section": "A",
-        "course_name": "*Basic Electronics",
-        "schedule": "M W F | 14:00 - 14:50 | F | 08:00 - 10:50",
-        "classroom": "SBLOCKS215 | SBLOCKS027B",
-        "unique": "CSCS 105/A"
-      },
       {
         "course_code": "CSCS 290",
         "section": "A",
