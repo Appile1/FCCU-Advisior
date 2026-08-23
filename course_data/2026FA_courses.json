@@ -2497,7 +2497,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | W | 14:00 - 16:00",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "CHEM 150",
@@ -2521,7 +2521,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | T | 09:00 - 10:50",
       "instructor": "D Ahmed",
       "capacity": "20",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "CHEM 160",
@@ -7237,7 +7237,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "MATH 105",
