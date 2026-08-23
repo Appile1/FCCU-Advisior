@@ -3181,7 +3181,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "COMP 303",
@@ -5329,7 +5329,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "EDUC 355",
@@ -5689,7 +5689,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Bokhari",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "ENGL 201",
