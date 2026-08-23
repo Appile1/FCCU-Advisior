@@ -959,7 +959,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE240",
       "schedule_raw": "T R | 15:30 - 16:45",
-      "instructor": "TBD",
+      "instructor": "K Jamil",
       "capacity": "33",
       "available": "18"
     },
@@ -1583,7 +1583,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE333",
       "schedule_raw": "M W F | 14:00 - 14:50",
-      "instructor": "TBD",
+      "instructor": "K Mahmood",
       "capacity": "35",
       "available": "0"
     },
@@ -1607,7 +1607,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE344",
       "schedule_raw": "M W F | 15:00 - 15:50",
-      "instructor": "TBD",
+      "instructor": "K Mahmood",
       "capacity": "35",
       "available": "0"
     },
@@ -1631,7 +1631,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE331",
       "schedule_raw": "M W F | 08:00 - 08:50",
-      "instructor": "TBD",
+      "instructor": "F Mazhar",
       "capacity": "35",
       "available": "0"
     },
@@ -1691,7 +1691,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE229",
       "schedule_raw": "T R | 08:00 - 09:15",
-      "instructor": "TBD",
+      "instructor": "S Tahir",
       "capacity": "35",
       "available": "0"
     },
@@ -1835,7 +1835,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE213",
       "schedule_raw": "T R | 14:00 - 15:15",
-      "instructor": "TBD",
+      "instructor": "H Arshad",
       "capacity": "35",
       "available": "10"
     },
@@ -1981,7 +1981,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Amin",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BUSN 480",
@@ -2017,7 +2017,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Nawaz",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "BUSN 480",
@@ -6037,7 +6037,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "K Shafiqu",
       "capacity": "25",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ENVR 252",
@@ -6793,7 +6793,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HPED 105",

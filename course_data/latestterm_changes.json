@@ -2830,5 +2830,53 @@
     "section": "H",
     "instructor": "K Kamran",
     "timestamp": "2026-08-23T21:50:48.266956+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 230 (I): TBD → K Jamil",
+    "course_code": "BUSN 230",
+    "section": "I",
+    "instructor": "K Jamil",
+    "timestamp": "2026-08-23T22:00:51.087864+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 383 (A): TBD → K Mahmood",
+    "course_code": "BUSN 383",
+    "section": "A",
+    "instructor": "K Mahmood",
+    "timestamp": "2026-08-23T22:00:51.087896+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 383 (C): TBD → K Mahmood",
+    "course_code": "BUSN 383",
+    "section": "C",
+    "instructor": "K Mahmood",
+    "timestamp": "2026-08-23T22:00:51.087900+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 383 (E): TBD → F Mazhar",
+    "course_code": "BUSN 383",
+    "section": "E",
+    "instructor": "F Mazhar",
+    "timestamp": "2026-08-23T22:00:51.087903+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 385 (E): TBD → S Tahir",
+    "course_code": "BUSN 385",
+    "section": "E",
+    "instructor": "S Tahir",
+    "timestamp": "2026-08-23T22:00:51.087907+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 460 (E): TBD → H Arshad",
+    "course_code": "BUSN 460",
+    "section": "E",
+    "instructor": "H Arshad",
+    "timestamp": "2026-08-23T22:00:51.087912+00:00"
   }
 ]

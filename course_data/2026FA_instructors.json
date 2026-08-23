@@ -1524,7 +1524,24 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 383",
+        "section": "A",
+        "course_name": "Sales Force Mang",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE333",
+        "unique": "BUSN 383/A"
+      },
+      {
+        "course_code": "BUSN 383",
+        "section": "C",
+        "course_name": "Sales Force Mang",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE344",
+        "unique": "BUSN 383/C"
+      }
+    ],
     "all_courses": [
       "BUSN 280",
       "BUSN 383"
@@ -2038,7 +2055,16 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 383",
+        "section": "E",
+        "course_name": "Sales Force Mang",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE331",
+        "unique": "BUSN 383/E"
+      }
+    ],
     "all_courses": [
       "BUSN 383"
     ]
@@ -2167,7 +2193,16 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 460",
+        "section": "E",
+        "course_name": "Business Law",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE213",
+        "unique": "BUSN 460/E"
+      }
+    ],
     "all_courses": [
       "BUSN 460"
     ]
@@ -9677,14 +9712,6 @@
         "unique": "BUSN 230/H"
       },
       {
-        "course_code": "BUSN 230",
-        "section": "I",
-        "course_name": "Entrepreneurship",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE240",
-        "unique": "BUSN 230/I"
-      },
-      {
         "course_code": "BUSN 280",
         "section": "C",
         "course_name": "Mark. & Selling Skil",
@@ -9765,38 +9792,6 @@
         "unique": "BUSN 360/I"
       },
       {
-        "course_code": "BUSN 383",
-        "section": "A",
-        "course_name": "Sales Force Mang",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE333",
-        "unique": "BUSN 383/A"
-      },
-      {
-        "course_code": "BUSN 383",
-        "section": "C",
-        "course_name": "Sales Force Mang",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE344",
-        "unique": "BUSN 383/C"
-      },
-      {
-        "course_code": "BUSN 383",
-        "section": "E",
-        "course_name": "Sales Force Mang",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE331",
-        "unique": "BUSN 383/E"
-      },
-      {
-        "course_code": "BUSN 385",
-        "section": "E",
-        "course_name": "Consumer Behavior",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE229",
-        "unique": "BUSN 385/E"
-      },
-      {
         "course_code": "BUSN 404",
         "section": "B",
         "course_name": "Taxation",
@@ -9827,14 +9822,6 @@
         "schedule": "M W F | 16:00 - 16:50",
         "classroom": "EBLOCKE343",
         "unique": "BUSN 460/D"
-      },
-      {
-        "course_code": "BUSN 460",
-        "section": "E",
-        "course_name": "Business Law",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE213",
-        "unique": "BUSN 460/E"
       },
       {
         "course_code": "BUSN 461",
@@ -14494,6 +14481,44 @@
     ],
     "all_courses": [
       "BUSN 460"
+    ]
+  },
+  {
+    "name": "K Jamil",
+    "departments": [
+      "BUSN"
+    ],
+    "current_courses": [
+      {
+        "course_code": "BUSN 230",
+        "section": "I",
+        "course_name": "Entrepreneurship",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE240",
+        "unique": "BUSN 230/I"
+      }
+    ],
+    "all_courses": [
+      "BUSN 230"
+    ]
+  },
+  {
+    "name": "S Tahir",
+    "departments": [
+      "BUSN"
+    ],
+    "current_courses": [
+      {
+        "course_code": "BUSN 385",
+        "section": "E",
+        "course_name": "Consumer Behavior",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE229",
+        "unique": "BUSN 385/E"
+      }
+    ],
+    "all_courses": [
+      "BUSN 385"
     ]
   }
 ]
