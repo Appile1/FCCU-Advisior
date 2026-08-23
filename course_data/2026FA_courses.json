@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 912,
+  "total_courses": 911,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -3565,7 +3565,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "CRST 152",
@@ -4142,18 +4142,6 @@
       "instructor": "U  Nisar",
       "capacity": "35",
       "available": "26"
-    },
-    {
-      "course_code": "CSCS 473",
-      "section": "A",
-      "unique": "CSCS 473/A",
-      "course_name": "Agentic AI Systems",
-      "credits": "3.00",
-      "classroom": "SBLOCKS317",
-      "schedule_raw": "T R | 11:00 - 12:15",
-      "instructor": "Q Quraishi",
-      "capacity": "35",
-      "available": "35"
     },
     {
       "course_code": "DATA 101",
@@ -7621,7 +7609,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "MCOM 290",
@@ -9157,7 +9145,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "PSYC 175",

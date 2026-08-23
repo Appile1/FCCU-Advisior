@@ -3914,14 +3914,6 @@
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "SBLOCKS320",
         "unique": "CSCS 100/D"
-      },
-      {
-        "course_code": "CSCS 473",
-        "section": "A",
-        "course_name": "Agentic AI Systems",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS317",
-        "unique": "CSCS 473/A"
       }
     ],
     "all_courses": [
