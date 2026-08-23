@@ -409,7 +409,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BIOT 315",
@@ -2497,7 +2497,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | W | 14:00 - 16:00",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "CHEM 150",
@@ -8257,7 +8257,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Shah",
       "capacity": "20",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "PHYS 221",
@@ -8353,7 +8353,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "PHYS 509",
@@ -8365,7 +8365,7 @@
       "schedule_raw": "M W | 15:30 - 16:50",
       "instructor": "H Latif",
       "capacity": "30",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "PHYS 511",
@@ -8377,7 +8377,7 @@
       "schedule_raw": "M W | 14:00 - 15:15",
       "instructor": "S Zaheer",
       "capacity": "30",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "PHYS 520",
@@ -8389,7 +8389,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "K Javed",
       "capacity": "25",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "PHYS 699A",
@@ -10513,7 +10513,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Mughal",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 207",
@@ -10549,7 +10549,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "I Naqvi",
       "capacity": "25",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "STAT 317",
@@ -10585,7 +10585,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Mushtaq",
       "capacity": "25",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "STAT 516",
