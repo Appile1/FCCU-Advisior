@@ -985,9 +985,19 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 360",
+        "section": "H",
+        "course_name": "Ope. & Proj. Mgt. I",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE331",
+        "unique": "BUSN 360/H"
+      }
+    ],
     "all_courses": [
-      "BUSN 170"
+      "BUSN 170",
+      "BUSN 360"
     ]
   },
   {
@@ -1077,7 +1087,16 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 201",
+        "section": "G",
+        "course_name": "Intermediate Account",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE228",
+        "unique": "BUSN 201/G"
+      }
+    ],
     "all_courses": [
       "BUSN 121",
       "BUSN 201"
@@ -1651,8 +1670,26 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 201",
+        "section": "B",
+        "course_name": "Intermediate Account",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE240",
+        "unique": "BUSN 201/B"
+      },
+      {
+        "course_code": "BUSN 321",
+        "section": "C",
+        "course_name": "Financial Mgt. I",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE328",
+        "unique": "BUSN 321/C"
+      }
+    ],
     "all_courses": [
+      "BUSN 201",
       "BUSN 321"
     ]
   },
@@ -9600,14 +9637,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "BUSN 101",
-        "section": "B",
-        "course_name": "Principles of Acc.",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE328",
-        "unique": "BUSN 101/B"
-      },
-      {
         "course_code": "BUSN 170",
         "section": "F",
         "course_name": "Principles of Manage",
@@ -9617,27 +9646,11 @@
       },
       {
         "course_code": "BUSN 201",
-        "section": "B",
-        "course_name": "Intermediate Account",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE240",
-        "unique": "BUSN 201/B"
-      },
-      {
-        "course_code": "BUSN 201",
         "section": "D",
         "course_name": "Intermediate Account",
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "EBLOCKE213",
         "unique": "BUSN 201/D"
-      },
-      {
-        "course_code": "BUSN 201",
-        "section": "G",
-        "course_name": "Intermediate Account",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE228",
-        "unique": "BUSN 201/G"
       },
       {
         "course_code": "BUSN 201",
@@ -9736,28 +9749,12 @@
         "unique": "BUSN 321/B"
       },
       {
-        "course_code": "BUSN 321",
-        "section": "C",
-        "course_name": "Financial Mgt. I",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE328",
-        "unique": "BUSN 321/C"
-      },
-      {
         "course_code": "BUSN 360",
         "section": "G",
         "course_name": "Ope. & Proj. Mgt. I",
         "schedule": "M W F | 15:00 - 15:50",
         "classroom": "EBLOCKE343",
         "unique": "BUSN 360/G"
-      },
-      {
-        "course_code": "BUSN 360",
-        "section": "H",
-        "course_name": "Ope. & Proj. Mgt. I",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE331",
-        "unique": "BUSN 360/H"
       },
       {
         "course_code": "BUSN 360",
@@ -9976,8 +9973,18 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 101",
+        "section": "B",
+        "course_name": "Principles of Acc.",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE328",
+        "unique": "BUSN 101/B"
+      }
+    ],
     "all_courses": [
+      "BUSN 101",
       "BUSN 121"
     ]
   },

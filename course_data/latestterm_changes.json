@@ -2790,5 +2790,45 @@
     "section": "A",
     "instructor": "S Ephraim",
     "timestamp": "2026-08-23T21:40:36.264538+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 101 (B): TBD → S Gul",
+    "course_code": "BUSN 101",
+    "section": "B",
+    "instructor": "S Gul",
+    "timestamp": "2026-08-23T21:50:48.266913+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 201 (B): TBD → S Ehsan",
+    "course_code": "BUSN 201",
+    "section": "B",
+    "instructor": "S Ehsan",
+    "timestamp": "2026-08-23T21:50:48.266935+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 201 (G): TBD → K AMAD",
+    "course_code": "BUSN 201",
+    "section": "G",
+    "instructor": "K AMAD",
+    "timestamp": "2026-08-23T21:50:48.266938+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 321 (C): TBD → S Ehsan",
+    "course_code": "BUSN 321",
+    "section": "C",
+    "instructor": "S Ehsan",
+    "timestamp": "2026-08-23T21:50:48.266951+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 360 (H): TBD → K Kamran",
+    "course_code": "BUSN 360",
+    "section": "H",
+    "instructor": "K Kamran",
+    "timestamp": "2026-08-23T21:50:48.266956+00:00"
   }
 ]
