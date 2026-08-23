@@ -3810,16 +3810,7 @@
     "departments": [
       "CSCS"
     ],
-    "current_courses": [
-      {
-        "course_code": "CSCS 105",
-        "section": "B",
-        "course_name": "*Basic Electronics",
-        "schedule": "T R | 09:30 - 10:45 | W | 11:00 - 13:50",
-        "classroom": "SBLOCKS316 | SBLOCKS027A",
-        "unique": "CSCS 105/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "CSCS 100",
       "CSCS 105"

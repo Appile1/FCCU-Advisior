@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 915,
+  "total_courses": 914,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -3869,18 +3869,6 @@
     },
     {
       "course_code": "CSCS 105",
-      "section": "B",
-      "unique": "CSCS 105/B",
-      "course_name": "*Basic Electronics",
-      "credits": "4.00",
-      "classroom": "SBLOCKS316 | SBLOCKS027A",
-      "schedule_raw": "T R | 09:30 - 10:45 | W | 11:00 - 13:50",
-      "instructor": "I Iqbal",
-      "capacity": "25",
-      "available": "25"
-    },
-    {
-      "course_code": "CSCS 105",
       "section": "C",
       "unique": "CSCS 105/C",
       "course_name": "*Basic Electronics",
@@ -4549,7 +4537,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "ECON 102",
@@ -4681,7 +4669,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Jalil",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "ECON 203",
@@ -8173,7 +8161,7 @@
       "schedule_raw": "T R | 11:00 - 11:50 | W | 14:00 - 16:00",
       "instructor": "K Javed",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 101",
@@ -9193,7 +9181,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "PSYC 175",
