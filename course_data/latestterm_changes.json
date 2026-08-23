@@ -2902,5 +2902,21 @@
     "section": "D",
     "instructor": "M Farrukh",
     "timestamp": "2026-08-23T22:10:39.852868+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: BUSN 344 (A) - TBD",
+    "course_code": "BUSN 344",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-08-23T22:20:35.510690+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 460 (D): TBD → R Hussain",
+    "course_code": "BUSN 460",
+    "section": "D",
+    "instructor": "R Hussain",
+    "timestamp": "2026-08-23T22:20:35.510720+00:00"
   }
 ]

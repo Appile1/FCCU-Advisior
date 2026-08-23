@@ -2212,7 +2212,16 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 460",
+        "section": "D",
+        "course_name": "Business Law",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE343",
+        "unique": "BUSN 460/D"
+      }
+    ],
     "all_courses": [
       "BUSN 460"
     ]
@@ -9705,22 +9714,6 @@
         "unique": "BUSN 201/D"
       },
       {
-        "course_code": "BUSN 201",
-        "section": "H",
-        "course_name": "Intermediate Account",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE346",
-        "unique": "BUSN 201/H"
-      },
-      {
-        "course_code": "BUSN 201",
-        "section": "K",
-        "course_name": "Intermediate Account",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE343",
-        "unique": "BUSN 201/K"
-      },
-      {
         "course_code": "BUSN 230",
         "section": "H",
         "course_name": "Entrepreneurship",
@@ -9778,19 +9771,19 @@
       },
       {
         "course_code": "BUSN 321",
-        "section": "A",
-        "course_name": "Financial Mgt. I",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE343",
-        "unique": "BUSN 321/A"
-      },
-      {
-        "course_code": "BUSN 321",
         "section": "B",
         "course_name": "Financial Mgt. I",
         "schedule": "M W F | 11:00 - 11:50",
         "classroom": "EBLOCKE240",
         "unique": "BUSN 321/B"
+      },
+      {
+        "course_code": "BUSN 344",
+        "section": "A",
+        "course_name": "Programming Language",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE344",
+        "unique": "BUSN 344/A"
       },
       {
         "course_code": "BUSN 360",
@@ -9823,14 +9816,6 @@
         "schedule": "T R | 15:30 - 16:45",
         "classroom": "EBLOCKE344",
         "unique": "BUSN 460/B"
-      },
-      {
-        "course_code": "BUSN 460",
-        "section": "D",
-        "course_name": "Business Law",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE343",
-        "unique": "BUSN 460/D"
       },
       {
         "course_code": "BUSN 461",
@@ -9917,6 +9902,7 @@
       "BUSN 280",
       "BUSN 301",
       "BUSN 321",
+      "BUSN 344",
       "BUSN 360",
       "BUSN 383",
       "BUSN 385",
