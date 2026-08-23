@@ -2638,5 +2638,21 @@
     "section": "A",
     "instructor": "Team",
     "timestamp": "2026-08-23T15:30:41.046270+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENVR 502 (A): S Ilyas → Team",
+    "course_code": "ENVR 502",
+    "section": "A",
+    "instructor": "Team",
+    "timestamp": "2026-08-23T15:40:33.689871+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENVR 503 (A): TBD → A arooj",
+    "course_code": "ENVR 503",
+    "section": "A",
+    "instructor": "A arooj",
+    "timestamp": "2026-08-23T15:40:33.689893+00:00"
   }
 ]

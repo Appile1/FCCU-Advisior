@@ -6118,7 +6118,7 @@
       "course_name": "Applied Ecology",
       "credits": "3.00",
       "classroom": "SBLOCKS417 | SBLOCKS135",
-      "schedule_raw": "M W F | 12:00 - 12:50 | W | 14:00 - 15:50",
+      "schedule_raw": "M   F | 12:00 - 12:50 | W | 14:00 - 15:50",
       "instructor": "S Akram",
       "capacity": "35",
       "available": "5"
@@ -6166,7 +6166,7 @@
       "course_name": "*Envr. Microbiology",
       "credits": "3.00",
       "classroom": "SBLOCKS417",
-      "schedule_raw": "T R | 09:00 - 10:50",
+      "schedule_raw": "T | 09:00 - 10:50 | R | 09:00 - 10:50",
       "instructor": "S Aslam",
       "capacity": "35",
       "available": "8"
@@ -6227,7 +6227,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS417",
       "schedule_raw": "M | 16:00 - 17:15 | F | 16:00 - 17:15",
-      "instructor": "S Ilyas",
+      "instructor": "Team",
       "capacity": "15",
       "available": "15"
     },
@@ -6239,7 +6239,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS417",
       "schedule_raw": "M | 17:30 - 18:45 | F | 17:30 - 18:45",
-      "instructor": "TBD",
+      "instructor": "A arooj",
       "capacity": "15",
       "available": "15"
     },
@@ -7021,7 +7021,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ISLM 306",

@@ -11884,7 +11884,7 @@
         "course_code": "ENVR 323",
         "section": "A",
         "course_name": "Applied Ecology",
-        "schedule": "M W F | 12:00 - 12:50 | W | 14:00 - 15:50",
+        "schedule": "M   F | 12:00 - 12:50 | W | 14:00 - 15:50",
         "classroom": "SBLOCKS417 | SBLOCKS135",
         "unique": "ENVR 323/A"
       },
@@ -11925,14 +11925,6 @@
         "schedule": "M   F | 10:00 - 10:50 | W | 09:00 - 10:50",
         "classroom": "SBLOCKS417 | SBLOCKS135",
         "unique": "ENVR 418/A"
-      },
-      {
-        "course_code": "ENVR 502",
-        "section": "A",
-        "course_name": "WWW Management",
-        "schedule": "M | 16:00 - 17:15 | F | 16:00 - 17:15",
-        "classroom": "SBLOCKS417",
-        "unique": "ENVR 502/A"
       },
       {
         "course_code": "ENVR 696",
@@ -12064,7 +12056,7 @@
         "course_code": "ENVR 411",
         "section": "A",
         "course_name": "*Envr. Microbiology",
-        "schedule": "T R | 09:00 - 10:50",
+        "schedule": "T | 09:00 - 10:50 | R | 09:00 - 10:50",
         "classroom": "SBLOCKS417",
         "unique": "ENVR 411/A"
       },
@@ -12224,11 +12216,20 @@
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "SBLOCKS424",
         "unique": "ENVR 305/A"
+      },
+      {
+        "course_code": "ENVR 502",
+        "section": "A",
+        "course_name": "WWW Management",
+        "schedule": "M | 16:00 - 17:15 | F | 16:00 - 17:15",
+        "classroom": "SBLOCKS417",
+        "unique": "ENVR 502/A"
       }
     ],
     "all_courses": [
       "ENVR 101",
       "ENVR 305",
+      "ENVR 502",
       "ENVR 605"
     ]
   },
@@ -12961,16 +12962,7 @@
     "departments": [
       "ENVR"
     ],
-    "current_courses": [
-      {
-        "course_code": "ENVR 503",
-        "section": "A",
-        "course_name": "Adv Env Analyt Tec",
-        "schedule": "M | 17:30 - 18:45 | F | 17:30 - 18:45",
-        "classroom": "SBLOCKS417",
-        "unique": "ENVR 503/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "ENVR 101",
       "ENVR 305",
@@ -14452,6 +14444,25 @@
       "ENGL 108",
       "ENGL 201",
       "ENGL 690"
+    ]
+  },
+  {
+    "name": "A arooj",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENVR 503",
+        "section": "A",
+        "course_name": "Adv Env Analyt Tec",
+        "schedule": "M | 17:30 - 18:45 | F | 17:30 - 18:45",
+        "classroom": "SBLOCKS417",
+        "unique": "ENVR 503/A"
+      }
+    ],
+    "all_courses": [
+      "ENVR 503"
     ]
   }
 ]
