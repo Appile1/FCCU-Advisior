@@ -3349,7 +3349,7 @@
       "schedule_raw": "T R | 11:00 - 12:50",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "COMP 451",
@@ -3877,7 +3877,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | W | 11:00 - 13:50",
       "instructor": "I Iqbal",
       "capacity": "25",
-      "available": "0"
+      "available": "25"
     },
     {
       "course_code": "CSCS 105",
@@ -4465,7 +4465,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "ECON 100",
@@ -5689,7 +5689,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Bokhari",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "ENGL 201",
@@ -6817,7 +6817,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HPED 101",
@@ -7717,7 +7717,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "MCOM 302",
@@ -7861,7 +7861,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Dr S Abbas",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MCOM 409",
@@ -10861,7 +10861,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "29"
+      "available": "27"
     },
     {
       "course_code": "URDU 201",
