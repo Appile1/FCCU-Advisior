@@ -2324,7 +2324,24 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 480",
+        "section": "C",
+        "course_name": "Marketing Research",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE345",
+        "unique": "BUSN 480/C"
+      },
+      {
+        "course_code": "BUSN 480",
+        "section": "D",
+        "course_name": "Marketing Research",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE344",
+        "unique": "BUSN 480/D"
+      }
+    ],
     "all_courses": [
       "BUSN 480"
     ]
@@ -9800,14 +9817,6 @@
         "unique": "BUSN 404/B"
       },
       {
-        "course_code": "BUSN 450",
-        "section": "A",
-        "course_name": "Labor Law",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE333",
-        "unique": "BUSN 450/A"
-      },
-      {
         "course_code": "BUSN 460",
         "section": "B",
         "course_name": "Business Law",
@@ -9838,22 +9847,6 @@
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "EBLOCKE240",
         "unique": "BUSN 480/A"
-      },
-      {
-        "course_code": "BUSN 480",
-        "section": "C",
-        "course_name": "Marketing Research",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE345",
-        "unique": "BUSN 480/C"
-      },
-      {
-        "course_code": "BUSN 480",
-        "section": "D",
-        "course_name": "Marketing Research",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE344",
-        "unique": "BUSN 480/D"
       },
       {
         "course_code": "BUSN 480",
@@ -14519,6 +14512,25 @@
     ],
     "all_courses": [
       "BUSN 385"
+    ]
+  },
+  {
+    "name": "U Chishti",
+    "departments": [
+      "BUSN"
+    ],
+    "current_courses": [
+      {
+        "course_code": "BUSN 450",
+        "section": "A",
+        "course_name": "Labor Law",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE333",
+        "unique": "BUSN 450/A"
+      }
+    ],
+    "all_courses": [
+      "BUSN 450"
     ]
   }
 ]

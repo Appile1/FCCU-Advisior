@@ -2878,5 +2878,29 @@
     "section": "E",
     "instructor": "H Arshad",
     "timestamp": "2026-08-23T22:00:51.087912+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 450 (A): TBD → U Chishti",
+    "course_code": "BUSN 450",
+    "section": "A",
+    "instructor": "U Chishti",
+    "timestamp": "2026-08-23T22:10:39.852845+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 480 (C): TBD → M Farrukh",
+    "course_code": "BUSN 480",
+    "section": "C",
+    "instructor": "M Farrukh",
+    "timestamp": "2026-08-23T22:10:39.852865+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 480 (D): TBD → M Farrukh",
+    "course_code": "BUSN 480",
+    "section": "D",
+    "instructor": "M Farrukh",
+    "timestamp": "2026-08-23T22:10:39.852868+00:00"
   }
 ]
