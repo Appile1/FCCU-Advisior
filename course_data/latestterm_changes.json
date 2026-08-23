@@ -2750,5 +2750,45 @@
     "section": "E",
     "instructor": "A Nawaz",
     "timestamp": "2026-08-23T21:30:48.989562+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 101 (L): TBD → H Haroon",
+    "course_code": "BUSN 101",
+    "section": "L",
+    "instructor": "H Haroon",
+    "timestamp": "2026-08-23T21:40:36.264487+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 170 (M): TBD → S Azariah",
+    "course_code": "BUSN 170",
+    "section": "M",
+    "instructor": "S Azariah",
+    "timestamp": "2026-08-23T21:40:36.264504+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 460 (C): TBD → I Wajid",
+    "course_code": "BUSN 460",
+    "section": "C",
+    "instructor": "I Wajid",
+    "timestamp": "2026-08-23T21:40:36.264528+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 460 (F): TBD → I Wajid",
+    "course_code": "BUSN 460",
+    "section": "F",
+    "instructor": "I Wajid",
+    "timestamp": "2026-08-23T21:40:36.264531+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 490 (A): TBD → S Ephraim",
+    "course_code": "BUSN 490",
+    "section": "A",
+    "instructor": "S Ephraim",
+    "timestamp": "2026-08-23T21:40:36.264538+00:00"
   }
 ]

@@ -926,8 +926,18 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 101",
+        "section": "L",
+        "course_name": "Principles of Acc.",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE346",
+        "unique": "BUSN 101/L"
+      }
+    ],
     "all_courses": [
+      "BUSN 101",
       "BUSN 170"
     ]
   },
@@ -936,7 +946,16 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 170",
+        "section": "M",
+        "course_name": "Principles of Manage",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE330",
+        "unique": "BUSN 170/M"
+      }
+    ],
     "all_courses": [
       "BUSN 170"
     ]
@@ -946,9 +965,19 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 490",
+        "section": "A",
+        "course_name": "Analysis of Inst",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE213",
+        "unique": "BUSN 490/A"
+      }
+    ],
     "all_courses": [
-      "BUSN 170"
+      "BUSN 170",
+      "BUSN 490"
     ]
   },
   {
@@ -9579,28 +9608,12 @@
         "unique": "BUSN 101/B"
       },
       {
-        "course_code": "BUSN 101",
-        "section": "L",
-        "course_name": "Principles of Acc.",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE346",
-        "unique": "BUSN 101/L"
-      },
-      {
         "course_code": "BUSN 170",
         "section": "F",
         "course_name": "Principles of Manage",
         "schedule": "T R | 14:00 - 15:15",
         "classroom": "EBLOCKE330",
         "unique": "BUSN 170/F"
-      },
-      {
-        "course_code": "BUSN 170",
-        "section": "M",
-        "course_name": "Principles of Manage",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE330",
-        "unique": "BUSN 170/M"
       },
       {
         "course_code": "BUSN 201",
@@ -9812,14 +9825,6 @@
       },
       {
         "course_code": "BUSN 460",
-        "section": "C",
-        "course_name": "Business Law",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE344",
-        "unique": "BUSN 460/C"
-      },
-      {
-        "course_code": "BUSN 460",
         "section": "D",
         "course_name": "Business Law",
         "schedule": "M W F | 16:00 - 16:50",
@@ -9833,14 +9838,6 @@
         "schedule": "T R | 14:00 - 15:15",
         "classroom": "EBLOCKE213",
         "unique": "BUSN 460/E"
-      },
-      {
-        "course_code": "BUSN 460",
-        "section": "F",
-        "course_name": "Business Law",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE213",
-        "unique": "BUSN 460/F"
       },
       {
         "course_code": "BUSN 461",
@@ -9881,14 +9878,6 @@
         "schedule": "M W F | 15:00 - 15:50",
         "classroom": "EBLOCKE240",
         "unique": "BUSN 480/F"
-      },
-      {
-        "course_code": "BUSN 490",
-        "section": "A",
-        "course_name": "Analysis of Inst",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "EBLOCKE213",
-        "unique": "BUSN 490/A"
       },
       {
         "course_code": "BUSN 507E",
@@ -14471,6 +14460,33 @@
     ],
     "all_courses": [
       "BUSN 480"
+    ]
+  },
+  {
+    "name": "I Wajid",
+    "departments": [
+      "BUSN"
+    ],
+    "current_courses": [
+      {
+        "course_code": "BUSN 460",
+        "section": "C",
+        "course_name": "Business Law",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE344",
+        "unique": "BUSN 460/C"
+      },
+      {
+        "course_code": "BUSN 460",
+        "section": "F",
+        "course_name": "Business Law",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE213",
+        "unique": "BUSN 460/F"
+      }
+    ],
+    "all_courses": [
+      "BUSN 460"
     ]
   }
 ]
