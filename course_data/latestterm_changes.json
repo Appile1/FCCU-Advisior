@@ -2702,5 +2702,53 @@
     "section": "A",
     "instructor": "A Bashir",
     "timestamp": "2026-08-23T18:40:38.680253+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 201 (E): TBD → A Saddiqa",
+    "course_code": "BUSN 201",
+    "section": "E",
+    "instructor": "A Saddiqa",
+    "timestamp": "2026-08-23T21:30:48.989505+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 460 (A): TBD → A Malik",
+    "course_code": "BUSN 460",
+    "section": "A",
+    "instructor": "A Malik",
+    "timestamp": "2026-08-23T21:30:48.989549+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 461 (B): TBD → F Malik",
+    "course_code": "BUSN 461",
+    "section": "B",
+    "instructor": "F Malik",
+    "timestamp": "2026-08-23T21:30:48.989554+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 464 (B): TBD → F Malik",
+    "course_code": "BUSN 464",
+    "section": "B",
+    "instructor": "F Malik",
+    "timestamp": "2026-08-23T21:30:48.989556+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 480 (B): TBD → A Amin",
+    "course_code": "BUSN 480",
+    "section": "B",
+    "instructor": "A Amin",
+    "timestamp": "2026-08-23T21:30:48.989559+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 480 (E): TBD → A Nawaz",
+    "course_code": "BUSN 480",
+    "section": "E",
+    "instructor": "A Nawaz",
+    "timestamp": "2026-08-23T21:30:48.989562+00:00"
   }
 ]

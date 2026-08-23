@@ -743,7 +743,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE333",
       "schedule_raw": "T R | 14:00 - 15:15",
-      "instructor": "TBD",
+      "instructor": "A Saddiqa",
       "capacity": "35",
       "available": "0"
     },
@@ -1787,7 +1787,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE346",
       "schedule_raw": "T R | 14:00 - 15:15",
-      "instructor": "TBD",
+      "instructor": "A Malik",
       "capacity": "35",
       "available": "6"
     },
@@ -1919,7 +1919,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE346",
       "schedule_raw": "T R | 09:30 - 10:45",
-      "instructor": "TBD",
+      "instructor": "F Malik",
       "capacity": "35",
       "available": "1"
     },
@@ -1943,7 +1943,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE331",
       "schedule_raw": "T R | 11:00 - 12:15",
-      "instructor": "TBD",
+      "instructor": "F Malik",
       "capacity": "35",
       "available": "11"
     },
@@ -1979,7 +1979,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE345",
       "schedule_raw": "T R | 15:30 - 16:45",
-      "instructor": "TBD",
+      "instructor": "A Amin",
       "capacity": "35",
       "available": "17"
     },
@@ -2015,7 +2015,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE346",
       "schedule_raw": "T R | 15:30 - 16:45",
-      "instructor": "TBD",
+      "instructor": "A Nawaz",
       "capacity": "35",
       "available": "22"
     },
@@ -7189,7 +7189,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "MATH 105",
@@ -7297,7 +7297,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 108",
@@ -9061,7 +9061,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Majeed",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 100",
@@ -10669,7 +10669,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khokhar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",

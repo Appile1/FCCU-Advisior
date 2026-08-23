@@ -806,9 +806,19 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 201",
+        "section": "E",
+        "course_name": "Intermediate Account",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE333",
+        "unique": "BUSN 201/E"
+      }
+    ],
     "all_courses": [
-      "BUSN 101"
+      "BUSN 101",
+      "BUSN 201"
     ]
   },
   {
@@ -2062,7 +2072,16 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 460",
+        "section": "A",
+        "course_name": "Business Law",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE346",
+        "unique": "BUSN 460/A"
+      }
+    ],
     "all_courses": [
       "BUSN 460"
     ]
@@ -2174,7 +2193,24 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 461",
+        "section": "B",
+        "course_name": "New Prod.Development",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE346",
+        "unique": "BUSN 461/B"
+      },
+      {
+        "course_code": "BUSN 464",
+        "section": "B",
+        "course_name": "Total Quality Manage",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE331",
+        "unique": "BUSN 464/B"
+      }
+    ],
     "all_courses": [
       "BUSN 461",
       "BUSN 464",
@@ -2197,7 +2233,16 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 480",
+        "section": "E",
+        "course_name": "Marketing Research",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE346",
+        "unique": "BUSN 480/E"
+      }
+    ],
     "all_courses": [
       "BUSN 480",
       "BUSN 585"
@@ -9575,14 +9620,6 @@
       },
       {
         "course_code": "BUSN 201",
-        "section": "E",
-        "course_name": "Intermediate Account",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE333",
-        "unique": "BUSN 201/E"
-      },
-      {
-        "course_code": "BUSN 201",
         "section": "G",
         "course_name": "Intermediate Account",
         "schedule": "T R | 15:30 - 16:45",
@@ -9767,14 +9804,6 @@
       },
       {
         "course_code": "BUSN 460",
-        "section": "A",
-        "course_name": "Business Law",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE346",
-        "unique": "BUSN 460/A"
-      },
-      {
-        "course_code": "BUSN 460",
         "section": "B",
         "course_name": "Business Law",
         "schedule": "T R | 15:30 - 16:45",
@@ -9822,36 +9851,12 @@
         "unique": "BUSN 461/A"
       },
       {
-        "course_code": "BUSN 461",
-        "section": "B",
-        "course_name": "New Prod.Development",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE346",
-        "unique": "BUSN 461/B"
-      },
-      {
-        "course_code": "BUSN 464",
-        "section": "B",
-        "course_name": "Total Quality Manage",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE331",
-        "unique": "BUSN 464/B"
-      },
-      {
         "course_code": "BUSN 480",
         "section": "A",
         "course_name": "Marketing Research",
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "EBLOCKE240",
         "unique": "BUSN 480/A"
-      },
-      {
-        "course_code": "BUSN 480",
-        "section": "B",
-        "course_name": "Marketing Research",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE345",
-        "unique": "BUSN 480/B"
       },
       {
         "course_code": "BUSN 480",
@@ -9868,14 +9873,6 @@
         "schedule": "M W F | 16:00 - 16:50",
         "classroom": "EBLOCKE344",
         "unique": "BUSN 480/D"
-      },
-      {
-        "course_code": "BUSN 480",
-        "section": "E",
-        "course_name": "Marketing Research",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE346",
-        "unique": "BUSN 480/E"
       },
       {
         "course_code": "BUSN 480",
@@ -14455,6 +14452,25 @@
     ],
     "all_courses": [
       "BUSN 201"
+    ]
+  },
+  {
+    "name": "A Amin",
+    "departments": [
+      "BUSN"
+    ],
+    "current_courses": [
+      {
+        "course_code": "BUSN 480",
+        "section": "B",
+        "course_name": "Marketing Research",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE345",
+        "unique": "BUSN 480/B"
+      }
+    ],
+    "all_courses": [
+      "BUSN 480"
     ]
   }
 ]
