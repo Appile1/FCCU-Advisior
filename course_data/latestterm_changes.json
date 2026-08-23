@@ -2694,5 +2694,13 @@
     "section": "M",
     "instructor": "A Ibrahim",
     "timestamp": "2026-08-23T18:30:39.129525+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 201 (A): TBD → A Bashir",
+    "course_code": "BUSN 201",
+    "section": "A",
+    "instructor": "A Bashir",
+    "timestamp": "2026-08-23T18:40:38.680253+00:00"
   }
 ]

@@ -9559,14 +9559,6 @@
       },
       {
         "course_code": "BUSN 201",
-        "section": "A",
-        "course_name": "Intermediate Account",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE330",
-        "unique": "BUSN 201/A"
-      },
-      {
-        "course_code": "BUSN 201",
         "section": "B",
         "course_name": "Intermediate Account",
         "schedule": "M W F | 09:00 - 09:50",
@@ -14444,6 +14436,25 @@
     ],
     "all_courses": [
       "BUSN 280"
+    ]
+  },
+  {
+    "name": "A Bashir",
+    "departments": [
+      "BUSN"
+    ],
+    "current_courses": [
+      {
+        "course_code": "BUSN 201",
+        "section": "A",
+        "course_name": "Intermediate Account",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE330",
+        "unique": "BUSN 201/A"
+      }
+    ],
+    "all_courses": [
+      "BUSN 201"
     ]
   }
 ]
