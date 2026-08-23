@@ -1379,7 +1379,24 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 280",
+        "section": "F",
+        "course_name": "Mark. & Selling Skil",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE333",
+        "unique": "BUSN 280/F"
+      },
+      {
+        "course_code": "BUSN 280",
+        "section": "G",
+        "course_name": "Mark. & Selling Skil",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE240",
+        "unique": "BUSN 280/G"
+      }
+    ],
     "all_courses": [
       "BUSN 280"
     ]
@@ -2129,8 +2146,26 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 280",
+        "section": "L",
+        "course_name": "Mark. & Selling Skil",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE331",
+        "unique": "BUSN 280/L"
+      },
+      {
+        "course_code": "BUSN 280",
+        "section": "M",
+        "course_name": "Mark. & Selling Skil",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE332",
+        "unique": "BUSN 280/M"
+      }
+    ],
     "all_courses": [
+      "BUSN 280",
       "BUSN 461"
     ]
   },
@@ -9620,30 +9655,6 @@
       },
       {
         "course_code": "BUSN 280",
-        "section": "F",
-        "course_name": "Mark. & Selling Skil",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE333",
-        "unique": "BUSN 280/F"
-      },
-      {
-        "course_code": "BUSN 280",
-        "section": "G",
-        "course_name": "Mark. & Selling Skil",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE240",
-        "unique": "BUSN 280/G"
-      },
-      {
-        "course_code": "BUSN 280",
-        "section": "H",
-        "course_name": "Mark. & Selling Skil",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE333",
-        "unique": "BUSN 280/H"
-      },
-      {
-        "course_code": "BUSN 280",
         "section": "I",
         "course_name": "Mark. & Selling Skil",
         "schedule": "M W F | 12:00 - 12:50",
@@ -9657,22 +9668,6 @@
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "EBLOCKE330",
         "unique": "BUSN 280/J"
-      },
-      {
-        "course_code": "BUSN 280",
-        "section": "L",
-        "course_name": "Mark. & Selling Skil",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE331",
-        "unique": "BUSN 280/L"
-      },
-      {
-        "course_code": "BUSN 280",
-        "section": "M",
-        "course_name": "Mark. & Selling Skil",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE332",
-        "unique": "BUSN 280/M"
       },
       {
         "course_code": "BUSN 301",
@@ -14430,6 +14425,25 @@
     ],
     "all_courses": [
       "ENVR 503"
+    ]
+  },
+  {
+    "name": "A Mehdi",
+    "departments": [
+      "BUSN"
+    ],
+    "current_courses": [
+      {
+        "course_code": "BUSN 280",
+        "section": "H",
+        "course_name": "Mark. & Selling Skil",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE333",
+        "unique": "BUSN 280/H"
+      }
+    ],
+    "all_courses": [
+      "BUSN 280"
     ]
   }
 ]

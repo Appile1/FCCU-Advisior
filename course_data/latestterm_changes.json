@@ -2654,5 +2654,45 @@
     "section": "A",
     "instructor": "A arooj",
     "timestamp": "2026-08-23T15:40:33.689893+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 280 (F): TBD → A Sharif",
+    "course_code": "BUSN 280",
+    "section": "F",
+    "instructor": "A Sharif",
+    "timestamp": "2026-08-23T18:30:39.129491+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 280 (G): TBD → A Sharif",
+    "course_code": "BUSN 280",
+    "section": "G",
+    "instructor": "A Sharif",
+    "timestamp": "2026-08-23T18:30:39.129511+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 280 (H): TBD → A Mehdi",
+    "course_code": "BUSN 280",
+    "section": "H",
+    "instructor": "A Mehdi",
+    "timestamp": "2026-08-23T18:30:39.129518+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 280 (L): TBD → A Ibrahim",
+    "course_code": "BUSN 280",
+    "section": "L",
+    "instructor": "A Ibrahim",
+    "timestamp": "2026-08-23T18:30:39.129522+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 280 (M): TBD → A Ibrahim",
+    "course_code": "BUSN 280",
+    "section": "M",
+    "instructor": "A Ibrahim",
+    "timestamp": "2026-08-23T18:30:39.129525+00:00"
   }
 ]

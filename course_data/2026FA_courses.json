@@ -1091,7 +1091,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE333",
       "schedule_raw": "M W F | 08:00 - 08:50",
-      "instructor": "TBD",
+      "instructor": "A Sharif",
       "capacity": "35",
       "available": "1"
     },
@@ -1103,7 +1103,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE240",
       "schedule_raw": "M W F | 10:00 - 10:50",
-      "instructor": "TBD",
+      "instructor": "A Sharif",
       "capacity": "33",
       "available": "0"
     },
@@ -1115,7 +1115,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE333",
       "schedule_raw": "M W F | 12:00 - 12:50",
-      "instructor": "TBD",
+      "instructor": "A Mehdi",
       "capacity": "35",
       "available": "0"
     },
@@ -1163,7 +1163,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE331",
       "schedule_raw": "M W F | 14:00 - 14:50",
-      "instructor": "TBD",
+      "instructor": "A Ibrahim",
       "capacity": "35",
       "available": "0"
     },
@@ -1175,7 +1175,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE332",
       "schedule_raw": "M W F | 15:00 - 15:50",
-      "instructor": "TBD",
+      "instructor": "A Ibrahim",
       "capacity": "35",
       "available": "24"
     },
@@ -2545,7 +2545,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | T | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "CHEM 250",
