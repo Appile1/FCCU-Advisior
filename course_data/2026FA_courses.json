@@ -421,7 +421,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50 | F | 09:00 - 10:50",
       "instructor": "M Irfan",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "BIOT 316",
@@ -433,7 +433,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Yousaf",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "BIOT 317",
