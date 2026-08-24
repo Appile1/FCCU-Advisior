@@ -829,7 +829,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "BUSN 230",
@@ -3577,7 +3577,7 @@
       "schedule_raw": "M | 12:00 - 12:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "CRST 212",
@@ -4513,7 +4513,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "ECON 103",
@@ -4777,7 +4777,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "ECON 323",
@@ -5593,7 +5593,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Hanif",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 175",
@@ -6589,7 +6589,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "HIST 255",
@@ -7489,7 +7489,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MCOM 200",
