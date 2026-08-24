@@ -1225,7 +1225,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Ehsan",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "BUSN 321",
@@ -1249,7 +1249,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "BUSN 321",
@@ -3601,7 +3601,7 @@
       "schedule_raw": "T R | 16:45 - 18:00",
       "instructor": "Z West",
       "capacity": "35",
-      "available": "28"
+      "available": "29"
     },
     {
       "course_code": "CRST 271",
@@ -4381,7 +4381,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ECON 100",
@@ -4501,7 +4501,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "ECON 103",
@@ -4669,7 +4669,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "U Hanif",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "ECON 303",
@@ -5545,7 +5545,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Javed",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -7129,7 +7129,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MATH 103",
@@ -8533,7 +8533,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -8605,7 +8605,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M U Farooq",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "PLSC 204",
@@ -8773,7 +8773,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "PLSC 340",
@@ -9877,7 +9877,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
