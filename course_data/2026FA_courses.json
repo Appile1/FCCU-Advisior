@@ -1045,7 +1045,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 280",
@@ -1141,7 +1141,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Ibrahim",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 280",
@@ -1153,7 +1153,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Ibrahim",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "BUSN 280",
@@ -5497,7 +5497,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -5605,7 +5605,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Hanif",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 175",
@@ -6601,7 +6601,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "HIST 255",
@@ -6865,7 +6865,7 @@
       "schedule_raw": "T R | 09:00 - 09:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
@@ -7153,7 +7153,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "MATH 105",
@@ -7249,7 +7249,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Raza",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 108",
@@ -10225,7 +10225,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 101",
