@@ -673,7 +673,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "BUSN 170",
@@ -685,7 +685,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Azariah",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "BUSN 201",
@@ -3325,7 +3325,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "40"
+      "available": "41"
     },
     {
       "course_code": "COMP 497B",
@@ -4093,7 +4093,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "F Ullah",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "CSCS 460",
@@ -5209,7 +5209,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "EDUC 315",
@@ -5521,7 +5521,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -6013,7 +6013,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "K Shafiqu",
       "capacity": "25",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "ENVR 252",
@@ -6409,7 +6409,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "GEOG 210",
@@ -7141,7 +7141,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 103",
@@ -10405,7 +10405,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Bashir",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 206",
