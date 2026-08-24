@@ -2533,7 +2533,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | R | 09:00 - 10:50",
       "instructor": "A Hussain",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "CHEM 311",
@@ -3589,7 +3589,7 @@
       "schedule_raw": "W | 12:00 - 12:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "CRST 231",
@@ -3625,7 +3625,7 @@
       "schedule_raw": "F | 10:00 - 10:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "CRST 331",
@@ -3661,7 +3661,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "CRST 411",
@@ -3685,7 +3685,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "CRST 525B",
@@ -3829,7 +3829,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 11:00 - 12:15",
       "instructor": "H Latif",
       "capacity": "25",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "CSCS 105",
@@ -4537,7 +4537,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "ECON 103",
@@ -5665,7 +5665,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "ENGL 220",
@@ -5701,7 +5701,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "R Wasif",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "ENGL 301",
@@ -5749,7 +5749,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Maqbool",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "ENGL 322",
@@ -5785,7 +5785,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Mir",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "ENGL 403",
@@ -5797,7 +5797,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "ENGL 499",
@@ -8137,7 +8137,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 11:00 - 12:15",
       "instructor": "H Latif",
       "capacity": "10",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 102",
@@ -8773,7 +8773,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PLSC 335",
