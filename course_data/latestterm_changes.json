@@ -2926,5 +2926,29 @@
     "section": "I",
     "instructor": "A Atique",
     "timestamp": "2026-08-24T11:20:38.012521+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ECON 100 (I): N Ishtiaq → Z Manzoor",
+    "course_code": "ECON 100",
+    "section": "I",
+    "instructor": "Z Manzoor",
+    "timestamp": "2026-08-24T12:20:40.217108+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ECON 300 (B): M Bhatti → A  Batool",
+    "course_code": "ECON 300",
+    "section": "B",
+    "instructor": "A  Batool",
+    "timestamp": "2026-08-24T12:20:40.217130+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ECON 502 (A): M Bhatti → R Ahmed",
+    "course_code": "ECON 502",
+    "section": "A",
+    "instructor": "R Ahmed",
+    "timestamp": "2026-08-24T12:20:40.217138+00:00"
   }
 ]

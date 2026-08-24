@@ -10544,14 +10544,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "ECON 100",
-        "section": "I",
-        "course_name": "Principles of Econ.",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE205",
-        "unique": "ECON 100/I"
-      },
-      {
         "course_code": "ECON 102",
         "section": "C",
         "course_name": "Pri. of Macroeconomi",
@@ -10696,6 +10688,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "ECON 100",
+        "section": "I",
+        "course_name": "Principles of Econ.",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE205",
+        "unique": "ECON 100/I"
+      },
+      {
         "course_code": "ECON 202",
         "section": "A",
         "course_name": "Intr. Macroecnomics",
@@ -10769,12 +10769,21 @@
         "schedule": "M W F | 10:00 - 10:50",
         "classroom": "EBLOCKE204",
         "unique": "ECON 402/A"
+      },
+      {
+        "course_code": "ECON 502",
+        "section": "A",
+        "course_name": "ADV. MACROECONOMICS",
+        "schedule": "M W | 11:30 - 13:00",
+        "classroom": "EBLOCKE201",
+        "unique": "ECON 502/A"
       }
     ],
     "all_courses": [
       "ECON 210",
       "ECON 325",
-      "ECON 402"
+      "ECON 402",
+      "ECON 502"
     ]
   },
   {
@@ -10783,14 +10792,6 @@
       "ECON"
     ],
     "current_courses": [
-      {
-        "course_code": "ECON 300",
-        "section": "B",
-        "course_name": "Fundam. of Econometr",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE203",
-        "unique": "ECON 300/B"
-      },
       {
         "course_code": "ECON 499A",
         "section": "A",
@@ -10806,14 +10807,6 @@
         "schedule": "MTWRF",
         "classroom": "TBDTBD",
         "unique": "ECON 499B/A"
-      },
-      {
-        "course_code": "ECON 502",
-        "section": "A",
-        "course_name": "ADV. MACROECONOMICS",
-        "schedule": "M W | 11:30 - 13:00",
-        "classroom": "EBLOCKE201",
-        "unique": "ECON 502/A"
       },
       {
         "course_code": "ECON 699A",
@@ -11010,12 +11003,21 @@
         "schedule": "M W F | 11:00 - 11:50",
         "classroom": "EBLOCKE204",
         "unique": "ECON 103/A"
+      },
+      {
+        "course_code": "ECON 300",
+        "section": "B",
+        "course_name": "Fundam. of Econometr",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE203",
+        "unique": "ECON 300/B"
       }
     ],
     "all_courses": [
       "ECON 100",
       "ECON 101",
       "ECON 103",
+      "ECON 300",
       "ECON 406",
       "ECON 707"
     ]
