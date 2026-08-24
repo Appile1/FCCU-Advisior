@@ -2461,7 +2461,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | W | 14:00 - 16:00",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "CHEM 150",
@@ -7513,7 +7513,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "MCOM 201",
@@ -7525,7 +7525,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "MCOM 201",
