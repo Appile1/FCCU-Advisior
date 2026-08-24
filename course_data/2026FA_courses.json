@@ -913,7 +913,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "F Idrees",
       "capacity": "33",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "BUSN 230",
@@ -5653,7 +5653,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ENGL 209",
@@ -7273,7 +7273,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 109",
@@ -8137,7 +8137,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 11:00 - 12:15",
       "instructor": "H Latif",
       "capacity": "10",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHYS 102",
@@ -9901,7 +9901,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -10225,7 +10225,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 101",
