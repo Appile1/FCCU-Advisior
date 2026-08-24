@@ -4513,7 +4513,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ECON 103",
@@ -5041,7 +5041,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M. Thomas",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 110",
@@ -6613,7 +6613,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 301",
@@ -8029,7 +8029,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "PHIL 221",
@@ -10189,7 +10189,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "H Rehman",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 100",
