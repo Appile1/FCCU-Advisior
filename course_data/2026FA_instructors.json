@@ -4022,6 +4022,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "CSCS 100",
+        "section": "I",
+        "course_name": "Intro  to Computing",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE241",
+        "unique": "CSCS 100/I"
+      },
+      {
         "course_code": "CSCS 290",
         "section": "A",
         "course_name": "Intro to JAVA Prog.",
@@ -11427,7 +11435,7 @@
         "section": "A",
         "course_name": "Research Methods",
         "schedule": "M | 16:00 - 19:00",
-        "classroom": "EBLOCKE206",
+        "classroom": "EBLOCKE221",
         "unique": "ENGL 501/A"
       }
     ],
@@ -11656,7 +11664,7 @@
         "section": "A",
         "course_name": "Transcultural Lite",
         "schedule": "R | 16:00 - 19:00",
-        "classroom": "EBLOCKE206",
+        "classroom": "EBLOCKE221",
         "unique": "ENGL 510/A"
       }
     ],
@@ -11697,7 +11705,7 @@
         "section": "A",
         "course_name": "Hydropoetics",
         "schedule": "T | 16:00 - 19:00",
-        "classroom": "EBLOCKE206",
+        "classroom": "EBLOCKE221",
         "unique": "ENGL 526/A"
       }
     ],
@@ -11737,7 +11745,7 @@
         "section": "A",
         "course_name": "Digit.Appr to. Lit.",
         "schedule": "W | 16:00 - 19:00",
-        "classroom": "EBLOCKE206",
+        "classroom": "EBLOCKE221",
         "unique": "ENGL 610/A"
       },
       {

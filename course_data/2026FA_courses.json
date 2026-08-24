@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 907,
+  "total_courses": 908,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -3577,7 +3577,7 @@
       "schedule_raw": "M | 12:00 - 12:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "CRST 212",
@@ -3601,7 +3601,7 @@
       "schedule_raw": "T R | 16:45 - 18:00",
       "instructor": "Z West",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "CRST 271",
@@ -3804,6 +3804,18 @@
       "classroom": "SBLOCKS319",
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
+      "capacity": "35",
+      "available": "0"
+    },
+    {
+      "course_code": "CSCS 100",
+      "section": "I",
+      "unique": "CSCS 100/I",
+      "course_name": "Intro  to Computing",
+      "credits": "3.00",
+      "classroom": "EBLOCKE241",
+      "schedule_raw": "T R | 08:00 - 09:15",
+      "instructor": "A Atique",
       "capacity": "35",
       "available": "0"
     },
@@ -5677,7 +5689,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "N Rehman",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "ENGL 300",
@@ -5805,7 +5817,7 @@
       "unique": "ENGL 501/A",
       "course_name": "Research Methods",
       "credits": "3.00",
-      "classroom": "EBLOCKE206",
+      "classroom": "EBLOCKE221",
       "schedule_raw": "M | 16:00 - 19:00",
       "instructor": "S Hanif",
       "capacity": "35",
@@ -5817,7 +5829,7 @@
       "unique": "ENGL 510/A",
       "course_name": "Transcultural Lite",
       "credits": "3.00",
-      "classroom": "EBLOCKE206",
+      "classroom": "EBLOCKE221",
       "schedule_raw": "R | 16:00 - 19:00",
       "instructor": "S Mir",
       "capacity": "35",
@@ -5829,7 +5841,7 @@
       "unique": "ENGL 526/A",
       "course_name": "Hydropoetics",
       "credits": "3.00",
-      "classroom": "EBLOCKE206",
+      "classroom": "EBLOCKE221",
       "schedule_raw": "T | 16:00 - 19:00",
       "instructor": "S Maqbool",
       "capacity": "35",
@@ -5841,7 +5853,7 @@
       "unique": "ENGL 610/A",
       "course_name": "Digit.Appr to. Lit.",
       "credits": "3.00",
-      "classroom": "EBLOCKE206",
+      "classroom": "EBLOCKE221",
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "F Syeda",
       "capacity": "35",
@@ -5989,7 +6001,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "K Shafiqu",
       "capacity": "25",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "ENVR 240",
@@ -10333,7 +10345,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 115",
