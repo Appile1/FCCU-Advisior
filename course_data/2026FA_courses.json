@@ -145,7 +145,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOL 105",
@@ -745,7 +745,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Saddiqa",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 201",
@@ -829,7 +829,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "BUSN 230",
@@ -1033,7 +1033,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "BUSN 280",
@@ -1045,7 +1045,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "BUSN 280",
@@ -1765,7 +1765,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "28"
+      "available": "29"
     },
     {
       "course_code": "BUSN 460",
@@ -2449,7 +2449,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHEM 150",
@@ -5545,7 +5545,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Javed",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -6757,7 +6757,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HPED 112",
@@ -6985,7 +6985,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Javed",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "LING 217",
@@ -8725,7 +8725,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 322",
@@ -8953,7 +8953,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "PLSC 699E",
@@ -10717,7 +10717,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Tahir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
@@ -10753,7 +10753,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ashraf",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 105",
