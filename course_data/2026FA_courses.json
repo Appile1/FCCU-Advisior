@@ -3565,7 +3565,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "CRST 211",
@@ -5161,7 +5161,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "3"
+      "available": "5"
     },
     {
       "course_code": "EDUC 240",
@@ -5257,7 +5257,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "EDUC 355",
@@ -5281,7 +5281,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "EDUC 390",
