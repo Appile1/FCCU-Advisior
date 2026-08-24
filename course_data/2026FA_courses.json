@@ -2869,7 +2869,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | M | 15:00 - 17:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "COMP 113",
@@ -3109,7 +3109,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "COMP 303",
@@ -3205,7 +3205,7 @@
       "schedule_raw": "W | 11:00 - 12:50 | F | 11:00 - 12:50",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "COMP 401",
