@@ -745,7 +745,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Saddiqa",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "BUSN 201",
@@ -3229,7 +3229,7 @@
       "schedule_raw": "M | 15:00 - 15:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "COMP 401",
@@ -4009,7 +4009,7 @@
       "schedule_raw": "M W | 11:00 - 12:50",
       "instructor": "M Butt",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "CSCS 342",
