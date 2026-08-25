@@ -12837,6 +12837,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "URDU 101",
+        "section": "U",
+        "course_name": "Communicative Urdu",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE330",
+        "unique": "URDU 101/U"
+      },
+      {
         "course_code": "URDU 511",
         "section": "A",
         "course_name": "Significant Literary Trend",
