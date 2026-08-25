@@ -13866,6 +13866,22 @@
     ],
     "current_courses": [
       {
+        "course_code": "ENGL 106",
+        "section": "FS",
+        "course_name": "Functional English",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE121",
+        "unique": "ENGL 106/FS"
+      },
+      {
+        "course_code": "ENGL 106",
+        "section": "NJ",
+        "course_name": "Functional English",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "SBLOCKS109",
+        "unique": "ENGL 106/NJ"
+      },
+      {
         "course_code": "ENGL 108",
         "section": "K",
         "course_name": "Expository Writing",

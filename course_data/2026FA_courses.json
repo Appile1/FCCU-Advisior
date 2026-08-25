@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 909,
+  "total_courses": 911,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -5357,6 +5357,18 @@
     },
     {
       "course_code": "ENGL 106",
+      "section": "FS",
+      "unique": "ENGL 106/FS",
+      "course_name": "Functional English",
+      "credits": "3.00",
+      "classroom": "EBLOCKE121",
+      "schedule_raw": "M W F | 15:00 - 15:50",
+      "instructor": "TBD",
+      "capacity": "25",
+      "available": "24"
+    },
+    {
+      "course_code": "ENGL 106",
       "section": "II",
       "unique": "ENGL 106/II",
       "course_name": "Functional English",
@@ -5378,6 +5390,18 @@
       "instructor": "S Pervez",
       "capacity": "25",
       "available": "0"
+    },
+    {
+      "course_code": "ENGL 106",
+      "section": "NJ",
+      "unique": "ENGL 106/NJ",
+      "course_name": "Functional English",
+      "credits": "3.00",
+      "classroom": "SBLOCKS109",
+      "schedule_raw": "M W F | 10:00 - 10:50",
+      "instructor": "TBD",
+      "capacity": "25",
+      "available": "24"
     },
     {
       "course_code": "ENGL 108",
@@ -10261,7 +10285,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 101",
