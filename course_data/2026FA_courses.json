@@ -2461,7 +2461,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | W | 14:00 - 16:00",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "CHEM 150",
@@ -2497,7 +2497,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | F | 11:00 - 12:45",
       "instructor": "S Jelani",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "CHEM 170",
@@ -3529,7 +3529,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CRST 152",
@@ -3565,7 +3565,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "CRST 211",
@@ -4681,7 +4681,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "U Hanif",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "ECON 303",
@@ -4789,7 +4789,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ECON 323",
@@ -5149,7 +5149,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 210",
@@ -5401,7 +5401,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "11"
+      "available": "9"
     },
     {
       "course_code": "ENGL 108",
@@ -5545,7 +5545,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -6817,7 +6817,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | M | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "HPED 150",
@@ -7141,7 +7141,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "N Shahid",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "MATH 102",
@@ -7201,7 +7201,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Ayub",
       "capacity": "5",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 105",
@@ -7573,7 +7573,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "MCOM 202",
@@ -7585,7 +7585,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "MCOM 203",
@@ -8053,7 +8053,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "PHIL 221",
