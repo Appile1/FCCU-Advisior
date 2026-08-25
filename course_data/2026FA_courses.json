@@ -85,7 +85,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS 203",
@@ -193,7 +193,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOL 105",
@@ -3661,7 +3661,7 @@
       "schedule_raw": "W | 15:00 - 15:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "COMP 401",
@@ -3781,7 +3781,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "W Azim",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CPPG 111",
@@ -5017,7 +5017,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "ECON 100",
@@ -5401,7 +5401,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "G Shabbir",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "ECON 311",
@@ -6529,7 +6529,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "F Syeda",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "ENGL 501",
@@ -6793,7 +6793,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Machado",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ENVR 406",
@@ -7129,7 +7129,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 133",
@@ -8089,7 +8089,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 107",
@@ -8137,7 +8137,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "MATH 108",
@@ -11233,7 +11233,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -11497,7 +11497,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 201",
