@@ -145,7 +145,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | M | 14:00 - 15:50",
       "instructor": "S Butt",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOL 100",
@@ -3781,7 +3781,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "W Azim",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CPPG 111",
@@ -5161,7 +5161,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Ayyubi",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ECON 102",
@@ -5941,7 +5941,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khokhar",
       "capacity": "15",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "EDUC 350",
@@ -6109,7 +6109,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "ENGL 108",
@@ -8137,7 +8137,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "MATH 108",
@@ -8461,7 +8461,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "Dr S Abbas",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MCOM 105",
@@ -8497,7 +8497,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "MCOM 201",
@@ -8545,7 +8545,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "MCOM 203",
@@ -9061,7 +9061,7 @@
       "schedule_raw": "T R | 14:00 - 14:50 | F | 14:00 - 16:00",
       "instructor": "L Kahlon",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "PHYS 100",
@@ -11473,7 +11473,7 @@
       "schedule_raw": "W F | 10:00 - 10:50",
       "instructor": "S Rasheed",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "SOCL 104",
