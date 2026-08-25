@@ -3637,7 +3637,7 @@
       "schedule_raw": "T R | 17:00 - 18:15",
       "instructor": "D Lanz",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "CRST 371",
@@ -4045,7 +4045,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "F Ullah",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "CSCS 405",
@@ -4093,7 +4093,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "F Ullah",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "CSCS 460",
