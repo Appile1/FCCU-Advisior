@@ -2377,7 +2377,7 @@
       "schedule_raw": "M W | 11:45 - 13:00",
       "instructor": "W Khan",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "CHEM 100",
@@ -3637,7 +3637,7 @@
       "schedule_raw": "T R | 17:00 - 18:15",
       "instructor": "D Lanz",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "CRST 371",
@@ -4201,7 +4201,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Ayub",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "DATA 102",
@@ -4213,7 +4213,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Ayub",
       "capacity": "15",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "DATA 201",
@@ -4573,7 +4573,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "ECON 202",
@@ -4597,7 +4597,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "ECON 203",
@@ -5365,7 +5365,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "R John",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 106",
@@ -6349,7 +6349,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "GEOG 101",
@@ -6601,7 +6601,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "HIST 255",
@@ -7129,7 +7129,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "MATH 102",
@@ -7549,7 +7549,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "MCOM 202",
