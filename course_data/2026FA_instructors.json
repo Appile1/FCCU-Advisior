@@ -871,7 +871,32 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 101",
+        "section": "E",
+        "course_name": "Principles of Acc.",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE345",
+        "unique": "BUSN 101/E"
+      },
+      {
+        "course_code": "BUSN 101",
+        "section": "F",
+        "course_name": "Principles of Acc.",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE345",
+        "unique": "BUSN 101/F"
+      },
+      {
+        "course_code": "BUSN 101",
+        "section": "G",
+        "course_name": "Principles of Acc.",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE345",
+        "unique": "BUSN 101/G"
+      }
+    ],
     "all_courses": [
       "BUSN 101"
     ]
@@ -892,6 +917,14 @@
       "BUSN"
     ],
     "current_courses": [
+      {
+        "course_code": "BUSN 101",
+        "section": "O",
+        "course_name": "Principles of Acc.",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE328",
+        "unique": "BUSN 101/O"
+      },
       {
         "course_code": "BUSN 321",
         "section": "D",
@@ -930,7 +963,16 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 101",
+        "section": "N",
+        "course_name": "Principles of Acc.",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE240",
+        "unique": "BUSN 101/N"
+      }
+    ],
     "all_courses": [
       "BUSN 101"
     ]
@@ -941,6 +983,22 @@
       "BUSN"
     ],
     "current_courses": [
+      {
+        "course_code": "BUSN 170",
+        "section": "B",
+        "course_name": "Principles of Manage",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE332",
+        "unique": "BUSN 170/B"
+      },
+      {
+        "course_code": "BUSN 170",
+        "section": "J",
+        "course_name": "Principles of Manage",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE330",
+        "unique": "BUSN 170/J"
+      },
       {
         "course_code": "BUSN 535",
         "section": "A",
@@ -969,6 +1027,14 @@
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "EBLOCKE346",
         "unique": "BUSN 101/L"
+      },
+      {
+        "course_code": "BUSN 101",
+        "section": "M",
+        "course_name": "Principles of Acc.",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE346",
+        "unique": "BUSN 101/M"
       }
     ],
     "all_courses": [
@@ -1040,7 +1106,16 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 170",
+        "section": "A",
+        "course_name": "Principles of Manage",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE328",
+        "unique": "BUSN 170/A"
+      }
+    ],
     "all_courses": [
       "BUSN 170"
     ]
@@ -1090,6 +1165,30 @@
     ],
     "current_courses": [
       {
+        "course_code": "BUSN 170",
+        "section": "N",
+        "course_name": "Principles of Manage",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE328",
+        "unique": "BUSN 170/N"
+      },
+      {
+        "course_code": "BUSN 170",
+        "section": "O",
+        "course_name": "Principles of Manage",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE346",
+        "unique": "BUSN 170/O"
+      },
+      {
+        "course_code": "BUSN 170",
+        "section": "P",
+        "course_name": "Principles of Manage",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE330",
+        "unique": "BUSN 170/P"
+      },
+      {
         "course_code": "BUSN 521",
         "section": "A",
         "course_name": "MANAGERIAL ECON",
@@ -1109,7 +1208,32 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 170",
+        "section": "C",
+        "course_name": "Principles of Manage",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE328",
+        "unique": "BUSN 170/C"
+      },
+      {
+        "course_code": "BUSN 170",
+        "section": "K",
+        "course_name": "Principles of Manage",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE328",
+        "unique": "BUSN 170/K"
+      },
+      {
+        "course_code": "BUSN 170",
+        "section": "L",
+        "course_name": "Principles of Manage",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE328",
+        "unique": "BUSN 170/L"
+      }
+    ],
     "all_courses": [
       "BUSN 170",
       "BUSN 250",
@@ -1124,6 +1248,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "BUSN 101",
+        "section": "P",
+        "course_name": "Principles of Acc.",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE331",
+        "unique": "BUSN 101/P"
+      },
+      {
         "course_code": "BUSN 201",
         "section": "G",
         "course_name": "Intermediate Account",
@@ -1133,6 +1265,7 @@
       }
     ],
     "all_courses": [
+      "BUSN 101",
       "BUSN 121",
       "BUSN 201"
     ]
@@ -1142,7 +1275,24 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 170",
+        "section": "G",
+        "course_name": "Principles of Manage",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE213",
+        "unique": "BUSN 170/G"
+      },
+      {
+        "course_code": "BUSN 170",
+        "section": "H",
+        "course_name": "Principles of Manage",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE213",
+        "unique": "BUSN 170/H"
+      }
+    ],
     "all_courses": [
       "BUSN 170",
       "BUSN 201",
@@ -2121,6 +2271,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "BUSN 101",
+        "section": "I",
+        "course_name": "Principles of Acc.",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE330",
+        "unique": "BUSN 101/I"
+      },
+      {
         "course_code": "BUSN 404",
         "section": "A",
         "course_name": "Taxation",
@@ -2138,6 +2296,7 @@
       }
     ],
     "all_courses": [
+      "BUSN 101",
       "BUSN 404",
       "BUSN 601",
       "BUSN 622",
@@ -2170,6 +2329,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "BUSN 170",
+        "section": "I",
+        "course_name": "Principles of Manage",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE328",
+        "unique": "BUSN 170/I"
+      },
+      {
         "course_code": "BUSN 451",
         "section": "A",
         "course_name": "Strategic HRM",
@@ -2187,6 +2354,7 @@
       }
     ],
     "all_courses": [
+      "BUSN 170",
       "BUSN 353",
       "BUSN 354",
       "BUSN 451",
@@ -2587,6 +2755,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "CHEM 100",
+        "section": "B",
+        "course_name": "*Intro. to Chemistry",
+        "schedule": "M W | 12:00 - 12:50 | T | 14:00 - 15:50",
+        "classroom": "SBLOCKS210 | SBLOCKS138",
+        "unique": "CHEM 100/B"
+      },
+      {
         "course_code": "CHEM 150",
         "section": "B",
         "course_name": "*Intro. Inorg. Chem",
@@ -2629,6 +2805,14 @@
       "CHEM"
     ],
     "current_courses": [
+      {
+        "course_code": "CHEM 100",
+        "section": "A",
+        "course_name": "*Intro. to Chemistry",
+        "schedule": "T R | 09:30 - 10:20 | W | 11:00 - 12:50",
+        "classroom": "SBLOCKS210 | SBLOCKS148",
+        "unique": "CHEM 100/A"
+      },
       {
         "course_code": "CHEM 160",
         "section": "B",
@@ -3019,7 +3203,24 @@
     "departments": [
       "COMP"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "COMP 102",
+        "section": "A",
+        "course_name": "Programming Fundamen",
+        "schedule": "M | 14:00 - 16:50 | T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS219",
+        "unique": "COMP 102/A"
+      },
+      {
+        "course_code": "COMP 102",
+        "section": "B",
+        "course_name": "Programming Fundamen",
+        "schedule": "T R | 11:00 - 12:15 | W | 14:00 - 16:50",
+        "classroom": "SBLOCKS218 | SBLOCKS219",
+        "unique": "COMP 102/B"
+      }
+    ],
     "all_courses": [
       "COMP 102",
       "COMP 111",
@@ -3098,7 +3299,16 @@
     "departments": [
       "COMP"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "COMP 102",
+        "section": "C",
+        "course_name": "Programming Fundamen",
+        "schedule": "T R | 12:30 - 13:45 | W | 14:00 - 16:50",
+        "classroom": "SBLOCKS218",
+        "unique": "COMP 102/C"
+      }
+    ],
     "all_courses": [
       "COMP 102",
       "COMP 360"
@@ -3120,6 +3330,14 @@
       "COMP"
     ],
     "current_courses": [
+      {
+        "course_code": "COMP 102",
+        "section": "D",
+        "course_name": "Programming Fundamen",
+        "schedule": "T R | 12:30 - 13:45 | F | 14:00 - 16:50",
+        "classroom": "SBLOCKS216 | SBLOCKS218",
+        "unique": "COMP 102/D"
+      },
       {
         "course_code": "COMP 200",
         "section": "A",
@@ -3204,6 +3422,14 @@
       "COMP"
     ],
     "current_courses": [
+      {
+        "course_code": "COMP 213",
+        "section": "A",
+        "course_name": "Database Systems",
+        "schedule": "M W | 10:00 - 11:50",
+        "classroom": "SBLOCKS320",
+        "unique": "COMP 213/A"
+      },
       {
         "course_code": "COMP 213",
         "section": "B",
@@ -3813,6 +4039,14 @@
         "unique": "CRST 152/A"
       },
       {
+        "course_code": "CRST 152",
+        "section": "B",
+        "course_name": "Christian Ethics",
+        "schedule": "M W | 10:00 - 10:50",
+        "classroom": "EBLOCKE243",
+        "unique": "CRST 152/B"
+      },
+      {
         "course_code": "CRST 211",
         "section": "A",
         "course_name": "Applied Theology 1",
@@ -4002,6 +4236,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "CSCS 100",
+        "section": "F",
+        "course_name": "Applications of ICT",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS218",
+        "unique": "CSCS 100/F"
+      },
+      {
         "course_code": "CSCS 351",
         "section": "A",
         "course_name": "Software Quality Ass",
@@ -4044,9 +4286,19 @@
     "departments": [
       "CSCS"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "CSCS 101",
+        "section": "D",
+        "course_name": "Adv. Appl of ICT",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS319",
+        "unique": "CSCS 101/D"
+      }
+    ],
     "all_courses": [
       "CSCS 100",
+      "CSCS 101",
       "CSCS 105"
     ]
   },
@@ -4113,7 +4365,16 @@
     "departments": [
       "CSCS"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "CSCS 101",
+        "section": "A",
+        "course_name": "Adv. Appl of ICT",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS219",
+        "unique": "CSCS 101/A"
+      }
+    ],
     "all_courses": [
       "CSCS 100",
       "CSCS 101"
@@ -4124,7 +4385,24 @@
     "departments": [
       "CSCS"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "CSCS 100",
+        "section": "B",
+        "course_name": "Applications of ICT",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS219",
+        "unique": "CSCS 100/B"
+      },
+      {
+        "course_code": "CSCS 101",
+        "section": "C",
+        "course_name": "Adv. Appl of ICT",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS218",
+        "unique": "CSCS 101/C"
+      }
+    ],
     "all_courses": [
       "CSCS 100",
       "CSCS 101"
@@ -4440,6 +4718,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "CSCS 100",
+        "section": "H",
+        "course_name": "Applications of ICT",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "SBLOCKS218",
+        "unique": "CSCS 100/H"
+      },
+      {
         "course_code": "CSCS 366",
         "section": "A",
         "course_name": "Into.to Nat Language",
@@ -4470,6 +4756,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "CSCS 100",
+        "section": "C",
+        "course_name": "Applications of ICT",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS219",
+        "unique": "CSCS 100/C"
+      },
+      {
         "course_code": "CSCS 468",
         "section": "A",
         "course_name": "Mob App Deveolopment",
@@ -4479,6 +4773,7 @@
       }
     ],
     "all_courses": [
+      "CSCS 100",
       "CSCS 101",
       "CSCS 468"
     ]
@@ -4676,6 +4971,30 @@
     ],
     "current_courses": [
       {
+        "course_code": "ISLM 101",
+        "section": "A",
+        "course_name": "Islamic Education",
+        "schedule": "M W | 08:00 - 08:50",
+        "classroom": "EBLOCKE038",
+        "unique": "ISLM 101/A"
+      },
+      {
+        "course_code": "ISLM 101",
+        "section": "B",
+        "course_name": "Islamic Education",
+        "schedule": "M W | 11:00 - 11:50",
+        "classroom": "EBLOCKE038",
+        "unique": "ISLM 101/B"
+      },
+      {
+        "course_code": "ISLM 101",
+        "section": "C",
+        "course_name": "Islamic Education",
+        "schedule": "M W | 12:00 - 12:50",
+        "classroom": "EBLOCKE038",
+        "unique": "ISLM 101/C"
+      },
+      {
         "course_code": "ISLM 201",
         "section": "A",
         "course_name": "Tajweed-Ul-Quran",
@@ -4695,7 +5014,32 @@
     "departments": [
       "ISLM"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "ISLM 101",
+        "section": "D",
+        "course_name": "Islamic Education",
+        "schedule": "M | 08:00 - 08:50 | F | 08:00 - 08:50",
+        "classroom": "EBLOCKE137 | EBLOCKE038",
+        "unique": "ISLM 101/D"
+      },
+      {
+        "course_code": "ISLM 101",
+        "section": "E",
+        "course_name": "Islamic Education",
+        "schedule": "M | 09:00 - 09:50 | F | 09:00 - 09:50",
+        "classroom": "EBLOCKE137 | EBLOCKE038",
+        "unique": "ISLM 101/E"
+      },
+      {
+        "course_code": "ISLM 101",
+        "section": "F",
+        "course_name": "Islamic Education",
+        "schedule": "M | 10:00 - 10:50 | F | 10:00 - 10:50",
+        "classroom": "EBLOCKE137 | EBLOCKE038",
+        "unique": "ISLM 101/F"
+      }
+    ],
     "all_courses": [
       "ISLM 100A",
       "ISLM 101",
@@ -4726,6 +5070,14 @@
         "unique": "ISLM 101/H"
       },
       {
+        "course_code": "ISLM 101",
+        "section": "I",
+        "course_name": "Islamic Education",
+        "schedule": "W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE137",
+        "unique": "ISLM 101/I"
+      },
+      {
         "course_code": "ISLM 301",
         "section": "A",
         "course_name": "Hadith Studies",
@@ -4746,6 +5098,14 @@
       "ISLM"
     ],
     "current_courses": [
+      {
+        "course_code": "ISLM 101",
+        "section": "J",
+        "course_name": "Islamic Education",
+        "schedule": "M | 11:00 - 11:50 | F | 11:00 - 11:50",
+        "classroom": "EBLOCKE137 | EBLOCKE038",
+        "unique": "ISLM 101/J"
+      },
       {
         "course_code": "ISLM 101",
         "section": "K",
@@ -5059,6 +5419,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "MATH 101",
+        "section": "D",
+        "course_name": "Pre-Calc & Trigonom.",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS412",
+        "unique": "MATH 101/D"
+      },
+      {
         "course_code": "MATH 109",
         "section": "A",
         "course_name": "QR-I (Advanced)",
@@ -5103,6 +5471,14 @@
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "SBLOCKS410",
         "unique": "MATH 109/B"
+      },
+      {
+        "course_code": "MATH 111",
+        "section": "D",
+        "course_name": "Calc & Analy Geom",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS317",
+        "unique": "MATH 111/D"
       }
     ],
     "all_courses": [
@@ -5117,7 +5493,32 @@
     "departments": [
       "MATH"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "MATH 108",
+        "section": "A",
+        "course_name": "QR-I (Basic)",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS412",
+        "unique": "MATH 108/A"
+      },
+      {
+        "course_code": "MATH 108",
+        "section": "E",
+        "course_name": "QR-I (Basic)",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "SBLOCKS413",
+        "unique": "MATH 108/E"
+      },
+      {
+        "course_code": "MATH 111",
+        "section": "A",
+        "course_name": "Calc & Analy Geom",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "SBLOCKS412",
+        "unique": "MATH 111/A"
+      }
+    ],
     "all_courses": [
       "MATH 100",
       "MATH 101",
@@ -5134,12 +5535,28 @@
     ],
     "current_courses": [
       {
+        "course_code": "MATH 101",
+        "section": "A",
+        "course_name": "Pre-Calc & Trigonom.",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS412",
+        "unique": "MATH 101/A"
+      },
+      {
         "course_code": "MATH 102",
         "section": "C",
         "course_name": "Calculus 1",
         "schedule": "M W F | 11:00 - 11:50",
         "classroom": "SBLOCKS410",
         "unique": "MATH 102/C"
+      },
+      {
+        "course_code": "MATH 108",
+        "section": "B",
+        "course_name": "QR-I (Basic)",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS410",
+        "unique": "MATH 108/B"
       },
       {
         "course_code": "MATH 111",
@@ -5185,6 +5602,14 @@
         "schedule": "T R | 12:30 - 13:45",
         "classroom": "SBLOCKS410",
         "unique": "MATH 108/D"
+      },
+      {
+        "course_code": "MATH 111",
+        "section": "C",
+        "course_name": "Calc & Analy Geom",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS410",
+        "unique": "MATH 111/C"
       }
     ],
     "all_courses": [
@@ -5520,6 +5945,22 @@
     ],
     "current_courses": [
       {
+        "course_code": "MCOM 101",
+        "section": "A",
+        "course_name": "Intro to Com Studies",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE039",
+        "unique": "MCOM 101/A"
+      },
+      {
+        "course_code": "MCOM 101",
+        "section": "E",
+        "course_name": "Intro to Com Studies",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE041",
+        "unique": "MCOM 101/E"
+      },
+      {
         "course_code": "MCOM 105",
         "section": "A",
         "course_name": "Media & Information",
@@ -5559,6 +6000,14 @@
       "MCOM"
     ],
     "current_courses": [
+      {
+        "course_code": "MCOM 101",
+        "section": "C",
+        "course_name": "Intro to Com Studies",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE041",
+        "unique": "MCOM 101/C"
+      },
       {
         "course_code": "MCOM 200",
         "section": "B",
@@ -5712,6 +6161,14 @@
       "MCOM"
     ],
     "current_courses": [
+      {
+        "course_code": "MCOM 101",
+        "section": "B",
+        "course_name": "Intro to Com Studies",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE039",
+        "unique": "MCOM 101/B"
+      },
       {
         "course_code": "MCOM 101",
         "section": "F",
@@ -6412,6 +6869,14 @@
         "unique": "PHYS 100/A"
       },
       {
+        "course_code": "PHYS 100",
+        "section": "C",
+        "course_name": "*Intro. to Physics",
+        "schedule": "T R | 12:30 - 13:20 | F | 10:00 - 11:50",
+        "classroom": "SBLOCKS016A | SBLOCKS027A",
+        "unique": "PHYS 100/C"
+      },
+      {
         "course_code": "PHYS 221",
         "section": "A",
         "course_name": "Elect. & Magnetism",
@@ -6449,6 +6914,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "PHYS 100",
+        "section": "D",
+        "course_name": "*Intro. to Physics",
+        "schedule": "M W | 10:00 - 10:50 | R | 14:00 - 15:50",
+        "classroom": "SBLOCKS007 | SBLOCKS027A",
+        "unique": "PHYS 100/D"
+      },
+      {
         "course_code": "PHYS 101",
         "section": "A",
         "course_name": "*General Physics I",
@@ -6474,6 +6947,7 @@
       }
     ],
     "all_courses": [
+      "PHYS 100",
       "PHYS 101",
       "PHYS 151",
       "PHYS 222",
@@ -6674,7 +7148,16 @@
     "departments": [
       "PKST"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "PKST 101",
+        "section": "A",
+        "course_name": "Pakistan Studies",
+        "schedule": "T R | 09:00 - 09:50",
+        "classroom": "EBLOCKE121",
+        "unique": "PKST 101/A"
+      }
+    ],
     "all_courses": [
       "PKST 101"
     ]
@@ -6684,7 +7167,16 @@
     "departments": [
       "PKST"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "PKST 101",
+        "section": "B",
+        "course_name": "Pakistan Studies",
+        "schedule": "T R | 08:00 - 08:50",
+        "classroom": "EBLOCKE121",
+        "unique": "PKST 101/B"
+      }
+    ],
     "all_courses": [
       "PKST 101"
     ]
@@ -6694,7 +7186,16 @@
     "departments": [
       "PKST"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "PKST 101",
+        "section": "C",
+        "course_name": "Pakistan Studies",
+        "schedule": "M W | 16:00 - 16:50",
+        "classroom": "SBLOCKS008",
+        "unique": "PKST 101/C"
+      }
+    ],
     "all_courses": [
       "PKST 101"
     ]
@@ -6704,7 +7205,24 @@
     "departments": [
       "PKST"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "PKST 101",
+        "section": "D",
+        "course_name": "Pakistan Studies",
+        "schedule": "T R | 10:00 - 10:50",
+        "classroom": "EBLOCKE121",
+        "unique": "PKST 101/D"
+      },
+      {
+        "course_code": "PKST 101",
+        "section": "F",
+        "course_name": "Pakistan Studies",
+        "schedule": "T R | 14:00 - 14:50",
+        "classroom": "EBLOCKE039",
+        "unique": "PKST 101/F"
+      }
+    ],
     "all_courses": [
       "PKST 101"
     ]
@@ -6724,7 +7242,24 @@
     "departments": [
       "PKST"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "PKST 101",
+        "section": "E",
+        "course_name": "Pakistan Studies",
+        "schedule": "M W | 09:00 - 09:50",
+        "classroom": "EBLOCKE203",
+        "unique": "PKST 101/E"
+      },
+      {
+        "course_code": "PKST 101",
+        "section": "L",
+        "course_name": "Pakistan Studies",
+        "schedule": "T R | 14:00 - 14:50",
+        "classroom": "EBLOCKE041",
+        "unique": "PKST 101/L"
+      }
+    ],
     "all_courses": [
       "PKST 101"
     ]
@@ -6792,6 +7327,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "PLSC 101",
+        "section": "B",
+        "course_name": "Intro to Pol Science",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE126",
+        "unique": "PLSC 101/B"
+      },
+      {
         "course_code": "PLSC 303",
         "section": "A",
         "course_name": "Contmp. Polt. Phil.",
@@ -6822,6 +7365,14 @@
       "PLSC"
     ],
     "current_courses": [
+      {
+        "course_code": "PLSC 101",
+        "section": "C",
+        "course_name": "Intro to Pol Science",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE122",
+        "unique": "PLSC 101/C"
+      },
       {
         "course_code": "PLSC 323",
         "section": "A",
@@ -6942,6 +7493,14 @@
         "unique": "PLSC 101/G"
       },
       {
+        "course_code": "PLSC 101",
+        "section": "K",
+        "course_name": "Intro to Pol Science",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE126",
+        "unique": "PLSC 101/K"
+      },
+      {
         "course_code": "PLSC 301",
         "section": "A",
         "course_name": "Ancnt, Mdvl, Poli Th",
@@ -6971,6 +7530,14 @@
       "PLSC"
     ],
     "current_courses": [
+      {
+        "course_code": "PLSC 101",
+        "section": "E",
+        "course_name": "Intro to Pol Science",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE139",
+        "unique": "PLSC 101/E"
+      },
       {
         "course_code": "PLSC 203",
         "section": "B",
@@ -7131,6 +7698,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "PLSC 101",
+        "section": "I",
+        "course_name": "Intro to Pol Science",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE126",
+        "unique": "PLSC 101/I"
+      },
+      {
         "course_code": "PLSC 304",
         "section": "A",
         "course_name": "Research Methodology",
@@ -7233,6 +7808,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "PSYC 100",
+        "section": "D",
+        "course_name": "Intro to Psychology",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE039",
+        "unique": "PSYC 100/D"
+      },
+      {
         "course_code": "PSYC 105",
         "section": "A",
         "course_name": "Eff. Communication",
@@ -7264,6 +7847,14 @@
       "PSYC"
     ],
     "current_courses": [
+      {
+        "course_code": "PSYC 100",
+        "section": "E",
+        "course_name": "Intro to Psychology",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS115",
+        "unique": "PSYC 100/E"
+      },
       {
         "course_code": "PSYC 101",
         "section": "A",
@@ -7311,6 +7902,14 @@
       "PSYC"
     ],
     "current_courses": [
+      {
+        "course_code": "PSYC 100",
+        "section": "B",
+        "course_name": "Intro to Psychology",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS116",
+        "unique": "PSYC 100/B"
+      },
       {
         "course_code": "PSYC 165",
         "section": "A",
@@ -7924,6 +8523,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "PSYC 100",
+        "section": "F",
+        "course_name": "Intro to Psychology",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE137",
+        "unique": "PSYC 100/F"
+      },
+      {
         "course_code": "PSYC 490",
         "section": "A",
         "course_name": "Research Project",
@@ -8117,6 +8724,14 @@
         "unique": "SOCL 100/G"
       },
       {
+        "course_code": "SOCL 104",
+        "section": "B",
+        "course_name": "Civics & Community",
+        "schedule": "M | 08:00 - 08:50 | F | 08:00 - 08:50",
+        "classroom": "EBLOCKE105 | EBLOCKE104",
+        "unique": "SOCL 104/B"
+      },
+      {
         "course_code": "SOCL 290",
         "section": "A",
         "course_name": "Political Sociology",
@@ -8150,6 +8765,30 @@
       "SOCL"
     ],
     "current_courses": [
+      {
+        "course_code": "SOCL 100",
+        "section": "D",
+        "course_name": "Intro to Sociology",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE103",
+        "unique": "SOCL 100/D"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "E",
+        "course_name": "Civics & Community",
+        "schedule": "M | 09:00 - 09:50 | F | 09:00 - 09:50",
+        "classroom": "EBLOCKE105 | EBLOCKE104",
+        "unique": "SOCL 104/E"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "G",
+        "course_name": "Civics & Community",
+        "schedule": "M W | 10:00 - 10:50",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 104/G"
+      },
       {
         "course_code": "SOCL 494",
         "section": "A",
@@ -8214,6 +8853,14 @@
         "unique": "SOCL 100/K"
       },
       {
+        "course_code": "SOCL 100",
+        "section": "R",
+        "course_name": "Intro to Sociology",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE105",
+        "unique": "SOCL 100/R"
+      },
+      {
         "course_code": "SOCL 220",
         "section": "A",
         "course_name": "Intr. to Criminology",
@@ -8246,6 +8893,14 @@
     "current_courses": [
       {
         "course_code": "SOCL 100",
+        "section": "A",
+        "course_name": "Intro to Sociology",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE103",
+        "unique": "SOCL 100/A"
+      },
+      {
+        "course_code": "SOCL 100",
         "section": "O",
         "course_name": "Intro to Sociology",
         "schedule": "T R | 14:00 - 15:15",
@@ -8264,6 +8919,30 @@
       "SOCL"
     ],
     "current_courses": [
+      {
+        "course_code": "SOCL 100",
+        "section": "C",
+        "course_name": "Intro to Sociology",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE105",
+        "unique": "SOCL 100/C"
+      },
+      {
+        "course_code": "SOCL 100",
+        "section": "H",
+        "course_name": "Intro to Sociology",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE103",
+        "unique": "SOCL 100/H"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "A",
+        "course_name": "Civics & Community",
+        "schedule": "M W | 08:00 - 08:50",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 104/A"
+      },
       {
         "course_code": "SOCL 325",
         "section": "A",
@@ -8303,6 +8982,14 @@
         "schedule": "T R | 15:30 - 16:45",
         "classroom": "SBLOCKS215",
         "unique": "SOCL 100/Q"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "J",
+        "course_name": "Civics & Community",
+        "schedule": "T R | 09:30 - 10:20",
+        "classroom": "EBLOCKE222",
+        "unique": "SOCL 104/J"
       },
       {
         "course_code": "SOCL 301",
@@ -8780,7 +9467,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "AA",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | W | 14:00 - 16:00",
+        "classroom": "EBLOCKE102 | EBLOCKE228",
+        "unique": "UNIV 100/AA"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8790,7 +9486,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "B",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
+        "classroom": "EBLOCKE103 | EBLOCKE228",
+        "unique": "UNIV 100/B"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8800,7 +9505,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "CC",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
+        "classroom": "EBLOCKE121 | EBLOCKE104",
+        "unique": "UNIV 100/CC"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8810,7 +9524,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "BB",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
+        "classroom": "EBLOCKE104 | EBLOCKE102",
+        "unique": "UNIV 100/BB"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8820,7 +9543,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "G",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
+        "classroom": "EBLOCKE203 | EBLOCKE204",
+        "unique": "UNIV 100/G"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8840,7 +9572,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "FF",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
+        "classroom": "EBLOCKE202 | EBLOCKE203",
+        "unique": "UNIV 100/FF"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8850,7 +9591,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "F",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | W | 14:00 - 16:00",
+        "classroom": "EBLOCKE140 | EBLOCKE203",
+        "unique": "UNIV 100/F"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8860,7 +9610,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "X",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
+        "classroom": "EBLOCKE344 | EBLOCKE102",
+        "unique": "UNIV 100/X"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8870,7 +9629,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "M",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | W | 14:00 - 16:00",
+        "classroom": "EBLOCKE230 | SBLOCKS109",
+        "unique": "UNIV 100/M"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8880,7 +9648,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "E",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
+        "classroom": "EBLOCKE137 | SBLOCKS119",
+        "unique": "UNIV 100/E"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8890,7 +9667,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "A",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
+        "classroom": "EBLOCKE101 | EBLOCKE228",
+        "unique": "UNIV 100/A"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8900,7 +9686,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "J",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | W | 14:00 - 16:00",
+        "classroom": "EBLOCKE214 | SBLOCKS007",
+        "unique": "UNIV 100/J"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8910,7 +9705,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "GG",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | W | 14:00 - 16:00",
+        "classroom": "EBLOCKE204",
+        "unique": "UNIV 100/GG"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8930,7 +9734,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "KK",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | W | 14:00 - 16:00",
+        "classroom": "EBLOCKE227 | SBLOCKS008",
+        "unique": "UNIV 100/KK"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8940,7 +9753,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "MM",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
+        "classroom": "EBLOCKE243 | SBLOCKS109",
+        "unique": "UNIV 100/MM"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8980,7 +9802,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "NN",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | W | 14:00 - 16:00",
+        "classroom": "EBLOCKE244 | SBLOCKS213",
+        "unique": "UNIV 100/NN"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -9010,7 +9841,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "N",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
+        "classroom": "EBLOCKE244 | SBLOCKS213",
+        "unique": "UNIV 100/N"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -9020,7 +9860,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "T",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
+        "classroom": "EBLOCKE331 | SBLOCKS416",
+        "unique": "UNIV 100/T"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -9030,7 +9879,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "QQ",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
+        "classroom": "EBLOCKE246 | SBLOCKS216",
+        "unique": "UNIV 100/QQ"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -9060,7 +9918,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "S",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | W | 14:00 - 16:00",
+        "classroom": "EBLOCKE330 | SBLOCKS416",
+        "unique": "UNIV 100/S"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -9070,7 +9937,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "C",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | W | 14:00 - 16:00",
+        "classroom": "EBLOCKE105 | EBLOCKE102",
+        "unique": "UNIV 100/C"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -9964,8 +10840,18 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BUSN 101",
+        "section": "C",
+        "course_name": "Principles of Acc.",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE328",
+        "unique": "BUSN 101/C"
+      }
+    ],
     "all_courses": [
+      "BUSN 101",
       "BUSN 121"
     ]
   },
@@ -9975,6 +10861,14 @@
       "BUSN"
     ],
     "current_courses": [
+      {
+        "course_code": "BUSN 101",
+        "section": "A",
+        "course_name": "Principles of Acc.",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE328",
+        "unique": "BUSN 101/A"
+      },
       {
         "course_code": "BUSN 101",
         "section": "B",
@@ -10023,6 +10917,14 @@
       "CHEM"
     ],
     "current_courses": [
+      {
+        "course_code": "CHEM 100",
+        "section": "C",
+        "course_name": "*Intro. to Chemistry",
+        "schedule": "T R | 11:00 - 11:50 | F | 09:00 - 10:50",
+        "classroom": "SBLOCKS210 | SBLOCKS138",
+        "unique": "CHEM 100/C"
+      },
       {
         "course_code": "CHEM 100",
         "section": "D",
@@ -10264,7 +11166,16 @@
     "departments": [
       "CSCS"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "CSCS 100",
+        "section": "E",
+        "course_name": "Applications of ICT",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS218",
+        "unique": "CSCS 100/E"
+      }
+    ],
     "all_courses": [
       "CSCS 100"
     ]
@@ -10292,10 +11203,19 @@
         "schedule": "T R | 15:30 - 16:45",
         "classroom": "SBLOCKS319",
         "unique": "CSCS 100/G"
+      },
+      {
+        "course_code": "CSCS 101",
+        "section": "B",
+        "course_name": "Adv. Appl of ICT",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS320",
+        "unique": "CSCS 101/B"
       }
     ],
     "all_courses": [
       "CSCS 100",
+      "CSCS 101",
       "CSCS 366"
     ]
   },
@@ -10406,6 +11326,22 @@
       "ECON"
     ],
     "current_courses": [
+      {
+        "course_code": "ECON 100",
+        "section": "A",
+        "course_name": "Principles of Econ.",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE205",
+        "unique": "ECON 100/A"
+      },
+      {
+        "course_code": "ECON 100",
+        "section": "D",
+        "course_name": "Principles of Econ.",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE204",
+        "unique": "ECON 100/D"
+      },
       {
         "course_code": "ECON 302",
         "section": "A",
@@ -10551,11 +11487,27 @@
     "current_courses": [
       {
         "course_code": "ECON 100",
+        "section": "B",
+        "course_name": "Principles of Econ.",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE205",
+        "unique": "ECON 100/B"
+      },
+      {
+        "course_code": "ECON 100",
         "section": "M",
         "course_name": "Principles of Econ.",
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "EBLOCKE203",
         "unique": "ECON 100/M"
+      },
+      {
+        "course_code": "ECON 100",
+        "section": "N",
+        "course_name": "Principles of Econ.",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE204",
+        "unique": "ECON 100/N"
       },
       {
         "course_code": "ECON 102",
@@ -10578,6 +11530,14 @@
       "ECON"
     ],
     "current_courses": [
+      {
+        "course_code": "ECON 100",
+        "section": "K",
+        "course_name": "Principles of Econ.",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE202",
+        "unique": "ECON 100/K"
+      },
       {
         "course_code": "ECON 102",
         "section": "C",
@@ -10724,11 +11684,27 @@
     "current_courses": [
       {
         "course_code": "ECON 100",
+        "section": "C",
+        "course_name": "Principles of Econ.",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE205",
+        "unique": "ECON 100/C"
+      },
+      {
+        "course_code": "ECON 100",
         "section": "I",
         "course_name": "Principles of Econ.",
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "EBLOCKE205",
         "unique": "ECON 100/I"
+      },
+      {
+        "course_code": "ECON 100",
+        "section": "J",
+        "course_name": "Principles of Econ.",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE204",
+        "unique": "ECON 100/J"
       },
       {
         "course_code": "ECON 202",
@@ -11024,6 +12000,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "ECON 100",
+        "section": "F",
+        "course_name": "Principles of Econ.",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE203",
+        "unique": "ECON 100/F"
+      },
+      {
         "course_code": "ECON 101",
         "section": "C",
         "course_name": "Prin. of Microeconom",
@@ -11114,6 +12098,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "EDUC 110",
+        "section": "B",
+        "course_name": "Foundations of Educ.",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE140",
+        "unique": "EDUC 110/B"
+      },
+      {
         "course_code": "EDUC 335",
         "section": "A",
         "course_name": "Peace Education",
@@ -11157,6 +12149,14 @@
       "EDUC"
     ],
     "current_courses": [
+      {
+        "course_code": "EDUC 110",
+        "section": "C",
+        "course_name": "Foundations of Educ.",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE140",
+        "unique": "EDUC 110/C"
+      },
       {
         "course_code": "EDUC 120",
         "section": "D",
@@ -11237,6 +12237,14 @@
       "EDUC"
     ],
     "current_courses": [
+      {
+        "course_code": "EDUC 110",
+        "section": "D",
+        "course_name": "Foundations of Educ.",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE140",
+        "unique": "EDUC 110/D"
+      },
       {
         "course_code": "EDUC 240",
         "section": "A",
@@ -12316,6 +13324,14 @@
     "current_courses": [
       {
         "course_code": "GEOG 101",
+        "section": "B",
+        "course_name": "Funda of Geography",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE228",
+        "unique": "GEOG 101/B"
+      },
+      {
+        "course_code": "GEOG 101",
         "section": "C",
         "course_name": "Funda of Geography",
         "schedule": "T R | 09:30 - 10:45",
@@ -12762,6 +13778,14 @@
         "unique": "SOCL 100/I"
       },
       {
+        "course_code": "SOCL 104",
+        "section": "H",
+        "course_name": "Civics & Community",
+        "schedule": "M | 10:00 - 10:50 | F | 10:00 - 10:50",
+        "classroom": "EBLOCKE105 | EBLOCKE104",
+        "unique": "SOCL 104/H"
+      },
+      {
         "course_code": "SOCL 118",
         "section": "A",
         "course_name": "Law and Human Rights",
@@ -12808,6 +13832,14 @@
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "EBLOCKE104",
         "unique": "SOCL 100/N"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "F",
+        "course_name": "Civics & Community",
+        "schedule": "W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE105",
+        "unique": "SOCL 104/F"
       },
       {
         "course_code": "SOCL 425",
@@ -12949,6 +13981,14 @@
       "SOCL"
     ],
     "current_courses": [
+      {
+        "course_code": "SOCL 104",
+        "section": "D",
+        "course_name": "Civics & Community",
+        "schedule": "M W | 09:00 - 09:50",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 104/D"
+      },
       {
         "course_code": "SOCL 291",
         "section": "A",
@@ -13452,6 +14492,14 @@
       },
       {
         "course_code": "GEOG 101",
+        "section": "D",
+        "course_name": "Funda of Geography",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE228",
+        "unique": "GEOG 101/D"
+      },
+      {
+        "course_code": "GEOG 101",
         "section": "F",
         "course_name": "Funda of Geography",
         "schedule": "M W F | 11:00 - 11:50",
@@ -13584,6 +14632,14 @@
       },
       {
         "course_code": "PKST 101",
+        "section": "I",
+        "course_name": "Pakistan Studies",
+        "schedule": "M W | 08:00 - 08:50",
+        "classroom": "EBLOCKE122",
+        "unique": "PKST 101/I"
+      },
+      {
+        "course_code": "PKST 101",
         "section": "J",
         "course_name": "Pakistan Studies",
         "schedule": "M W | 16:00 - 16:50",
@@ -13597,6 +14653,46 @@
         "schedule": "T R | 16:00 - 16:50",
         "classroom": "EBLOCKE204",
         "unique": "PKST 101/K"
+      },
+      {
+        "course_code": "PKST 103",
+        "section": "A",
+        "course_name": "Ideology and Constit",
+        "schedule": "T R | 08:00 - 08:50",
+        "classroom": "EBLOCKE228",
+        "unique": "PKST 103/A"
+      },
+      {
+        "course_code": "PKST 103",
+        "section": "B",
+        "course_name": "Ideology and Constit",
+        "schedule": "W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE213",
+        "unique": "PKST 103/B"
+      },
+      {
+        "course_code": "PKST 103",
+        "section": "C",
+        "course_name": "Ideology and Constit",
+        "schedule": "T R | 16:00 - 16:50",
+        "classroom": "EBLOCKE213",
+        "unique": "PKST 103/C"
+      },
+      {
+        "course_code": "PKST 103",
+        "section": "D",
+        "course_name": "Ideology and Constit",
+        "schedule": "M W | 10:00 - 10:50",
+        "classroom": "EBLOCKE344",
+        "unique": "PKST 103/D"
+      },
+      {
+        "course_code": "PKST 103",
+        "section": "E",
+        "course_name": "Ideology and Constit",
+        "schedule": "M | 16:00 - 16:50 | F | 16:00 - 16:50",
+        "classroom": "EBLOCKE213 | EBLOCKE222",
+        "unique": "PKST 103/E"
       }
     ],
     "all_courses": [
@@ -13609,7 +14705,16 @@
     "departments": [
       "PLSC"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "PLSC 101",
+        "section": "D",
+        "course_name": "Intro to Pol Science",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE139",
+        "unique": "PLSC 101/D"
+      }
+    ],
     "all_courses": [
       "PLSC 101"
     ]
@@ -13745,6 +14850,30 @@
     ],
     "current_courses": [
       {
+        "course_code": "SOCL 100",
+        "section": "B",
+        "course_name": "Intro to Sociology",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE103",
+        "unique": "SOCL 100/B"
+      },
+      {
+        "course_code": "SOCL 100",
+        "section": "L",
+        "course_name": "Intro to Sociology",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 100/L"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "C",
+        "course_name": "Civics & Community",
+        "schedule": "W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE105",
+        "unique": "SOCL 104/C"
+      },
+      {
         "course_code": "SOCL 520",
         "section": "A",
         "course_name": "Advanced Readings",
@@ -13765,6 +14894,30 @@
       "SOCL"
     ],
     "current_courses": [
+      {
+        "course_code": "SOCL 100",
+        "section": "J",
+        "course_name": "Intro to Sociology",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE103",
+        "unique": "SOCL 100/J"
+      },
+      {
+        "course_code": "SOCL 100",
+        "section": "M",
+        "course_name": "Intro to Sociology",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE105",
+        "unique": "SOCL 100/M"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "I",
+        "course_name": "Civics & Community",
+        "schedule": "W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE105",
+        "unique": "SOCL 104/I"
+      },
       {
         "course_code": "SOCL 522",
         "section": "A",
@@ -13795,7 +14948,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "D",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
+        "classroom": "EBLOCKE122 | SBLOCKS119",
+        "unique": "UNIV 100/D"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -13805,7 +14967,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "EE",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
+        "classroom": "EBLOCKE139 | EBLOCKE203",
+        "unique": "UNIV 100/EE"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -13815,7 +14986,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "H",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
+        "classroom": "EBLOCKE205 | EBLOCKE204",
+        "unique": "UNIV 100/H"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -13825,7 +15005,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "HH",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
+        "classroom": "EBLOCKE213 | SBLOCKS007",
+        "unique": "UNIV 100/HH"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -13835,7 +15024,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "JJ",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
+        "classroom": "EBLOCKE221 | SBLOCKS007",
+        "unique": "UNIV 100/JJ"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -13845,7 +15043,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "K",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
+        "classroom": "EBLOCKE222 | SBLOCKS008",
+        "unique": "UNIV 100/K"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -13865,7 +15072,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "L",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
+        "classroom": "EBLOCKE228 | SBLOCKS008",
+        "unique": "UNIV 100/L"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -13875,7 +15091,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "LL",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
+        "classroom": "EBLOCKE229 | SBLOCKS109",
+        "unique": "UNIV 100/LL"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -13885,7 +15110,16 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "R",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
+        "classroom": "EBLOCKE328 | SBLOCKS416",
+        "unique": "UNIV 100/R"
+      }
+    ],
     "all_courses": [
       "UNIV 100"
     ]
@@ -14473,6 +15707,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "BUSN 101",
+        "section": "D",
+        "course_name": "Principles of Acc.",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE344",
+        "unique": "BUSN 101/D"
+      },
+      {
         "course_code": "BUSN 201",
         "section": "A",
         "course_name": "Intermediate Account",
@@ -14482,6 +15724,7 @@
       }
     ],
     "all_courses": [
+      "BUSN 101",
       "BUSN 201"
     ]
   },
@@ -14586,6 +15829,128 @@
     ],
     "all_courses": [
       "BUSN 450"
+    ]
+  },
+  {
+    "name": "R Zia",
+    "departments": [
+      "BUSN"
+    ],
+    "current_courses": [
+      {
+        "course_code": "BUSN 101",
+        "section": "H",
+        "course_name": "Principles of Acc.",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE346",
+        "unique": "BUSN 101/H"
+      }
+    ],
+    "all_courses": [
+      "BUSN 101"
+    ]
+  },
+  {
+    "name": "R Shahzad",
+    "departments": [
+      "UNIV"
+    ],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "DD",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | W | 14:00 - 16:00",
+        "classroom": "EBLOCKE126 | SBLOCKS119",
+        "unique": "UNIV 100/DD"
+      }
+    ],
+    "all_courses": [
+      "UNIV 100"
+    ]
+  },
+  {
+    "name": "H Samson",
+    "departments": [
+      "UNIV"
+    ],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "U",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
+        "classroom": "EBLOCKE332 | EBLOCKE205",
+        "unique": "UNIV 100/U"
+      }
+    ],
+    "all_courses": [
+      "UNIV 100"
+    ]
+  },
+  {
+    "name": "S Kamran",
+    "departments": [
+      "UNIV"
+    ],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "V",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | W | 14:00 - 16:00",
+        "classroom": "EBLOCKE333 | EBLOCKE205",
+        "unique": "UNIV 100/V"
+      }
+    ],
+    "all_courses": [
+      "UNIV 100"
+    ]
+  },
+  {
+    "name": "I YAQOOB",
+    "departments": [
+      "UNIV"
+    ],
+    "current_courses": [
+      {
+        "course_code": "UNIV 100",
+        "section": "W",
+        "course_name": "FOUND  UNIV EDUC",
+        "schedule": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
+        "classroom": "EBLOCKE343 | EBLOCKE205",
+        "unique": "UNIV 100/W"
+      }
+    ],
+    "all_courses": [
+      "UNIV 100"
+    ]
+  },
+  {
+    "name": "S Khalid",
+    "departments": [
+      "UNIV"
+    ],
+    "current_courses": [
+      {
+        "course_code": "UNIV 200",
+        "section": "A",
+        "course_name": "Critical Thinking",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS119",
+        "unique": "UNIV 200/A"
+      },
+      {
+        "course_code": "UNIV 200",
+        "section": "B",
+        "course_name": "Critical Thinking",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS119",
+        "unique": "UNIV 200/B"
+      }
+    ],
+    "all_courses": [
+      "UNIV 200"
     ]
   }
 ]
