@@ -1705,7 +1705,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Ramish",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 360",
@@ -4345,7 +4345,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Sabahat",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 101",
@@ -5857,7 +5857,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "EDUC 240",
@@ -6373,7 +6373,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ENGL 209",
@@ -8053,7 +8053,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Ayub",
       "capacity": "5",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MATH 107",
@@ -8137,7 +8137,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "MATH 108",
@@ -8173,7 +8173,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Nadeem",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "MATH 109",
@@ -10465,7 +10465,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 280",
@@ -12757,7 +12757,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "URDU 201",
