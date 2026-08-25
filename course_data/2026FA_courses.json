@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 911,
+  "total_courses": 910,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -3133,7 +3133,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "COMP 303",
@@ -3301,7 +3301,7 @@
       "schedule_raw": "T R | 11:00 - 12:50",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "COMP 451",
@@ -5257,7 +5257,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "EDUC 355",
@@ -5353,7 +5353,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "N Langah",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 106",
@@ -5365,7 +5365,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "ENGL 106",
@@ -6793,7 +6793,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "HPED 112",
@@ -7033,7 +7033,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "LING 301",
@@ -7165,7 +7165,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 103",
@@ -7261,7 +7261,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "MATH 107",
@@ -8545,7 +8545,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -9133,7 +9133,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "PSYC 175",
@@ -10010,18 +10010,6 @@
       "instructor": "T Fatima",
       "capacity": "35",
       "available": "0"
-    },
-    {
-      "course_code": "SOCL 170",
-      "section": "A",
-      "unique": "SOCL 170/A",
-      "course_name": "Environmental Sociol",
-      "credits": "3.00",
-      "classroom": "EBLOCKE105",
-      "schedule_raw": "T R | 08:00 - 09:15",
-      "instructor": "A  Azeem",
-      "capacity": "35",
-      "available": "30"
     },
     {
       "course_code": "SOCL 201",
