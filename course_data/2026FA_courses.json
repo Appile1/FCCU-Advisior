@@ -901,7 +901,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "BUSN 170",
@@ -973,7 +973,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Fateh",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "BUSN 170",
@@ -5449,7 +5449,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "ECON 323",
@@ -8161,7 +8161,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "MATH 108",
@@ -8461,7 +8461,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "Dr S Abbas",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MCOM 105",
@@ -10057,7 +10057,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "15",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "PLSC 403",
@@ -11761,7 +11761,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "3"
+      "available": "1"
     },
     {
       "course_code": "STAT 101",
@@ -11809,7 +11809,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Ayub",
       "capacity": "15",
-      "available": "0"
+      "available": "2"
     },
     {
       "course_code": "STAT 103",
