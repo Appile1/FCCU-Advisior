@@ -152,6 +152,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "BIOL 100",
+        "section": "B",
+        "course_name": "*Intro.  Biology",
+        "schedule": "T R | 09:30 - 10:20 | W | 11:00 - 12:50",
+        "classroom": "SBLOCKS413 | SBLOCKS341",
+        "unique": "BIOL 100/B"
+      },
+      {
         "course_code": "BIOL 105",
         "section": "A",
         "course_name": "*General Zoology",
@@ -171,7 +179,16 @@
     "departments": [
       "BIOL"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BIOL 100",
+        "section": "C",
+        "course_name": "*Intro.  Biology",
+        "schedule": "T R | 14:00 - 14:50 | R | 11:00 - 12:50",
+        "classroom": "SBLOCKS313 | SBLOCKS331",
+        "unique": "BIOL 100/C"
+      }
+    ],
     "all_courses": [
       "BIOL 100"
     ]
@@ -222,7 +239,16 @@
     "departments": [
       "BIOL"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BIOL 100",
+        "section": "G",
+        "course_name": "*Intro.  Biology",
+        "schedule": "M | 11:00 - 12:50 | T R | 11:00 - 11:50",
+        "classroom": "SBLOCKS321 | SBLOCKS312",
+        "unique": "BIOL 100/G"
+      }
+    ],
     "all_courses": [
       "BIOL 100"
     ]
@@ -234,6 +260,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "BIOL 100",
+        "section": "H",
+        "course_name": "*Intro.  Biology",
+        "schedule": "T R | 09:30 - 10:20 | R | 14:00 - 15:50",
+        "classroom": "SBLOCKS313 | SBLOCKS329",
+        "unique": "BIOL 100/H"
+      },
+      {
         "course_code": "BIOL 221",
         "section": "A",
         "course_name": "*Plant Form & Fun.",
@@ -243,6 +277,7 @@
       }
     ],
     "all_courses": [
+      "BIOL 100",
       "BIOL 102",
       "BIOL 221",
       "BIOL 403"
@@ -9067,6 +9102,14 @@
       },
       {
         "course_code": "URDU 101",
+        "section": "J",
+        "course_name": "Communicative Urdu",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE101",
+        "unique": "URDU 101/J"
+      },
+      {
+        "course_code": "URDU 101",
         "section": "K",
         "course_name": "Communicative Urdu",
         "schedule": "T R | 08:00 - 09:15",
@@ -12828,6 +12871,30 @@
       "URDU"
     ],
     "current_courses": [
+      {
+        "course_code": "URDU 101",
+        "section": "S",
+        "course_name": "Communicative Urdu",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE222",
+        "unique": "URDU 101/S"
+      },
+      {
+        "course_code": "URDU 101",
+        "section": "T",
+        "course_name": "Communicative Urdu",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE246",
+        "unique": "URDU 101/T"
+      },
+      {
+        "course_code": "URDU 101",
+        "section": "U",
+        "course_name": "Communicative Urdu",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE330",
+        "unique": "URDU 101/U"
+      },
       {
         "course_code": "URDU 511",
         "section": "A",
