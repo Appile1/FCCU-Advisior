@@ -6349,7 +6349,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "GEOG 101",
@@ -6601,7 +6601,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "HIST 255",
@@ -8197,7 +8197,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Dr  H Shah",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "PHYS 342",
