@@ -3836,6 +3836,14 @@
         "schedule": "R | 11:30 - 15:30",
         "classroom": "EBLOCKE024",
         "unique": "CPPG 645/A"
+      },
+      {
+        "course_code": "CPPG 705",
+        "section": "A",
+        "course_name": "Research Methodology",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "CPPG 705/A"
       }
     ],
     "all_courses": [
@@ -3843,7 +3851,8 @@
       "CPPG 616",
       "CPPG 617",
       "CPPG 645",
-      "CPPG 704"
+      "CPPG 704",
+      "CPPG 705"
     ]
   },
   {
@@ -3861,12 +3870,12 @@
         "unique": "CPPG 101/A"
       },
       {
-        "course_code": "CPPG 727",
+        "course_code": "CPPG 703",
         "section": "A",
-        "course_name": "Inter. of South Asia",
+        "course_name": "Human Development",
         "schedule": "W | 17:00 - 20:00",
         "classroom": "EBLOCKE002",
-        "unique": "CPPG 727/A"
+        "unique": "CPPG 703/A"
       }
     ],
     "all_courses": [
@@ -3875,6 +3884,7 @@
       "CPPG 626",
       "CPPG 679",
       "CPPG 701",
+      "CPPG 703",
       "CPPG 727"
     ]
   },

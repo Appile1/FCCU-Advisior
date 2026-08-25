@@ -4278,5 +4278,21 @@
     "section": "B",
     "instructor": "S Khalid",
     "timestamp": "2026-08-25T11:30:45.466901+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: CPPG 703 (A) - W Azim",
+    "course_code": "CPPG 703",
+    "section": "A",
+    "instructor": "W Azim",
+    "timestamp": "2026-08-25T12:40:59.223564+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: CPPG 705 (A) - M Rovidad",
+    "course_code": "CPPG 705",
+    "section": "A",
+    "instructor": "M Rovidad",
+    "timestamp": "2026-08-25T12:40:59.223584+00:00"
   }
 ]
