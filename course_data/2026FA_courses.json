@@ -721,7 +721,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S. Suleman",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 101",
@@ -769,7 +769,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "H Dawood",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 101",
@@ -2089,7 +2089,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "BUSN 460",
@@ -5005,7 +5005,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ECON 100",
@@ -8089,7 +8089,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 107",
@@ -9013,7 +9013,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PHIL 221",
@@ -11341,7 +11341,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -11785,7 +11785,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 102",
