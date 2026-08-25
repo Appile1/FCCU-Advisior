@@ -181,7 +181,7 @@
       "schedule_raw": "T R | 09:30 - 10:20 | R | 14:00 - 15:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 102",
@@ -7381,7 +7381,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M Haider",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "HIST 302",
@@ -8137,7 +8137,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "MATH 108",
@@ -9481,7 +9481,7 @@
       "schedule_raw": "T R | 09:00 - 09:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PKST 101",
@@ -11473,7 +11473,7 @@
       "schedule_raw": "W F | 10:00 - 10:50",
       "instructor": "S Rasheed",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "SOCL 104",
