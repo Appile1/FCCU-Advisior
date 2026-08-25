@@ -241,7 +241,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | R | 14:00 - 15:50",
       "instructor": "S Mehnaz",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "BIOL 319",
@@ -2317,7 +2317,7 @@
       "schedule_raw": "F | 09:00 - 12:00",
       "instructor": "I Ahmed",
       "capacity": "35",
-      "available": "9"
+      "available": "7"
     },
     {
       "course_code": "BUSN 630",
@@ -2329,7 +2329,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "7"
+      "available": "5"
     },
     {
       "course_code": "BUSN 640",
@@ -2341,7 +2341,7 @@
       "schedule_raw": "M W | 10:00 - 11:15",
       "instructor": "W Khan",
       "capacity": "35",
-      "available": "7"
+      "available": "5"
     },
     {
       "course_code": "BUSN 650",
@@ -2353,7 +2353,7 @@
       "schedule_raw": "M W | 15:30 - 16:45",
       "instructor": "F Tasneem",
       "capacity": "35",
-      "available": "7"
+      "available": "5"
     },
     {
       "course_code": "BUSN 660",
@@ -2365,7 +2365,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "R Hashim",
       "capacity": "35",
-      "available": "7"
+      "available": "5"
     },
     {
       "course_code": "BUSN 690",
@@ -3601,7 +3601,7 @@
       "schedule_raw": "T R | 16:45 - 18:00",
       "instructor": "Z West",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "CRST 271",
@@ -3613,7 +3613,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "Z West",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "CRST 313",
@@ -5113,7 +5113,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "EDUC 120",
@@ -6037,7 +6037,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "K Shafiqu",
       "capacity": "25",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "ENVR 252",
@@ -7141,7 +7141,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "N Shahid",
       "capacity": "35",
-      "available": "25"
+      "available": "23"
     },
     {
       "course_code": "MATH 102",
@@ -7393,7 +7393,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "MATH 213",
@@ -9673,7 +9673,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "PSYC 501",
@@ -10765,7 +10765,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 104",
