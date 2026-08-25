@@ -5401,7 +5401,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "ENGL 108",
@@ -5497,7 +5497,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A  Khalid",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -9121,7 +9121,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 165",
@@ -9289,7 +9289,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A  Ateeq",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 301",
@@ -10789,7 +10789,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "28"
+      "available": "29"
     },
     {
       "course_code": "URDU 104",
