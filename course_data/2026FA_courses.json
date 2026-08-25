@@ -2749,7 +2749,7 @@
       "schedule_raw": "T R | 11:00 - 11:50 | F | 09:00 - 10:50",
       "instructor": "M Abbas",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHEM 100",
@@ -2833,7 +2833,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | W | 14:00 - 16:00",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "CHEM 150",
@@ -4045,7 +4045,7 @@
       "schedule_raw": "W | 12:00 - 12:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "CRST 231",
@@ -5017,7 +5017,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON 100",
@@ -5137,7 +5137,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON 102",
@@ -5269,7 +5269,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Jalil",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "ECON 203",
@@ -5857,7 +5857,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "EDUC 240",
@@ -6061,7 +6061,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "ENGL 106",
@@ -7069,7 +7069,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "GEOG 101",
@@ -8137,7 +8137,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "MATH 108",
@@ -8689,7 +8689,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MCOM 310",
@@ -9037,7 +9037,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "PHIL 499",
@@ -9145,7 +9145,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 11:00 - 12:15",
       "instructor": "H Latif",
       "capacity": "10",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHYS 102",
@@ -11329,7 +11329,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -11353,7 +11353,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
