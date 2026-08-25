@@ -1729,7 +1729,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Nazir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 360",
@@ -1813,7 +1813,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Bilal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 360",
@@ -4033,7 +4033,7 @@
       "schedule_raw": "M | 12:00 - 12:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "CRST 212",
@@ -6697,7 +6697,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 14:00 - 14:50",
       "instructor": "Team",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENVR 151",
@@ -7681,7 +7681,7 @@
       "schedule_raw": "M | 11:00 - 11:50 | F | 11:00 - 11:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
@@ -9013,7 +9013,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "PHIL 221",
@@ -9865,7 +9865,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "PLSC 212",
@@ -11341,7 +11341,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
@@ -11413,7 +11413,7 @@
       "schedule_raw": "M W | 09:00 - 09:50",
       "instructor": "S Jafree",
       "capacity": "35",
-      "available": "15"
+      "available": "13"
     },
     {
       "course_code": "SOCL 104",
@@ -11437,7 +11437,7 @@
       "schedule_raw": "W F | 09:00 - 09:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 104",
@@ -12757,7 +12757,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "URDU 201",
