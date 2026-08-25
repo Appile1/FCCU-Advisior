@@ -709,7 +709,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Gul",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "BUSN 101",
@@ -721,7 +721,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S. Suleman",
       "capacity": "35",
-      "available": "3"
+      "available": "1"
     },
     {
       "course_code": "BUSN 101",
@@ -949,7 +949,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Hussain",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "BUSN 170",
@@ -1789,7 +1789,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "K Kamran",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "BUSN 360",
@@ -5017,7 +5017,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ECON 100",
@@ -7957,7 +7957,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "MATH 101",
@@ -8017,7 +8017,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "MATH 105",
@@ -8089,7 +8089,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 107",
@@ -8137,7 +8137,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "MATH 108",
@@ -8161,7 +8161,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MATH 108",
@@ -8689,7 +8689,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MCOM 310",
@@ -8953,7 +8953,7 @@
       "schedule_raw": "MTWRF | 08:00 - 16:00",
       "instructor": "B Sadiq",
       "capacity": "20",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "MUSC 101",
@@ -9865,7 +9865,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "PLSC 212",
@@ -10753,7 +10753,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "PSYC 375",
@@ -10861,7 +10861,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 440",
