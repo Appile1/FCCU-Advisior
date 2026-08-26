@@ -3985,7 +3985,7 @@
       "schedule_raw": "M W | 09:00 - 09:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "CRST 152",
@@ -3997,7 +3997,7 @@
       "schedule_raw": "M W | 10:00 - 10:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "CRST 152",
@@ -4249,7 +4249,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Abbasi",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CSCS 100",
@@ -6385,7 +6385,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ENGL 220",
@@ -6493,7 +6493,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "ENGL 331",
@@ -6517,7 +6517,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ENGL 499",
