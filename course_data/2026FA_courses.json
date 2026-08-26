@@ -577,7 +577,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Mehnaz",
       "capacity": "20",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "BIOT 504",
@@ -589,7 +589,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Irfan",
       "capacity": "20",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BIOT 601",
@@ -601,7 +601,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "R Hassan",
       "capacity": "20",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BIOT 608",
@@ -613,7 +613,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Maqbool",
       "capacity": "20",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "BIOT 699A",
@@ -1249,7 +1249,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "F Idrees",
       "capacity": "33",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "BUSN 230",
@@ -3565,7 +3565,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "COMP 303",
