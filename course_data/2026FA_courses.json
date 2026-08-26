@@ -4249,7 +4249,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Abbasi",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "CSCS 100",
@@ -5101,7 +5101,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "T Numan",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "ECON 101",
@@ -8017,7 +8017,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "MATH 105",
@@ -8725,7 +8725,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "MCOM 402",
@@ -8761,7 +8761,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Dr S Abbas",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MCOM 409",
@@ -9997,7 +9997,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "PLSC 330",
@@ -11473,7 +11473,7 @@
       "schedule_raw": "W F | 10:00 - 10:50",
       "instructor": "S Rasheed",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "SOCL 104",
