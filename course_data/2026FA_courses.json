@@ -5017,7 +5017,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON 100",
@@ -5101,7 +5101,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "T Numan",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "ECON 101",
@@ -10333,7 +10333,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "E Shahid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 105",
@@ -11917,7 +11917,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Bashir",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 207",
