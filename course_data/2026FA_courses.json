@@ -253,7 +253,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | T | 11:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "BIOL 222",
@@ -829,7 +829,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Usman",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "BUSN 101",
@@ -853,7 +853,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "K AMAD",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "BUSN 170",
@@ -7681,7 +7681,7 @@
       "schedule_raw": "M | 11:00 - 11:50 | F | 11:00 - 11:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 101",
