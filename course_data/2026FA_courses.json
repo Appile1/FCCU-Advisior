@@ -301,7 +301,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | T | 14:00 - 15:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BIOL 325",
@@ -12445,7 +12445,7 @@
       "schedule_raw": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
       "instructor": "I YAQOOB",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "UNIV 100",
