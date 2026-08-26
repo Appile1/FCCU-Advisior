@@ -769,7 +769,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "H Dawood",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 101",
@@ -1789,7 +1789,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "K Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 360",
@@ -7285,7 +7285,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 102",
@@ -7513,7 +7513,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HPED 112",
@@ -10069,7 +10069,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "M Younis",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "PLSC 403",
@@ -10249,7 +10249,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M  Niazi",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 100",
@@ -11533,7 +11533,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "SOCL 291",
@@ -12769,7 +12769,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Jamal",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "URDU 212",
