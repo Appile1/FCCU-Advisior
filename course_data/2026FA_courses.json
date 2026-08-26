@@ -6685,7 +6685,7 @@
       "schedule_raw": "T R | 11:00 - 11:50 | R | 09:00 - 10:50",
       "instructor": "D Bakker",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENVR 101",
@@ -9073,7 +9073,7 @@
       "schedule_raw": "T R | 11:00 - 11:50 | W | 14:00 - 16:00",
       "instructor": "K Javed",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHYS 100",
