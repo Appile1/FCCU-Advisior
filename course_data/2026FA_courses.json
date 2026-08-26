@@ -2725,7 +2725,7 @@
       "schedule_raw": "T R | 09:30 - 10:20 | W | 11:00 - 12:50",
       "instructor": "S Jelani",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHEM 100",
@@ -5005,7 +5005,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "ECON 100",
@@ -5041,7 +5041,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "Z Manzoor",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "ECON 100",
@@ -11221,7 +11221,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "SOCL 100",
