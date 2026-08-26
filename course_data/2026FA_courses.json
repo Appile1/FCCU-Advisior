@@ -4249,7 +4249,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Abbasi",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "CSCS 100",
@@ -10549,7 +10549,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A  Ateeq",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 301",
