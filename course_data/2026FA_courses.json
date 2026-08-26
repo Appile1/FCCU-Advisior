@@ -5317,7 +5317,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Lodhi",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ECON 302",
@@ -5329,7 +5329,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "ECON 303",
@@ -8737,7 +8737,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "MCOM 404",
@@ -11221,7 +11221,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "SOCL 100",
