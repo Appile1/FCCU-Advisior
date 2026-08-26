@@ -1033,7 +1033,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Bashir",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "BUSN 201",
@@ -1789,7 +1789,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "K Kamran",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 360",
@@ -8173,7 +8173,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Nadeem",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "MATH 109",
@@ -10633,7 +10633,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "PSYC 330",
@@ -11245,7 +11245,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
