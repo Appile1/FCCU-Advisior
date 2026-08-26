@@ -2821,7 +2821,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHEM 150",
@@ -7885,7 +7885,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Justin",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "LING 410",
@@ -10345,7 +10345,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "N Asif",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 150",
@@ -11329,7 +11329,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
