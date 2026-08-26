@@ -5701,7 +5701,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M. Thomas",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 110",
@@ -10405,7 +10405,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Ateeq",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "PSYC 180",
@@ -11569,7 +11569,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Amjad",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "SOCL 350",
@@ -12445,7 +12445,7 @@
       "schedule_raw": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
       "instructor": "I YAQOOB",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "UNIV 100",
