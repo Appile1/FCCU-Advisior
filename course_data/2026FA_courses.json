@@ -2785,7 +2785,7 @@
       "schedule_raw": "M W | 11:00 - 11:50 | W | 09:00 - 10:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CHEM 150",
@@ -4837,7 +4837,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "DATA 207",
@@ -6145,7 +6145,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -7537,7 +7537,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | M | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "HPED 150",
@@ -7981,7 +7981,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "N Shahid",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "MATH 102",
@@ -9745,7 +9745,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 101",
@@ -12493,7 +12493,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Virk",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 101",
