@@ -481,7 +481,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Yousaf",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BIOT 317",
@@ -529,7 +529,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Muaz",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "BIOT 411",
@@ -4357,7 +4357,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "CSCS 101",
