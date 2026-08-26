@@ -3613,7 +3613,7 @@
       "schedule_raw": "W | 09:00 - 10:50 | F | 09:00 - 10:50",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "COMP 360",
@@ -3697,7 +3697,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Iqbal",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "COMP 421",
@@ -12301,7 +12301,7 @@
       "schedule_raw": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "UNIV 100",
