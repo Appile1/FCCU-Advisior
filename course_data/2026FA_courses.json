@@ -5773,7 +5773,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "J Hassan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 120",
@@ -9745,7 +9745,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -10453,7 +10453,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "N Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 275",
@@ -11413,7 +11413,7 @@
       "schedule_raw": "M W | 09:00 - 09:50",
       "instructor": "S Jafree",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "SOCL 104",
@@ -11569,7 +11569,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Amjad",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "SOCL 350",
