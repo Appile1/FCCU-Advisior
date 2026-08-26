@@ -5161,7 +5161,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Ayyubi",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "ECON 102",
@@ -5197,7 +5197,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "ECON 103",
@@ -7561,7 +7561,7 @@
       "schedule_raw": "T R | 08:00 - 08:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
