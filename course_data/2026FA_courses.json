@@ -4537,7 +4537,7 @@
       "schedule_raw": "T R | 15:00 - 16:50",
       "instructor": "A Atique",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "CSCS 320",
@@ -6385,7 +6385,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ENGL 209",
@@ -8689,7 +8689,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "MCOM 304",
@@ -9049,7 +9049,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "PHIL 221",
@@ -10261,7 +10261,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 100",
