@@ -4510,5 +4510,21 @@
     "section": "F",
     "instructor": "M Raza",
     "timestamp": "2026-08-27T16:10:39.086619+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 100 (B): S Abbasi → S Minhas",
+    "course_code": "CSCS 100",
+    "section": "B",
+    "instructor": "S Minhas",
+    "timestamp": "2026-08-27T21:35:30.952206+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 100 (E): S Minhas → Q Quraishi",
+    "course_code": "CSCS 100",
+    "section": "E",
+    "instructor": "Q Quraishi",
+    "timestamp": "2026-08-27T21:35:30.952225+00:00"
   }
 ]

@@ -4394,14 +4394,6 @@
     "current_courses": [
       {
         "course_code": "CSCS 100",
-        "section": "B",
-        "course_name": "Applications of ICT",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "SBLOCKS219",
-        "unique": "CSCS 100/B"
-      },
-      {
-        "course_code": "CSCS 100",
         "section": "F",
         "course_name": "Applications of ICT",
         "schedule": "T R | 14:00 - 15:15",
@@ -4456,6 +4448,14 @@
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "SBLOCKS320",
         "unique": "CSCS 100/D"
+      },
+      {
+        "course_code": "CSCS 100",
+        "section": "E",
+        "course_name": "Applications of ICT",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS218",
+        "unique": "CSCS 100/E"
       }
     ],
     "all_courses": [
@@ -11041,11 +11041,11 @@
     "current_courses": [
       {
         "course_code": "CSCS 100",
-        "section": "E",
+        "section": "B",
         "course_name": "Applications of ICT",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS218",
-        "unique": "CSCS 100/E"
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS219",
+        "unique": "CSCS 100/B"
       }
     ],
     "all_courses": [
