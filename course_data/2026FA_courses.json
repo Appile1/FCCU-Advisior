@@ -1273,7 +1273,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "K Jamil",
       "capacity": "33",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "BUSN 230",
@@ -4021,7 +4021,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CRST 211",
@@ -4307,7 +4307,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS319",
       "schedule_raw": "T R | 15:30 - 16:45",
-      "instructor": "TBD",
+      "instructor": "A Atique",
       "capacity": "35",
       "available": "0"
     },
@@ -4327,11 +4327,11 @@
       "course_code": "CSCS 100",
       "section": "I",
       "unique": "CSCS 100/I",
-      "course_name": "Intro  to Computing",
+      "course_name": "Applications of ICT",
       "credits": "3.00",
       "classroom": "EBLOCKE241",
       "schedule_raw": "T R | 08:00 - 09:15",
-      "instructor": "A Atique",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "0"
     },
@@ -4345,7 +4345,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Toor",
       "capacity": "30",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 101",
@@ -10393,7 +10393,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "E Shahid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 150",
@@ -10417,7 +10417,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 160",

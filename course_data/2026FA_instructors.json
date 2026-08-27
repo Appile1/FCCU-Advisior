@@ -4316,11 +4316,11 @@
     "current_courses": [
       {
         "course_code": "CSCS 100",
-        "section": "I",
-        "course_name": "Intro  to Computing",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE241",
-        "unique": "CSCS 100/I"
+        "section": "G",
+        "course_name": "Applications of ICT",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS319",
+        "unique": "CSCS 100/G"
       },
       {
         "course_code": "CSCS 290",
@@ -11070,11 +11070,11 @@
     "current_courses": [
       {
         "course_code": "CSCS 100",
-        "section": "G",
+        "section": "I",
         "course_name": "Applications of ICT",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "SBLOCKS319",
-        "unique": "CSCS 100/G"
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE241",
+        "unique": "CSCS 100/I"
       },
       {
         "course_code": "CSCS 101",
