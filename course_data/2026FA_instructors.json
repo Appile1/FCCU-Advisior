@@ -8032,6 +8032,14 @@
         "unique": "PSYC 160/A"
       },
       {
+        "course_code": "PSYC 220",
+        "section": "C",
+        "course_name": "Stat. for Psychology",
+        "schedule": "T R | 08:00 - 09:15 | W | 13:00 - 14:50",
+        "classroom": "EBLOCKE246 | EBLOCKE241",
+        "unique": "PSYC 220/C"
+      },
+      {
         "course_code": "PSYC 320",
         "section": "A",
         "course_name": "Cross-Cultural Psych",
@@ -8067,6 +8075,7 @@
     "all_courses": [
       "PSYC 100",
       "PSYC 160",
+      "PSYC 220",
       "PSYC 305",
       "PSYC 320",
       "PSYC 380",

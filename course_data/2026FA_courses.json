@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 1043,
+  "total_courses": 1044,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -313,7 +313,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Butt",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 330",
@@ -1561,7 +1561,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Ehsan",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "BUSN 321",
@@ -2173,7 +2173,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Naumaan Ch",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 460",
@@ -2533,7 +2533,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "BUSN 535",
@@ -5053,7 +5053,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "Z Manzoor",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ECON 100",
@@ -5821,7 +5821,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "EDUC 120",
@@ -6733,7 +6733,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "K Shafiqu",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENVR 240",
@@ -7405,7 +7405,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "HIST 306",
@@ -10480,6 +10480,18 @@
       "available": "0"
     },
     {
+      "course_code": "PSYC 220",
+      "section": "C",
+      "unique": "PSYC 220/C",
+      "course_name": "Stat. for Psychology",
+      "credits": "4.00",
+      "classroom": "EBLOCKE246 | EBLOCKE241",
+      "schedule_raw": "T R | 08:00 - 09:15 | W | 13:00 - 14:50",
+      "instructor": "A aziz",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
       "course_code": "PSYC 240",
       "section": "A",
       "unique": "PSYC 240/A",
@@ -11365,7 +11377,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
@@ -11485,7 +11497,7 @@
       "schedule_raw": "M W | 10:00 - 10:50",
       "instructor": "S Athar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 104",
@@ -11569,7 +11581,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "SOCL 291",
