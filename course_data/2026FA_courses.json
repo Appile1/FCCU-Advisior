@@ -85,7 +85,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS 203",
@@ -325,7 +325,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "BIOT 201",
@@ -4369,7 +4369,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "CSCS 101",
@@ -6205,7 +6205,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A  Khalid",
       "capacity": "25",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "ENGL 108",
@@ -7501,7 +7501,7 @@
       "schedule_raw": "M W | 16:00 - 17:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "HPED 102",
@@ -8281,7 +8281,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "MATH 203",
@@ -8761,7 +8761,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "MCOM 404",
@@ -10201,7 +10201,7 @@
       "schedule_raw": "T | 16:00 - 19:00",
       "instructor": "S Awan",
       "capacity": "25",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "PLSC 523",
