@@ -709,7 +709,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Gul",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "BUSN 101",
@@ -2089,7 +2089,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 460",
@@ -3193,7 +3193,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Z Kexin",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHIN 101",
@@ -4477,7 +4477,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "CSCS 202",
@@ -4573,7 +4573,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "CSCS 321",
@@ -6121,7 +6121,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ENGL 108",
@@ -6853,7 +6853,7 @@
       "schedule_raw": "M   F | 10:00 - 10:50 | W | 09:00 - 10:50",
       "instructor": "S Ilyas",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "ENVR 499",
@@ -7345,7 +7345,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Hayat",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 207",
@@ -7501,7 +7501,7 @@
       "schedule_raw": "M W | 16:00 - 17:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "HPED 102",
@@ -7993,7 +7993,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "N Shahid",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "MATH 102",
@@ -8029,7 +8029,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "MATH 105",
