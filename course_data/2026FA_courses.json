@@ -577,7 +577,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Mehnaz",
       "capacity": "20",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BIOT 504",
@@ -589,7 +589,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Irfan",
       "capacity": "20",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "BIOT 601",
@@ -601,7 +601,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "R Hassan",
       "capacity": "20",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "BIOT 608",
@@ -613,7 +613,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Maqbool",
       "capacity": "20",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "BIOT 699A",
@@ -3373,7 +3373,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | T | 11:00 - 13:50",
       "instructor": "S Minhas",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "COMP 206",
@@ -3997,7 +3997,7 @@
       "schedule_raw": "M W | 10:00 - 10:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "CRST 152",
@@ -6049,7 +6049,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "N Langah",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 106",
@@ -8725,7 +8725,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "MCOM 402",
@@ -9877,7 +9877,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "PLSC 212",
@@ -10009,7 +10009,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PLSC 330",
@@ -11581,7 +11581,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Amjad",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "SOCL 350",
