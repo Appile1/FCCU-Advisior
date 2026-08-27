@@ -3661,7 +3661,7 @@
       "schedule_raw": "W | 15:00 - 15:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "COMP 401",
@@ -4357,7 +4357,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "CSCS 101",
@@ -6397,7 +6397,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Syeda",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ENGL 250",
@@ -7405,7 +7405,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Sumbal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 310",
@@ -8149,7 +8149,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "MATH 108",
@@ -11545,7 +11545,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "SOCL 291",
