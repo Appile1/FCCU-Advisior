@@ -529,7 +529,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Muaz",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "BIOT 411",
@@ -12397,7 +12397,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "URDU 201",
@@ -12421,7 +12421,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "N Khokhar",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "URDU 504",
