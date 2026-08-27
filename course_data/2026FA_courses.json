@@ -97,7 +97,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 100",
@@ -1777,7 +1777,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BUSN 360",
@@ -3505,7 +3505,7 @@
       "schedule_raw": "T | 11:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "M Butt",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "COMP 302",
@@ -3637,7 +3637,7 @@
       "schedule_raw": "W | 11:00 - 12:50 | F | 11:00 - 12:50",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "COMP 401",
@@ -5197,7 +5197,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "ECON 103",
@@ -5209,7 +5209,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "ECON 103",
@@ -5245,7 +5245,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "ECON 202",
@@ -5281,7 +5281,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Jalil",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ECON 203",
@@ -5377,7 +5377,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "U Hanif",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "ECON 305",
@@ -6385,7 +6385,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "ENGL 209",
@@ -7489,7 +7489,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "HPED 101",
@@ -7537,7 +7537,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "HPED 150",
@@ -7693,7 +7693,7 @@
       "schedule_raw": "M | 11:00 - 11:50 | F | 11:00 - 11:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "0"
+      "available": "2"
     },
     {
       "course_code": "ISLM 101",
@@ -8161,7 +8161,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "MATH 108",
@@ -9073,7 +9073,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "PHIL 499",
@@ -9865,7 +9865,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 203",
@@ -10429,7 +10429,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 175",
@@ -11257,7 +11257,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
@@ -11581,7 +11581,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Jafree",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "SOCL 301",
