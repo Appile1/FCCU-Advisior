@@ -11877,8 +11877,8 @@
       "unique": "STAT 202/A",
       "course_name": "Statisl Inference II",
       "credits": "3.00",
-      "classroom": "SBLOCKS420",
-      "schedule_raw": "M W F | 14:00 - 14:50",
+      "classroom": "SBLOCKS425",
+      "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Ayub",
       "capacity": "35",
       "available": "32"
@@ -12769,7 +12769,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Jamal",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "URDU 212",
