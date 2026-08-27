@@ -6575,6 +6575,14 @@
         "schedule": "MTWRF | 08:00 - 16:00",
         "classroom": "SBLOCKTBD",
         "unique": "MPGN 699A/A"
+      },
+      {
+        "course_code": "MPGN 699B",
+        "section": "A",
+        "course_name": "Research",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "MPGN 699B/A"
       }
     ],
     "all_courses": [
