@@ -1033,7 +1033,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Bashir",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "BUSN 201",
@@ -1273,7 +1273,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "K Jamil",
       "capacity": "33",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "BUSN 230",
@@ -1297,7 +1297,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "B Usman",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 230",
@@ -1477,7 +1477,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Ibrahim",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 280",
@@ -7777,7 +7777,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 306",
@@ -12874,7 +12874,7 @@
       "course_name": "Services of Oriental",
       "credits": "3.00",
       "classroom": "EBLOCKE102",
-      "schedule_raw": "F | 17:00 - 20:00",
+      "schedule_raw": "R | 17:00 - 20:00",
       "instructor": "A Samuel",
       "capacity": "25",
       "available": "25"
