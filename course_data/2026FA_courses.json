@@ -2869,7 +2869,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | F | 11:00 - 12:45",
       "instructor": "S Jelani",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "CHEM 170",
@@ -6769,7 +6769,7 @@
       "schedule_raw": "M   F | 12:00 - 12:50 | W | 14:00 - 15:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "ENVR 340",
@@ -7153,7 +7153,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "GEOG 210",
