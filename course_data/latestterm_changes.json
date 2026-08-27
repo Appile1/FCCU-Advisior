@@ -4502,5 +4502,13 @@
     "section": "C",
     "instructor": "A aziz",
     "timestamp": "2026-08-27T16:00:52.262663+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for EDUC 110 (F): TBD → M Raza",
+    "course_code": "EDUC 110",
+    "section": "F",
+    "instructor": "M Raza",
+    "timestamp": "2026-08-27T16:10:39.086619+00:00"
   }
 ]

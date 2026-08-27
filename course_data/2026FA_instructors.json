@@ -12149,6 +12149,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "EDUC 110",
+        "section": "F",
+        "course_name": "Foundations of Educ.",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE140",
+        "unique": "EDUC 110/F"
+      },
+      {
         "course_code": "EDUC 120",
         "section": "B",
         "course_name": "Educ Psychology",
@@ -15376,16 +15384,7 @@
     "departments": [
       "EDUC"
     ],
-    "current_courses": [
-      {
-        "course_code": "EDUC 110",
-        "section": "F",
-        "course_name": "Foundations of Educ.",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE140",
-        "unique": "EDUC 110/F"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "EDUC 110"
     ]
