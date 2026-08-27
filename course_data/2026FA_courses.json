@@ -85,7 +85,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ARTS 203",
@@ -3277,7 +3277,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | F | 14:00 - 16:50",
       "instructor": "S Qureshi",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "COMP 111",
@@ -4897,7 +4897,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Mughal",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "DATA 302",
@@ -5713,7 +5713,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M. Thomas",
       "capacity": "35",
-      "available": "0"
+      "available": "2"
     },
     {
       "course_code": "EDUC 110",
@@ -6205,7 +6205,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A  Khalid",
       "capacity": "25",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "ENGL 108",
@@ -7789,7 +7789,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 306",
@@ -8761,7 +8761,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "MCOM 404",
@@ -10081,7 +10081,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "PLSC 402",
