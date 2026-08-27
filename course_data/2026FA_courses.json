@@ -421,7 +421,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "BIOT 309",
@@ -4105,7 +4105,7 @@
       "schedule_raw": "T R | 15:00 - 16:15",
       "instructor": "W Davey",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "CRST 391",
@@ -4369,7 +4369,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "CSCS 101",
@@ -4789,7 +4789,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Ayub",
       "capacity": "15",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "DATA 201",
@@ -5017,7 +5017,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "ECON 100",
@@ -5041,7 +5041,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON 100",
@@ -7549,7 +7549,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | M | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "HPED 150",
@@ -8101,7 +8101,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "MATH 107",
@@ -11449,7 +11449,7 @@
       "schedule_raw": "M W | 09:00 - 09:50",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "SOCL 104",
@@ -11641,7 +11641,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "SOCL 494",
