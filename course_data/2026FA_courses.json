@@ -1369,7 +1369,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "BUSN 280",
@@ -2845,7 +2845,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | F | 11:00 - 12:50",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "CHEM 160",
@@ -5569,7 +5569,7 @@
       "schedule_raw": "T R | 11:30 - 13:00",
       "instructor": "T Ahmed",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "ECON 605",
@@ -6109,7 +6109,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -6325,7 +6325,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 175",
@@ -7861,7 +7861,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "LING 301",
@@ -8533,7 +8533,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "MCOM 201",
@@ -8557,7 +8557,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "MCOM 202",
@@ -8749,7 +8749,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "MCOM 402",
@@ -9517,7 +9517,7 @@
       "schedule_raw": "T R | 09:00 - 09:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PKST 101",
@@ -11269,7 +11269,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
