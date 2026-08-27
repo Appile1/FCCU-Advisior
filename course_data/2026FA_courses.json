@@ -4345,7 +4345,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Toor",
       "capacity": "30",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "CSCS 101",
@@ -5833,7 +5833,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 120",
@@ -6373,7 +6373,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Langah",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ENGL 201",
@@ -7861,7 +7861,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "LING 301",
@@ -8725,7 +8725,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Muzamil",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "MCOM 310",
@@ -8737,7 +8737,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "MCOM 402",
@@ -8773,7 +8773,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MCOM 409",
