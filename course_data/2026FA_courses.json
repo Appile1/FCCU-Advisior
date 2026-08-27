@@ -2797,7 +2797,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | M | 11:00 - 12:50",
       "instructor": "S Azeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHEM 150",
@@ -2857,7 +2857,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | T | 09:00 - 10:50",
       "instructor": "D Ahmed",
       "capacity": "20",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "CHEM 160",
@@ -3793,7 +3793,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "CPPG 601",
@@ -5545,7 +5545,7 @@
       "schedule_raw": "T R | 09:30 - 11:00",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "ECON 502",
@@ -5569,7 +5569,7 @@
       "schedule_raw": "T R | 11:30 - 13:00",
       "instructor": "T Ahmed",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "ECON 605",
@@ -5869,7 +5869,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "EDUC 240",
@@ -6349,7 +6349,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Bokhari",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "ENGL 201",
@@ -7789,7 +7789,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 306",
@@ -9073,7 +9073,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "PHIL 499",
@@ -9913,7 +9913,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PLSC 301",
@@ -10033,7 +10033,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "PLSC 330",
@@ -10681,7 +10681,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "U Ilyas",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 330",
@@ -11797,7 +11797,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Hanook",
       "capacity": "15",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 101",
