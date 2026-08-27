@@ -1381,7 +1381,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "BUSN 280",
@@ -1393,7 +1393,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BUSN 280",
@@ -4789,7 +4789,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Ayub",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "DATA 201",
@@ -5065,7 +5065,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Z Manzoor",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON 100",
@@ -5365,7 +5365,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "U Hanif",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ECON 303",
@@ -5377,7 +5377,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "U Hanif",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "ECON 305",
@@ -6061,7 +6061,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "N Langah",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 106",
@@ -6205,7 +6205,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A  Khalid",
       "capacity": "25",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "ENGL 108",
@@ -7153,7 +7153,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 201",
@@ -7501,7 +7501,7 @@
       "schedule_raw": "M W | 16:00 - 17:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "HPED 102",
@@ -7525,7 +7525,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "HPED 112",
@@ -7549,7 +7549,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | M | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HPED 150",
@@ -8029,7 +8029,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "MATH 105",
@@ -10069,7 +10069,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 400",
@@ -11797,7 +11797,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Hanook",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 101",
