@@ -8024,6 +8024,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "PSYC 150",
+        "section": "C",
+        "course_name": "Dev. Psychology - 1",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE246",
+        "unique": "PSYC 150/C"
+      },
+      {
         "course_code": "PSYC 160",
         "section": "A",
         "course_name": "Emotional Intelligen",
@@ -8038,22 +8046,6 @@
         "schedule": "T R | 08:00 - 09:15 | W | 13:00 - 14:50",
         "classroom": "EBLOCKE246 | EBLOCKE241",
         "unique": "PSYC 220/C"
-      },
-      {
-        "course_code": "PSYC 320",
-        "section": "A",
-        "course_name": "Cross-Cultural Psych",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE246",
-        "unique": "PSYC 320/A"
-      },
-      {
-        "course_code": "PSYC 380",
-        "section": "A",
-        "course_name": "Psychology of Crime",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE246",
-        "unique": "PSYC 380/A"
       },
       {
         "course_code": "PSYC 465",
@@ -8074,6 +8066,7 @@
     ],
     "all_courses": [
       "PSYC 100",
+      "PSYC 150",
       "PSYC 160",
       "PSYC 220",
       "PSYC 305",
