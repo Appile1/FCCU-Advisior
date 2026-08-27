@@ -481,7 +481,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Yousaf",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "BIOT 317",
@@ -1249,7 +1249,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "F Idrees",
       "capacity": "33",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BUSN 230",
@@ -5377,7 +5377,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "T Numan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON 307",
@@ -5605,7 +5605,7 @@
       "schedule_raw": "M | 17:00 - 20:00",
       "instructor": "G Shabbir",
       "capacity": "25",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ECON 703",
@@ -5617,7 +5617,7 @@
       "schedule_raw": "W | 17:00 - 20:00",
       "instructor": "T Ahmed",
       "capacity": "10",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ECON 711",
@@ -5629,7 +5629,7 @@
       "schedule_raw": "T | 17:00 - 20:00",
       "instructor": "T Numan",
       "capacity": "10",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ECON 716",
@@ -5641,7 +5641,7 @@
       "schedule_raw": "R | 17:00 - 20:00",
       "instructor": "A  Jalil",
       "capacity": "10",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ECON 799A",
@@ -6385,7 +6385,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 220",
@@ -7681,7 +7681,7 @@
       "schedule_raw": "M | 11:00 - 11:50 | F | 11:00 - 11:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 101",
@@ -8065,7 +8065,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 107",
@@ -8101,7 +8101,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MATH 107",
@@ -8173,7 +8173,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Nadeem",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "MATH 109",
@@ -10021,7 +10021,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "PLSC 335",
@@ -10045,7 +10045,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 400",
@@ -10213,7 +10213,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "PLSC 699E",
@@ -11281,7 +11281,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
