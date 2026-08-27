@@ -493,7 +493,7 @@
       "schedule_raw": "M W | 10:00 - 10:50 | F | 11:00 - 12:50",
       "instructor": "K Muaz",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "BIOT 407",
@@ -529,7 +529,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Muaz",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "BIOT 411",
@@ -2377,7 +2377,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BUSN 485",
@@ -3565,7 +3565,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "COMP 303",
@@ -12385,7 +12385,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Jamal",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "URDU 212",
