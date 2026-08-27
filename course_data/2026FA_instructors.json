@@ -4243,11 +4243,11 @@
     "current_courses": [
       {
         "course_code": "CSCS 100",
-        "section": "F",
+        "section": "J",
         "course_name": "Applications of ICT",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS218",
-        "unique": "CSCS 100/F"
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "SBLOCKS120",
+        "unique": "CSCS 100/J"
       },
       {
         "course_code": "CSCS 351",
@@ -4399,6 +4399,14 @@
         "schedule": "M W F | 08:00 - 08:50",
         "classroom": "SBLOCKS219",
         "unique": "CSCS 100/B"
+      },
+      {
+        "course_code": "CSCS 100",
+        "section": "F",
+        "course_name": "Applications of ICT",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS218",
+        "unique": "CSCS 100/F"
       },
       {
         "course_code": "CSCS 101",

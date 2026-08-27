@@ -4462,5 +4462,21 @@
     "section": "H",
     "instructor": "S Jafree",
     "timestamp": "2026-08-27T11:25:39.955948+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 100 (F): S Toor → S Abbasi",
+    "course_code": "CSCS 100",
+    "section": "F",
+    "instructor": "S Abbasi",
+    "timestamp": "2026-08-27T11:45:58.526657+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: CSCS 100 (J) - S Toor",
+    "course_code": "CSCS 100",
+    "section": "J",
+    "instructor": "S Toor",
+    "timestamp": "2026-08-27T11:45:58.526683+00:00"
   }
 ]
