@@ -1033,7 +1033,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Bashir",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "BUSN 201",
@@ -2881,7 +2881,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | T | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "CHEM 250",
@@ -3793,7 +3793,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "CPPG 601",
@@ -6241,7 +6241,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Hanif",
       "capacity": "25",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "ENGL 108",
@@ -10021,7 +10021,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "PLSC 335",
@@ -11245,7 +11245,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
