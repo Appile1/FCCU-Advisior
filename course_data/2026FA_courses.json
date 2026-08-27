@@ -25,7 +25,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ARTS 102",
@@ -973,7 +973,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Fateh",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "BUSN 170",
@@ -2401,7 +2401,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "BUSN 490",
@@ -11879,7 +11879,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS420",
       "schedule_raw": "T R | 09:30 - 10:45",
-      "instructor": "M Mughal",
+      "instructor": "S Ayub",
       "capacity": "20",
       "available": "9"
     },
@@ -11891,7 +11891,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS425",
       "schedule_raw": "M W F | 12:00 - 12:50",
-      "instructor": "S Ayub",
+      "instructor": "M Mughal",
       "capacity": "35",
       "available": "32"
     },
@@ -11989,7 +11989,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Bashir",
       "capacity": "20",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "STAT 317",

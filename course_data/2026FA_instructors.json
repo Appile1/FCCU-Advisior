@@ -9252,18 +9252,19 @@
         "unique": "STAT 102/C"
       },
       {
-        "course_code": "STAT 202",
+        "course_code": "STAT 201",
         "section": "A",
-        "course_name": "Statisl Inference II",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "SBLOCKS425",
-        "unique": "STAT 202/A"
+        "course_name": "Statis Inference I",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 201/A"
       }
     ],
     "all_courses": [
       "STAT 100",
       "STAT 101",
       "STAT 102",
+      "STAT 201",
       "STAT 202",
       "STAT 208",
       "STAT 508"
@@ -9391,12 +9392,12 @@
     ],
     "current_courses": [
       {
-        "course_code": "STAT 201",
+        "course_code": "STAT 202",
         "section": "A",
-        "course_name": "Statis Inference I",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS420",
-        "unique": "STAT 201/A"
+        "course_name": "Statisl Inference II",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "SBLOCKS425",
+        "unique": "STAT 202/A"
       },
       {
         "course_code": "STAT 207",
@@ -9417,6 +9418,7 @@
     ],
     "all_courses": [
       "STAT 201",
+      "STAT 202",
       "STAT 207",
       "STAT 315"
     ]

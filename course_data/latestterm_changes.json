@@ -4318,5 +4318,21 @@
     "section": "A",
     "instructor": "S Bashir",
     "timestamp": "2026-08-27T04:50:35.608943+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for STAT 201 (A): M Mughal → S Ayub",
+    "course_code": "STAT 201",
+    "section": "A",
+    "instructor": "S Ayub",
+    "timestamp": "2026-08-27T04:55:35.762724+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for STAT 202 (A): S Ayub → M Mughal",
+    "course_code": "STAT 202",
+    "section": "A",
+    "instructor": "M Mughal",
+    "timestamp": "2026-08-27T04:55:35.762745+00:00"
   }
 ]
