@@ -901,7 +901,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "BUSN 170",
@@ -4249,7 +4249,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Abbasi",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "CSCS 100",
@@ -4345,7 +4345,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Toor",
       "capacity": "30",
-      "available": "19"
+      "available": "17"
     },
     {
       "course_code": "CSCS 101",
@@ -4789,7 +4789,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Ayub",
       "capacity": "15",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "DATA 201",
@@ -5017,7 +5017,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "ECON 100",
@@ -5521,7 +5521,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Bhatti",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "ECON 499B",
@@ -5821,7 +5821,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "EDUC 120",
@@ -6217,7 +6217,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Langah",
       "capacity": "25",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "ENGL 108",
@@ -6385,7 +6385,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ENGL 209",
@@ -7165,7 +7165,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "GEOG 210",
@@ -9049,7 +9049,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PHIL 221",
@@ -9805,7 +9805,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 101",
@@ -9985,7 +9985,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M U Farooq",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "PLSC 317",
@@ -10033,7 +10033,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "PLSC 330",
@@ -10045,7 +10045,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "PLSC 335",
@@ -10093,7 +10093,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "15",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "PLSC 403",
@@ -10129,7 +10129,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "PLSC 499",
@@ -10861,7 +10861,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 425",
