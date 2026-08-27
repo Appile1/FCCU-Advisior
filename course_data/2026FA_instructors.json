@@ -5753,10 +5753,19 @@
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "SBLOCKS115",
         "unique": "MATH 107/C"
+      },
+      {
+        "course_code": "MATH 314",
+        "section": "A",
+        "course_name": "Distribution Theory",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS425",
+        "unique": "MATH 314/A"
       }
     ],
     "all_courses": [
-      "MATH 107"
+      "MATH 107",
+      "MATH 314"
     ]
   },
   {
@@ -9348,6 +9357,14 @@
         "schedule": "M W F | 12:00 - 12:50",
         "classroom": "SBLOCKS421",
         "unique": "STAT 206/C"
+      },
+      {
+        "course_code": "STAT 304",
+        "section": "A",
+        "course_name": "Distribution Theory",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS425",
+        "unique": "STAT 304/A"
       },
       {
         "course_code": "STAT 519",

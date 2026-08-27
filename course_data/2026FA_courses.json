@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 1074,
+  "total_courses": 1076,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -8356,6 +8356,18 @@
       "available": "23"
     },
     {
+      "course_code": "MATH 314",
+      "section": "A",
+      "unique": "MATH 314/A",
+      "course_name": "Distribution Theory",
+      "credits": "3.00",
+      "classroom": "SBLOCKS425",
+      "schedule_raw": "T R | 15:30 - 16:45",
+      "instructor": "A Tayyab",
+      "capacity": "15",
+      "available": "15"
+    },
+    {
       "course_code": "MATH 410",
       "section": "A",
       "unique": "MATH 410/A",
@@ -11966,6 +11978,18 @@
       "instructor": "A Sarwar",
       "capacity": "35",
       "available": "35"
+    },
+    {
+      "course_code": "STAT 304",
+      "section": "A",
+      "unique": "STAT 304/A",
+      "course_name": "Distribution Theory",
+      "credits": "3.00",
+      "classroom": "SBLOCKS425",
+      "schedule_raw": "T R | 15:30 - 16:45",
+      "instructor": "S Bashir",
+      "capacity": "20",
+      "available": "20"
     },
     {
       "course_code": "STAT 317",
