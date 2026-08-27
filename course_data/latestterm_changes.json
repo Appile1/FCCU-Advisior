@@ -4438,5 +4438,13 @@
     "section": "A",
     "instructor": "N Asghar",
     "timestamp": "2026-08-27T09:35:36.751165+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 108 (R): A  Javed → M Zia",
+    "course_code": "ENGL 108",
+    "section": "R",
+    "instructor": "M Zia",
+    "timestamp": "2026-08-27T10:10:34.865455+00:00"
   }
 ]

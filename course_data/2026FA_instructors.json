@@ -14134,6 +14134,14 @@
         "schedule": "M W F | 16:00 - 16:50",
         "classroom": "EBLOCKE242",
         "unique": "ENGL 108/C"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "R",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "SBLOCKS312",
+        "unique": "ENGL 108/R"
       }
     ],
     "all_courses": [
@@ -14259,14 +14267,6 @@
         "schedule": "T R | 15:30 - 16:45",
         "classroom": "SBLOCKS316",
         "unique": "ENGL 108/H"
-      },
-      {
-        "course_code": "ENGL 108",
-        "section": "R",
-        "course_name": "Expository Writing",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "SBLOCKS312",
-        "unique": "ENGL 108/R"
       }
     ],
     "all_courses": [
