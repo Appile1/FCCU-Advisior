@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 1073,
+  "total_courses": 1074,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -841,7 +841,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "BUSN 101",
@@ -973,7 +973,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Fateh",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "BUSN 170",
@@ -8185,7 +8185,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 109",
@@ -11473,7 +11473,7 @@
       "schedule_raw": "W F | 10:00 - 10:50",
       "instructor": "S Rasheed",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 104",
@@ -11956,6 +11956,18 @@
       "available": "7"
     },
     {
+      "course_code": "STAT 302",
+      "section": "A",
+      "unique": "STAT 302/A",
+      "course_name": "Exp. Design i",
+      "credits": "3.00",
+      "classroom": "SBLOCKS425",
+      "schedule_raw": "T R | 12:30 - 13:45",
+      "instructor": "A Sarwar",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
       "course_code": "STAT 317",
       "section": "A",
       "unique": "STAT 317/A",
@@ -12301,7 +12313,7 @@
       "schedule_raw": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "UNIV 100",

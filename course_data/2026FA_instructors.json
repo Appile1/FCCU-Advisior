@@ -9281,13 +9281,22 @@
         "schedule": "M W F | 10:00 - 10:50",
         "classroom": "SBLOCKS420",
         "unique": "STAT 115/B"
+      },
+      {
+        "course_code": "STAT 302",
+        "section": "A",
+        "course_name": "Exp. Design i",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS425",
+        "unique": "STAT 302/A"
       }
     ],
     "all_courses": [
       "STAT 100",
       "STAT 101",
       "STAT 103",
-      "STAT 115"
+      "STAT 115",
+      "STAT 302"
     ]
   },
   {
