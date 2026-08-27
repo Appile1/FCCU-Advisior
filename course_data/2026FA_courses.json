@@ -1249,7 +1249,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "F Idrees",
       "capacity": "33",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "BUSN 230",
@@ -1297,7 +1297,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "B Usman",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 230",
@@ -6001,7 +6001,7 @@
       "schedule_raw": "F | 16:00 - 19:00",
       "instructor": "M. Thomas",
       "capacity": "15",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "EDUC 520",
@@ -6013,7 +6013,7 @@
       "schedule_raw": "T | 16:00 - 19:00",
       "instructor": "S Burhan",
       "capacity": "15",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "EDUC 560",
@@ -6025,7 +6025,7 @@
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "A Khokhar",
       "capacity": "15",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "EDUC 650",
@@ -6037,7 +6037,7 @@
       "schedule_raw": "M | 16:00 - 19:00",
       "instructor": "M. Thomas",
       "capacity": "15",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ENGL 106",
@@ -7129,7 +7129,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "GEOG 133",
