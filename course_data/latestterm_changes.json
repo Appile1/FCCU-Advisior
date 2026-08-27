@@ -4406,5 +4406,37 @@
     "section": "A",
     "instructor": "S Ali",
     "timestamp": "2026-08-27T09:30:40.528216+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for FSQM 501 (A): TBD → Team",
+    "course_code": "FSQM 501",
+    "section": "A",
+    "instructor": "Team",
+    "timestamp": "2026-08-27T09:35:36.751102+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for MPGN 501 (A): N Asghar → M Yousaf",
+    "course_code": "MPGN 501",
+    "section": "A",
+    "instructor": "M Yousaf",
+    "timestamp": "2026-08-27T09:35:36.751158+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for MPGN 503 (A): M Yousaf → A  Arshad",
+    "course_code": "MPGN 503",
+    "section": "A",
+    "instructor": "A  Arshad",
+    "timestamp": "2026-08-27T09:35:36.751162+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for MPGN 504 (A): A  Arshad → N Asghar",
+    "course_code": "MPGN 504",
+    "section": "A",
+    "instructor": "N Asghar",
+    "timestamp": "2026-08-27T09:35:36.751165+00:00"
   }
 ]

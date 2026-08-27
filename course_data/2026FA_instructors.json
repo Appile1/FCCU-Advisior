@@ -6500,15 +6500,16 @@
     ],
     "current_courses": [
       {
-        "course_code": "MPGN 503",
+        "course_code": "MPGN 501",
         "section": "A",
-        "course_name": "Basic Pathology",
-        "schedule": "T R | 16:00 - 17:30",
+        "course_name": "Advanced Molecular B",
+        "schedule": "M W | 16:00 - 17:30",
         "classroom": "SBLOCKS313",
-        "unique": "MPGN 503/A"
+        "unique": "MPGN 501/A"
       }
     ],
     "all_courses": [
+      "MPGN 501",
       "MPGN 503",
       "MPGN 603"
     ]
@@ -6520,15 +6521,16 @@
     ],
     "current_courses": [
       {
-        "course_code": "MPGN 504",
+        "course_code": "MPGN 503",
         "section": "A",
-        "course_name": "Biosafety, Bioethics",
-        "schedule": "M W | 17:30 - 19:00",
+        "course_name": "Basic Pathology",
+        "schedule": "T R | 16:00 - 17:30",
         "classroom": "SBLOCKS313",
-        "unique": "MPGN 504/A"
+        "unique": "MPGN 503/A"
       }
     ],
     "all_courses": [
+      "MPGN 503",
       "MPGN 504",
       "MPGN 613"
     ]
@@ -14286,16 +14288,7 @@
     "departments": [
       "FSQM"
     ],
-    "current_courses": [
-      {
-        "course_code": "FSQM 501",
-        "section": "A",
-        "course_name": "Food Saf Ql Mang",
-        "schedule": "R | 16:00 - 19:00",
-        "classroom": "SBLOCKS312",
-        "unique": "FSQM 501/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "FSQM 501"
     ]
@@ -14439,16 +14432,17 @@
     ],
     "current_courses": [
       {
-        "course_code": "MPGN 501",
+        "course_code": "MPGN 504",
         "section": "A",
-        "course_name": "Advanced Molecular B",
-        "schedule": "M W | 16:00 - 17:30",
+        "course_name": "Biosafety, Bioethics",
+        "schedule": "M W | 17:30 - 19:00",
         "classroom": "SBLOCKS313",
-        "unique": "MPGN 501/A"
+        "unique": "MPGN 504/A"
       }
     ],
     "all_courses": [
-      "MPGN 501"
+      "MPGN 501",
+      "MPGN 504"
     ]
   },
   {
@@ -15688,6 +15682,25 @@
     ],
     "all_courses": [
       "BIOL 100"
+    ]
+  },
+  {
+    "name": "Team",
+    "departments": [
+      "FSQM"
+    ],
+    "current_courses": [
+      {
+        "course_code": "FSQM 501",
+        "section": "A",
+        "course_name": "Food Saf Ql Mang",
+        "schedule": "R | 16:00 - 19:00",
+        "classroom": "SBLOCKS312",
+        "unique": "FSQM 501/A"
+      }
+    ],
+    "all_courses": [
+      "FSQM 501"
     ]
   }
 ]
