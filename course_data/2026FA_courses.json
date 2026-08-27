@@ -889,7 +889,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Fateh",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 170",
@@ -901,7 +901,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "BUSN 170",
@@ -1573,7 +1573,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 321",
@@ -1789,7 +1789,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "K Kamran",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 360",
@@ -3997,7 +3997,7 @@
       "schedule_raw": "M W | 10:00 - 10:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "CRST 152",
@@ -5413,7 +5413,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "G Shabbir",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ECON 311",
@@ -5953,7 +5953,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khokhar",
       "capacity": "15",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "EDUC 350",
@@ -8725,7 +8725,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Muzamil",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "MCOM 310",
@@ -9901,7 +9901,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "PLSC 212",
@@ -9913,7 +9913,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Mirza",
       "capacity": "35",
-      "available": "13"
+      "available": "11"
     },
     {
       "course_code": "PLSC 301",
