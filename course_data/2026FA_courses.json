@@ -697,7 +697,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Gul",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BUSN 101",
@@ -1789,7 +1789,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "K Kamran",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 360",
@@ -2329,7 +2329,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 485",
@@ -2797,7 +2797,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | M | 11:00 - 12:50",
       "instructor": "S Azeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHEM 150",
@@ -2845,7 +2845,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | F | 11:00 - 12:50",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "CHEM 160",
@@ -4045,7 +4045,7 @@
       "schedule_raw": "W | 12:00 - 12:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "CRST 231",
@@ -10393,7 +10393,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "2"
+      "available": "4"
     },
     {
       "course_code": "PSYC 165",
@@ -10405,7 +10405,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "8"
+      "available": "6"
     },
     {
       "course_code": "PSYC 175",
