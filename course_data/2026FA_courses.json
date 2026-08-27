@@ -3181,7 +3181,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Azeem",
       "capacity": "25",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "CHIN 101",
@@ -11761,7 +11761,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 101",
