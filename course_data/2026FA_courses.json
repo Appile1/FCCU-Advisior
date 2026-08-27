@@ -6061,7 +6061,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "N Langah",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 106",
@@ -7837,7 +7837,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "R John",
       "capacity": "35",
-      "available": "20"
+      "available": "18"
     },
     {
       "course_code": "LING 217",
@@ -12397,7 +12397,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "URDU 201",
