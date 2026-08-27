@@ -289,7 +289,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | R | 14:00 - 15:50",
       "instructor": "S Mehnaz",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "BIOL 319",
@@ -3193,7 +3193,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Z Kexin",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CHIN 101",
@@ -3601,7 +3601,7 @@
       "schedule_raw": "T R | 11:00 - 12:50",
       "instructor": "M Mushtaq",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "COMP 311",
@@ -4237,7 +4237,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 100",
@@ -5797,7 +5797,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "2"
+      "available": "0"
     },
     {
       "course_code": "EDUC 120",
@@ -5821,7 +5821,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "EDUC 120",
@@ -6853,7 +6853,7 @@
       "schedule_raw": "M   F | 10:00 - 10:50 | W | 09:00 - 10:50",
       "instructor": "S Ilyas",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "ENVR 499",
@@ -7777,7 +7777,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "ISLM 301",
@@ -8185,7 +8185,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A  Nadeem",
       "capacity": "35",
-      "available": "12"
+      "available": "10"
     },
     {
       "course_code": "MATH 109",
@@ -10501,7 +10501,7 @@
       "schedule_raw": "T R | 08:00 - 09:15 | W | 13:00 - 14:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 240",
@@ -10609,7 +10609,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A  Ateeq",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "PSYC 301",
@@ -11533,7 +11533,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SOCL 201",
@@ -12013,7 +12013,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Bashir",
       "capacity": "20",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "STAT 317",
