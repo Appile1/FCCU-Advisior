@@ -301,7 +301,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | T | 14:00 - 15:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "BIOL 325",
@@ -697,7 +697,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Gul",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "BUSN 101",
@@ -4081,7 +4081,7 @@
       "schedule_raw": "F | 10:00 - 10:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "CRST 331",
@@ -4249,7 +4249,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Abbasi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 100",
@@ -4345,7 +4345,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Toor",
       "capacity": "30",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "CSCS 101",
@@ -8125,7 +8125,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Raza",
       "capacity": "15",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 108",
@@ -10033,7 +10033,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "PLSC 330",
@@ -10057,7 +10057,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "PLSC 340",
@@ -10081,7 +10081,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "PLSC 402",
@@ -10453,7 +10453,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Nazim",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 220",
@@ -11449,7 +11449,7 @@
       "schedule_raw": "M W | 09:00 - 09:50",
       "instructor": "T Fatima",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "SOCL 104",
