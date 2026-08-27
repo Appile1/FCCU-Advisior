@@ -217,7 +217,7 @@
       "schedule_raw": "M W | 08:00 - 08:50 | F | 14:00 - 15:50",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "BIOL 203",
@@ -265,7 +265,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | W | 14:00 - 15:50",
       "instructor": "S Butt",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BIOL 313",
@@ -2833,7 +2833,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | W | 14:00 - 16:00",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "CHEM 150",
@@ -3577,7 +3577,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "COMP 311",
@@ -3637,7 +3637,7 @@
       "schedule_raw": "W | 11:00 - 12:50 | F | 11:00 - 12:50",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "COMP 401",
@@ -4885,7 +4885,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Naqvi",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "DATA 301",
@@ -4897,7 +4897,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Mughal",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "DATA 302",
@@ -5461,7 +5461,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ECON 323",
@@ -6817,7 +6817,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ilyas",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENVR 411",
@@ -8521,7 +8521,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "MCOM 201",
@@ -8533,7 +8533,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "MCOM 201",
