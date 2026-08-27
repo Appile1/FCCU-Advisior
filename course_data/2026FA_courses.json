@@ -313,7 +313,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Butt",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BIOL 330",
@@ -3673,7 +3673,7 @@
       "schedule_raw": "F | 15:00 - 15:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "COMP 410",
@@ -4345,7 +4345,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Toor",
       "capacity": "30",
-      "available": "3"
+      "available": "1"
     },
     {
       "course_code": "CSCS 101",
@@ -5857,7 +5857,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 210",
@@ -7537,7 +7537,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "HPED 150",
