@@ -4446,5 +4446,21 @@
     "section": "R",
     "instructor": "M Zia",
     "timestamp": "2026-08-27T10:10:34.865455+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for SOCL 104 (D): S Jafree → T Fatima",
+    "course_code": "SOCL 104",
+    "section": "D",
+    "instructor": "T Fatima",
+    "timestamp": "2026-08-27T11:25:39.955928+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for SOCL 104 (H): T Fatima → S Jafree",
+    "course_code": "SOCL 104",
+    "section": "H",
+    "instructor": "S Jafree",
+    "timestamp": "2026-08-27T11:25:39.955948+00:00"
   }
 ]

@@ -13633,11 +13633,11 @@
       },
       {
         "course_code": "SOCL 104",
-        "section": "H",
+        "section": "D",
         "course_name": "Civics & Community",
-        "schedule": "M | 10:00 - 10:50 | F | 10:00 - 10:50",
-        "classroom": "EBLOCKE105 | EBLOCKE104",
-        "unique": "SOCL 104/H"
+        "schedule": "M W | 09:00 - 09:50",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 104/D"
       },
       {
         "course_code": "SOCL 118",
@@ -13837,11 +13837,11 @@
     "current_courses": [
       {
         "course_code": "SOCL 104",
-        "section": "D",
+        "section": "H",
         "course_name": "Civics & Community",
-        "schedule": "M W | 09:00 - 09:50",
-        "classroom": "EBLOCKE104",
-        "unique": "SOCL 104/D"
+        "schedule": "M | 10:00 - 10:50 | F | 10:00 - 10:50",
+        "classroom": "EBLOCKE105 | EBLOCKE104",
+        "unique": "SOCL 104/H"
       },
       {
         "course_code": "SOCL 291",
