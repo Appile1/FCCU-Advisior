@@ -157,7 +157,7 @@
       "schedule_raw": "T R | 09:30 - 10:20 | F | 14:00 - 15:50",
       "instructor": "B Sadiq",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BIOL 100",
@@ -325,7 +325,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "BIOT 201",
@@ -1801,7 +1801,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "BUSN 360",
@@ -2677,7 +2677,7 @@
       "schedule_raw": "M W | 10:00 - 11:15",
       "instructor": "W Khan",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 650",
@@ -2689,7 +2689,7 @@
       "schedule_raw": "M W | 15:30 - 16:45",
       "instructor": "F Tasneem",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 660",
@@ -2701,7 +2701,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "R Hashim",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 690",
@@ -5149,7 +5149,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ECON 102",
@@ -7141,7 +7141,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 201",
@@ -7969,7 +7969,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "MATH 102",
@@ -9913,7 +9913,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "PLSC 302",
@@ -10045,7 +10045,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "PLSC 400",
@@ -11545,7 +11545,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "SOCL 291",
