@@ -119,7 +119,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS413 | SBLOCKS341",
       "schedule_raw": "T R | 09:30 - 10:20 | W | 11:00 - 12:50",
-      "instructor": "S Dogar",
+      "instructor": "M Irfan",
       "capacity": "35",
       "available": "0"
     },
@@ -143,7 +143,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS312 | SBLOCKS331",
       "schedule_raw": "M W | 09:00 - 09:50 | M | 14:00 - 15:50",
-      "instructor": "S Butt",
+      "instructor": "Team",
       "capacity": "35",
       "available": "0"
     },
@@ -1489,7 +1489,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Ibrahim",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "BUSN 280",
@@ -2917,7 +2917,7 @@
       "schedule_raw": "T R | 08:00 - 09:15 | R | 14:00 - 15:50",
       "instructor": "M Asghar",
       "capacity": "25",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "CHEM 330",
@@ -5893,7 +5893,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Aslam",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "EDUC 310",
@@ -6277,7 +6277,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Javed",
       "capacity": "25",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -7141,7 +7141,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "GEOG 201",
@@ -7969,7 +7969,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "MATH 102",
@@ -8893,7 +8893,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "F Jabeen",
       "capacity": "15",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "MCOM 699B",
@@ -9073,7 +9073,7 @@
       "schedule_raw": "T R | 14:00 - 14:50 | F | 14:00 - 16:00",
       "instructor": "L Kahlon",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 100",
@@ -11833,7 +11833,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "STAT 115",

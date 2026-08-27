@@ -152,14 +152,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "BIOL 100",
-        "section": "B",
-        "course_name": "*Intro.  Biology",
-        "schedule": "T R | 09:30 - 10:20 | W | 11:00 - 12:50",
-        "classroom": "SBLOCKS413 | SBLOCKS341",
-        "unique": "BIOL 100/B"
-      },
-      {
         "course_code": "BIOL 105",
         "section": "A",
         "course_name": "*General Zoology",
@@ -290,14 +282,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "BIOL 100",
-        "section": "D",
-        "course_name": "*Intro.  Biology",
-        "schedule": "M W | 09:00 - 09:50 | M | 14:00 - 15:50",
-        "classroom": "SBLOCKS312 | SBLOCKS331",
-        "unique": "BIOL 100/D"
-      },
-      {
         "course_code": "BIOL 222",
         "section": "A",
         "course_name": "*Animal Form & Fun.",
@@ -327,8 +311,18 @@
     "departments": [
       "BIOL"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BIOL 100",
+        "section": "D",
+        "course_name": "*Intro.  Biology",
+        "schedule": "M W | 09:00 - 09:50 | M | 14:00 - 15:50",
+        "classroom": "SBLOCKS312 | SBLOCKS331",
+        "unique": "BIOL 100/D"
+      }
+    ],
     "all_courses": [
+      "BIOL 100",
       "BIOL 201",
       "BIOL 412"
     ]
@@ -15674,6 +15668,25 @@
     ],
     "all_courses": [
       "UNIV 200"
+    ]
+  },
+  {
+    "name": "M Irfan",
+    "departments": [
+      "BIOL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "BIOL 100",
+        "section": "B",
+        "course_name": "*Intro.  Biology",
+        "schedule": "T R | 09:30 - 10:20 | W | 11:00 - 12:50",
+        "classroom": "SBLOCKS413 | SBLOCKS341",
+        "unique": "BIOL 100/B"
+      }
+    ],
+    "all_courses": [
+      "BIOL 100"
     ]
   }
 ]

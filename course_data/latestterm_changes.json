@@ -4350,5 +4350,21 @@
     "section": "I",
     "instructor": "TBD",
     "timestamp": "2026-08-27T07:10:43.043835+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOL 100 (B): S Dogar → M Irfan",
+    "course_code": "BIOL 100",
+    "section": "B",
+    "instructor": "M Irfan",
+    "timestamp": "2026-08-27T09:25:29.159025+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOL 100 (D): S Butt → Team",
+    "course_code": "BIOL 100",
+    "section": "D",
+    "instructor": "Team",
+    "timestamp": "2026-08-27T09:25:29.159044+00:00"
   }
 ]
