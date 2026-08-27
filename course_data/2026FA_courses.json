@@ -1105,7 +1105,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "K AMAD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 201",
@@ -1213,7 +1213,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "R John",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 230",
@@ -1273,7 +1273,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "K Jamil",
       "capacity": "33",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "BUSN 230",
@@ -1369,7 +1369,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "BUSN 280",
@@ -4921,7 +4921,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Samuel",
       "capacity": "10",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "DATA 414",
@@ -5113,7 +5113,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON 101",
@@ -6097,7 +6097,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -7549,7 +7549,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HPED 151",
@@ -8017,7 +8017,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Azhar",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "MATH 105",
@@ -8713,7 +8713,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Muzamil",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "MCOM 310",
@@ -9097,7 +9097,7 @@
       "schedule_raw": "T R | 12:30 - 13:20 | F | 10:00 - 11:50",
       "instructor": "L Kahlon",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHYS 100",
@@ -11425,7 +11425,7 @@
       "schedule_raw": "M W | 09:00 - 09:50",
       "instructor": "S Jafree",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "SOCL 104",
