@@ -25,7 +25,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS 102",
@@ -12898,7 +12898,7 @@
       "course_name": "Urdu Novel",
       "credits": "3.00",
       "classroom": "EBLOCKE101",
-      "schedule_raw": "R | 17:00 - 20:00",
+      "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "A  Anwar",
       "capacity": "25",
       "available": "25"
@@ -12910,7 +12910,7 @@
       "course_name": "Teach. of Urdu Lang",
       "credits": "3.00",
       "classroom": "EBLOCKE101",
-      "schedule_raw": "W | 16:00 - 19:00",
+      "schedule_raw": "R | 17:00 - 20:00",
       "instructor": "S Ashraf",
       "capacity": "25",
       "available": "25"
