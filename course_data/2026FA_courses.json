@@ -253,7 +253,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | T | 11:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BIOL 222",
@@ -409,7 +409,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "I John",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "BIOT 307",
@@ -3997,7 +3997,7 @@
       "schedule_raw": "M W | 10:00 - 10:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "CRST 152",
@@ -4033,7 +4033,7 @@
       "schedule_raw": "M | 12:00 - 12:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "CRST 212",
@@ -4057,7 +4057,7 @@
       "schedule_raw": "T R | 16:45 - 18:00",
       "instructor": "Z West",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "CRST 271",
