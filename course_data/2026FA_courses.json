@@ -1033,7 +1033,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Bashir",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "BUSN 201",
@@ -2401,7 +2401,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "BUSN 490",
@@ -4849,7 +4849,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Mughal",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "DATA 207",
@@ -4885,7 +4885,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Mughal",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "DATA 302",
@@ -6121,7 +6121,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Justin",
       "capacity": "25",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -9181,7 +9181,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | W | 08:00 - 09:50",
       "instructor": "H Latif",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "PHYS 151",
@@ -9193,7 +9193,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Shah",
       "capacity": "20",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "PHYS 221",
@@ -10393,7 +10393,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "PSYC 165",
@@ -10513,7 +10513,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "PSYC 295",
@@ -11581,7 +11581,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Amjad",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "SOCL 350",
