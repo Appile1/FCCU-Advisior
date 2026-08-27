@@ -4366,5 +4366,45 @@
     "section": "D",
     "instructor": "Team",
     "timestamp": "2026-08-27T09:25:29.159044+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOL 100 (H): A Khan → I  Khokhar",
+    "course_code": "BIOL 100",
+    "section": "H",
+    "instructor": "I  Khokhar",
+    "timestamp": "2026-08-27T09:30:40.528179+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOL 105 (A): S Dogar → S Butt",
+    "course_code": "BIOL 105",
+    "section": "A",
+    "instructor": "S Butt",
+    "timestamp": "2026-08-27T09:30:40.528200+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOL 201 (A): M Yousaf → A  Arshad",
+    "course_code": "BIOL 201",
+    "section": "A",
+    "instructor": "A  Arshad",
+    "timestamp": "2026-08-27T09:30:40.528204+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOT 201 (A): M Imran → M Yousaf",
+    "course_code": "BIOT 201",
+    "section": "A",
+    "instructor": "M Yousaf",
+    "timestamp": "2026-08-27T09:30:40.528210+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOT 408 (A): M Imran → S Ali",
+    "course_code": "BIOT 408",
+    "section": "A",
+    "instructor": "S Ali",
+    "timestamp": "2026-08-27T09:30:40.528216+00:00"
   }
 ]

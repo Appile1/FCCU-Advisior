@@ -121,6 +121,14 @@
         "unique": "BIOL 100/A"
       },
       {
+        "course_code": "BIOL 100",
+        "section": "H",
+        "course_name": "*Intro.  Biology",
+        "schedule": "T R | 09:30 - 10:20 | R | 14:00 - 15:50",
+        "classroom": "SBLOCKS313 | SBLOCKS329",
+        "unique": "BIOL 100/H"
+      },
+      {
         "course_code": "BIOL 203",
         "section": "A",
         "course_name": "*General Genetics",
@@ -150,16 +158,7 @@
     "departments": [
       "BIOL"
     ],
-    "current_courses": [
-      {
-        "course_code": "BIOL 105",
-        "section": "A",
-        "course_name": "*General Zoology",
-        "schedule": "M W F | 09:00 - 09:50 | R | 14:00 - 15:50",
-        "classroom": "SBLOCKS313 | SBLOCKS341",
-        "unique": "BIOL 105/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "BIOL 100",
       "BIOL 105",
@@ -252,14 +251,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "BIOL 100",
-        "section": "H",
-        "course_name": "*Intro.  Biology",
-        "schedule": "T R | 09:30 - 10:20 | R | 14:00 - 15:50",
-        "classroom": "SBLOCKS313 | SBLOCKS329",
-        "unique": "BIOL 100/H"
-      },
-      {
         "course_code": "BIOL 221",
         "section": "A",
         "course_name": "*Plant Form & Fun.",
@@ -281,6 +272,14 @@
       "BIOL"
     ],
     "current_courses": [
+      {
+        "course_code": "BIOL 105",
+        "section": "A",
+        "course_name": "*General Zoology",
+        "schedule": "M W F | 09:00 - 09:50 | R | 14:00 - 15:50",
+        "classroom": "SBLOCKS313 | SBLOCKS341",
+        "unique": "BIOL 105/A"
+      },
       {
         "course_code": "BIOL 222",
         "section": "A",
@@ -421,6 +420,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "BIOL 201",
+        "section": "A",
+        "course_name": "*Cell Biology",
+        "schedule": "M W | 08:00 - 08:50 | F | 14:00 - 15:50",
+        "classroom": "SBLOCKS313 | SBLOCKS331",
+        "unique": "BIOL 201/A"
+      },
+      {
         "course_code": "BIOL 330",
         "section": "A",
         "course_name": "Radiobiology",
@@ -430,6 +437,7 @@
       }
     ],
     "all_courses": [
+      "BIOL 201",
       "BIOL 330"
     ]
   },
@@ -472,13 +480,22 @@
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "SBLOCKS312",
         "unique": "BIOT 309/A"
+      },
+      {
+        "course_code": "BIOT 408",
+        "section": "A",
+        "course_name": "*Recomb. DNA Tech.",
+        "schedule": "M | 14:00 - 15:50 | T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS321 | SBLOCKS312",
+        "unique": "BIOT 408/A"
       }
     ],
     "all_courses": [
       "BIOT 201",
       "BIOT 301",
       "BIOT 302",
-      "BIOT 309"
+      "BIOT 309",
+      "BIOT 408"
     ]
   },
   {
@@ -488,28 +505,12 @@
     ],
     "current_courses": [
       {
-        "course_code": "BIOT 201",
-        "section": "A",
-        "course_name": "*Intro. to biotech.",
-        "schedule": "M W | 10:00 - 10:50 | F | 09:00 - 10:50",
-        "classroom": "SBLOCKS341",
-        "unique": "BIOT 201/A"
-      },
-      {
         "course_code": "BIOT 211",
         "section": "A",
         "course_name": "*BioSaf. & BioSec",
         "schedule": "M W | 12:00 - 12:50 | T | 14:00 - 15:50",
         "classroom": "SBLOCKS413 | SBLOCKS321",
         "unique": "BIOT 211/A"
-      },
-      {
-        "course_code": "BIOT 408",
-        "section": "A",
-        "course_name": "*Recomb. DNA Tech.",
-        "schedule": "M | 14:00 - 15:50 | T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS321 | SBLOCKS312",
-        "unique": "BIOT 408/A"
       }
     ],
     "all_courses": [
@@ -660,6 +661,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "BIOT 201",
+        "section": "A",
+        "course_name": "*Intro. to biotech.",
+        "schedule": "M W | 10:00 - 10:50 | F | 09:00 - 10:50",
+        "classroom": "SBLOCKS341",
+        "unique": "BIOT 201/A"
+      },
+      {
         "course_code": "BIOT 316",
         "section": "A",
         "course_name": "*Fundam.Virology",
@@ -669,6 +678,7 @@
       }
     ],
     "all_courses": [
+      "BIOT 201",
       "BIOT 313",
       "BIOT 316",
       "BIOT 412"
@@ -13860,16 +13870,7 @@
     "departments": [
       "BIOL"
     ],
-    "current_courses": [
-      {
-        "course_code": "BIOL 201",
-        "section": "A",
-        "course_name": "*Cell Biology",
-        "schedule": "M W | 08:00 - 08:50 | F | 14:00 - 15:50",
-        "classroom": "SBLOCKS313 | SBLOCKS331",
-        "unique": "BIOL 201/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "BIOL 201"
     ]
