@@ -2271,14 +2271,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "BUSN 101",
-        "section": "I",
-        "course_name": "Principles of Acc.",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE330",
-        "unique": "BUSN 101/I"
-      },
-      {
         "course_code": "BUSN 404",
         "section": "A",
         "course_name": "Taxation",
@@ -10464,6 +10456,14 @@
       "BUSN"
     ],
     "current_courses": [
+      {
+        "course_code": "BUSN 101",
+        "section": "I",
+        "course_name": "Principles of Acc.",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE330",
+        "unique": "BUSN 101/I"
+      },
       {
         "course_code": "BUSN 170",
         "section": "F",

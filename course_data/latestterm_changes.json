@@ -4342,5 +4342,13 @@
     "section": "D",
     "instructor": "S Hanook",
     "timestamp": "2026-08-27T05:00:49.547979+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 101 (I): I Ahmed → TBD",
+    "course_code": "BUSN 101",
+    "section": "I",
+    "instructor": "TBD",
+    "timestamp": "2026-08-27T07:10:43.043835+00:00"
   }
 ]
