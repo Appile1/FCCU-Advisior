@@ -4045,7 +4045,7 @@
       "schedule_raw": "W | 12:00 - 12:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "CRST 231",
@@ -4081,7 +4081,7 @@
       "schedule_raw": "F | 10:00 - 10:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "CRST 331",
@@ -4129,7 +4129,7 @@
       "schedule_raw": "F | 11:00 - 11:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "CRST 439C",
@@ -5017,7 +5017,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "ECON 100",
@@ -5065,7 +5065,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Z Manzoor",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ECON 100",
@@ -5401,7 +5401,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "G Shabbir",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "ECON 307",
@@ -7357,7 +7357,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "HIST 255",
@@ -7489,7 +7489,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "HPED 101",
@@ -10765,7 +10765,7 @@
       "schedule_raw": "T R | 15:30 - 16:45 | W | 15:00 - 16:50",
       "instructor": "S Jabeen",
       "capacity": "30",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PSYC 360",
