@@ -97,7 +97,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 100",
@@ -697,7 +697,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Gul",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "BUSN 101",
@@ -1741,7 +1741,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "I yusuf",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 360",
@@ -4345,7 +4345,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Toor",
       "capacity": "30",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 101",
@@ -4477,7 +4477,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "CSCS 202",
@@ -5161,7 +5161,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "ECON 102",
@@ -5857,7 +5857,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 210",
@@ -6109,7 +6109,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -6121,7 +6121,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "ENGL 108",
@@ -7537,7 +7537,7 @@
       "schedule_raw": "M W | 15:00 - 16:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "HPED 150",
@@ -9181,7 +9181,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 11:00 - 12:15",
       "instructor": "H Latif",
       "capacity": "10",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 102",
