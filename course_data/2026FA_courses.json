@@ -1249,7 +1249,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "F Idrees",
       "capacity": "33",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "BUSN 230",
@@ -4369,7 +4369,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "CSCS 101",
