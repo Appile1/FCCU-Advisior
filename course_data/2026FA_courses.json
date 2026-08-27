@@ -1069,7 +1069,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 201",
@@ -1165,7 +1165,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 230",
@@ -4885,7 +4885,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Mughal",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "DATA 302",
@@ -5041,7 +5041,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "Z Manzoor",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "ECON 100",
@@ -5425,7 +5425,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ECON 313",
@@ -7801,7 +7801,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S K Sook",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "KORN 102",
@@ -9013,7 +9013,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHIL 202",
@@ -9877,7 +9877,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "PLSC 212",
@@ -11989,7 +11989,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Bashir",
       "capacity": "20",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "STAT 317",
