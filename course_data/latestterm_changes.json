@@ -4334,5 +4334,13 @@
     "section": "A",
     "instructor": "M Mughal",
     "timestamp": "2026-08-27T04:55:35.762745+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for STAT 101 (D): R Butt → S Hanook",
+    "course_code": "STAT 101",
+    "section": "D",
+    "instructor": "S Hanook",
+    "timestamp": "2026-08-27T05:00:49.547979+00:00"
   }
 ]

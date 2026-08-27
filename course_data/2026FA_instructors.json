@@ -9052,16 +9052,7 @@
     "departments": [
       "STAT"
     ],
-    "current_courses": [
-      {
-        "course_code": "STAT 101",
-        "section": "D",
-        "course_name": "Statistical Methods",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "SBLOCKS421",
-        "unique": "STAT 101/D"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "STAT 100",
       "STAT 101",
@@ -9429,6 +9420,14 @@
       "STAT"
     ],
     "current_courses": [
+      {
+        "course_code": "STAT 101",
+        "section": "D",
+        "course_name": "Statistical Methods",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 101/D"
+      },
       {
         "course_code": "STAT 206",
         "section": "A",
