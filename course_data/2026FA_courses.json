@@ -325,7 +325,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "BIOT 201",
@@ -1525,7 +1525,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "BUSN 301",
@@ -1537,7 +1537,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BUSN 321",
@@ -7957,7 +7957,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "MATH 101",
@@ -10717,7 +10717,7 @@
       "schedule_raw": "T R | 15:30 - 16:45 | W | 15:00 - 16:50",
       "instructor": "S Jabeen",
       "capacity": "30",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "PSYC 360",
