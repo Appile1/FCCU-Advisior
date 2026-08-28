@@ -5713,7 +5713,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M. Thomas",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 110",
@@ -5857,7 +5857,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 210",
@@ -8329,7 +8329,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "MATH 309",
@@ -9049,7 +9049,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "PHIL 221",
@@ -9301,7 +9301,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "K Javed",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "PHYS 503",
@@ -11701,7 +11701,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "H Rehman",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 100",
