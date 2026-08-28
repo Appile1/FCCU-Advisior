@@ -1561,7 +1561,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Ehsan",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BUSN 321",
@@ -2149,7 +2149,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "I Wajid",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "BUSN 460",
@@ -2161,7 +2161,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Naumaan Ch",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 460",
@@ -2713,7 +2713,7 @@
       "schedule_raw": "M W | 11:45 - 13:00",
       "instructor": "W Khan",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "CHEM 100",
@@ -6349,7 +6349,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Bokhari",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 201",
@@ -9217,7 +9217,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Shah",
       "capacity": "20",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "PHYS 221",
@@ -10057,7 +10057,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 400",
