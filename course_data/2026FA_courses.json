@@ -4057,7 +4057,7 @@
       "schedule_raw": "T R | 16:45 - 18:00",
       "instructor": "Z West",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "CRST 271",
@@ -4789,7 +4789,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Ayub",
       "capacity": "15",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "DATA 201",
@@ -10081,7 +10081,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A. Indrias",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "PLSC 402",
@@ -10573,7 +10573,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "PSYC 298",
