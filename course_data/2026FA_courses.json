@@ -3577,7 +3577,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "COMP 311",
@@ -4417,7 +4417,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | W | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "25",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "CSCS 201",
@@ -5149,7 +5149,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ECON 102",
@@ -7981,7 +7981,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 102",
@@ -8005,7 +8005,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "MATH 102",
@@ -8629,7 +8629,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MCOM 302",
@@ -12385,7 +12385,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Jamal",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "URDU 212",
