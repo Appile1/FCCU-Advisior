@@ -1249,7 +1249,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "F Idrees",
       "capacity": "33",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "BUSN 230",
@@ -6601,7 +6601,7 @@
       "schedule_raw": "R | 16:00 - 19:00",
       "instructor": "R Wasif",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "ENGL 616",
@@ -6613,7 +6613,7 @@
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "T Bokhari",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "ENGL 690",
@@ -6625,7 +6625,7 @@
       "schedule_raw": "M | 16:00 - 19:00",
       "instructor": "N Langah",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "ENGL 699",
@@ -6637,7 +6637,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "F Syeda",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "ENGL 701",
@@ -7621,7 +7621,7 @@
       "schedule_raw": "M | 08:00 - 08:50 | F | 08:00 - 08:50",
       "instructor": "A Naeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 101",
@@ -8461,7 +8461,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MCOM 101",
