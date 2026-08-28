@@ -1033,7 +1033,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Bashir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 201",
@@ -1105,7 +1105,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "K AMAD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 201",
@@ -1165,7 +1165,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 230",
@@ -1381,7 +1381,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 280",
@@ -2401,7 +2401,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "BUSN 490",
@@ -3661,7 +3661,7 @@
       "schedule_raw": "W | 15:00 - 15:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "COMP 401",
@@ -3757,7 +3757,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "COMP 497B",
@@ -3793,7 +3793,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "CPPG 601",
@@ -4405,7 +4405,7 @@
       "schedule_raw": "M | 14:00 - 15:50 | T R | 11:00 - 12:15",
       "instructor": "H Latif",
       "capacity": "25",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "CSCS 105",
@@ -4513,7 +4513,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "CSCS 203",
@@ -5821,7 +5821,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "EDUC 120",
@@ -6373,7 +6373,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "N Langah",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ENGL 201",
@@ -6733,7 +6733,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "K Shafiqu",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENVR 240",
@@ -7513,7 +7513,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HPED 105",
@@ -8077,7 +8077,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Tayyab",
       "capacity": "15",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 107",
@@ -11617,7 +11617,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "SOCL 494",
