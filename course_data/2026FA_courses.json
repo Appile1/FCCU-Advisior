@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 1042,
+  "total_courses": 1041,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -325,7 +325,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "BIOT 201",
@@ -4069,7 +4069,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "Z West",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "CRST 313",
@@ -4369,7 +4369,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "CSCS 101",
@@ -7861,7 +7861,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "LING 301",
@@ -10045,7 +10045,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Sindhu",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "PLSC 340",
@@ -10070,18 +10070,6 @@
       "instructor": "A. Indrias",
       "capacity": "35",
       "available": "18"
-    },
-    {
-      "course_code": "PLSC 402",
-      "section": "A",
-      "unique": "PLSC 402/A",
-      "course_name": "Islam & Modernity",
-      "credits": "3.00",
-      "classroom": "EBLOCKE122",
-      "schedule_raw": "T R | 08:00 - 09:15",
-      "instructor": "TBD",
-      "capacity": "35",
-      "available": "32"
     },
     {
       "course_code": "PLSC 403",
@@ -12361,7 +12349,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "URDU 104",
