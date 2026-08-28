@@ -289,7 +289,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | R | 14:00 - 15:50",
       "instructor": "S Mehnaz",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BIOL 319",
@@ -409,7 +409,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "I John",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BIOT 307",
@@ -457,7 +457,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BIOT 315",
@@ -529,7 +529,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Muaz",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "BIOT 411",
@@ -3457,7 +3457,7 @@
       "schedule_raw": "M W | 09:00 - 10:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "COMP 300",
@@ -9049,7 +9049,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "PHIL 221",
