@@ -1525,7 +1525,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "BUSN 301",
@@ -1537,7 +1537,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "BUSN 321",
@@ -3565,7 +3565,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "COMP 303",
@@ -4357,7 +4357,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Sabahat",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 101",
@@ -4573,7 +4573,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "CSCS 321",
@@ -4633,7 +4633,7 @@
       "schedule_raw": "T R | 16:00 - 17:15",
       "instructor": "Z Malik",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 410",
@@ -5869,7 +5869,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 240",
@@ -7309,7 +7309,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Haider",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 103",
@@ -8149,7 +8149,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 108",
@@ -8317,7 +8317,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "MATH 213",
@@ -11233,7 +11233,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
@@ -11965,7 +11965,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Hanook",
       "capacity": "10",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "STAT 302",
@@ -12001,7 +12001,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "I Naqvi",
       "capacity": "25",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "STAT 317",
