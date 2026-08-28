@@ -5893,7 +5893,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "EDUC 300",
@@ -5917,7 +5917,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "EDUC 315",
@@ -7525,7 +7525,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HPED 112",
@@ -8257,7 +8257,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 111",
@@ -9073,7 +9073,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "PHIL 499",
@@ -10681,7 +10681,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "U Ilyas",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 330",
@@ -10945,7 +10945,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "PSYC 490",
