@@ -2845,7 +2845,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | F | 11:00 - 12:50",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "CHEM 160",
@@ -2869,7 +2869,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | F | 11:00 - 12:45",
       "instructor": "S Jelani",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "CHEM 170",
