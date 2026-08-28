@@ -3793,7 +3793,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "CPPG 601",
@@ -6121,7 +6121,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -6385,7 +6385,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 209",
@@ -6841,7 +6841,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "ENVR 418",
@@ -7357,7 +7357,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "HIST 255",
@@ -7513,7 +7513,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "B Kamil",
       "capacity": "25",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "HPED 105",
@@ -7969,7 +7969,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MATH 101",
@@ -12361,7 +12361,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ashraf",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "URDU 105",
