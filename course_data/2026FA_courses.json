@@ -3553,7 +3553,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "COMP 303",
@@ -5821,7 +5821,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "EDUC 120",
@@ -9493,7 +9493,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "K Javed",
       "capacity": "25",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PHYS COMP",
