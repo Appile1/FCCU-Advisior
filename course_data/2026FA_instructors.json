@@ -6548,16 +6548,7 @@
     "departments": [
       "MPGN"
     ],
-    "current_courses": [
-      {
-        "course_code": "MPGN 506",
-        "section": "A",
-        "course_name": "Research Methodology",
-        "schedule": "F | 16:00 - 19:00",
-        "classroom": "SBLOCKS312",
-        "unique": "MPGN 506/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "MPGN 506"
     ]
@@ -15702,6 +15693,25 @@
     ],
     "all_courses": [
       "FSQM 501"
+    ]
+  },
+  {
+    "name": "Team",
+    "departments": [
+      "MPGN"
+    ],
+    "current_courses": [
+      {
+        "course_code": "MPGN 507",
+        "section": "A",
+        "course_name": "Clinical Research",
+        "schedule": "F | 16:00 - 19:00",
+        "classroom": "SBLOCKS313",
+        "unique": "MPGN 507/A"
+      }
+    ],
+    "all_courses": [
+      "MPGN 507"
     ]
   }
 ]

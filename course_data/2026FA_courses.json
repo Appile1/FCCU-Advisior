@@ -2713,7 +2713,7 @@
       "schedule_raw": "M W | 11:45 - 13:00",
       "instructor": "W Khan",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "CHEM 100",
@@ -3997,7 +3997,7 @@
       "schedule_raw": "M W | 10:00 - 10:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CRST 152",
@@ -4357,7 +4357,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Sabahat",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 101",
@@ -4369,7 +4369,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "CSCS 101",
@@ -5437,7 +5437,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "ECON 313",
@@ -6061,7 +6061,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "N Langah",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 106",
@@ -8956,16 +8956,16 @@
       "available": "10"
     },
     {
-      "course_code": "MPGN 506",
+      "course_code": "MPGN 507",
       "section": "A",
-      "unique": "MPGN 506/A",
-      "course_name": "Research Methodology",
+      "unique": "MPGN 507/A",
+      "course_name": "Clinical Research",
       "credits": "3.00",
-      "classroom": "SBLOCKS312",
+      "classroom": "SBLOCKS313",
       "schedule_raw": "F | 16:00 - 19:00",
-      "instructor": "S Hanook",
-      "capacity": "20",
-      "available": "12"
+      "instructor": "Team",
+      "capacity": "25",
+      "available": "25"
     },
     {
       "course_code": "MPGN 699A",
@@ -9037,7 +9037,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHIL 202",
@@ -9049,7 +9049,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "PHIL 221",
@@ -9889,7 +9889,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M U Farooq",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "PLSC 204",
@@ -10393,7 +10393,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 160",
@@ -12361,7 +12361,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Ashraf",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "URDU 105",
