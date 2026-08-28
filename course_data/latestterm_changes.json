@@ -4542,5 +4542,13 @@
     "section": "I",
     "instructor": "TBD",
     "timestamp": "2026-08-27T21:45:39.605694+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOL 100 (H): I  Khokhar → A Khan",
+    "course_code": "BIOL 100",
+    "section": "H",
+    "instructor": "A Khan",
+    "timestamp": "2026-08-28T06:35:37.996120+00:00"
   }
 ]

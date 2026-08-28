@@ -121,14 +121,6 @@
         "unique": "BIOL 100/A"
       },
       {
-        "course_code": "BIOL 100",
-        "section": "H",
-        "course_name": "*Intro.  Biology",
-        "schedule": "T R | 09:30 - 10:20 | R | 14:00 - 15:50",
-        "classroom": "SBLOCKS313 | SBLOCKS329",
-        "unique": "BIOL 100/H"
-      },
-      {
         "course_code": "BIOL 203",
         "section": "A",
         "course_name": "*General Genetics",
@@ -250,6 +242,14 @@
       "BIOL"
     ],
     "current_courses": [
+      {
+        "course_code": "BIOL 100",
+        "section": "H",
+        "course_name": "*Intro.  Biology",
+        "schedule": "T R | 09:30 - 10:20 | R | 14:00 - 15:50",
+        "classroom": "SBLOCKS313 | SBLOCKS329",
+        "unique": "BIOL 100/H"
+      },
       {
         "course_code": "BIOL 221",
         "section": "A",
@@ -13905,7 +13905,7 @@
         "course_code": "BIOT 201",
         "section": "B",
         "course_name": "*Intro. to biotech.",
-        "schedule": "T R | 12:30 - 13:45 | W | 14:00 - 15:50",
+        "schedule": "T R | 12:30 - 13:30 | W | 14:00 - 15:50",
         "classroom": "SBLOCKS313 | SBLOCKS321",
         "unique": "BIOT 201/B"
       },
