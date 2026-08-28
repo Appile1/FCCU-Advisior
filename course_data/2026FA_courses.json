@@ -493,7 +493,7 @@
       "schedule_raw": "M W | 10:00 - 10:50 | F | 11:00 - 12:50",
       "instructor": "K Muaz",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "BIOT 407",
@@ -1561,7 +1561,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Ehsan",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "BUSN 321",
@@ -1681,7 +1681,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "BUSN 350",
@@ -2053,7 +2053,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "BUSN 450",
@@ -2089,7 +2089,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 460",
@@ -2161,7 +2161,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Naumaan Ch",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 460",
@@ -5161,7 +5161,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ECON 102",
@@ -5365,7 +5365,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "U Hanif",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "ECON 303",
@@ -7825,7 +7825,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S K Sook",
       "capacity": "20",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "LING 207",
@@ -8641,7 +8641,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "MCOM 302",
@@ -9073,7 +9073,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "PHIL 499",
