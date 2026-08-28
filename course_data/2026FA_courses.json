@@ -2149,7 +2149,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "I Wajid",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "BUSN 460",
@@ -2173,7 +2173,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Naumaan Ch",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 460",
@@ -2221,7 +2221,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Malik",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 464",
@@ -3265,7 +3265,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50 | F | 08:00 - 10:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "COMP 111",
@@ -3793,7 +3793,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "CPPG 601",
@@ -8089,7 +8089,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Samuel",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 107",
@@ -8137,7 +8137,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Nadeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 108",
@@ -8497,7 +8497,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Saleem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MCOM 200",
@@ -9049,7 +9049,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "PHIL 221",
@@ -11713,7 +11713,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Tayyab",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 100",
@@ -11821,7 +11821,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Ayub",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "STAT 103",
@@ -12349,7 +12349,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 104",
