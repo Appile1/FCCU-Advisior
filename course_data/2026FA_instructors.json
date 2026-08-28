@@ -7336,14 +7336,6 @@
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "EBLOCKE139",
         "unique": "PLSC 212/A"
-      },
-      {
-        "course_code": "PLSC 317",
-        "section": "A",
-        "course_name": "Poli Dynam Parties",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE139",
-        "unique": "PLSC 317/A"
       }
     ],
     "all_courses": [

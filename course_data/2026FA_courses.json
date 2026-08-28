@@ -1,7 +1,7 @@
 {
   "term_code": "2026FA",
   "term_name": "2026 Fall",
-  "total_courses": 1043,
+  "total_courses": 1042,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -889,7 +889,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Fateh",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 170",
@@ -949,7 +949,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Hussain",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "BUSN 170",
@@ -1225,7 +1225,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 230",
@@ -1273,7 +1273,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "K Jamil",
       "capacity": "33",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BUSN 230",
@@ -6121,7 +6121,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "ENGL 108",
@@ -7777,7 +7777,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ISLM 301",
@@ -8005,7 +8005,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "MATH 102",
@@ -8173,7 +8173,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 108",
@@ -9901,7 +9901,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "PLSC 212",
@@ -9986,18 +9986,6 @@
       "instructor": "M U Farooq",
       "capacity": "35",
       "available": "11"
-    },
-    {
-      "course_code": "PLSC 317",
-      "section": "A",
-      "unique": "PLSC 317/A",
-      "course_name": "Poli Dynam Parties",
-      "credits": "3.00",
-      "classroom": "EBLOCKE139",
-      "schedule_raw": "T R | 09:30 - 10:45",
-      "instructor": "M Mirza",
-      "capacity": "35",
-      "available": "30"
     },
     {
       "course_code": "PLSC 321",
@@ -10092,8 +10080,8 @@
       "classroom": "EBLOCKE122",
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
-      "capacity": "15",
-      "available": "12"
+      "capacity": "35",
+      "available": "32"
     },
     {
       "course_code": "PLSC 403",
@@ -10104,8 +10092,8 @@
       "classroom": "EBLOCKE139",
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "M Younis",
-      "capacity": "15",
-      "available": "0"
+      "capacity": "35",
+      "available": "20"
     },
     {
       "course_code": "PLSC 403",
