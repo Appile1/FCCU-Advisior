@@ -4813,7 +4813,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "DATA 206",
@@ -10609,7 +10609,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A  Ateeq",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 301",
