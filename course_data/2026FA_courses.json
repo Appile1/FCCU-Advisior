@@ -841,7 +841,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "BUSN 101",
@@ -973,7 +973,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Fateh",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "BUSN 170",
@@ -1561,7 +1561,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Ehsan",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BUSN 321",
@@ -3505,7 +3505,7 @@
       "schedule_raw": "T | 11:00 - 12:50 | R | 11:00 - 12:50",
       "instructor": "M Butt",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "COMP 302",
@@ -6409,7 +6409,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Syeda",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ENGL 250",
@@ -8137,7 +8137,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Nadeem",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 108",
