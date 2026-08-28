@@ -1033,7 +1033,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Bashir",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 201",
@@ -1249,7 +1249,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "F Idrees",
       "capacity": "33",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "BUSN 230",
@@ -1369,7 +1369,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BUSN 280",
@@ -1585,7 +1585,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "BUSN 321",
@@ -2281,7 +2281,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Amin",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BUSN 480",
@@ -3793,7 +3793,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "15"
     },
     {
       "course_code": "CPPG 601",
@@ -4357,7 +4357,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Sabahat",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 101",
@@ -6313,7 +6313,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Zia",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 110",
@@ -7309,7 +7309,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Haider",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 103",
@@ -7777,7 +7777,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "ISLM 301",
@@ -9049,7 +9049,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "PHIL 221",
@@ -10897,7 +10897,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | T | 14:00 - 15:50",
       "instructor": "A aziz",
       "capacity": "30",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "PSYC 465",
@@ -11245,7 +11245,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Yasir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
@@ -12325,7 +12325,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
