@@ -122,7 +122,7 @@ def fetch_latest_term():
     for opt in select.find_all("option"):
         val = opt.get("value", "").strip()
         txt = opt.get_text(strip=True)
-        if val == "2026FA":
+        if val == "2027SP":
             print(f"✓ Latest term: {txt} ({val})")
             return txt, val
 
