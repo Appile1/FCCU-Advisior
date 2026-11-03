@@ -1220,8 +1220,8 @@
         "course_code": "COMP 360",
         "section": "C",
         "course_name": "Introduction to AI",
-        "schedule": "M | 11:00 - 12:50 | F | 11:00 - 12:50",
-        "classroom": "SBLOCKS219 | SBLOCKS216",
+        "schedule": "M | 11:00 - 12:50 | W | 11:00 - 12:50",
+        "classroom": "SBLOCKS219",
         "unique": "COMP 360/C"
       }
     ],
@@ -1240,7 +1240,7 @@
         "course_code": "COMP 102",
         "section": "B",
         "course_name": "Programming I",
-        "schedule": "T R | 09:30 - 10:45 | W | 09:00 - 11:50",
+        "schedule": "T R | 09:30 - 10:45 | R | 14:00 - 16:50",
         "classroom": "SBLOCKS320 | SBLOCKS219",
         "unique": "COMP 102/B"
       },
@@ -1248,8 +1248,8 @@
         "course_code": "COMP 111",
         "section": "C",
         "course_name": "Programming II",
-        "schedule": "M W | 12:00 - 12:50 | T | 11:00 - 13:50 | F | 12:00 - 12:50",
-        "classroom": "SBLOCKS319 | SBLOCKS320 | SBLOCKS317",
+        "schedule": "M W | 12:00 - 12:50 | T | 14:00 - 16:50 | F | 12:00 - 12:50",
+        "classroom": "SBLOCKS319 | SBLOCKS219 | SBLOCKS317",
         "unique": "COMP 111/C"
       }
     ],
@@ -1379,8 +1379,8 @@
         "course_code": "COMP 301",
         "section": "A",
         "course_name": "Operating Systems",
-        "schedule": "M | 09:00 - 10:50 | F | 09:00 - 10:50",
-        "classroom": "SBLOCKS215 | SBLOCKS219",
+        "schedule": "M | 09:00 - 10:50 | W | 09:00 - 10:50",
+        "classroom": "SBLOCKS219",
         "unique": "COMP 301/A"
       },
       {
@@ -1407,8 +1407,8 @@
         "course_code": "COMP 113",
         "section": "C",
         "course_name": "Discrete Mathematics",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS215",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS210",
         "unique": "COMP 113/C"
       },
       {
@@ -1439,8 +1439,8 @@
         "course_code": "COMP 410",
         "section": "B",
         "course_name": "Parallel and Distrib",
-        "schedule": "T R | 08:00 - 09:50",
-        "classroom": "SBLOCKS120",
+        "schedule": "T R | 10:00 - 11:50",
+        "classroom": "SBLOCKS319",
         "unique": "COMP 410/B"
       }
     ],
@@ -1492,14 +1492,6 @@
       "COMP"
     ],
     "current_courses": [
-      {
-        "course_code": "COMP 206",
-        "section": "C",
-        "course_name": "Digital Logic Design",
-        "schedule": "T | 08:00 - 10:50 | T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS027A | SBLOCKS316",
-        "unique": "COMP 206/C"
-      },
       {
         "course_code": "COMP 451",
         "section": "A",
@@ -1652,8 +1644,8 @@
         "course_code": "COMP 303",
         "section": "A",
         "course_name": "D&A of Algorithms",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "SBLOCKS316",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS216",
         "unique": "COMP 303/A"
       }
     ],
@@ -1698,7 +1690,7 @@
         "course_code": "COMP 311",
         "section": "A",
         "course_name": "Computer Networks",
-        "schedule": "M W | 11:00 - 12:50",
+        "schedule": "T R | 09:00 - 10:50",
         "classroom": "SBLOCKS120",
         "unique": "COMP 311/A"
       },
@@ -1706,7 +1698,7 @@
         "course_code": "COMP 311",
         "section": "B",
         "course_name": "Computer Networks",
-        "schedule": "T R | 11:00 - 12:50",
+        "schedule": "T R | 12:00 - 13:50",
         "classroom": "SBLOCKS120",
         "unique": "COMP 311/B"
       },
@@ -2284,7 +2276,7 @@
       {
         "course_code": "CSCS 100",
         "section": "A",
-        "course_name": "Intro  to Computing",
+        "course_name": "Applications of ICT",
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "SBLOCKS218",
         "unique": "CSCS 100/A"
@@ -2299,16 +2291,7 @@
     "departments": [
       "CSCS"
     ],
-    "current_courses": [
-      {
-        "course_code": "CSCS 100",
-        "section": "B",
-        "course_name": "Intro  to Computing",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "SBLOCKS320",
-        "unique": "CSCS 100/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "CSCS 100"
     ]
@@ -2322,7 +2305,7 @@
       {
         "course_code": "CSCS 100",
         "section": "C",
-        "course_name": "Intro  to Computing",
+        "course_name": "Applications of ICT",
         "schedule": "T R | 12:30 - 13:45",
         "classroom": "SBLOCKS319",
         "unique": "CSCS 100/C"
@@ -2341,7 +2324,7 @@
       {
         "course_code": "CSCS 100",
         "section": "D",
-        "course_name": "Intro  to Computing",
+        "course_name": "Applications of ICT",
         "schedule": "M W F | 15:00 - 15:50",
         "classroom": "SBLOCKS219",
         "unique": "CSCS 100/D"
@@ -2369,7 +2352,7 @@
       {
         "course_code": "CSCS 100",
         "section": "E",
-        "course_name": "Intro  to Computing",
+        "course_name": "Applications of ICT",
         "schedule": "M W F | 10:00 - 10:50",
         "classroom": "SBLOCKS320",
         "unique": "CSCS 100/E"
@@ -2388,7 +2371,7 @@
       {
         "course_code": "CSCS 100",
         "section": "F",
-        "course_name": "Intro  to Computing",
+        "course_name": "Applications of ICT",
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "SBLOCKS218",
         "unique": "CSCS 100/F"
@@ -2396,7 +2379,7 @@
       {
         "course_code": "CSCS 100",
         "section": "G",
-        "course_name": "Intro  to Computing",
+        "course_name": "Applications of ICT",
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "SBLOCKS219",
         "unique": "CSCS 100/G"
@@ -2404,7 +2387,7 @@
       {
         "course_code": "CSCS 100",
         "section": "H",
-        "course_name": "Intro  to Computing",
+        "course_name": "Applications of ICT",
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "SBLOCKS319",
         "unique": "CSCS 100/H"
@@ -2412,7 +2395,7 @@
       {
         "course_code": "CSCS 100",
         "section": "I",
-        "course_name": "Intro  to Computing",
+        "course_name": "Applications of ICT",
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "SBLOCKS319",
         "unique": "CSCS 100/I"
@@ -2420,7 +2403,7 @@
       {
         "course_code": "CSCS 100",
         "section": "J",
-        "course_name": "Intro  to Computing",
+        "course_name": "Applications of ICT",
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "SBLOCKS219",
         "unique": "CSCS 100/J"
@@ -2447,11 +2430,11 @@
     "current_courses": [
       {
         "course_code": "CSCS 101",
-        "section": "A",
+        "section": "B",
         "course_name": "Adv. Appl of ICT",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS218",
-        "unique": "CSCS 101/A"
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS219",
+        "unique": "CSCS 101/B"
       }
     ],
     "all_courses": [
@@ -2466,11 +2449,11 @@
     "current_courses": [
       {
         "course_code": "CSCS 101",
-        "section": "B",
+        "section": "A",
         "course_name": "Adv. Appl of ICT",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "SBLOCKS219",
-        "unique": "CSCS 101/B"
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS218",
+        "unique": "CSCS 101/A"
       }
     ],
     "all_courses": [
@@ -2709,15 +2692,24 @@
     ],
     "current_courses": [
       {
+        "course_code": "CSCS 100",
+        "section": "B",
+        "course_name": "Applications of ICT",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS320",
+        "unique": "CSCS 100/B"
+      },
+      {
         "course_code": "CSCS 363",
         "section": "A",
         "course_name": "Generative AI",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS317",
+        "schedule": "M W | 12:00 - 12:50 | F | 12:00 - 12:50",
+        "classroom": "SBLOCKS316 | SBLOCKS215",
         "unique": "CSCS 363/A"
       }
     ],
     "all_courses": [
+      "CSCS 100",
       "CSCS 363"
     ]
   },
@@ -4723,14 +4715,6 @@
     "current_courses": [
       {
         "course_code": "GEOG 101",
-        "section": "A",
-        "course_name": "Funda of Geography",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE228",
-        "unique": "GEOG 101/A"
-      },
-      {
-        "course_code": "GEOG 101",
         "section": "E",
         "course_name": "Funda of Geography",
         "schedule": "M W F | 14:00 - 14:50",
@@ -4820,6 +4804,14 @@
       "GEOG"
     ],
     "current_courses": [
+      {
+        "course_code": "GEOG 101",
+        "section": "A",
+        "course_name": "Funda of Geography",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE228",
+        "unique": "GEOG 101/A"
+      },
       {
         "course_code": "GEOG 101",
         "section": "D",
@@ -6692,17 +6684,18 @@
         "unique": "MCOM 200/B"
       },
       {
-        "course_code": "MCOM 415",
-        "section": "B",
-        "course_name": "Comm Campaign Design",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE041",
-        "unique": "MCOM 415/B"
+        "course_code": "MCOM 526",
+        "section": "A",
+        "course_name": "Med.&Cul. Change",
+        "schedule": "T | 16:00 - 19:00",
+        "classroom": "EBLOCKE040",
+        "unique": "MCOM 526/A"
       }
     ],
     "all_courses": [
       "MCOM 200",
-      "MCOM 415"
+      "MCOM 415",
+      "MCOM 526"
     ]
   },
   {
@@ -6776,20 +6769,20 @@
         "unique": "MCOM 415/A"
       },
       {
+        "course_code": "MCOM 415",
+        "section": "B",
+        "course_name": "Comm Campaign Design",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE041",
+        "unique": "MCOM 415/B"
+      },
+      {
         "course_code": "MCOM 430",
         "section": "A",
         "course_name": "Media Lab",
         "schedule": "T R | 11:00 - 12:15",
         "classroom": "MCENTE01",
         "unique": "MCOM 430/A"
-      },
-      {
-        "course_code": "MCOM 526",
-        "section": "A",
-        "course_name": "Med.&Cul. Change",
-        "schedule": "T | 16:00 - 19:00",
-        "classroom": "EBLOCKE040",
-        "unique": "MCOM 526/A"
       }
     ],
     "all_courses": [
@@ -7552,11 +7545,20 @@
         "schedule": "M W F | 08:00 - 08:50",
         "classroom": "EBLOCKE126",
         "unique": "PLSC 102/A"
+      },
+      {
+        "course_code": "PLSC 203",
+        "section": "B",
+        "course_name": "International Relati",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE126",
+        "unique": "PLSC 203/B"
       }
     ],
     "all_courses": [
       "PLSC 101",
-      "PLSC 102"
+      "PLSC 102",
+      "PLSC 203"
     ]
   },
   {
@@ -7591,10 +7593,28 @@
         "schedule": "T R | 14:00 - 15:15",
         "classroom": "EBLOCKE039",
         "unique": "PLSC 101/C"
+      },
+      {
+        "course_code": "PLSC 302",
+        "section": "A",
+        "course_name": "Modern Political The",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE202",
+        "unique": "PLSC 302/A"
+      },
+      {
+        "course_code": "PLSC 303",
+        "section": "A",
+        "course_name": "Contemp Poli Theory",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE213",
+        "unique": "PLSC 303/A"
       }
     ],
     "all_courses": [
-      "PLSC 101"
+      "PLSC 101",
+      "PLSC 302",
+      "PLSC 303"
     ]
   },
   {
@@ -7618,11 +7638,20 @@
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "EBLOCKE126",
         "unique": "PLSC 102/B"
+      },
+      {
+        "course_code": "PLSC 301",
+        "section": "A",
+        "course_name": "Ancnt, Mdvl, Poli Th",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE126",
+        "unique": "PLSC 301/A"
       }
     ],
     "all_courses": [
       "PLSC 101",
-      "PLSC 102"
+      "PLSC 102",
+      "PLSC 301"
     ]
   },
   {
@@ -7638,10 +7667,19 @@
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "EBLOCKE105",
         "unique": "PLSC 101/E"
+      },
+      {
+        "course_code": "PLSC 304",
+        "section": "A",
+        "course_name": "Research Methodology",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE126",
+        "unique": "PLSC 304/A"
       }
     ],
     "all_courses": [
-      "PLSC 101"
+      "PLSC 101",
+      "PLSC 304"
     ]
   },
   {
@@ -7665,11 +7703,20 @@
         "schedule": "T R | 09:30 - 10:45",
         "classroom": "EBLOCKE122",
         "unique": "PLSC 102/C"
+      },
+      {
+        "course_code": "PLSC 310",
+        "section": "A",
+        "course_name": "Politics Middle East",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE122",
+        "unique": "PLSC 310/A"
       }
     ],
     "all_courses": [
       "PLSC 101",
-      "PLSC 102"
+      "PLSC 102",
+      "PLSC 310"
     ]
   },
   {
@@ -7685,10 +7732,28 @@
         "schedule": "T R | 11:00 - 12:15",
         "classroom": "EBLOCKE122",
         "unique": "PLSC 101/G"
+      },
+      {
+        "course_code": "PLSC 203",
+        "section": "A",
+        "course_name": "International Relati",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE122",
+        "unique": "PLSC 203/A"
+      },
+      {
+        "course_code": "PLSC 323",
+        "section": "A",
+        "course_name": "Intrntl Organization",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE126",
+        "unique": "PLSC 323/A"
       }
     ],
     "all_courses": [
-      "PLSC 101"
+      "PLSC 101",
+      "PLSC 203",
+      "PLSC 323"
     ]
   },
   {
@@ -7712,10 +7777,19 @@
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "EBLOCKE126",
         "unique": "PLSC 101/K"
+      },
+      {
+        "course_code": "PLSC 321",
+        "section": "A",
+        "course_name": "Pakistan Foreign Pol",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE140",
+        "unique": "PLSC 321/A"
       }
     ],
     "all_courses": [
-      "PLSC 101"
+      "PLSC 101",
+      "PLSC 321"
     ]
   },
   {
@@ -7731,10 +7805,19 @@
         "schedule": "T R | 09:30 - 10:45",
         "classroom": "EBLOCKE126",
         "unique": "PLSC 101/I"
+      },
+      {
+        "course_code": "PLSC 212",
+        "section": "A",
+        "course_name": "Theor Comp. Politic",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE126",
+        "unique": "PLSC 212/A"
       }
     ],
     "all_courses": [
-      "PLSC 101"
+      "PLSC 101",
+      "PLSC 212"
     ]
   },
   {
@@ -7750,10 +7833,28 @@
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "EBLOCKE126",
         "unique": "PLSC 101/J"
+      },
+      {
+        "course_code": "PLSC 202",
+        "section": "A",
+        "course_name": "Gov. of Dev. Countri",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE228",
+        "unique": "PLSC 202/A"
+      },
+      {
+        "course_code": "PLSC 301",
+        "section": "B",
+        "course_name": "Ancnt, Mdvl, Poli Th",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE243",
+        "unique": "PLSC 301/B"
       }
     ],
     "all_courses": [
-      "PLSC 101"
+      "PLSC 101",
+      "PLSC 202",
+      "PLSC 301"
     ]
   },
   {
@@ -9062,6 +9163,25 @@
     ],
     "all_courses": [
       "UNIV 200"
+    ]
+  },
+  {
+    "name": "M Younis",
+    "departments": [
+      "PLSC"
+    ],
+    "current_courses": [
+      {
+        "course_code": "PLSC 331",
+        "section": "A",
+        "course_name": "Const Law I - U.S.",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE126",
+        "unique": "PLSC 331/A"
+      }
+    ],
+    "all_courses": [
+      "PLSC 331"
     ]
   }
 ]

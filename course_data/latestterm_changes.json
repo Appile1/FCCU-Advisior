@@ -4558,5 +4558,157 @@
     "section": "A",
     "instructor": "Team",
     "timestamp": "2026-08-28T06:40:41.867664+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 100 (B): S Saleem → Q Quraishi",
+    "course_code": "CSCS 100",
+    "section": "B",
+    "instructor": "Q Quraishi",
+    "timestamp": "2026-11-03T11:01:01.804312+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 101 (A): S Abbasi → N Sabahat",
+    "course_code": "CSCS 101",
+    "section": "A",
+    "instructor": "N Sabahat",
+    "timestamp": "2026-11-03T11:01:01.804334+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for CSCS 101 (B): N Sabahat → S Abbasi",
+    "course_code": "CSCS 101",
+    "section": "B",
+    "instructor": "S Abbasi",
+    "timestamp": "2026-11-03T11:01:01.804338+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for GEOG 101 (A): TBD → K Shafiqu",
+    "course_code": "GEOG 101",
+    "section": "A",
+    "instructor": "K Shafiqu",
+    "timestamp": "2026-11-03T11:01:01.804389+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for MCOM 415 (B): Z Masood → S Saleem",
+    "course_code": "MCOM 415",
+    "section": "B",
+    "instructor": "S Saleem",
+    "timestamp": "2026-11-03T11:01:01.804436+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for MCOM 526 (A): S Saleem → Z Masood",
+    "course_code": "MCOM 526",
+    "section": "A",
+    "instructor": "Z Masood",
+    "timestamp": "2026-11-03T11:01:01.804441+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PLSC 202 (A) - S Awan",
+    "course_code": "PLSC 202",
+    "section": "A",
+    "instructor": "S Awan",
+    "timestamp": "2026-11-03T11:01:01.804461+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PLSC 203 (A) - M Farooqi",
+    "course_code": "PLSC 203",
+    "section": "A",
+    "instructor": "M Farooqi",
+    "timestamp": "2026-11-03T11:01:01.804463+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PLSC 203 (B) - M Mirza",
+    "course_code": "PLSC 203",
+    "section": "B",
+    "instructor": "M Mirza",
+    "timestamp": "2026-11-03T11:01:01.804465+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PLSC 212 (A) - M U Farooq",
+    "course_code": "PLSC 212",
+    "section": "A",
+    "instructor": "M U Farooq",
+    "timestamp": "2026-11-03T11:01:01.804468+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PLSC 301 (A) - K Khan",
+    "course_code": "PLSC 301",
+    "section": "A",
+    "instructor": "K Khan",
+    "timestamp": "2026-11-03T11:01:01.804470+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PLSC 301 (B) - S Awan",
+    "course_code": "PLSC 301",
+    "section": "B",
+    "instructor": "S Awan",
+    "timestamp": "2026-11-03T11:01:01.804472+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PLSC 302 (A) - Q Memon",
+    "course_code": "PLSC 302",
+    "section": "A",
+    "instructor": "Q Memon",
+    "timestamp": "2026-11-03T11:01:01.804474+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PLSC 303 (A) - Q Memon",
+    "course_code": "PLSC 303",
+    "section": "A",
+    "instructor": "Q Memon",
+    "timestamp": "2026-11-03T11:01:01.804476+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PLSC 304 (A) - A Qureshi",
+    "course_code": "PLSC 304",
+    "section": "A",
+    "instructor": "A Qureshi",
+    "timestamp": "2026-11-03T11:01:01.804478+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PLSC 310 (A) - M A Imran",
+    "course_code": "PLSC 310",
+    "section": "A",
+    "instructor": "M A Imran",
+    "timestamp": "2026-11-03T11:01:01.804483+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PLSC 321 (A) - TBD",
+    "course_code": "PLSC 321",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-11-03T11:01:01.804486+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PLSC 323 (A) - M Farooqi",
+    "course_code": "PLSC 323",
+    "section": "A",
+    "instructor": "M Farooqi",
+    "timestamp": "2026-11-03T11:01:01.804488+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PLSC 331 (A) - M Younis",
+    "course_code": "PLSC 331",
+    "section": "A",
+    "instructor": "M Younis",
+    "timestamp": "2026-11-03T11:01:01.804490+00:00"
   }
 ]
