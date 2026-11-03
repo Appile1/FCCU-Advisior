@@ -1,7 +1,7 @@
 {
   "term_code": "2027SP",
   "term_name": "2027 Spring",
-  "total_courses": 723,
+  "total_courses": 729,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -7478,6 +7478,78 @@
       "instructor": "M Younis",
       "capacity": "35",
       "available": "35"
+    },
+    {
+      "course_code": "PLSC 336",
+      "section": "A",
+      "unique": "PLSC 336/A",
+      "course_name": "Public Administratio",
+      "credits": "3.00",
+      "classroom": "EBLOCKE243",
+      "schedule_raw": "M W F | 16:00 - 16:50",
+      "instructor": "K Khan",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "PLSC 339",
+      "section": "A",
+      "unique": "PLSC 339/A",
+      "course_name": "Gender and Politics",
+      "credits": "3.00",
+      "classroom": "EBLOCKE139",
+      "schedule_raw": "M W F | 11:00 - 11:50",
+      "instructor": "A. Indrias",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "PLSC 341",
+      "section": "A",
+      "unique": "PLSC 341/A",
+      "course_name": "Politics of China",
+      "credits": "3.00",
+      "classroom": "EBLOCKE126",
+      "schedule_raw": "T R | 14:00 - 15:15",
+      "instructor": "M U Farooq",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "PLSC 400",
+      "section": "A",
+      "unique": "PLSC 400/A",
+      "course_name": "Current Political Pr",
+      "credits": "3.00",
+      "classroom": "EBLOCKE228",
+      "schedule_raw": "M W F | 16:00 - 16:50",
+      "instructor": "Q Memon",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "PLSC 401",
+      "section": "A",
+      "unique": "PLSC 401/A",
+      "course_name": "International Politi",
+      "credits": "3.00",
+      "classroom": "EBLOCKE204",
+      "schedule_raw": "M W F | 16:00 - 16:50",
+      "instructor": "S Sindhu",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "PLSC 403",
+      "section": "A",
+      "unique": "PLSC 403/A",
+      "course_name": "Sem Majr Poli Scienc",
+      "credits": "3.00",
+      "classroom": "EBLOCKE126",
+      "schedule_raw": "T R | 15:30 - 16:45",
+      "instructor": "M Younis",
+      "capacity": "15",
+      "available": "15"
     },
     {
       "course_code": "PSYC 100",

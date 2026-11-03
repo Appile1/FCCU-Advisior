@@ -7574,10 +7574,19 @@
         "schedule": "M W F | 10:00 - 10:50",
         "classroom": "EBLOCKE122",
         "unique": "PLSC 101/B"
+      },
+      {
+        "course_code": "PLSC 339",
+        "section": "A",
+        "course_name": "Gender and Politics",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE139",
+        "unique": "PLSC 339/A"
       }
     ],
     "all_courses": [
-      "PLSC 101"
+      "PLSC 101",
+      "PLSC 339"
     ]
   },
   {
@@ -7609,12 +7618,21 @@
         "schedule": "M W F | 15:00 - 15:50",
         "classroom": "EBLOCKE213",
         "unique": "PLSC 303/A"
+      },
+      {
+        "course_code": "PLSC 400",
+        "section": "A",
+        "course_name": "Current Political Pr",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE228",
+        "unique": "PLSC 400/A"
       }
     ],
     "all_courses": [
       "PLSC 101",
       "PLSC 302",
-      "PLSC 303"
+      "PLSC 303",
+      "PLSC 400"
     ]
   },
   {
@@ -7646,12 +7664,21 @@
         "schedule": "M W F | 15:00 - 15:50",
         "classroom": "EBLOCKE126",
         "unique": "PLSC 301/A"
+      },
+      {
+        "course_code": "PLSC 336",
+        "section": "A",
+        "course_name": "Public Administratio",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE243",
+        "unique": "PLSC 336/A"
       }
     ],
     "all_courses": [
       "PLSC 101",
       "PLSC 102",
-      "PLSC 301"
+      "PLSC 301",
+      "PLSC 336"
     ]
   },
   {
@@ -7813,11 +7840,20 @@
         "schedule": "T R | 12:30 - 13:45",
         "classroom": "EBLOCKE126",
         "unique": "PLSC 212/A"
+      },
+      {
+        "course_code": "PLSC 341",
+        "section": "A",
+        "course_name": "Politics of China",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE126",
+        "unique": "PLSC 341/A"
       }
     ],
     "all_courses": [
       "PLSC 101",
-      "PLSC 212"
+      "PLSC 212",
+      "PLSC 341"
     ]
   },
   {
@@ -9178,10 +9214,38 @@
         "schedule": "T R | 11:00 - 12:15",
         "classroom": "EBLOCKE126",
         "unique": "PLSC 331/A"
+      },
+      {
+        "course_code": "PLSC 403",
+        "section": "A",
+        "course_name": "Sem Majr Poli Scienc",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE126",
+        "unique": "PLSC 403/A"
       }
     ],
     "all_courses": [
-      "PLSC 331"
+      "PLSC 331",
+      "PLSC 403"
+    ]
+  },
+  {
+    "name": "S Sindhu",
+    "departments": [
+      "PLSC"
+    ],
+    "current_courses": [
+      {
+        "course_code": "PLSC 401",
+        "section": "A",
+        "course_name": "International Politi",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE204",
+        "unique": "PLSC 401/A"
+      }
+    ],
+    "all_courses": [
+      "PLSC 401"
     ]
   }
 ]
