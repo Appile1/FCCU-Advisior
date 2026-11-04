@@ -2564,8 +2564,8 @@
         "course_code": "CSCS 203",
         "section": "A",
         "course_name": "Differential Equatio",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "SBLOCKS312",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "SBLOCKS413",
         "unique": "CSCS 203/A"
       },
       {
@@ -4718,7 +4718,7 @@
         "section": "E",
         "course_name": "Funda of Geography",
         "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE228",
+        "classroom": "EBLOCKE230",
         "unique": "GEOG 101/E"
       },
       {
@@ -7624,7 +7624,7 @@
         "section": "A",
         "course_name": "Current Political Pr",
         "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE228",
+        "classroom": "EBLOCKE230",
         "unique": "PLSC 400/A"
       }
     ],
@@ -7912,7 +7912,7 @@
         "section": "A",
         "course_name": "Forensic Psychology",
         "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE230",
+        "classroom": "SBLOCKS112",
         "unique": "PSYC 385/A"
       },
       {
@@ -8584,7 +8584,7 @@
         "section": "A",
         "course_name": "Geriatric Psychology",
         "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE230",
+        "classroom": "SBLOCKS115",
         "unique": "PSYC 370/A"
       },
       {
@@ -8675,7 +8675,7 @@
         "section": "A",
         "course_name": "Res Meth in Psyc II",
         "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE230",
+        "classroom": "SBLOCKS115",
         "unique": "PSYC 415/A"
       }
     ],
