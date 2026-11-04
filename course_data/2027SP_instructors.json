@@ -8197,8 +8197,8 @@
         "course_code": "PSYC 100",
         "section": "G",
         "course_name": "Intro to Psychology",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE244",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE214",
         "unique": "PSYC 100/G"
       },
       {
@@ -8213,8 +8213,8 @@
         "course_code": "PSYC 301",
         "section": "A",
         "course_name": "Industrial Org Psyc",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE244",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE243",
         "unique": "PSYC 301/A"
       }
     ],
