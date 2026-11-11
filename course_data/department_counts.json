@@ -1,5 +1,5 @@
 {
-  "total_courses": 729,
+  "total_courses": 739,
   "departments": {
     "ACCT": 0,
     "ART": 0,
@@ -63,7 +63,7 @@
     "PHRM": 0,
     "PHIL": 6,
     "PHYS": 30,
-    "PLSC": 33,
+    "PLSC": 41,
     "PSYC": 79,
     "PPAG": 0,
     "SAP": 0,
@@ -72,7 +72,7 @@
     "CSSE": 3,
     "SPAN": 3,
     "PHED": 0,
-    "STAT": 1,
+    "STAT": 3,
     "T.QU": 0,
     "UNIV": 17,
     "URDU": 0,

@@ -1,7 +1,7 @@
 {
   "term_code": "2027SP",
   "term_name": "2027 Spring",
-  "total_courses": 729,
+  "total_courses": 739,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -7552,6 +7552,102 @@
       "available": "15"
     },
     {
+      "course_code": "PLSC 403",
+      "section": "B",
+      "unique": "PLSC 403/B",
+      "course_name": "Sem Majr Poli Scienc",
+      "credits": "3.00",
+      "classroom": "EBLOCKE126",
+      "schedule_raw": "M W F | 15:00 - 15:50",
+      "instructor": "TBD",
+      "capacity": "15",
+      "available": "15"
+    },
+    {
+      "course_code": "PLSC 502",
+      "section": "A",
+      "unique": "PLSC 502/A",
+      "course_name": "Comparative Politics",
+      "credits": "3.00",
+      "classroom": "EBLOCKE205",
+      "schedule_raw": "T | 16:00 - 19:00",
+      "instructor": "S Sindhu",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "PLSC 504",
+      "section": "A",
+      "unique": "PLSC 504/A",
+      "course_name": "Political Thought",
+      "credits": "3.00",
+      "classroom": "EBLOCKE204",
+      "schedule_raw": "M | 16:00 - 19:00",
+      "instructor": "W  Ranjha",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "PLSC 509",
+      "section": "A",
+      "unique": "PLSC 509/A",
+      "course_name": "Political Sociology",
+      "credits": "3.00",
+      "classroom": "EBLOCKE205",
+      "schedule_raw": "W | 16:00 - 19:00",
+      "instructor": "M U Farooq",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "PLSC 513",
+      "section": "A",
+      "unique": "PLSC 513/A",
+      "course_name": "Ad.Stud.Intl.Relatio",
+      "credits": "3.00",
+      "classroom": "EBLOCKE205",
+      "schedule_raw": "M | 16:00 - 17:00",
+      "instructor": "A Qureshi",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "PLSC 517",
+      "section": "A",
+      "unique": "PLSC 517/A",
+      "course_name": "Plsc Strat. Dynam SA",
+      "credits": "3.00",
+      "classroom": "EBLOCKE205",
+      "schedule_raw": "F | 16:00 - 19:00",
+      "instructor": "A. Indrias",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "PLSC 518",
+      "section": "A",
+      "unique": "PLSC 518/A",
+      "course_name": "Civil Society: Local",
+      "credits": "3.00",
+      "classroom": "EBLOCKE204",
+      "schedule_raw": "W | 16:00 - 19:00",
+      "instructor": "S Awan",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "PLSC 519",
+      "section": "A",
+      "unique": "PLSC 519/A",
+      "course_name": "Local Govt. Sys Pak.",
+      "credits": "3.00",
+      "classroom": "EBLOCKE205",
+      "schedule_raw": "R | 16:00 - 19:00",
+      "instructor": "M Younis",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
       "course_code": "PSYC 100",
       "section": "A",
       "unique": "PSYC 100/A",
@@ -8534,6 +8630,30 @@
       "instructor": "P Ludivine",
       "capacity": "20",
       "available": "20"
+    },
+    {
+      "course_code": "STAT 100",
+      "section": "A",
+      "unique": "STAT 100/A",
+      "course_name": "Basic Statistics",
+      "credits": "3.00",
+      "classroom": "SBLOCKS420",
+      "schedule_raw": "M W F | 08:00 - 08:50",
+      "instructor": "M Raza",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "STAT 100",
+      "section": "B",
+      "unique": "STAT 100/B",
+      "course_name": "Basic Statistics",
+      "credits": "3.00",
+      "classroom": "SBLOCKS425",
+      "schedule_raw": "M W F | 09:00 - 09:50",
+      "instructor": "A Sarwar",
+      "capacity": "35",
+      "available": "35"
     },
     {
       "course_code": "STAT 313",

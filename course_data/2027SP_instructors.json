@@ -7582,11 +7582,20 @@
         "schedule": "M W F | 11:00 - 11:50",
         "classroom": "EBLOCKE139",
         "unique": "PLSC 339/A"
+      },
+      {
+        "course_code": "PLSC 517",
+        "section": "A",
+        "course_name": "Plsc Strat. Dynam SA",
+        "schedule": "F | 16:00 - 19:00",
+        "classroom": "EBLOCKE205",
+        "unique": "PLSC 517/A"
       }
     ],
     "all_courses": [
       "PLSC 101",
-      "PLSC 339"
+      "PLSC 339",
+      "PLSC 517"
     ]
   },
   {
@@ -7702,11 +7711,20 @@
         "schedule": "M W F | 10:00 - 10:50",
         "classroom": "EBLOCKE126",
         "unique": "PLSC 304/A"
+      },
+      {
+        "course_code": "PLSC 513",
+        "section": "A",
+        "course_name": "Ad.Stud.Intl.Relatio",
+        "schedule": "M | 16:00 - 17:00",
+        "classroom": "EBLOCKE205",
+        "unique": "PLSC 513/A"
       }
     ],
     "all_courses": [
       "PLSC 101",
-      "PLSC 304"
+      "PLSC 304",
+      "PLSC 513"
     ]
   },
   {
@@ -7812,11 +7830,20 @@
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "EBLOCKE140",
         "unique": "PLSC 321/A"
+      },
+      {
+        "course_code": "PLSC 403",
+        "section": "B",
+        "course_name": "Sem Majr Poli Scienc",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE126",
+        "unique": "PLSC 403/B"
       }
     ],
     "all_courses": [
       "PLSC 101",
-      "PLSC 321"
+      "PLSC 321",
+      "PLSC 403"
     ]
   },
   {
@@ -7848,12 +7875,21 @@
         "schedule": "T R | 14:00 - 15:15",
         "classroom": "EBLOCKE126",
         "unique": "PLSC 341/A"
+      },
+      {
+        "course_code": "PLSC 509",
+        "section": "A",
+        "course_name": "Political Sociology",
+        "schedule": "W | 16:00 - 19:00",
+        "classroom": "EBLOCKE205",
+        "unique": "PLSC 509/A"
       }
     ],
     "all_courses": [
       "PLSC 101",
       "PLSC 212",
-      "PLSC 341"
+      "PLSC 341",
+      "PLSC 509"
     ]
   },
   {
@@ -7885,12 +7921,21 @@
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "EBLOCKE243",
         "unique": "PLSC 301/B"
+      },
+      {
+        "course_code": "PLSC 518",
+        "section": "A",
+        "course_name": "Civil Society: Local",
+        "schedule": "W | 16:00 - 19:00",
+        "classroom": "EBLOCKE204",
+        "unique": "PLSC 518/A"
       }
     ],
     "all_courses": [
       "PLSC 101",
       "PLSC 202",
-      "PLSC 301"
+      "PLSC 301",
+      "PLSC 518"
     ]
   },
   {
@@ -9222,11 +9267,20 @@
         "schedule": "T R | 15:30 - 16:45",
         "classroom": "EBLOCKE126",
         "unique": "PLSC 403/A"
+      },
+      {
+        "course_code": "PLSC 519",
+        "section": "A",
+        "course_name": "Local Govt. Sys Pak.",
+        "schedule": "R | 16:00 - 19:00",
+        "classroom": "EBLOCKE205",
+        "unique": "PLSC 519/A"
       }
     ],
     "all_courses": [
       "PLSC 331",
-      "PLSC 403"
+      "PLSC 403",
+      "PLSC 519"
     ]
   },
   {
@@ -9242,10 +9296,76 @@
         "schedule": "M W F | 16:00 - 16:50",
         "classroom": "EBLOCKE204",
         "unique": "PLSC 401/A"
+      },
+      {
+        "course_code": "PLSC 502",
+        "section": "A",
+        "course_name": "Comparative Politics",
+        "schedule": "T | 16:00 - 19:00",
+        "classroom": "EBLOCKE205",
+        "unique": "PLSC 502/A"
       }
     ],
     "all_courses": [
-      "PLSC 401"
+      "PLSC 401",
+      "PLSC 502"
+    ]
+  },
+  {
+    "name": "W  Ranjha",
+    "departments": [
+      "PLSC"
+    ],
+    "current_courses": [
+      {
+        "course_code": "PLSC 504",
+        "section": "A",
+        "course_name": "Political Thought",
+        "schedule": "M | 16:00 - 19:00",
+        "classroom": "EBLOCKE204",
+        "unique": "PLSC 504/A"
+      }
+    ],
+    "all_courses": [
+      "PLSC 504"
+    ]
+  },
+  {
+    "name": "M Raza",
+    "departments": [
+      "STAT"
+    ],
+    "current_courses": [
+      {
+        "course_code": "STAT 100",
+        "section": "A",
+        "course_name": "Basic Statistics",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 100/A"
+      }
+    ],
+    "all_courses": [
+      "STAT 100"
+    ]
+  },
+  {
+    "name": "A Sarwar",
+    "departments": [
+      "STAT"
+    ],
+    "current_courses": [
+      {
+        "course_code": "STAT 100",
+        "section": "B",
+        "course_name": "Basic Statistics",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS425",
+        "unique": "STAT 100/B"
+      }
+    ],
+    "all_courses": [
+      "STAT 100"
     ]
   }
 ]
