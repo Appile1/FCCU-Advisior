@@ -78,5 +78,45 @@
     "section": "B",
     "instructor": "A Sarwar",
     "timestamp": "2026-11-11T07:00:55.143686+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: MATH 107 (A) - R Butt",
+    "course_code": "MATH 107",
+    "section": "A",
+    "instructor": "R Butt",
+    "timestamp": "2026-11-11T15:00:54.540898+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: MATH 107 (B) - S Samuel",
+    "course_code": "MATH 107",
+    "section": "B",
+    "instructor": "S Samuel",
+    "timestamp": "2026-11-11T15:00:54.540921+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 100 (C) - TBD",
+    "course_code": "STAT 100",
+    "section": "C",
+    "instructor": "TBD",
+    "timestamp": "2026-11-11T15:00:54.540974+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 101 (A) - R Butt",
+    "course_code": "STAT 101",
+    "section": "A",
+    "instructor": "R Butt",
+    "timestamp": "2026-11-11T15:00:54.540975+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 101 (B) - S Samuel",
+    "course_code": "STAT 101",
+    "section": "B",
+    "instructor": "S Samuel",
+    "timestamp": "2026-11-11T15:00:54.540977+00:00"
   }
 ]

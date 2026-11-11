@@ -6134,14 +6134,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "MATH 108",
-        "section": "A",
-        "course_name": "QR-I (Basic)",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "SBLOCKS412",
-        "unique": "MATH 108/A"
-      },
-      {
         "course_code": "MATH 109",
         "section": "A",
         "course_name": "QR-I (Advanced)",
@@ -9359,13 +9351,108 @@
         "course_code": "STAT 100",
         "section": "B",
         "course_name": "Basic Statistics",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "SBLOCKS425",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS420",
         "unique": "STAT 100/B"
       }
     ],
     "all_courses": [
       "STAT 100"
+    ]
+  },
+  {
+    "name": "R Butt",
+    "departments": [
+      "MATH"
+    ],
+    "current_courses": [
+      {
+        "course_code": "MATH 107",
+        "section": "A",
+        "course_name": "Statistical Methods",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS421",
+        "unique": "MATH 107/A"
+      }
+    ],
+    "all_courses": [
+      "MATH 107"
+    ]
+  },
+  {
+    "name": "S Samuel",
+    "departments": [
+      "MATH"
+    ],
+    "current_courses": [
+      {
+        "course_code": "MATH 107",
+        "section": "B",
+        "course_name": "Statistical Methods",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS420",
+        "unique": "MATH 107/B"
+      }
+    ],
+    "all_courses": [
+      "MATH 107"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "STAT"
+    ],
+    "current_courses": [
+      {
+        "course_code": "STAT 100",
+        "section": "C",
+        "course_name": "Basic Statistics",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 100/C"
+      }
+    ],
+    "all_courses": [
+      "STAT 100"
+    ]
+  },
+  {
+    "name": "R Butt",
+    "departments": [
+      "STAT"
+    ],
+    "current_courses": [
+      {
+        "course_code": "STAT 101",
+        "section": "A",
+        "course_name": "Statistical Methods",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 101/A"
+      }
+    ],
+    "all_courses": [
+      "STAT 101"
+    ]
+  },
+  {
+    "name": "S Samuel",
+    "departments": [
+      "STAT"
+    ],
+    "current_courses": [
+      {
+        "course_code": "STAT 101",
+        "section": "B",
+        "course_name": "Statistical Methods",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 101/B"
+      }
+    ],
+    "all_courses": [
+      "STAT 101"
     ]
   }
 ]

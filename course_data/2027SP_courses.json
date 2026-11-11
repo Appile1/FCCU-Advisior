@@ -1,7 +1,7 @@
 {
   "term_code": "2027SP",
   "term_name": "2027 Spring",
-  "total_courses": 739,
+  "total_courses": 743,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -5776,16 +5776,28 @@
       "available": "35"
     },
     {
-      "course_code": "MATH 108",
+      "course_code": "MATH 107",
       "section": "A",
-      "unique": "MATH 108/A",
-      "course_name": "QR-I (Basic)",
+      "unique": "MATH 107/A",
+      "course_name": "Statistical Methods",
       "credits": "3.00",
-      "classroom": "SBLOCKS412",
+      "classroom": "SBLOCKS421",
+      "schedule_raw": "M W F | 08:00 - 08:50",
+      "instructor": "R Butt",
+      "capacity": "20",
+      "available": "20"
+    },
+    {
+      "course_code": "MATH 107",
+      "section": "B",
+      "unique": "MATH 107/B",
+      "course_name": "Statistical Methods",
+      "credits": "3.00",
+      "classroom": "SBLOCKS420",
       "schedule_raw": "M W F | 09:00 - 09:50",
-      "instructor": "F Jamil",
-      "capacity": "35",
-      "available": "35"
+      "instructor": "S Samuel",
+      "capacity": "20",
+      "available": "20"
     },
     {
       "course_code": "MATH 108",
@@ -8649,11 +8661,47 @@
       "unique": "STAT 100/B",
       "course_name": "Basic Statistics",
       "credits": "3.00",
-      "classroom": "SBLOCKS425",
-      "schedule_raw": "M W F | 09:00 - 09:50",
+      "classroom": "SBLOCKS420",
+      "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Sarwar",
       "capacity": "35",
       "available": "35"
+    },
+    {
+      "course_code": "STAT 100",
+      "section": "C",
+      "unique": "STAT 100/C",
+      "course_name": "Basic Statistics",
+      "credits": "3.00",
+      "classroom": "SBLOCKS420",
+      "schedule_raw": "T R | 08:00 - 09:15",
+      "instructor": "TBD",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "STAT 101",
+      "section": "A",
+      "unique": "STAT 101/A",
+      "course_name": "Statistical Methods",
+      "credits": "3.00",
+      "classroom": "SBLOCKS421",
+      "schedule_raw": "M W F | 08:00 - 08:50",
+      "instructor": "R Butt",
+      "capacity": "15",
+      "available": "15"
+    },
+    {
+      "course_code": "STAT 101",
+      "section": "B",
+      "unique": "STAT 101/B",
+      "course_name": "Statistical Methods",
+      "credits": "3.00",
+      "classroom": "SBLOCKS420",
+      "schedule_raw": "M W F | 09:00 - 09:50",
+      "instructor": "S Samuel",
+      "capacity": "15",
+      "available": "15"
     },
     {
       "course_code": "STAT 313",
