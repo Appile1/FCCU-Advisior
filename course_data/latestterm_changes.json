@@ -318,5 +318,405 @@
     "section": "C",
     "instructor": "S Samuel",
     "timestamp": "2026-11-12T07:00:51.835020+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOL 100 (A): I  Khokhar → Team",
+    "course_code": "BIOL 100",
+    "section": "A",
+    "instructor": "Team",
+    "timestamp": "2026-11-12T11:00:52.959027+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOL 105 (A): M Imran → S Dogar",
+    "course_code": "BIOL 105",
+    "section": "A",
+    "instructor": "S Dogar",
+    "timestamp": "2026-11-12T11:00:52.959051+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOL 201 (A): Team → M Yousaf",
+    "course_code": "BIOL 201",
+    "section": "A",
+    "instructor": "M Yousaf",
+    "timestamp": "2026-11-12T11:00:52.959054+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOL 203 (A): A Maqbool → I  Khokhar",
+    "course_code": "BIOL 203",
+    "section": "A",
+    "instructor": "I  Khokhar",
+    "timestamp": "2026-11-12T11:00:52.959060+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOL 415 (A): B Sadiq → I  Khokhar",
+    "course_code": "BIOL 415",
+    "section": "A",
+    "instructor": "I  Khokhar",
+    "timestamp": "2026-11-12T11:00:52.959066+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOT 201 (A): M Irfan → M Imran",
+    "course_code": "BIOT 201",
+    "section": "A",
+    "instructor": "M Imran",
+    "timestamp": "2026-11-12T11:00:52.959069+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOT 202 (A): A Maqbool → M Irfan",
+    "course_code": "BIOT 202",
+    "section": "A",
+    "instructor": "M Irfan",
+    "timestamp": "2026-11-12T11:00:52.959071+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOT 409 (A): K Muaz → I Ul Haq",
+    "course_code": "BIOT 409",
+    "section": "A",
+    "instructor": "I Ul Haq",
+    "timestamp": "2026-11-12T11:00:52.959074+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: BIOT 511 (A) - Team",
+    "course_code": "BIOT 511",
+    "section": "A",
+    "instructor": "Team",
+    "timestamp": "2026-11-12T11:00:52.959077+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 202 (A) - A Sarwar",
+    "course_code": "DATA 202",
+    "section": "A",
+    "instructor": "A Sarwar",
+    "timestamp": "2026-11-12T11:00:52.959112+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 206 (A) - S Hanook",
+    "course_code": "DATA 206",
+    "section": "A",
+    "instructor": "S Hanook",
+    "timestamp": "2026-11-12T11:00:52.959114+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 206 (B) - S Bashir",
+    "course_code": "DATA 206",
+    "section": "B",
+    "instructor": "S Bashir",
+    "timestamp": "2026-11-12T11:00:52.959116+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 206 (C) - I Naqvi",
+    "course_code": "DATA 206",
+    "section": "C",
+    "instructor": "I Naqvi",
+    "timestamp": "2026-11-12T11:00:52.959117+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 206 (D) - S Hanook",
+    "course_code": "DATA 206",
+    "section": "D",
+    "instructor": "S Hanook",
+    "timestamp": "2026-11-12T11:00:52.959119+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 207 (A) - M Mughal",
+    "course_code": "DATA 207",
+    "section": "A",
+    "instructor": "M Mughal",
+    "timestamp": "2026-11-12T11:00:52.959120+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 207 (B) - S Ayub",
+    "course_code": "DATA 207",
+    "section": "B",
+    "instructor": "S Ayub",
+    "timestamp": "2026-11-12T11:00:52.959122+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 303 (A) - TBD",
+    "course_code": "DATA 303",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-11-12T11:00:52.959125+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 305 (A) - N Mushtaq",
+    "course_code": "DATA 305",
+    "section": "A",
+    "instructor": "N Mushtaq",
+    "timestamp": "2026-11-12T11:00:52.959127+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENVR 212 (A) - S Hanook",
+    "course_code": "ENVR 212",
+    "section": "A",
+    "instructor": "S Hanook",
+    "timestamp": "2026-11-12T11:00:52.959149+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for FSQM 504 (A): I Ul Haq → I John",
+    "course_code": "FSQM 504",
+    "section": "A",
+    "instructor": "I John",
+    "timestamp": "2026-11-12T11:00:52.959155+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for FSQM 606 (A): B Sadiq → I Ul Haq",
+    "course_code": "FSQM 606",
+    "section": "A",
+    "instructor": "I Ul Haq",
+    "timestamp": "2026-11-12T11:00:52.959158+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for FSQM 699A (A): B Sadiq → TBD",
+    "course_code": "FSQM 699A",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-11-12T11:00:52.959159+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for FSQM 699B (A): B Sadiq → TBD",
+    "course_code": "FSQM 699B",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-11-12T11:00:52.959162+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for FSQM 699E (A): B Sadiq → TBD",
+    "course_code": "FSQM 699E",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-11-12T11:00:52.959168+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PHYS 222 (A) - S Shah",
+    "course_code": "PHYS 222",
+    "section": "A",
+    "instructor": "S Shah",
+    "timestamp": "2026-11-12T11:00:52.959213+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PSYC 760 (A) - ",
+    "course_code": "PSYC 760",
+    "section": "A",
+    "instructor": "",
+    "timestamp": "2026-11-12T11:00:52.959245+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 212 (A) - S Hanook",
+    "course_code": "STAT 212",
+    "section": "A",
+    "instructor": "S Hanook",
+    "timestamp": "2026-11-12T11:00:52.959250+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 301 (A) - N Mushtaq",
+    "course_code": "STAT 301",
+    "section": "A",
+    "instructor": "N Mushtaq",
+    "timestamp": "2026-11-12T11:00:52.959252+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 305 (A) - M Raza",
+    "course_code": "STAT 305",
+    "section": "A",
+    "instructor": "M Raza",
+    "timestamp": "2026-11-12T11:00:52.959253+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 317 (A) - I Naqvi",
+    "course_code": "STAT 317",
+    "section": "A",
+    "instructor": "I Naqvi",
+    "timestamp": "2026-11-12T11:00:52.959255+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 317 (B) - S Samuel",
+    "course_code": "STAT 317",
+    "section": "B",
+    "instructor": "S Samuel",
+    "timestamp": "2026-11-12T11:00:52.959264+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 403 (A) - A Tayyab",
+    "course_code": "STAT 403",
+    "section": "A",
+    "instructor": "A Tayyab",
+    "timestamp": "2026-11-12T11:00:52.959266+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 406 (A) - I Naqvi",
+    "course_code": "STAT 406",
+    "section": "A",
+    "instructor": "I Naqvi",
+    "timestamp": "2026-11-12T11:00:52.959267+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 414 (A) - N Mushtaq",
+    "course_code": "STAT 414",
+    "section": "A",
+    "instructor": "N Mushtaq",
+    "timestamp": "2026-11-12T11:00:52.959269+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 414 (B) - S Bashir",
+    "course_code": "STAT 414",
+    "section": "B",
+    "instructor": "S Bashir",
+    "timestamp": "2026-11-12T11:00:52.959271+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 505 (A) - TBD",
+    "course_code": "STAT 505",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-11-12T11:00:52.959272+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 507 (A) - M Mughal",
+    "course_code": "STAT 507",
+    "section": "A",
+    "instructor": "M Mughal",
+    "timestamp": "2026-11-12T11:00:52.959274+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 509 (A) - S Hanook",
+    "course_code": "STAT 509",
+    "section": "A",
+    "instructor": "S Hanook",
+    "timestamp": "2026-11-12T11:00:52.959275+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 699A (A) - S Hanook",
+    "course_code": "STAT 699A",
+    "section": "A",
+    "instructor": "S Hanook",
+    "timestamp": "2026-11-12T11:00:52.959276+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: STAT 699B (A) - S Hanook",
+    "course_code": "STAT 699B",
+    "section": "A",
+    "instructor": "S Hanook",
+    "timestamp": "2026-11-12T11:00:52.959278+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (A) - Q Hayat",
+    "course_code": "URDU 101",
+    "section": "A",
+    "instructor": "Q Hayat",
+    "timestamp": "2026-11-12T11:00:52.959283+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (B) - A Samuel",
+    "course_code": "URDU 101",
+    "section": "B",
+    "instructor": "A Samuel",
+    "timestamp": "2026-11-12T11:00:52.959285+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (C) - H Shahzadi",
+    "course_code": "URDU 101",
+    "section": "C",
+    "instructor": "H Shahzadi",
+    "timestamp": "2026-11-12T11:00:52.959286+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (D) - Q Hayat",
+    "course_code": "URDU 101",
+    "section": "D",
+    "instructor": "Q Hayat",
+    "timestamp": "2026-11-12T11:00:52.959289+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (E) - H Shahzadi",
+    "course_code": "URDU 101",
+    "section": "E",
+    "instructor": "H Shahzadi",
+    "timestamp": "2026-11-12T11:00:52.959291+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (F) - H Shahzadi",
+    "course_code": "URDU 101",
+    "section": "F",
+    "instructor": "H Shahzadi",
+    "timestamp": "2026-11-12T11:00:52.959292+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (G) - S Ashraf",
+    "course_code": "URDU 101",
+    "section": "G",
+    "instructor": "S Ashraf",
+    "timestamp": "2026-11-12T11:00:52.959294+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (H) - Q Hayat",
+    "course_code": "URDU 101",
+    "section": "H",
+    "instructor": "Q Hayat",
+    "timestamp": "2026-11-12T11:00:52.959295+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (I) - S Ashraf",
+    "course_code": "URDU 101",
+    "section": "I",
+    "instructor": "S Ashraf",
+    "timestamp": "2026-11-12T11:00:52.959297+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (J) - S Tahir",
+    "course_code": "URDU 101",
+    "section": "J",
+    "instructor": "S Tahir",
+    "timestamp": "2026-11-12T11:00:52.959298+00:00"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "total_courses": 762,
+  "total_courses": 796,
   "departments": {
     "ACCT": 0,
     "ART": 0,
@@ -8,8 +8,8 @@
     "MUSU": 0,
     "WOOD": 0,
     "BINF": 0,
-    "BIOL": 22,
-    "BIOT": 16,
+    "BIOL": 19,
+    "BIOT": 17,
     "BTNY": 0,
     "BMAT": 0,
     "BUSN": 0,
@@ -35,7 +35,7 @@
     "LANG": 0,
     "ELIT": 0,
     "DELT": 0,
-    "ENVR": 24,
+    "ENVR": 25,
     "ETH": 0,
     "FASA": 0,
     "FSQM": 27,
@@ -62,9 +62,9 @@
     "PERS": 0,
     "PHRM": 0,
     "PHIL": 6,
-    "PHYS": 28,
+    "PHYS": 29,
     "PLSC": 41,
-    "PSYC": 79,
+    "PSYC": 80,
     "PPAG": 0,
     "SAP": 0,
     "SHT": 0,
@@ -72,13 +72,13 @@
     "CSSE": 3,
     "SPAN": 3,
     "PHED": 0,
-    "STAT": 14,
+    "STAT": 28,
     "T.QU": 0,
     "UNIV": 17,
-    "URDU": 0,
+    "URDU": 10,
     "WRCM": 0,
     "ZOOL": 0,
     "TEST": 0,
-    "DATA": 7
+    "DATA": 16
   }
 }
