@@ -1,5 +1,5 @@
 {
-  "total_courses": 743,
+  "total_courses": 762,
   "departments": {
     "ACCT": 0,
     "ART": 0,
@@ -53,7 +53,7 @@
     "KORN": 3,
     "LING": 0,
     "MCOM": 37,
-    "MATH": 32,
+    "MATH": 38,
     "MPGN": 4,
     "MUS": 0,
     "MUSC": 2,
@@ -62,7 +62,7 @@
     "PERS": 0,
     "PHRM": 0,
     "PHIL": 6,
-    "PHYS": 30,
+    "PHYS": 28,
     "PLSC": 41,
     "PSYC": 79,
     "PPAG": 0,
@@ -72,12 +72,13 @@
     "CSSE": 3,
     "SPAN": 3,
     "PHED": 0,
-    "STAT": 6,
+    "STAT": 14,
     "T.QU": 0,
     "UNIV": 17,
     "URDU": 0,
     "WRCM": 0,
     "ZOOL": 0,
-    "TEST": 0
+    "TEST": 0,
+    "DATA": 7
   }
 }
