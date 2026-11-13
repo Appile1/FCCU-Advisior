@@ -158,19 +158,11 @@
     "current_courses": [
       {
         "course_code": "BIOL 100",
-        "section": "C",
+        "section": "J",
         "course_name": "*Intro.  Biology",
-        "schedule": "M | 10:00 - 10:50 | R | 14:00 - 15:50 | F | 10:00 - 10:50",
-        "classroom": "SBLOCKS313 | SBLOCKS341 | SBLOCKS312",
-        "unique": "BIOL 100/C"
-      },
-      {
-        "course_code": "BIOL 100",
-        "section": "F",
-        "course_name": "*Intro.  Biology",
-        "schedule": "M W | 11:00 - 11:50 | T | 08:30 - 10:20",
-        "classroom": "SBLOCKS312 | SBLOCKS321",
-        "unique": "BIOL 100/F"
+        "schedule": "T R | 11:00 - 11:50 | R | 14:00 - 15:50",
+        "classroom": "SBLOCKS341",
+        "unique": "BIOL 100/J"
       },
       {
         "course_code": "BIOL 412",
@@ -211,14 +203,6 @@
       "BIOL"
     ],
     "current_courses": [
-      {
-        "course_code": "BIOL 100",
-        "section": "E",
-        "course_name": "*Intro.  Biology",
-        "schedule": "T R | 12:30 - 13:20 | W | 14:00 - 15:50",
-        "classroom": "SBLOCKS313 | SBLOCKS341",
-        "unique": "BIOL 100/E"
-      },
       {
         "course_code": "BIOL 100",
         "section": "G",
@@ -316,7 +300,7 @@
         "section": "A",
         "course_name": "*Biochemistry",
         "schedule": "M W F | 08:00 - 08:50 | M | 11:00 - 12:50",
-        "classroom": "SBLOCKS312 | SBLOCKS329",
+        "classroom": "SBLOCKS313 | SBLOCKS329",
         "unique": "BIOL 313/A"
       }
     ],
@@ -330,8 +314,18 @@
     "departments": [
       "BIOL"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "BIOL 100",
+        "section": "E",
+        "course_name": "*Intro.  Biology",
+        "schedule": "T R | 12:30 - 13:20 | W | 14:00 - 15:50",
+        "classroom": "SBLOCKS313 | SBLOCKS341",
+        "unique": "BIOL 100/E"
+      }
+    ],
     "all_courses": [
+      "BIOL 100",
       "BIOL 105",
       "BIOL 473"
     ]
@@ -344,11 +338,11 @@
     "current_courses": [
       {
         "course_code": "BIOL 100",
-        "section": "A",
+        "section": "F",
         "course_name": "*Intro.  Biology",
-        "schedule": "M W | 10:00 - 10:50 | R | 11:00 - 12:50",
-        "classroom": "SBLOCKS312 | SBLOCKS329",
-        "unique": "BIOL 100/A"
+        "schedule": "M W | 11:00 - 11:50 | T | 08:30 - 10:20",
+        "classroom": "SBLOCKS312 | SBLOCKS321",
+        "unique": "BIOL 100/F"
       }
     ],
     "all_courses": [
@@ -418,11 +412,20 @@
         "schedule": "T R | 09:30 - 10:45 | W | 11:00 - 12:50",
         "classroom": "SBLOCKS321 | SBLOCKS329",
         "unique": "BIOT 202/A"
+      },
+      {
+        "course_code": "BIOT 411",
+        "section": "A",
+        "course_name": "Agri. Biotechnology",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS321",
+        "unique": "BIOT 411/A"
       }
     ],
     "all_courses": [
       "BIOT 201",
-      "BIOT 202"
+      "BIOT 202",
+      "BIOT 411"
     ]
   },
   {
@@ -603,6 +606,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "BIOT 307",
+        "section": "A",
+        "course_name": "Mol.  Immunology",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS312",
+        "unique": "BIOT 307/A"
+      },
+      {
         "course_code": "BIOT 609",
         "section": "A",
         "course_name": "ADV. HEALTH BIOT",
@@ -612,6 +623,7 @@
       }
     ],
     "all_courses": [
+      "BIOT 307",
       "BIOT 609"
     ]
   },
@@ -10233,6 +10245,44 @@
     ],
     "all_courses": [
       "URDU 101"
+    ]
+  },
+  {
+    "name": "K Muaz",
+    "departments": [
+      "BIOL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "BIOL 100",
+        "section": "A",
+        "course_name": "*Intro.  Biology",
+        "schedule": "M W | 10:00 - 10:50 | R | 11:00 - 12:50",
+        "classroom": "SBLOCKS312 | SBLOCKS329",
+        "unique": "BIOL 100/A"
+      }
+    ],
+    "all_courses": [
+      "BIOL 100"
+    ]
+  },
+  {
+    "name": "M Irfan",
+    "departments": [
+      "BIOL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "BIOL 100",
+        "section": "C",
+        "course_name": "*Intro.  Biology",
+        "schedule": "M | 10:00 - 10:50 | R | 14:00 - 15:50 | F | 10:00 - 10:50",
+        "classroom": "SBLOCKS313 | SBLOCKS341 | SBLOCKS312",
+        "unique": "BIOL 100/C"
+      }
+    ],
+    "all_courses": [
+      "BIOL 100"
     ]
   }
 ]

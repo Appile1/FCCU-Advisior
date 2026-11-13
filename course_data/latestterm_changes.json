@@ -718,5 +718,61 @@
     "section": "J",
     "instructor": "S Tahir",
     "timestamp": "2026-11-12T11:00:52.959298+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOL 100 (A): Team → K Muaz",
+    "course_code": "BIOL 100",
+    "section": "A",
+    "instructor": "K Muaz",
+    "timestamp": "2026-11-13T11:00:52.112928+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOL 100 (C): S Butt → M Irfan",
+    "course_code": "BIOL 100",
+    "section": "C",
+    "instructor": "M Irfan",
+    "timestamp": "2026-11-13T11:00:52.112947+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOL 100 (E): S Dogar → M Imran",
+    "course_code": "BIOL 100",
+    "section": "E",
+    "instructor": "M Imran",
+    "timestamp": "2026-11-13T11:00:52.112950+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BIOL 100 (F): S Butt → Team",
+    "course_code": "BIOL 100",
+    "section": "F",
+    "instructor": "Team",
+    "timestamp": "2026-11-13T11:00:52.112955+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: BIOL 100 (J) - S Butt",
+    "course_code": "BIOL 100",
+    "section": "J",
+    "instructor": "S Butt",
+    "timestamp": "2026-11-13T11:00:52.112958+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: BIOT 307 (A) - A  Arshad",
+    "course_code": "BIOT 307",
+    "section": "A",
+    "instructor": "A  Arshad",
+    "timestamp": "2026-11-13T11:00:52.112963+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: BIOT 411 (A) - M Irfan",
+    "course_code": "BIOT 411",
+    "section": "A",
+    "instructor": "M Irfan",
+    "timestamp": "2026-11-13T11:00:52.112966+00:00"
   }
 ]

@@ -1,7 +1,7 @@
 {
   "term_code": "2027SP",
   "term_name": "2027 Spring",
-  "total_courses": 796,
+  "total_courses": 799,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -107,7 +107,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS312 | SBLOCKS329",
       "schedule_raw": "M W | 10:00 - 10:50 | R | 11:00 - 12:50",
-      "instructor": "Team",
+      "instructor": "K Muaz",
       "capacity": "35",
       "available": "35"
     },
@@ -131,7 +131,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS313 | SBLOCKS341 | SBLOCKS312",
       "schedule_raw": "M | 10:00 - 10:50 | R | 14:00 - 15:50 | F | 10:00 - 10:50",
-      "instructor": "S Butt",
+      "instructor": "M Irfan",
       "capacity": "35",
       "available": "35"
     },
@@ -155,7 +155,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS313 | SBLOCKS341",
       "schedule_raw": "T R | 12:30 - 13:20 | W | 14:00 - 15:50",
-      "instructor": "S Dogar",
+      "instructor": "M Imran",
       "capacity": "35",
       "available": "35"
     },
@@ -167,7 +167,7 @@
       "credits": "3.00",
       "classroom": "SBLOCKS312 | SBLOCKS321",
       "schedule_raw": "M W | 11:00 - 11:50 | T | 08:30 - 10:20",
-      "instructor": "S Butt",
+      "instructor": "Team",
       "capacity": "35",
       "available": "35"
     },
@@ -204,6 +204,18 @@
       "classroom": "SBLOCKS313 | SBLOCKS331",
       "schedule_raw": "W F | 11:00 - 11:50 | F | 14:00 - 15:50",
       "instructor": "A Khan",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "BIOL 100",
+      "section": "J",
+      "unique": "BIOL 100/J",
+      "course_name": "*Intro.  Biology",
+      "credits": "3.00",
+      "classroom": "SBLOCKS341",
+      "schedule_raw": "T R | 11:00 - 11:50 | R | 14:00 - 15:50",
+      "instructor": "S Butt",
       "capacity": "35",
       "available": "35"
     },
@@ -273,7 +285,7 @@
       "unique": "BIOL 313/A",
       "course_name": "*Biochemistry",
       "credits": "4.00",
-      "classroom": "SBLOCKS312 | SBLOCKS329",
+      "classroom": "SBLOCKS313 | SBLOCKS329",
       "schedule_raw": "M W F | 08:00 - 08:50 | M | 11:00 - 12:50",
       "instructor": "M Hussain",
       "capacity": "35",
@@ -376,6 +388,18 @@
       "available": "35"
     },
     {
+      "course_code": "BIOT 307",
+      "section": "A",
+      "unique": "BIOT 307/A",
+      "course_name": "Mol.  Immunology",
+      "credits": "3.00",
+      "classroom": "SBLOCKS312",
+      "schedule_raw": "M W F | 09:00 - 09:50",
+      "instructor": "A  Arshad",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
       "course_code": "BIOT 313",
       "section": "A",
       "unique": "BIOT 313/A",
@@ -420,6 +444,18 @@
       "classroom": "SBLOCKS341",
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "I Ul Haq",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "BIOT 411",
+      "section": "A",
+      "unique": "BIOT 411/A",
+      "course_name": "Agri. Biotechnology",
+      "credits": "3.00",
+      "classroom": "SBLOCKS321",
+      "schedule_raw": "T R | 12:30 - 13:45",
+      "instructor": "M Irfan",
       "capacity": "35",
       "available": "35"
     },
