@@ -1,7 +1,7 @@
 {
   "term_code": "2027SP",
   "term_name": "2027 Spring",
-  "total_courses": 820,
+  "total_courses": 819,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -7475,7 +7475,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE039",
       "schedule_raw": "T R | 14:00 - 15:15",
-      "instructor": "Q Memon",
+      "instructor": "S Awan",
       "capacity": "35",
       "available": "35"
     },
@@ -7497,8 +7497,8 @@
       "unique": "PLSC 101/E",
       "course_name": "Intro to Pol Science",
       "credits": "3.00",
-      "classroom": "EBLOCKE105",
-      "schedule_raw": "M W F | 14:00 - 14:50",
+      "classroom": "EBLOCKE122",
+      "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Qureshi",
       "capacity": "35",
       "available": "35"
@@ -7521,8 +7521,8 @@
       "unique": "PLSC 101/G",
       "course_name": "Intro to Pol Science",
       "credits": "3.00",
-      "classroom": "EBLOCKE122",
-      "schedule_raw": "T R | 11:00 - 12:15",
+      "classroom": "EBLOCKE213",
+      "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Farooqi",
       "capacity": "35",
       "available": "35"
@@ -7533,9 +7533,9 @@
       "unique": "PLSC 101/H",
       "course_name": "Intro to Pol Science",
       "credits": "3.00",
-      "classroom": "EBLOCKE122",
-      "schedule_raw": "M W F | 08:00 - 08:50",
-      "instructor": "TBD",
+      "classroom": "EBLOCKE105",
+      "schedule_raw": "M W F | 14:00 - 14:50",
+      "instructor": "S Awan",
       "capacity": "35",
       "available": "35"
     },
@@ -7546,7 +7546,7 @@
       "course_name": "Intro to Pol Science",
       "credits": "3.00",
       "classroom": "EBLOCKE126",
-      "schedule_raw": "T R | 09:30 - 10:45",
+      "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M U Farooq",
       "capacity": "35",
       "available": "35"
@@ -7557,9 +7557,9 @@
       "unique": "PLSC 101/J",
       "course_name": "Intro to Pol Science",
       "credits": "3.00",
-      "classroom": "EBLOCKE126",
-      "schedule_raw": "M W F | 09:00 - 09:50",
-      "instructor": "S Awan",
+      "classroom": "EBLOCKE204",
+      "schedule_raw": "M W F | 15:00 - 15:50",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "35"
     },
@@ -7617,8 +7617,8 @@
       "unique": "PLSC 202/A",
       "course_name": "Gov. of Dev. Countri",
       "credits": "3.00",
-      "classroom": "EBLOCKE228",
-      "schedule_raw": "T R | 08:00 - 09:15",
+      "classroom": "EBLOCKE122",
+      "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Awan",
       "capacity": "35",
       "available": "35"
@@ -7677,8 +7677,8 @@
       "unique": "PLSC 301/B",
       "course_name": "Ancnt, Mdvl, Poli Th",
       "credits": "3.00",
-      "classroom": "EBLOCKE243",
-      "schedule_raw": "M W F | 14:00 - 14:50",
+      "classroom": "EBLOCKE205",
+      "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Awan",
       "capacity": "35",
       "available": "35"
@@ -7689,8 +7689,8 @@
       "unique": "PLSC 302/A",
       "course_name": "Modern Political The",
       "credits": "3.00",
-      "classroom": "EBLOCKE202",
-      "schedule_raw": "T R | 15:30 - 16:45",
+      "classroom": "EBLOCKE243",
+      "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Q Memon",
       "capacity": "35",
       "available": "35"
@@ -7821,35 +7821,47 @@
       "unique": "PLSC 401/A",
       "course_name": "International Politi",
       "credits": "3.00",
-      "classroom": "EBLOCKE204",
-      "schedule_raw": "M W F | 16:00 - 16:50",
+      "classroom": "EBLOCKE126",
+      "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Sindhu",
       "capacity": "35",
       "available": "35"
     },
     {
-      "course_code": "PLSC 403",
+      "course_code": "PLSC 405",
       "section": "A",
-      "unique": "PLSC 403/A",
-      "course_name": "Sem Majr Poli Scienc",
+      "unique": "PLSC 405/A",
+      "course_name": "Challenges of Pak",
       "credits": "3.00",
-      "classroom": "EBLOCKE126",
+      "classroom": "EBLOCKE122",
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Younis",
-      "capacity": "15",
-      "available": "15"
+      "capacity": "35",
+      "available": "35"
     },
     {
-      "course_code": "PLSC 403",
-      "section": "B",
-      "unique": "PLSC 403/B",
-      "course_name": "Sem Majr Poli Scienc",
+      "course_code": "PLSC 499",
+      "section": "A",
+      "unique": "PLSC 499/A",
+      "course_name": "Capstone Project",
       "credits": "3.00",
-      "classroom": "EBLOCKE126",
-      "schedule_raw": "M W F | 15:00 - 15:50",
-      "instructor": "TBD",
-      "capacity": "15",
-      "available": "15"
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "M Younis",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "PLSC 499",
+      "section": "B",
+      "unique": "PLSC 499/B",
+      "course_name": "Thesis",
+      "credits": "6.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "Q Memon",
+      "capacity": "25",
+      "available": "25"
     },
     {
       "course_code": "PLSC 502",
@@ -7894,7 +7906,7 @@
       "course_name": "Ad.Stud.Intl.Relatio",
       "credits": "3.00",
       "classroom": "EBLOCKE205",
-      "schedule_raw": "M | 16:00 - 17:00",
+      "schedule_raw": "R | 16:00 - 19:00",
       "instructor": "A Qureshi",
       "capacity": "25",
       "available": "25"
@@ -7910,30 +7922,6 @@
       "instructor": "A. Indrias",
       "capacity": "35",
       "available": "35"
-    },
-    {
-      "course_code": "PLSC 518",
-      "section": "A",
-      "unique": "PLSC 518/A",
-      "course_name": "Civil Society: Local",
-      "credits": "3.00",
-      "classroom": "EBLOCKE204",
-      "schedule_raw": "W | 16:00 - 19:00",
-      "instructor": "S Awan",
-      "capacity": "25",
-      "available": "25"
-    },
-    {
-      "course_code": "PLSC 519",
-      "section": "A",
-      "unique": "PLSC 519/A",
-      "course_name": "Local Govt. Sys Pak.",
-      "credits": "3.00",
-      "classroom": "EBLOCKE205",
-      "schedule_raw": "R | 16:00 - 19:00",
-      "instructor": "M Younis",
-      "capacity": "25",
-      "available": "25"
     },
     {
       "course_code": "PSYC 100",

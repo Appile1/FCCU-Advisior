@@ -942,5 +942,53 @@
     "section": "A",
     "instructor": "M Tahir",
     "timestamp": "2026-11-16T09:00:56.671881+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PLSC 101 (C): Q Memon → S Awan",
+    "course_code": "PLSC 101",
+    "section": "C",
+    "instructor": "S Awan",
+    "timestamp": "2026-11-16T11:00:59.609540+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PLSC 101 (H): TBD → S Awan",
+    "course_code": "PLSC 101",
+    "section": "H",
+    "instructor": "S Awan",
+    "timestamp": "2026-11-16T11:00:59.609559+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PLSC 101 (J): S Awan → TBD",
+    "course_code": "PLSC 101",
+    "section": "J",
+    "instructor": "TBD",
+    "timestamp": "2026-11-16T11:00:59.609563+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PLSC 405 (A) - M Younis",
+    "course_code": "PLSC 405",
+    "section": "A",
+    "instructor": "M Younis",
+    "timestamp": "2026-11-16T11:00:59.609571+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PLSC 499 (A) - M Younis",
+    "course_code": "PLSC 499",
+    "section": "A",
+    "instructor": "M Younis",
+    "timestamp": "2026-11-16T11:00:59.609573+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PLSC 499 (B) - Q Memon",
+    "course_code": "PLSC 499",
+    "section": "B",
+    "instructor": "Q Memon",
+    "timestamp": "2026-11-16T11:00:59.609579+00:00"
   }
 ]
