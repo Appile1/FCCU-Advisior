@@ -7366,8 +7366,8 @@
         "course_code": "PKST 103",
         "section": "C",
         "course_name": "Ideology and Constit",
-        "schedule": "T R | 08:00 - 08:50",
-        "classroom": "EBLOCKE121",
+        "schedule": "M W | 15:00 - 15:50",
+        "classroom": "SBLOCKS112",
         "unique": "PKST 103/C"
       }
     ],
@@ -10168,10 +10168,37 @@
         "schedule": "T R | 14:00 - 15:15",
         "classroom": "EBLOCKE101",
         "unique": "URDU 101/N"
+      },
+      {
+        "course_code": "URDU 209",
+        "section": "A",
+        "course_name": "Urdu and Media",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE103",
+        "unique": "URDU 209/A"
+      },
+      {
+        "course_code": "URDU 499",
+        "section": "A",
+        "course_name": "Practical Research",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "URDU 499/A"
+      },
+      {
+        "course_code": "URDU 504",
+        "section": "A",
+        "course_name": "Lit. of the Minor.",
+        "schedule": "R | 16:00 - 19:00",
+        "classroom": "EBLOCKE101",
+        "unique": "URDU 504/A"
       }
     ],
     "all_courses": [
-      "URDU 101"
+      "URDU 101",
+      "URDU 209",
+      "URDU 499",
+      "URDU 504"
     ]
   },
   {
@@ -10338,10 +10365,19 @@
         "schedule": "T R | 14:00 - 15:15",
         "classroom": "EBLOCKE102",
         "unique": "URDU 101/O"
+      },
+      {
+        "course_code": "URDU 507",
+        "section": "A",
+        "course_name": "Art of Creative Writ",
+        "schedule": "W | 16:00 - 19:00",
+        "classroom": "EBLOCKE102",
+        "unique": "URDU 507/A"
       }
     ],
     "all_courses": [
-      "URDU 101"
+      "URDU 101",
+      "URDU 507"
     ]
   },
   {
@@ -10392,10 +10428,19 @@
         "schedule": "M W F | 16:00 - 16:50",
         "classroom": "EBLOCKE102",
         "unique": "URDU 101/T"
+      },
+      {
+        "course_code": "URDU 208",
+        "section": "A",
+        "course_name": "Script Wr in Urdu",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS212",
+        "unique": "URDU 208/A"
       }
     ],
     "all_courses": [
-      "URDU 101"
+      "URDU 101",
+      "URDU 208"
     ]
   },
   {
@@ -10415,6 +10460,71 @@
     ],
     "all_courses": [
       "URDU 102"
+    ]
+  },
+  {
+    "name": "A Virk",
+    "departments": [
+      "URDU"
+    ],
+    "current_courses": [
+      {
+        "course_code": "URDU 106",
+        "section": "A",
+        "course_name": "A Study of Manto",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE105",
+        "unique": "URDU 106/A"
+      },
+      {
+        "course_code": "URDU 506",
+        "section": "A",
+        "course_name": "Research Seminar",
+        "schedule": "T | 16:00 - 19:00",
+        "classroom": "EBLOCKE102",
+        "unique": "URDU 506/A"
+      }
+    ],
+    "all_courses": [
+      "URDU 106",
+      "URDU 506"
+    ]
+  },
+  {
+    "name": "N Jamal",
+    "departments": [
+      "URDU"
+    ],
+    "current_courses": [
+      {
+        "course_code": "URDU 501",
+        "section": "A",
+        "course_name": "Pri. & App. of Res.",
+        "schedule": "M | 16:00 - 19:00",
+        "classroom": "EBLOCKE101",
+        "unique": "URDU 501/A"
+      },
+      {
+        "course_code": "URDU 502",
+        "section": "A",
+        "course_name": "Pri. & App. of Crit.",
+        "schedule": "T | 16:00 - 19:00",
+        "classroom": "EBLOCKE101",
+        "unique": "URDU 502/A"
+      },
+      {
+        "course_code": "URDU 505",
+        "section": "A",
+        "course_name": "Principles and Appli",
+        "schedule": "M | 17:00 - 20:00",
+        "classroom": "EBLOCKE102",
+        "unique": "URDU 505/A"
+      }
+    ],
+    "all_courses": [
+      "URDU 501",
+      "URDU 502",
+      "URDU 505"
     ]
   }
 ]

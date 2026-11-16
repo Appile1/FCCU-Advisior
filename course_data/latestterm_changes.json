@@ -862,5 +862,85 @@
     "section": "A",
     "instructor": "TBD",
     "timestamp": "2026-11-16T07:00:51.932423+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 106 (A) - A Virk",
+    "course_code": "URDU 106",
+    "section": "A",
+    "instructor": "A Virk",
+    "timestamp": "2026-11-16T09:00:56.671841+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 208 (A) - N Khokhar",
+    "course_code": "URDU 208",
+    "section": "A",
+    "instructor": "N Khokhar",
+    "timestamp": "2026-11-16T09:00:56.671867+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 209 (A) - A Samuel",
+    "course_code": "URDU 209",
+    "section": "A",
+    "instructor": "A Samuel",
+    "timestamp": "2026-11-16T09:00:56.671870+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 499 (A) - A Samuel",
+    "course_code": "URDU 499",
+    "section": "A",
+    "instructor": "A Samuel",
+    "timestamp": "2026-11-16T09:00:56.671872+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 501 (A) - N Jamal",
+    "course_code": "URDU 501",
+    "section": "A",
+    "instructor": "N Jamal",
+    "timestamp": "2026-11-16T09:00:56.671873+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 502 (A) - N Jamal",
+    "course_code": "URDU 502",
+    "section": "A",
+    "instructor": "N Jamal",
+    "timestamp": "2026-11-16T09:00:56.671875+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 504 (A) - A Samuel",
+    "course_code": "URDU 504",
+    "section": "A",
+    "instructor": "A Samuel",
+    "timestamp": "2026-11-16T09:00:56.671877+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 505 (A) - N Jamal",
+    "course_code": "URDU 505",
+    "section": "A",
+    "instructor": "N Jamal",
+    "timestamp": "2026-11-16T09:00:56.671878+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 506 (A) - A Virk",
+    "course_code": "URDU 506",
+    "section": "A",
+    "instructor": "A Virk",
+    "timestamp": "2026-11-16T09:00:56.671880+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 507 (A) - M Tahir",
+    "course_code": "URDU 507",
+    "section": "A",
+    "instructor": "M Tahir",
+    "timestamp": "2026-11-16T09:00:56.671881+00:00"
   }
 ]

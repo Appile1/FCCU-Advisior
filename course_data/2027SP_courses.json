@@ -1,7 +1,7 @@
 {
   "term_code": "2027SP",
   "term_name": "2027 Spring",
-  "total_courses": 810,
+  "total_courses": 820,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -7401,8 +7401,8 @@
       "unique": "PKST 103/C",
       "course_name": "Ideology and Constit",
       "credits": "2.00",
-      "classroom": "EBLOCKE121",
-      "schedule_raw": "T R | 08:00 - 08:50",
+      "classroom": "SBLOCKS112",
+      "schedule_raw": "M W | 15:00 - 15:50",
       "instructor": "S Sumbal",
       "capacity": "35",
       "available": "35"
@@ -9722,6 +9722,126 @@
       "instructor": "TBD",
       "capacity": "35",
       "available": "35"
+    },
+    {
+      "course_code": "URDU 106",
+      "section": "A",
+      "unique": "URDU 106/A",
+      "course_name": "A Study of Manto",
+      "credits": "3.00",
+      "classroom": "EBLOCKE105",
+      "schedule_raw": "M W F | 15:00 - 15:50",
+      "instructor": "A Virk",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "URDU 208",
+      "section": "A",
+      "unique": "URDU 208/A",
+      "course_name": "Script Wr in Urdu",
+      "credits": "3.00",
+      "classroom": "SBLOCKS212",
+      "schedule_raw": "M W F | 14:00 - 14:50",
+      "instructor": "N Khokhar",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "URDU 209",
+      "section": "A",
+      "unique": "URDU 209/A",
+      "course_name": "Urdu and Media",
+      "credits": "3.00",
+      "classroom": "EBLOCKE103",
+      "schedule_raw": "T R | 11:00 - 12:15",
+      "instructor": "A Samuel",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "URDU 499",
+      "section": "A",
+      "unique": "URDU 499/A",
+      "course_name": "Practical Research",
+      "credits": "3.00",
+      "classroom": "TBDTBD",
+      "schedule_raw": "MTWRF",
+      "instructor": "A Samuel",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "URDU 501",
+      "section": "A",
+      "unique": "URDU 501/A",
+      "course_name": "Pri. & App. of Res.",
+      "credits": "3.00",
+      "classroom": "EBLOCKE101",
+      "schedule_raw": "M | 16:00 - 19:00",
+      "instructor": "N Jamal",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "URDU 502",
+      "section": "A",
+      "unique": "URDU 502/A",
+      "course_name": "Pri. & App. of Crit.",
+      "credits": "3.00",
+      "classroom": "EBLOCKE101",
+      "schedule_raw": "T | 16:00 - 19:00",
+      "instructor": "N Jamal",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "URDU 504",
+      "section": "A",
+      "unique": "URDU 504/A",
+      "course_name": "Lit. of the Minor.",
+      "credits": "3.00",
+      "classroom": "EBLOCKE101",
+      "schedule_raw": "R | 16:00 - 19:00",
+      "instructor": "A Samuel",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "URDU 505",
+      "section": "A",
+      "unique": "URDU 505/A",
+      "course_name": "Principles and Appli",
+      "credits": "3.00",
+      "classroom": "EBLOCKE102",
+      "schedule_raw": "M | 17:00 - 20:00",
+      "instructor": "N Jamal",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "URDU 506",
+      "section": "A",
+      "unique": "URDU 506/A",
+      "course_name": "Research Seminar",
+      "credits": "3.00",
+      "classroom": "EBLOCKE102",
+      "schedule_raw": "T | 16:00 - 19:00",
+      "instructor": "A Virk",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "URDU 507",
+      "section": "A",
+      "unique": "URDU 507/A",
+      "course_name": "Art of Creative Writ",
+      "credits": "3.00",
+      "classroom": "EBLOCKE102",
+      "schedule_raw": "W | 16:00 - 19:00",
+      "instructor": "M Tahir",
+      "capacity": "25",
+      "available": "25"
     }
   ]
 }
