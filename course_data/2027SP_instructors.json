@@ -10160,6 +10160,14 @@
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "EBLOCKE101",
         "unique": "URDU 101/B"
+      },
+      {
+        "course_code": "URDU 101",
+        "section": "N",
+        "course_name": "Communicative Urdu",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE101",
+        "unique": "URDU 101/N"
       }
     ],
     "all_courses": [
@@ -10241,6 +10249,30 @@
         "schedule": "T R | 11:00 - 12:15",
         "classroom": "EBLOCKE101",
         "unique": "URDU 101/J"
+      },
+      {
+        "course_code": "URDU 101",
+        "section": "K",
+        "course_name": "Communicative Urdu",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE101",
+        "unique": "URDU 101/K"
+      },
+      {
+        "course_code": "URDU 101",
+        "section": "P",
+        "course_name": "Communicative Urdu",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE103",
+        "unique": "URDU 101/P"
+      },
+      {
+        "course_code": "URDU 101",
+        "section": "S",
+        "course_name": "Communicative Urdu",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE102",
+        "unique": "URDU 101/S"
       }
     ],
     "all_courses": [
@@ -10283,6 +10315,106 @@
     ],
     "all_courses": [
       "BIOL 100"
+    ]
+  },
+  {
+    "name": "M Tahir",
+    "departments": [
+      "URDU"
+    ],
+    "current_courses": [
+      {
+        "course_code": "URDU 101",
+        "section": "L",
+        "course_name": "Communicative Urdu",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE101",
+        "unique": "URDU 101/L"
+      },
+      {
+        "course_code": "URDU 101",
+        "section": "O",
+        "course_name": "Communicative Urdu",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE102",
+        "unique": "URDU 101/O"
+      }
+    ],
+    "all_courses": [
+      "URDU 101"
+    ]
+  },
+  {
+    "name": "A  Anwar",
+    "departments": [
+      "URDU"
+    ],
+    "current_courses": [
+      {
+        "course_code": "URDU 101",
+        "section": "M",
+        "course_name": "Communicative Urdu",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE101",
+        "unique": "URDU 101/M"
+      },
+      {
+        "course_code": "URDU 101",
+        "section": "Q",
+        "course_name": "Communicative Urdu",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE101",
+        "unique": "URDU 101/Q"
+      }
+    ],
+    "all_courses": [
+      "URDU 101"
+    ]
+  },
+  {
+    "name": "N Khokhar",
+    "departments": [
+      "URDU"
+    ],
+    "current_courses": [
+      {
+        "course_code": "URDU 101",
+        "section": "R",
+        "course_name": "Communicative Urdu",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "SBLOCKS212",
+        "unique": "URDU 101/R"
+      },
+      {
+        "course_code": "URDU 101",
+        "section": "T",
+        "course_name": "Communicative Urdu",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE102",
+        "unique": "URDU 101/T"
+      }
+    ],
+    "all_courses": [
+      "URDU 101"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "URDU"
+    ],
+    "current_courses": [
+      {
+        "course_code": "URDU 102",
+        "section": "A",
+        "course_name": "A Foundational Study of Iqbal",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE102",
+        "unique": "URDU 102/A"
+      }
+    ],
+    "all_courses": [
+      "URDU 102"
     ]
   }
 ]

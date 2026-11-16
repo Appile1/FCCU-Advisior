@@ -1,7 +1,7 @@
 {
   "term_code": "2027SP",
   "term_name": "2027 Spring",
-  "total_courses": 799,
+  "total_courses": 810,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -3936,8 +3936,8 @@
       "classroom": "EBLOCKE105",
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Hanook",
-      "capacity": "5",
-      "available": "5"
+      "capacity": "15",
+      "available": "15"
     },
     {
       "course_code": "ENVR 250",
@@ -9096,8 +9096,8 @@
       "classroom": "EBLOCKE105",
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Hanook",
-      "capacity": "20",
-      "available": "20"
+      "capacity": "10",
+      "available": "10"
     },
     {
       "course_code": "STAT 301",
@@ -9588,6 +9588,138 @@
       "classroom": "EBLOCKE101",
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Tahir",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "URDU 101",
+      "section": "K",
+      "unique": "URDU 101/K",
+      "course_name": "Communicative Urdu",
+      "credits": "3.00",
+      "classroom": "EBLOCKE101",
+      "schedule_raw": "M W F | 12:00 - 12:50",
+      "instructor": "S Tahir",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "URDU 101",
+      "section": "L",
+      "unique": "URDU 101/L",
+      "course_name": "Communicative Urdu",
+      "credits": "3.00",
+      "classroom": "EBLOCKE101",
+      "schedule_raw": "T R | 12:30 - 13:45",
+      "instructor": "M Tahir",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "URDU 101",
+      "section": "M",
+      "unique": "URDU 101/M",
+      "course_name": "Communicative Urdu",
+      "credits": "3.00",
+      "classroom": "EBLOCKE101",
+      "schedule_raw": "M W F | 14:00 - 14:50",
+      "instructor": "A  Anwar",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "URDU 101",
+      "section": "N",
+      "unique": "URDU 101/N",
+      "course_name": "Communicative Urdu",
+      "credits": "3.00",
+      "classroom": "EBLOCKE101",
+      "schedule_raw": "T R | 14:00 - 15:15",
+      "instructor": "A Samuel",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "URDU 101",
+      "section": "O",
+      "unique": "URDU 101/O",
+      "course_name": "Communicative Urdu",
+      "credits": "3.00",
+      "classroom": "EBLOCKE102",
+      "schedule_raw": "T R | 14:00 - 15:15",
+      "instructor": "M Tahir",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "URDU 101",
+      "section": "P",
+      "unique": "URDU 101/P",
+      "course_name": "Communicative Urdu",
+      "credits": "3.00",
+      "classroom": "EBLOCKE103",
+      "schedule_raw": "T R | 15:30 - 16:45",
+      "instructor": "S Tahir",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "URDU 101",
+      "section": "Q",
+      "unique": "URDU 101/Q",
+      "course_name": "Communicative Urdu",
+      "credits": "3.00",
+      "classroom": "EBLOCKE101",
+      "schedule_raw": "M W F | 15:00 - 15:50",
+      "instructor": "A  Anwar",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "URDU 101",
+      "section": "R",
+      "unique": "URDU 101/R",
+      "course_name": "Communicative Urdu",
+      "credits": "3.00",
+      "classroom": "SBLOCKS212",
+      "schedule_raw": "M W F | 15:00 - 15:50",
+      "instructor": "N Khokhar",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "URDU 101",
+      "section": "S",
+      "unique": "URDU 101/S",
+      "course_name": "Communicative Urdu",
+      "credits": "3.00",
+      "classroom": "EBLOCKE102",
+      "schedule_raw": "T R | 15:30 - 16:45",
+      "instructor": "S Tahir",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "URDU 101",
+      "section": "T",
+      "unique": "URDU 101/T",
+      "course_name": "Communicative Urdu",
+      "credits": "3.00",
+      "classroom": "EBLOCKE102",
+      "schedule_raw": "M W F | 16:00 - 16:50",
+      "instructor": "N Khokhar",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "URDU 102",
+      "section": "A",
+      "unique": "URDU 102/A",
+      "course_name": "A Foundational Study of Iqbal",
+      "credits": "3.00",
+      "classroom": "EBLOCKE102",
+      "schedule_raw": "M W F | 12:00 - 12:50",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "35"
     }

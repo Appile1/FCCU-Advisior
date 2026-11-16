@@ -774,5 +774,93 @@
     "section": "A",
     "instructor": "M Irfan",
     "timestamp": "2026-11-13T11:00:52.112966+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (K) - S Tahir",
+    "course_code": "URDU 101",
+    "section": "K",
+    "instructor": "S Tahir",
+    "timestamp": "2026-11-16T07:00:51.932386+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (L) - M Tahir",
+    "course_code": "URDU 101",
+    "section": "L",
+    "instructor": "M Tahir",
+    "timestamp": "2026-11-16T07:00:51.932406+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (M) - A  Anwar",
+    "course_code": "URDU 101",
+    "section": "M",
+    "instructor": "A  Anwar",
+    "timestamp": "2026-11-16T07:00:51.932408+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (N) - A Samuel",
+    "course_code": "URDU 101",
+    "section": "N",
+    "instructor": "A Samuel",
+    "timestamp": "2026-11-16T07:00:51.932410+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (O) - M Tahir",
+    "course_code": "URDU 101",
+    "section": "O",
+    "instructor": "M Tahir",
+    "timestamp": "2026-11-16T07:00:51.932414+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (P) - S Tahir",
+    "course_code": "URDU 101",
+    "section": "P",
+    "instructor": "S Tahir",
+    "timestamp": "2026-11-16T07:00:51.932416+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (Q) - A  Anwar",
+    "course_code": "URDU 101",
+    "section": "Q",
+    "instructor": "A  Anwar",
+    "timestamp": "2026-11-16T07:00:51.932417+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (R) - N Khokhar",
+    "course_code": "URDU 101",
+    "section": "R",
+    "instructor": "N Khokhar",
+    "timestamp": "2026-11-16T07:00:51.932419+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (S) - S Tahir",
+    "course_code": "URDU 101",
+    "section": "S",
+    "instructor": "S Tahir",
+    "timestamp": "2026-11-16T07:00:51.932420+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (T) - N Khokhar",
+    "course_code": "URDU 101",
+    "section": "T",
+    "instructor": "N Khokhar",
+    "timestamp": "2026-11-16T07:00:51.932422+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 102 (A) - TBD",
+    "course_code": "URDU 102",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-11-16T07:00:51.932423+00:00"
   }
 ]
