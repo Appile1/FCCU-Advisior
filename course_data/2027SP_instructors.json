@@ -10187,13 +10187,22 @@
         "schedule": "R | 16:00 - 19:00",
         "classroom": "EBLOCKE101",
         "unique": "URDU 504/A"
+      },
+      {
+        "course_code": "URDU 510",
+        "section": "A",
+        "course_name": "Services of Oriental",
+        "schedule": "R | 16:00 - 19:00",
+        "classroom": "EBLOCKE101",
+        "unique": "URDU 510/A"
       }
     ],
     "all_courses": [
       "URDU 101",
       "URDU 209",
       "URDU 499",
-      "URDU 504"
+      "URDU 504",
+      "URDU 510"
     ]
   },
   {
@@ -10514,12 +10523,21 @@
         "schedule": "M | 17:00 - 20:00",
         "classroom": "EBLOCKE102",
         "unique": "URDU 505/A"
+      },
+      {
+        "course_code": "URDU 511",
+        "section": "A",
+        "course_name": "Significant Literary Trend",
+        "schedule": "R | 16:00 - 19:00",
+        "classroom": "EBLOCKE102",
+        "unique": "URDU 511/A"
       }
     ],
     "all_courses": [
       "URDU 501",
       "URDU 502",
-      "URDU 505"
+      "URDU 505",
+      "URDU 511"
     ]
   },
   {
@@ -10535,10 +10553,28 @@
         "schedule": "M W F | 08:00 - 08:50",
         "classroom": "EBLOCKE105",
         "unique": "SOCL 100/A"
+      },
+      {
+        "course_code": "SOCL 220",
+        "section": "A",
+        "course_name": "Intr. to Criminology",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS007",
+        "unique": "SOCL 220/A"
+      },
+      {
+        "course_code": "SOCL 350",
+        "section": "A",
+        "course_name": "Sociology of Develop",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE103",
+        "unique": "SOCL 350/A"
       }
     ],
     "all_courses": [
-      "SOCL 100"
+      "SOCL 100",
+      "SOCL 220",
+      "SOCL 350"
     ]
   },
   {
@@ -10554,10 +10590,37 @@
         "schedule": "M W F | 10:00 - 10:50",
         "classroom": "EBLOCKE105",
         "unique": "SOCL 100/B"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "B",
+        "course_name": "Civics & Community",
+        "schedule": "M | 08:00 - 08:50 | F | 08:00 - 08:50",
+        "classroom": "EBLOCKE104 | EBLOCKE103",
+        "unique": "SOCL 104/B"
+      },
+      {
+        "course_code": "SOCL 319",
+        "section": "A",
+        "course_name": "South Asian Language",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE122",
+        "unique": "SOCL 319/A"
+      },
+      {
+        "course_code": "SOCL 503",
+        "section": "A",
+        "course_name": "Classical and Modern",
+        "schedule": "R | 16:00 - 19:00",
+        "classroom": "EBLOCKE203",
+        "unique": "SOCL 503/A"
       }
     ],
     "all_courses": [
-      "SOCL 100"
+      "SOCL 100",
+      "SOCL 104",
+      "SOCL 319",
+      "SOCL 503"
     ]
   },
   {
@@ -10573,10 +10636,464 @@
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "EBLOCKE105",
         "unique": "SOCL 100/C"
+      },
+      {
+        "course_code": "SOCL 100",
+        "section": "H",
+        "course_name": "Intro to Sociology",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 100/H"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "J",
+        "course_name": "Civics & Community",
+        "schedule": "M W | 11:00 - 11:50",
+        "classroom": "EBLOCKE103",
+        "unique": "SOCL 104/J"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "L",
+        "course_name": "Civics & Community",
+        "schedule": "W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 104/L"
+      },
+      {
+        "course_code": "SOCL 509",
+        "section": "A",
+        "course_name": "Adv. Readings in Gen",
+        "schedule": "W | 16:00 - 19:00",
+        "classroom": "EBLOCKE203",
+        "unique": "SOCL 509/A"
+      }
+    ],
+    "all_courses": [
+      "SOCL 100",
+      "SOCL 104",
+      "SOCL 509"
+    ]
+  },
+  {
+    "name": "T Fatima",
+    "departments": [
+      "CRIM"
+    ],
+    "current_courses": [
+      {
+        "course_code": "CRIM 201",
+        "section": "A",
+        "course_name": "Sociological Researc",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE104",
+        "unique": "CRIM 201/A"
+      }
+    ],
+    "all_courses": [
+      "CRIM 201"
+    ]
+  },
+  {
+    "name": "A  Azeem",
+    "departments": [
+      "CRIM"
+    ],
+    "current_courses": [
+      {
+        "course_code": "CRIM 220",
+        "section": "A",
+        "course_name": "Intro. to Crimnology",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS007",
+        "unique": "CRIM 220/A"
+      }
+    ],
+    "all_courses": [
+      "CRIM 220"
+    ]
+  },
+  {
+    "name": "M Ali",
+    "departments": [
+      "CRIM"
+    ],
+    "current_courses": [
+      {
+        "course_code": "CRIM 310",
+        "section": "A",
+        "course_name": "Penology and Prison",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS008",
+        "unique": "CRIM 310/A"
+      },
+      {
+        "course_code": "CRIM 460",
+        "section": "A",
+        "course_name": "Comparative Criminal",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE214",
+        "unique": "CRIM 460/A"
+      }
+    ],
+    "all_courses": [
+      "CRIM 310",
+      "CRIM 460"
+    ]
+  },
+  {
+    "name": "T Ashraf",
+    "departments": [
+      "SOCL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "SOCL 100",
+        "section": "D",
+        "course_name": "Intro to Sociology",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE105",
+        "unique": "SOCL 100/D"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "A",
+        "course_name": "Civics & Community",
+        "schedule": "M W | 08:00 - 08:50",
+        "classroom": "EBLOCKE103",
+        "unique": "SOCL 104/A"
+      },
+      {
+        "course_code": "SOCL 335",
+        "section": "A",
+        "course_name": "Demography & Public",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 335/A"
+      }
+    ],
+    "all_courses": [
+      "SOCL 100",
+      "SOCL 104",
+      "SOCL 335"
+    ]
+  },
+  {
+    "name": "S Shahid",
+    "departments": [
+      "SOCL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "SOCL 100",
+        "section": "E",
+        "course_name": "Intro to Sociology",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "SBLOCKS007",
+        "unique": "SOCL 100/E"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "N",
+        "course_name": "Civics & Community",
+        "schedule": "M | 12:00 - 12:50 | F | 12:00 - 12:50",
+        "classroom": "EBLOCKE104 | EBLOCKE103",
+        "unique": "SOCL 104/N"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "O",
+        "course_name": "Civics & Community",
+        "schedule": "W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 104/O"
+      },
+      {
+        "course_code": "SOCL 150",
+        "section": "A",
+        "course_name": "Socl of Globalizati",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 150/A"
+      },
+      {
+        "course_code": "SOCL 223",
+        "section": "A",
+        "course_name": "Sociocultural Anthro",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 223/A"
+      }
+    ],
+    "all_courses": [
+      "SOCL 100",
+      "SOCL 104",
+      "SOCL 150",
+      "SOCL 223"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "SOCL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "SOCL 100",
+        "section": "F",
+        "course_name": "Intro to Sociology",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE243",
+        "unique": "SOCL 100/F"
+      },
+      {
+        "course_code": "SOCL 100",
+        "section": "I",
+        "course_name": "Intro to Sociology",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 100/I"
       }
     ],
     "all_courses": [
       "SOCL 100"
+    ]
+  },
+  {
+    "name": "S Jafree",
+    "departments": [
+      "SOCL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "SOCL 100",
+        "section": "G",
+        "course_name": "Intro to Sociology",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE228",
+        "unique": "SOCL 100/G"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "H",
+        "course_name": "Civics & Community",
+        "schedule": "M | 10:00 - 10:50 | F | 10:00 - 10:50",
+        "classroom": "EBLOCKE104 | EBLOCKE103",
+        "unique": "SOCL 104/H"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "M",
+        "course_name": "Civics & Community",
+        "schedule": "M W | 12:00 - 12:50",
+        "classroom": "EBLOCKE103",
+        "unique": "SOCL 104/M"
+      }
+    ],
+    "all_courses": [
+      "SOCL 100",
+      "SOCL 104"
+    ]
+  },
+  {
+    "name": "T Fatima",
+    "departments": [
+      "SOCL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "SOCL 100",
+        "section": "J",
+        "course_name": "Intro to Sociology",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE103",
+        "unique": "SOCL 100/J"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "E",
+        "course_name": "Civics & Community",
+        "schedule": "M | 09:00 - 09:50 | F | 09:00 - 09:50",
+        "classroom": "EBLOCKE104 | EBLOCKE103",
+        "unique": "SOCL 104/E"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "G",
+        "course_name": "Civics & Community",
+        "schedule": "M W | 10:00 - 10:50",
+        "classroom": "EBLOCKE103",
+        "unique": "SOCL 104/G"
+      },
+      {
+        "course_code": "SOCL 201",
+        "section": "A",
+        "course_name": "Soc. Research",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 201/A"
+      }
+    ],
+    "all_courses": [
+      "SOCL 100",
+      "SOCL 104",
+      "SOCL 201"
+    ]
+  },
+  {
+    "name": "S Iqbal",
+    "departments": [
+      "SOCL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "SOCL 100",
+        "section": "K",
+        "course_name": "Intro to Sociology",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 100/K"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "F",
+        "course_name": "Civics & Community",
+        "schedule": "W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 104/F"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "I",
+        "course_name": "Civics & Community",
+        "schedule": "W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 104/I"
+      },
+      {
+        "course_code": "SOCL 502",
+        "section": "A",
+        "course_name": "Qualitative Research",
+        "schedule": "M | 16:00 - 19:00",
+        "classroom": "EBLOCKE203",
+        "unique": "SOCL 502/A"
+      }
+    ],
+    "all_courses": [
+      "SOCL 100",
+      "SOCL 104",
+      "SOCL 502"
+    ]
+  },
+  {
+    "name": "A Yasir",
+    "departments": [
+      "SOCL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "SOCL 104",
+        "section": "C",
+        "course_name": "Civics & Community",
+        "schedule": "W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 104/C"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "K",
+        "course_name": "Civics & Community",
+        "schedule": "M | 11:00 - 11:50 | F | 11:00 - 11:50",
+        "classroom": "EBLOCKE104 | EBLOCKE103",
+        "unique": "SOCL 104/K"
+      },
+      {
+        "course_code": "SOCL 301",
+        "section": "A",
+        "course_name": "Theol Pers. in Socl.",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE104",
+        "unique": "SOCL 301/A"
+      }
+    ],
+    "all_courses": [
+      "SOCL 104",
+      "SOCL 301"
+    ]
+  },
+  {
+    "name": "S Athar",
+    "departments": [
+      "SOCL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "SOCL 104",
+        "section": "D",
+        "course_name": "Civics & Community",
+        "schedule": "M W | 09:00 - 09:50",
+        "classroom": "EBLOCKE103",
+        "unique": "SOCL 104/D"
+      },
+      {
+        "course_code": "SOCL 430",
+        "section": "A",
+        "course_name": "Socio-Consumption",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS007",
+        "unique": "SOCL 430/A"
+      },
+      {
+        "course_code": "SOCL 494",
+        "section": "A",
+        "course_name": "Research Proposal",
+        "schedule": "TWRFSU",
+        "classroom": "TBDTBD",
+        "unique": "SOCL 494/A"
+      },
+      {
+        "course_code": "SOCL 499",
+        "section": "A",
+        "course_name": "Senior Project",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "SOCL 499/A"
+      },
+      {
+        "course_code": "SOCL 699A",
+        "section": "A",
+        "course_name": "Research Thesis",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "SOCL 699A/A"
+      }
+    ],
+    "all_courses": [
+      "SOCL 104",
+      "SOCL 430",
+      "SOCL 494",
+      "SOCL 499",
+      "SOCL 699A"
+    ]
+  },
+  {
+    "name": "M Ali",
+    "departments": [
+      "SOCL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "SOCL 501",
+        "section": "A",
+        "course_name": "Quantitative Researc",
+        "schedule": "T | 16:00 - 19:00",
+        "classroom": "EBLOCKE105",
+        "unique": "SOCL 501/A"
+      }
+    ],
+    "all_courses": [
+      "SOCL 501"
     ]
   }
 ]
