@@ -990,5 +990,29 @@
     "section": "B",
     "instructor": "Q Memon",
     "timestamp": "2026-11-16T11:00:59.609579+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: SOCL 100 (A) - A  Azeem",
+    "course_code": "SOCL 100",
+    "section": "A",
+    "instructor": "A  Azeem",
+    "timestamp": "2026-11-17T11:00:56.164603+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: SOCL 100 (B) - S Rasheed",
+    "course_code": "SOCL 100",
+    "section": "B",
+    "instructor": "S Rasheed",
+    "timestamp": "2026-11-17T11:00:56.164620+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: SOCL 100 (C) - A Amjad",
+    "course_code": "SOCL 100",
+    "section": "C",
+    "instructor": "A Amjad",
+    "timestamp": "2026-11-17T11:00:56.164623+00:00"
   }
 ]

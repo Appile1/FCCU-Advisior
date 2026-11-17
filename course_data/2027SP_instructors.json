@@ -7756,8 +7756,8 @@
         "course_code": "PLSC 101",
         "section": "K",
         "course_name": "Intro to Pol Science",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE126",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "SBLOCKS425",
         "unique": "PLSC 101/K"
       },
       {
@@ -10520,6 +10520,63 @@
       "URDU 501",
       "URDU 502",
       "URDU 505"
+    ]
+  },
+  {
+    "name": "A  Azeem",
+    "departments": [
+      "SOCL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "SOCL 100",
+        "section": "A",
+        "course_name": "Intro to Sociology",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE105",
+        "unique": "SOCL 100/A"
+      }
+    ],
+    "all_courses": [
+      "SOCL 100"
+    ]
+  },
+  {
+    "name": "S Rasheed",
+    "departments": [
+      "SOCL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "SOCL 100",
+        "section": "B",
+        "course_name": "Intro to Sociology",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE105",
+        "unique": "SOCL 100/B"
+      }
+    ],
+    "all_courses": [
+      "SOCL 100"
+    ]
+  },
+  {
+    "name": "A Amjad",
+    "departments": [
+      "SOCL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "SOCL 100",
+        "section": "C",
+        "course_name": "Intro to Sociology",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE105",
+        "unique": "SOCL 100/C"
+      }
+    ],
+    "all_courses": [
+      "SOCL 100"
     ]
   }
 ]

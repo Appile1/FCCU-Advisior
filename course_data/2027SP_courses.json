@@ -1,7 +1,7 @@
 {
   "term_code": "2027SP",
   "term_name": "2027 Spring",
-  "total_courses": 819,
+  "total_courses": 822,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -7569,8 +7569,8 @@
       "unique": "PLSC 101/K",
       "course_name": "Intro to Pol Science",
       "credits": "3.00",
-      "classroom": "EBLOCKE126",
-      "schedule_raw": "T R | 08:00 - 09:15",
+      "classroom": "SBLOCKS425",
+      "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
       "available": "35"
@@ -7848,8 +7848,8 @@
       "classroom": "TBDTBD",
       "schedule_raw": "MTWRF",
       "instructor": "M Younis",
-      "capacity": "25",
-      "available": "25"
+      "capacity": "15",
+      "available": "15"
     },
     {
       "course_code": "PLSC 499",
@@ -7860,8 +7860,8 @@
       "classroom": "TBDTBD",
       "schedule_raw": "MTWRF",
       "instructor": "Q Memon",
-      "capacity": "25",
-      "available": "25"
+      "capacity": "15",
+      "available": "15"
     },
     {
       "course_code": "PLSC 502",
@@ -7920,8 +7920,8 @@
       "classroom": "EBLOCKE205",
       "schedule_raw": "F | 16:00 - 19:00",
       "instructor": "A. Indrias",
-      "capacity": "35",
-      "available": "35"
+      "capacity": "25",
+      "available": "25"
     },
     {
       "course_code": "PSYC 100",
@@ -8882,6 +8882,42 @@
       "instructor": "",
       "capacity": "30",
       "available": "30"
+    },
+    {
+      "course_code": "SOCL 100",
+      "section": "A",
+      "unique": "SOCL 100/A",
+      "course_name": "Intro to Sociology",
+      "credits": "3.00",
+      "classroom": "EBLOCKE105",
+      "schedule_raw": "M W F | 08:00 - 08:50",
+      "instructor": "A  Azeem",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "SOCL 100",
+      "section": "B",
+      "unique": "SOCL 100/B",
+      "course_name": "Intro to Sociology",
+      "credits": "3.00",
+      "classroom": "EBLOCKE105",
+      "schedule_raw": "M W F | 10:00 - 10:50",
+      "instructor": "S Rasheed",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "SOCL 100",
+      "section": "C",
+      "unique": "SOCL 100/C",
+      "course_name": "Intro to Sociology",
+      "credits": "3.00",
+      "classroom": "EBLOCKE105",
+      "schedule_raw": "M W F | 09:00 - 09:50",
+      "instructor": "A Amjad",
+      "capacity": "35",
+      "available": "35"
     },
     {
       "course_code": "SPAN 101",
