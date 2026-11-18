@@ -1,5 +1,5 @@
 {
-  "total_courses": 867,
+  "total_courses": 879,
   "departments": {
     "ACCT": 0,
     "ART": 0,
@@ -31,7 +31,7 @@
     "ECON": 65,
     "EDUC": 32,
     "ARTC": 0,
-    "ENGL": 1,
+    "ENGL": 11,
     "LANG": 0,
     "ELIT": 0,
     "DELT": 0,
@@ -75,7 +75,7 @@
     "STAT": 28,
     "T.QU": 0,
     "UNIV": 17,
-    "URDU": 33,
+    "URDU": 35,
     "WRCM": 0,
     "ZOOL": 0,
     "TEST": 0,

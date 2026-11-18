@@ -1,7 +1,7 @@
 {
   "term_code": "2027SP",
   "term_name": "2027 Spring",
-  "total_courses": 867,
+  "total_courses": 879,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -3902,6 +3902,126 @@
       "instructor": "M Raza",
       "capacity": "25",
       "available": "25"
+    },
+    {
+      "course_code": "ENGL 110",
+      "section": "A",
+      "unique": "ENGL 110/A",
+      "course_name": "Contemp Short Story",
+      "credits": "3.00",
+      "classroom": "EBLOCKE221",
+      "schedule_raw": "M W F | 09:00 - 09:50",
+      "instructor": "N Ahmad",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "ENGL 175",
+      "section": "A",
+      "unique": "ENGL 175/A",
+      "course_name": "Crit. Think.&Reading",
+      "credits": "3.00",
+      "classroom": "EBLOCKE221",
+      "schedule_raw": "M W F | 10:00 - 10:50",
+      "instructor": "A Zia",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "ENGL 175",
+      "section": "B",
+      "unique": "ENGL 175/B",
+      "course_name": "Crit. Think.&Reading",
+      "credits": "3.00",
+      "classroom": "EBLOCKE221",
+      "schedule_raw": "M W F | 12:00 - 12:50",
+      "instructor": "S Hanif",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "ENGL 201",
+      "section": "A",
+      "unique": "ENGL 201/A",
+      "course_name": "Intro to English lit",
+      "credits": "3.00",
+      "classroom": "EBLOCKE221",
+      "schedule_raw": "T R | 12:30 - 13:45",
+      "instructor": "R Wasif",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "ENGL 214",
+      "section": "A",
+      "unique": "ENGL 214/A",
+      "course_name": "18th Century Novel",
+      "credits": "3.00",
+      "classroom": "EBLOCKE222",
+      "schedule_raw": "M W F | 10:00 - 10:50",
+      "instructor": "I Sayed",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "ENGL 301",
+      "section": "A",
+      "unique": "ENGL 301/A",
+      "course_name": "19th Ctry Engl Novel",
+      "credits": "3.00",
+      "classroom": "EBLOCKE222",
+      "schedule_raw": "M W F | 09:00 - 09:50",
+      "instructor": "F Zaheer",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "ENGL 303",
+      "section": "A",
+      "unique": "ENGL 303/A",
+      "course_name": "Science Fiction",
+      "credits": "3.00",
+      "classroom": "EBLOCKE222",
+      "schedule_raw": "T R | 12:30 - 13:45",
+      "instructor": "Quratulaen",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "ENGL 307",
+      "section": "A",
+      "unique": "ENGL 307/A",
+      "course_name": "Classical Drama",
+      "credits": "3.00",
+      "classroom": "EBLOCKE222",
+      "schedule_raw": "M W F | 11:00 - 11:50",
+      "instructor": "I Sayed",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "ENGL 310",
+      "section": "A",
+      "unique": "ENGL 310/A",
+      "course_name": "British Romantic Poe",
+      "credits": "3.00",
+      "classroom": "EBLOCKE221",
+      "schedule_raw": "M W F | 14:00 - 14:50",
+      "instructor": "TBD",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "ENGL 315",
+      "section": "A",
+      "unique": "ENGL 315/A",
+      "course_name": "Poetry I",
+      "credits": "3.00",
+      "classroom": "EBLOCKE221",
+      "schedule_raw": "M W F | 15:00 - 15:50",
+      "instructor": "S Maqbool",
+      "capacity": "35",
+      "available": "35"
     },
     {
       "course_code": "ENGL 699A",
@@ -10402,10 +10522,34 @@
       "course_name": "Significant Literary Trend",
       "credits": "3.00",
       "classroom": "EBLOCKE102",
-      "schedule_raw": "R | 16:00 - 19:00",
+      "schedule_raw": "R | 17:00 - 20:00",
       "instructor": "N Jamal",
       "capacity": "25",
       "available": "25"
+    },
+    {
+      "course_code": "URDU 517",
+      "section": "A",
+      "unique": "URDU 517/A",
+      "course_name": "Urdu Novel",
+      "credits": "3.00",
+      "classroom": "EBLOCKE104",
+      "schedule_raw": "W | 17:00 - 20:00",
+      "instructor": "N Khokhar",
+      "capacity": "25",
+      "available": "25"
+    },
+    {
+      "course_code": "URDU 519",
+      "section": "A",
+      "unique": "URDU 519/A",
+      "course_name": "Teach. of Urdu Lang",
+      "credits": "3.00",
+      "classroom": "EBLOCKE104",
+      "schedule_raw": "R | 17:00 - 20:00",
+      "instructor": "S Ashraf",
+      "capacity": "35",
+      "available": "35"
     }
   ]
 }

@@ -4029,6 +4029,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "ENGL 303",
+        "section": "A",
+        "course_name": "Science Fiction",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE222",
+        "unique": "ENGL 303/A"
+      },
+      {
         "course_code": "ENGL 699A",
         "section": "E",
         "course_name": "Thesis and Viva",
@@ -4038,6 +4046,7 @@
       }
     ],
     "all_courses": [
+      "ENGL 303",
       "ENGL 699A"
     ]
   },
@@ -10261,10 +10270,19 @@
         "schedule": "M W F | 10:00 - 10:50",
         "classroom": "EBLOCKE102",
         "unique": "URDU 101/I"
+      },
+      {
+        "course_code": "URDU 519",
+        "section": "A",
+        "course_name": "Teach. of Urdu Lang",
+        "schedule": "R | 17:00 - 20:00",
+        "classroom": "EBLOCKE104",
+        "unique": "URDU 519/A"
       }
     ],
     "all_courses": [
-      "URDU 101"
+      "URDU 101",
+      "URDU 519"
     ]
   },
   {
@@ -10440,11 +10458,20 @@
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "SBLOCKS212",
         "unique": "URDU 208/A"
+      },
+      {
+        "course_code": "URDU 517",
+        "section": "A",
+        "course_name": "Urdu Novel",
+        "schedule": "W | 17:00 - 20:00",
+        "classroom": "EBLOCKE104",
+        "unique": "URDU 517/A"
       }
     ],
     "all_courses": [
       "URDU 101",
-      "URDU 208"
+      "URDU 208",
+      "URDU 517"
     ]
   },
   {
@@ -10528,7 +10555,7 @@
         "course_code": "URDU 511",
         "section": "A",
         "course_name": "Significant Literary Trend",
-        "schedule": "R | 16:00 - 19:00",
+        "schedule": "R | 17:00 - 20:00",
         "classroom": "EBLOCKE102",
         "unique": "URDU 511/A"
       }
@@ -11094,6 +11121,167 @@
     ],
     "all_courses": [
       "SOCL 501"
+    ]
+  },
+  {
+    "name": "N Ahmad",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 110",
+        "section": "A",
+        "course_name": "Contemp Short Story",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 110/A"
+      }
+    ],
+    "all_courses": [
+      "ENGL 110"
+    ]
+  },
+  {
+    "name": "A Zia",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 175",
+        "section": "A",
+        "course_name": "Crit. Think.&Reading",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 175/A"
+      }
+    ],
+    "all_courses": [
+      "ENGL 175"
+    ]
+  },
+  {
+    "name": "S Hanif",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 175",
+        "section": "B",
+        "course_name": "Crit. Think.&Reading",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 175/B"
+      }
+    ],
+    "all_courses": [
+      "ENGL 175"
+    ]
+  },
+  {
+    "name": "R Wasif",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 201",
+        "section": "A",
+        "course_name": "Intro to English lit",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 201/A"
+      }
+    ],
+    "all_courses": [
+      "ENGL 201"
+    ]
+  },
+  {
+    "name": "I Sayed",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 214",
+        "section": "A",
+        "course_name": "18th Century Novel",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE222",
+        "unique": "ENGL 214/A"
+      },
+      {
+        "course_code": "ENGL 307",
+        "section": "A",
+        "course_name": "Classical Drama",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE222",
+        "unique": "ENGL 307/A"
+      }
+    ],
+    "all_courses": [
+      "ENGL 214",
+      "ENGL 307"
+    ]
+  },
+  {
+    "name": "F Zaheer",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 301",
+        "section": "A",
+        "course_name": "19th Ctry Engl Novel",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE222",
+        "unique": "ENGL 301/A"
+      }
+    ],
+    "all_courses": [
+      "ENGL 301"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 310",
+        "section": "A",
+        "course_name": "British Romantic Poe",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 310/A"
+      }
+    ],
+    "all_courses": [
+      "ENGL 310"
+    ]
+  },
+  {
+    "name": "S Maqbool",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 315",
+        "section": "A",
+        "course_name": "Poetry I",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 315/A"
+      }
+    ],
+    "all_courses": [
+      "ENGL 315"
     ]
   }
 ]

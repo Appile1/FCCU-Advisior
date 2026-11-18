@@ -1374,5 +1374,101 @@
     "section": "A",
     "instructor": "N Jamal",
     "timestamp": "2026-11-17T13:01:02.444388+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENGL 110 (A) - N Ahmad",
+    "course_code": "ENGL 110",
+    "section": "A",
+    "instructor": "N Ahmad",
+    "timestamp": "2026-11-18T11:01:03.371971+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENGL 175 (A) - A Zia",
+    "course_code": "ENGL 175",
+    "section": "A",
+    "instructor": "A Zia",
+    "timestamp": "2026-11-18T11:01:03.371994+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENGL 175 (B) - S Hanif",
+    "course_code": "ENGL 175",
+    "section": "B",
+    "instructor": "S Hanif",
+    "timestamp": "2026-11-18T11:01:03.371996+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENGL 201 (A) - R Wasif",
+    "course_code": "ENGL 201",
+    "section": "A",
+    "instructor": "R Wasif",
+    "timestamp": "2026-11-18T11:01:03.371998+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENGL 214 (A) - I Sayed",
+    "course_code": "ENGL 214",
+    "section": "A",
+    "instructor": "I Sayed",
+    "timestamp": "2026-11-18T11:01:03.372002+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENGL 301 (A) - F Zaheer",
+    "course_code": "ENGL 301",
+    "section": "A",
+    "instructor": "F Zaheer",
+    "timestamp": "2026-11-18T11:01:03.372004+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENGL 303 (A) - Quratulaen",
+    "course_code": "ENGL 303",
+    "section": "A",
+    "instructor": "Quratulaen",
+    "timestamp": "2026-11-18T11:01:03.372006+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENGL 307 (A) - I Sayed",
+    "course_code": "ENGL 307",
+    "section": "A",
+    "instructor": "I Sayed",
+    "timestamp": "2026-11-18T11:01:03.372007+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENGL 310 (A) - TBD",
+    "course_code": "ENGL 310",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-11-18T11:01:03.372009+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: ENGL 315 (A) - S Maqbool",
+    "course_code": "ENGL 315",
+    "section": "A",
+    "instructor": "S Maqbool",
+    "timestamp": "2026-11-18T11:01:03.372011+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 517 (A) - N Khokhar",
+    "course_code": "URDU 517",
+    "section": "A",
+    "instructor": "N Khokhar",
+    "timestamp": "2026-11-18T11:01:03.372140+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 519 (A) - S Ashraf",
+    "course_code": "URDU 519",
+    "section": "A",
+    "instructor": "S Ashraf",
+    "timestamp": "2026-11-18T11:01:03.372142+00:00"
   }
 ]
