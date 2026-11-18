@@ -4029,6 +4029,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "ENGL 201",
+        "section": "B",
+        "course_name": "Intro to English lit",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 201/B"
+      },
+      {
         "course_code": "ENGL 303",
         "section": "A",
         "course_name": "Science Fiction",
@@ -4046,6 +4054,7 @@
       }
     ],
     "all_courses": [
+      "ENGL 201",
       "ENGL 303",
       "ENGL 699A"
     ]
@@ -11220,11 +11229,20 @@
         "schedule": "M W F | 11:00 - 11:50",
         "classroom": "EBLOCKE222",
         "unique": "ENGL 307/A"
+      },
+      {
+        "course_code": "ENGL 323",
+        "section": "A",
+        "course_name": "Amer. Poetry & dram",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE222",
+        "unique": "ENGL 323/A"
       }
     ],
     "all_courses": [
       "ENGL 214",
-      "ENGL 307"
+      "ENGL 307",
+      "ENGL 323"
     ]
   },
   {
@@ -11240,10 +11258,19 @@
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "EBLOCKE222",
         "unique": "ENGL 301/A"
+      },
+      {
+        "course_code": "ENGL 499",
+        "section": "A",
+        "course_name": "Thesis",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "ENGL 499/A"
       }
     ],
     "all_courses": [
-      "ENGL 301"
+      "ENGL 301",
+      "ENGL 499"
     ]
   },
   {
@@ -11259,10 +11286,28 @@
         "schedule": "M W F | 14:00 - 14:50",
         "classroom": "EBLOCKE221",
         "unique": "ENGL 310/A"
+      },
+      {
+        "course_code": "ENGL 400",
+        "section": "A",
+        "course_name": "Shakespearean Drama",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE222",
+        "unique": "ENGL 400/A"
+      },
+      {
+        "course_code": "ENGL 403",
+        "section": "A",
+        "course_name": "Cont Liter. Criticis",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE222",
+        "unique": "ENGL 403/A"
       }
     ],
     "all_courses": [
-      "ENGL 310"
+      "ENGL 310",
+      "ENGL 400",
+      "ENGL 403"
     ]
   },
   {
@@ -11278,10 +11323,322 @@
         "schedule": "M W F | 15:00 - 15:50",
         "classroom": "EBLOCKE221",
         "unique": "ENGL 315/A"
+      },
+      {
+        "course_code": "ENGL 445",
+        "section": "A",
+        "course_name": "Literature & Environ",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE222",
+        "unique": "ENGL 445/A"
       }
     ],
     "all_courses": [
-      "ENGL 315"
+      "ENGL 315",
+      "ENGL 445"
+    ]
+  },
+  {
+    "name": "M Saleh",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 317",
+        "section": "A",
+        "course_name": "Existential Phi.&Lit",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 317/A"
+      }
+    ],
+    "all_courses": [
+      "ENGL 317"
+    ]
+  },
+  {
+    "name": "F Syeda",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 328",
+        "section": "A",
+        "course_name": "Trauma Lit.&Theory",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 328/A"
+      },
+      {
+        "course_code": "ENGL 407",
+        "section": "A",
+        "course_name": "Pak & Ind Literature",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 407/A"
+      }
+    ],
+    "all_courses": [
+      "ENGL 328",
+      "ENGL 407"
+    ]
+  },
+  {
+    "name": "S Mir",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 331",
+        "section": "A",
+        "course_name": "Research Methods",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 331/A"
+      }
+    ],
+    "all_courses": [
+      "ENGL 331"
+    ]
+  },
+  {
+    "name": "N Rehman",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 350",
+        "section": "A",
+        "course_name": "Adv. Creative Writin",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE221",
+        "unique": "ENGL 350/A"
+      }
+    ],
+    "all_courses": [
+      "ENGL 350"
+    ]
+  },
+  {
+    "name": "T Bokhari",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 406",
+        "section": "A",
+        "course_name": "Literature, Gender,",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE222",
+        "unique": "ENGL 406/A"
+      }
+    ],
+    "all_courses": [
+      "ENGL 406"
+    ]
+  },
+  {
+    "name": "R John",
+    "departments": [
+      "LING"
+    ],
+    "current_courses": [
+      {
+        "course_code": "LING 207",
+        "section": "A",
+        "course_name": "History of Eng. Lang",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE227",
+        "unique": "LING 207/A"
+      }
+    ],
+    "all_courses": [
+      "LING 207"
+    ]
+  },
+  {
+    "name": "F Aftab",
+    "departments": [
+      "LING"
+    ],
+    "current_courses": [
+      {
+        "course_code": "LING 217",
+        "section": "A",
+        "course_name": "Introduction to Ling",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE227",
+        "unique": "LING 217/A"
+      }
+    ],
+    "all_courses": [
+      "LING 217"
+    ]
+  },
+  {
+    "name": "A Alphonce",
+    "departments": [
+      "LING"
+    ],
+    "current_courses": [
+      {
+        "course_code": "LING 217",
+        "section": "B",
+        "course_name": "Introduction to Ling",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE227",
+        "unique": "LING 217/B"
+      },
+      {
+        "course_code": "LING 495",
+        "section": "A",
+        "course_name": "Res.Methods in Ling",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE227",
+        "unique": "LING 495/A"
+      }
+    ],
+    "all_courses": [
+      "LING 217",
+      "LING 495"
+    ]
+  },
+  {
+    "name": "N Justin",
+    "departments": [
+      "LING"
+    ],
+    "current_courses": [
+      {
+        "course_code": "LING 304",
+        "section": "A",
+        "course_name": "Semantics",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE227",
+        "unique": "LING 304/A"
+      }
+    ],
+    "all_courses": [
+      "LING 304"
+    ]
+  },
+  {
+    "name": "A  Khalid",
+    "departments": [
+      "LING"
+    ],
+    "current_courses": [
+      {
+        "course_code": "LING 306",
+        "section": "A",
+        "course_name": "Digital Humanities",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE227",
+        "unique": "LING 306/A"
+      }
+    ],
+    "all_courses": [
+      "LING 306"
+    ]
+  },
+  {
+    "name": "A Wasim",
+    "departments": [
+      "LING"
+    ],
+    "current_courses": [
+      {
+        "course_code": "LING 308",
+        "section": "A",
+        "course_name": "Translation Studies",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE227",
+        "unique": "LING 308/A"
+      }
+    ],
+    "all_courses": [
+      "LING 308"
+    ]
+  },
+  {
+    "name": "M Zia",
+    "departments": [
+      "LING"
+    ],
+    "current_courses": [
+      {
+        "course_code": "LING 315",
+        "section": "A",
+        "course_name": "World Englishes",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE227",
+        "unique": "LING 315/A"
+      }
+    ],
+    "all_courses": [
+      "LING 315"
+    ]
+  },
+  {
+    "name": "A  Javed",
+    "departments": [
+      "LING"
+    ],
+    "current_courses": [
+      {
+        "course_code": "LING 370",
+        "section": "A",
+        "course_name": "Language,Culture&Ide",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE227",
+        "unique": "LING 370/A"
+      }
+    ],
+    "all_courses": [
+      "LING 370"
+    ]
+  },
+  {
+    "name": "A Fareed",
+    "departments": [
+      "LING"
+    ],
+    "current_courses": [
+      {
+        "course_code": "LING 379",
+        "section": "A",
+        "course_name": "Language Planning a",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE227",
+        "unique": "LING 379/A"
+      }
+    ],
+    "all_courses": [
+      "LING 379"
+    ]
+  },
+  {
+    "name": "F Syeda",
+    "departments": [
+      "LING"
+    ],
+    "current_courses": [
+      {
+        "course_code": "LING 499",
+        "section": "A",
+        "course_name": "Thesis",
+        "schedule": "MTWRF",
+        "classroom": "TBDTBD",
+        "unique": "LING 499/A"
+      }
+    ],
+    "all_courses": [
+      "LING 499"
     ]
   }
 ]
