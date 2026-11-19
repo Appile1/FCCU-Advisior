@@ -4117,8 +4117,8 @@
         "course_code": "ENVR 415",
         "section": "A",
         "course_name": "Envr. Management Sys",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "SBLOCKS417",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS416",
         "unique": "ENVR 415/A"
       }
     ],
@@ -4185,8 +4185,8 @@
       {
         "course_code": "ENVR 323",
         "section": "A",
-        "course_name": "*Ecology & Evolution",
-        "schedule": "M W F | 12:00 - 12:50 | T | 14:00 - 15:50",
+        "course_name": "Applied Ecology",
+        "schedule": "M   F | 12:00 - 12:50 | T | 14:00 - 15:50",
         "classroom": "SBLOCKS417 | SBLOCKS039",
         "unique": "ENVR 323/A"
       },
@@ -4233,7 +4233,7 @@
       {
         "course_code": "ENVR 250",
         "section": "A",
-        "course_name": "Environmental Manage",
+        "course_name": "Intro. to Sustainability and CC",
         "schedule": "T R | 09:30 - 10:45",
         "classroom": "SBLOCKS417",
         "unique": "ENVR 250/A"
@@ -4279,7 +4279,7 @@
         "course_code": "ENVR 413",
         "section": "A",
         "course_name": "*Envr. Toxicology",
-        "schedule": "M W F | 11:00 - 11:50",
+        "schedule": "M W F | 09:00 - 09:50",
         "classroom": "SBLOCKS417",
         "unique": "ENVR 413/A"
       },
@@ -4316,7 +4316,7 @@
         "course_code": "ENVR 416",
         "section": "A",
         "course_name": "Wastewater treatment",
-        "schedule": "T R | 14:00 - 15:15 | R | 14:00 - 15:50",
+        "schedule": "T R | 14:00 - 14:50 | F | 09:00 - 10:50",
         "classroom": "SBLOCKS417 | SBLOCKS039",
         "unique": "ENVR 416/A"
       },
