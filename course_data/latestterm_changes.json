@@ -1654,5 +1654,29 @@
     "section": "A",
     "instructor": "F Syeda",
     "timestamp": "2026-11-18T13:00:53.721028+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for MCOM 409 (A): F Jabeen → Dr S Abbas",
+    "course_code": "MCOM 409",
+    "section": "A",
+    "instructor": "Dr S Abbas",
+    "timestamp": "2026-11-19T12:00:58.781315+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for MCOM 414 (A): Dr S Abbas → F Jabeen",
+    "course_code": "MCOM 414",
+    "section": "A",
+    "instructor": "F Jabeen",
+    "timestamp": "2026-11-19T12:00:58.781338+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for MCOM 414 (B): Dr S Abbas → F Jabeen",
+    "course_code": "MCOM 414",
+    "section": "B",
+    "instructor": "F Jabeen",
+    "timestamp": "2026-11-19T12:00:58.781342+00:00"
   }
 ]

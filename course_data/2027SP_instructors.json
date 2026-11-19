@@ -5044,7 +5044,7 @@
         "section": "A",
         "course_name": "Research Methods",
         "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE121",
+        "classroom": "EBLOCKE039",
         "unique": "HIST 201/A"
       }
     ],
@@ -6441,7 +6441,7 @@
         "section": "D",
         "course_name": "Intro to Com Studies",
         "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE039",
+        "classroom": "EBLOCKE121",
         "unique": "MCOM 101/D"
       },
       {
@@ -6554,20 +6554,12 @@
         "unique": "MCOM 101/F"
       },
       {
-        "course_code": "MCOM 414",
+        "course_code": "MCOM 409",
         "section": "A",
-        "course_name": "Research Methodology",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE041",
-        "unique": "MCOM 414/A"
-      },
-      {
-        "course_code": "MCOM 414",
-        "section": "B",
-        "course_name": "Research Methodology",
+        "course_name": "Theories of Mass Com",
         "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE041",
-        "unique": "MCOM 414/B"
+        "classroom": "EBLOCKE040",
+        "unique": "MCOM 409/A"
       },
       {
         "course_code": "MCOM 512",
@@ -6580,6 +6572,7 @@
     ],
     "all_courses": [
       "MCOM 101",
+      "MCOM 409",
       "MCOM 414",
       "MCOM 512"
     ]
@@ -6692,12 +6685,20 @@
     ],
     "current_courses": [
       {
-        "course_code": "MCOM 409",
+        "course_code": "MCOM 414",
         "section": "A",
-        "course_name": "Theories of Mass Com",
+        "course_name": "Research Methodology",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "EBLOCKE041",
+        "unique": "MCOM 414/A"
+      },
+      {
+        "course_code": "MCOM 414",
+        "section": "B",
+        "course_name": "Research Methodology",
         "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE040",
-        "unique": "MCOM 409/A"
+        "classroom": "EBLOCKE041",
+        "unique": "MCOM 414/B"
       },
       {
         "course_code": "MCOM 525",
@@ -6710,6 +6711,7 @@
     ],
     "all_courses": [
       "MCOM 409",
+      "MCOM 414",
       "MCOM 525"
     ]
   },
