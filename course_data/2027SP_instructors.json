@@ -189,7 +189,7 @@
         "section": "D",
         "course_name": "*Intro.  Biology",
         "schedule": "W F | 10:00 - 10:50 | R | 08:30 - 10:20",
-        "classroom": "SBLOCKS313 | SBLOCKS341",
+        "classroom": "SBLOCKS313 | SBLOCKS321",
         "unique": "BIOL 100/D"
       }
     ],
@@ -292,15 +292,15 @@
         "section": "A",
         "course_name": "*Intro Plant Biology",
         "schedule": "M W F | 09:00 - 09:50 | R | 11:00 - 12:50",
-        "classroom": "SBLOCKS313 | SBLOCKS331",
+        "classroom": "SBLOCKS312 | SBLOCKS331",
         "unique": "BIOL 102/A"
       },
       {
         "course_code": "BIOL 313",
         "section": "A",
         "course_name": "*Biochemistry",
-        "schedule": "M W F | 08:00 - 08:50 | M | 11:00 - 12:50",
-        "classroom": "SBLOCKS313 | SBLOCKS329",
+        "schedule": "M | 11:00 - 12:50 | T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS329 | SBLOCKS341",
         "unique": "BIOL 313/A"
       }
     ],
@@ -410,7 +410,7 @@
         "section": "A",
         "course_name": "*Prot, Cell & Tissue",
         "schedule": "T R | 09:30 - 10:45 | W | 11:00 - 12:50",
-        "classroom": "SBLOCKS321 | SBLOCKS329",
+        "classroom": "SBLOCKS331 | SBLOCKS329",
         "unique": "BIOT 202/A"
       },
       {
@@ -610,7 +610,7 @@
         "section": "A",
         "course_name": "Mol.  Immunology",
         "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "SBLOCKS312",
+        "classroom": "SBLOCKS313",
         "unique": "BIOT 307/A"
       },
       {
