@@ -4085,8 +4085,8 @@
         "course_code": "ENVR 253",
         "section": "A",
         "course_name": "Energy & Environmental Stewardship",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS424",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS416",
         "unique": "ENVR 253/A"
       },
       {
@@ -4271,7 +4271,7 @@
         "course_code": "ENVR 252",
         "section": "A",
         "course_name": "Environ. Pollution",
-        "schedule": "M W F | 12:00 - 12:50",
+        "schedule": "T R | 11:00 - 12:15",
         "classroom": "SBLOCKS424",
         "unique": "ENVR 252/A"
       },
@@ -4308,8 +4308,8 @@
         "course_code": "ENVR 252",
         "section": "B",
         "course_name": "Environ. Pollution",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "SBLOCKS417",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS424",
         "unique": "ENVR 252/B"
       },
       {
