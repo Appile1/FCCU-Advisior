@@ -4198,7 +4198,7 @@
       "course_name": "*Intro Env Sciences",
       "credits": "3.00",
       "classroom": "SBLOCKS424 | SBLOCKS039",
-      "schedule_raw": "M   F | 14:00 - 14:50 | W | 14:00 - 15:50",
+      "schedule_raw": "M W | 14:00 - 14:50 | R | 14:00 - 15:50",
       "instructor": "D Bakker",
       "capacity": "35",
       "available": "35"
@@ -4221,8 +4221,8 @@
       "unique": "ENVR 151/A",
       "course_name": "Intro to Sources",
       "credits": "3.00",
-      "classroom": "SBLOCKS424",
-      "schedule_raw": "M W F | 09:00 - 09:50",
+      "classroom": "SBLOCKS417",
+      "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Akram",
       "capacity": "35",
       "available": "35"
@@ -4258,7 +4258,7 @@
       "course_name": "Environmental Manage",
       "credits": "3.00",
       "classroom": "SBLOCKS417",
-      "schedule_raw": "T R | 11:00 - 12:15",
+      "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Machado",
       "capacity": "35",
       "available": "35"
@@ -4305,8 +4305,8 @@
       "unique": "ENVR 260/A",
       "course_name": "Public Health and Environment",
       "credits": "3.00",
-      "classroom": "SBLOCKS417",
-      "schedule_raw": "M W F | 10:00 - 10:50",
+      "classroom": "SBLOCKS424",
+      "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
       "available": "35"
@@ -4354,7 +4354,7 @@
       "course_name": "Occu Health & Safety",
       "credits": "3.00",
       "classroom": "SBLOCKS417",
-      "schedule_raw": "T R | 09:30 - 10:45",
+      "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Machado",
       "capacity": "35",
       "available": "35"

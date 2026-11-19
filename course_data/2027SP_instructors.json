@@ -4093,8 +4093,8 @@
         "course_code": "ENVR 260",
         "section": "A",
         "course_name": "Public Health and Environment",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "SBLOCKS417",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS424",
         "unique": "ENVR 260/A"
       },
       {
@@ -4141,7 +4141,7 @@
         "course_code": "ENVR 101",
         "section": "B",
         "course_name": "*Intro Env Sciences",
-        "schedule": "M   F | 14:00 - 14:50 | W | 14:00 - 15:50",
+        "schedule": "M W | 14:00 - 14:50 | R | 14:00 - 15:50",
         "classroom": "SBLOCKS424 | SBLOCKS039",
         "unique": "ENVR 101/B"
       },
@@ -4178,8 +4178,8 @@
         "course_code": "ENVR 151",
         "section": "A",
         "course_name": "Intro to Sources",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "SBLOCKS424",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "SBLOCKS417",
         "unique": "ENVR 151/A"
       },
       {
@@ -4234,7 +4234,7 @@
         "course_code": "ENVR 250",
         "section": "A",
         "course_name": "Environmental Manage",
-        "schedule": "T R | 11:00 - 12:15",
+        "schedule": "T R | 09:30 - 10:45",
         "classroom": "SBLOCKS417",
         "unique": "ENVR 250/A"
       },
@@ -4242,7 +4242,7 @@
         "course_code": "ENVR 403",
         "section": "A",
         "course_name": "Occu Health & Safety",
-        "schedule": "T R | 09:30 - 10:45",
+        "schedule": "T R | 11:00 - 12:15",
         "classroom": "SBLOCKS417",
         "unique": "ENVR 403/A"
       },
