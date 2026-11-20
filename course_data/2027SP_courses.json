@@ -1,7 +1,7 @@
 {
   "term_code": "2027SP",
   "term_name": "2027 Spring",
-  "total_courses": 902,
+  "total_courses": 903,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -2224,6 +2224,18 @@
       "available": "25"
     },
     {
+      "course_code": "CSCS 201",
+      "section": "A",
+      "unique": "CSCS 201/A",
+      "course_name": "Multivariate Calculu",
+      "credits": "3.00",
+      "classroom": "SBLOCKS412",
+      "schedule_raw": "M W F | 09:00 - 09:50",
+      "instructor": "F Jamil",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
       "course_code": "CSCS 202",
       "section": "A",
       "unique": "CSCS 202/A",
@@ -2232,18 +2244,6 @@
       "classroom": "SBLOCKS413",
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Ibraheem",
-      "capacity": "35",
-      "available": "35"
-    },
-    {
-      "course_code": "CSCS 202",
-      "section": "B",
-      "unique": "CSCS 202/B",
-      "course_name": "Comp Linear Algeb",
-      "credits": "3.00",
-      "classroom": "SBLOCKS316",
-      "schedule_raw": "M W F | 09:00 - 09:50",
-      "instructor": "F Janjua",
       "capacity": "35",
       "available": "35"
     },
@@ -2265,20 +2265,8 @@
       "unique": "CSCS 203/A",
       "course_name": "Differential Equatio",
       "credits": "3.00",
-      "classroom": "SBLOCKS413",
-      "schedule_raw": "M W F | 16:00 - 16:50",
-      "instructor": "W Hussain",
-      "capacity": "35",
-      "available": "35"
-    },
-    {
-      "course_code": "CSCS 203",
-      "section": "B",
-      "unique": "CSCS 203/B",
-      "course_name": "Diffential Equation",
-      "credits": "3.00",
-      "classroom": "SBLOCKS413",
-      "schedule_raw": "M W F | 15:00 - 15:50",
+      "classroom": "SBLOCKS316",
+      "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "W Hussain",
       "capacity": "35",
       "available": "35"
@@ -2325,8 +2313,8 @@
       "unique": "CSCS 320/A",
       "course_name": "Numerical Computing",
       "credits": "3.00",
-      "classroom": "SBLOCKS215",
-      "schedule_raw": "M W F | 14:00 - 14:50",
+      "classroom": "SBLOCKS412",
+      "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Shahid",
       "capacity": "35",
       "available": "35"
@@ -6405,21 +6393,9 @@
       "unique": "MATH 102/C",
       "course_name": "Calculus 1",
       "credits": "3.00",
-      "classroom": "SBLOCKS412",
-      "schedule_raw": "T R | 08:00 - 09:15",
+      "classroom": "SBLOCKS312",
+      "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Ibraheem",
-      "capacity": "30",
-      "available": "30"
-    },
-    {
-      "course_code": "MATH 103",
-      "section": "A",
-      "unique": "MATH 103/A",
-      "course_name": "Intro. Lin. Algebra",
-      "credits": "3.00",
-      "classroom": "SBLOCKS412",
-      "schedule_raw": "T R | 11:00 - 12:15",
-      "instructor": "N Shahid",
       "capacity": "35",
       "available": "35"
     },
@@ -6533,6 +6509,18 @@
     },
     {
       "course_code": "MATH 108",
+      "section": "A",
+      "unique": "MATH 108/A",
+      "course_name": "QR-I (Basic)",
+      "credits": "3.00",
+      "classroom": "SBLOCKS316",
+      "schedule_raw": "M W F | 09:00 - 09:50",
+      "instructor": "S Iqbal",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "MATH 108",
       "section": "B",
       "unique": "MATH 108/B",
       "course_name": "QR-I (Basic)",
@@ -6550,7 +6538,7 @@
       "course_name": "QR-I (Basic)",
       "credits": "3.00",
       "classroom": "SBLOCKS412",
-      "schedule_raw": "M W F | 11:00 - 11:50",
+      "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Iqbal",
       "capacity": "35",
       "available": "35"
@@ -6629,18 +6617,6 @@
     },
     {
       "course_code": "MATH 111",
-      "section": "B",
-      "unique": "MATH 111/B",
-      "course_name": "Calc & Analy Geom",
-      "credits": "3.00",
-      "classroom": "SBLOCKS316",
-      "schedule_raw": "T R | 09:30 - 10:45",
-      "instructor": "F Janjua",
-      "capacity": "35",
-      "available": "35"
-    },
-    {
-      "course_code": "MATH 111",
       "section": "C",
       "unique": "MATH 111/C",
       "course_name": "Calc & Analy Geom",
@@ -6652,14 +6628,50 @@
       "available": "35"
     },
     {
-      "course_code": "MATH 111",
-      "section": "D",
-      "unique": "MATH 111/D",
-      "course_name": "Calc & Analy Geom",
+      "course_code": "MATH 112",
+      "section": "A",
+      "unique": "MATH 112/A",
+      "course_name": "QR-II  (Basic)",
+      "credits": "3.00",
+      "classroom": "SBLOCKS413",
+      "schedule_raw": "T R | 14:00 - 15:15",
+      "instructor": "K Azhar",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "MATH 112",
+      "section": "B",
+      "unique": "MATH 112/B",
+      "course_name": "QR-II  (Basic)",
       "credits": "3.00",
       "classroom": "SBLOCKS410",
       "schedule_raw": "M W F | 10:00 - 10:50",
-      "instructor": "S Malik",
+      "instructor": "K Azhar",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "MATH 113",
+      "section": "B",
+      "unique": "MATH 113/B",
+      "course_name": "Quantitative Reasoning II(Advanced)",
+      "credits": "3.00",
+      "classroom": "SBLOCKS215",
+      "schedule_raw": "M W F | 14:00 - 14:50",
+      "instructor": "A  Nadeem",
+      "capacity": "35",
+      "available": "35"
+    },
+    {
+      "course_code": "MATH 113",
+      "section": "C",
+      "unique": "MATH 113/C",
+      "course_name": "Quantitative Reasoning II(Advanced)",
+      "credits": "3.00",
+      "classroom": "SBLOCKS413",
+      "schedule_raw": "M W F | 15:00 - 15:50",
+      "instructor": "A Tayyab",
       "capacity": "35",
       "available": "35"
     },
@@ -6729,8 +6741,8 @@
       "unique": "MATH 304/A",
       "course_name": "Operations Research",
       "credits": "3.00",
-      "classroom": "SBLOCKS413",
-      "schedule_raw": "T R | 14:00 - 15:15",
+      "classroom": "SBLOCKS412",
+      "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "K Azhar",
       "capacity": "20",
       "available": "20"
@@ -10065,9 +10077,9 @@
       "unique": "STAT 313/A",
       "course_name": "Operation Research",
       "credits": "3.00",
-      "classroom": "SBLOCKS413",
-      "schedule_raw": "T R | 14:00 - 15:15",
-      "instructor": "K Azhar",
+      "classroom": "SBLOCKS412",
+      "schedule_raw": "T R | 11:00 - 12:15",
+      "instructor": "N Shahid",
       "capacity": "15",
       "available": "15"
     },

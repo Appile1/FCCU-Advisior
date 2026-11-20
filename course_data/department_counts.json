@@ -1,5 +1,5 @@
 {
-  "total_courses": 902,
+  "total_courses": 903,
   "departments": {
     "ACCT": 0,
     "ART": 0,
@@ -24,7 +24,7 @@
     "COMM": 0,
     "CMGE": 0,
     "COMP": 46,
-    "CSCS": 37,
+    "CSCS": 36,
     "CPP": 0,
     "CRIM": 4,
     "CSDS": 0,
@@ -53,7 +53,7 @@
     "KORN": 3,
     "LING": 11,
     "MCOM": 37,
-    "MATH": 38,
+    "MATH": 40,
     "MPGN": 4,
     "MUS": 0,
     "MUSC": 2,

@@ -2502,16 +2502,7 @@
     "departments": [
       "CSCS"
     ],
-    "current_courses": [
-      {
-        "course_code": "CSCS 202",
-        "section": "B",
-        "course_name": "Comp Linear Algeb",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "SBLOCKS316",
-        "unique": "CSCS 202/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "CSCS 202"
     ]
@@ -2545,17 +2536,9 @@
         "course_code": "CSCS 203",
         "section": "A",
         "course_name": "Differential Equatio",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "SBLOCKS413",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS316",
         "unique": "CSCS 203/A"
-      },
-      {
-        "course_code": "CSCS 203",
-        "section": "B",
-        "course_name": "Diffential Equation",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "SBLOCKS413",
-        "unique": "CSCS 203/B"
       }
     ],
     "all_courses": [
@@ -2591,8 +2574,8 @@
         "course_code": "CSCS 320",
         "section": "A",
         "course_name": "Numerical Computing",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "SBLOCKS215",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS412",
         "unique": "CSCS 320/A"
       }
     ],
@@ -5916,9 +5899,17 @@
       },
       {
         "course_code": "MATH 108",
+        "section": "A",
+        "course_name": "QR-I (Basic)",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS316",
+        "unique": "MATH 108/A"
+      },
+      {
+        "course_code": "MATH 108",
         "section": "C",
         "course_name": "QR-I (Basic)",
-        "schedule": "M W F | 11:00 - 11:50",
+        "schedule": "T R | 08:00 - 09:15",
         "classroom": "SBLOCKS412",
         "unique": "MATH 108/C"
       }
@@ -5979,14 +5970,6 @@
         "unique": "MATH 111/A"
       },
       {
-        "course_code": "MATH 111",
-        "section": "D",
-        "course_name": "Calc & Analy Geom",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "SBLOCKS410",
-        "unique": "MATH 111/D"
-      },
-      {
         "course_code": "MATH 301",
         "section": "A",
         "course_name": "Multivariable Calcul",
@@ -6016,14 +5999,6 @@
         "unique": "MATH 102/B"
       },
       {
-        "course_code": "MATH 103",
-        "section": "A",
-        "course_name": "Intro. Lin. Algebra",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS412",
-        "unique": "MATH 103/A"
-      },
-      {
         "course_code": "MATH 108",
         "section": "D",
         "course_name": "QR-I (Basic)",
@@ -6048,8 +6023,8 @@
         "course_code": "MATH 102",
         "section": "C",
         "course_name": "Calculus 1",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "SBLOCKS412",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS312",
         "unique": "MATH 102/C"
       },
       {
@@ -6087,11 +6062,20 @@
         "schedule": "T R | 11:00 - 12:15",
         "classroom": "SBLOCKS410",
         "unique": "MATH 109/B"
+      },
+      {
+        "course_code": "MATH 113",
+        "section": "B",
+        "course_name": "Quantitative Reasoning II(Advanced)",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS215",
+        "unique": "MATH 113/B"
       }
     ],
     "all_courses": [
       "MATH 103",
-      "MATH 109"
+      "MATH 109",
+      "MATH 113"
     ]
   },
   {
@@ -6136,14 +6120,6 @@
         "schedule": "M W F | 08:00 - 08:50",
         "classroom": "SBLOCKS412",
         "unique": "MATH 108/B"
-      },
-      {
-        "course_code": "MATH 111",
-        "section": "B",
-        "course_name": "Calc & Analy Geom",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS316",
-        "unique": "MATH 111/B"
       }
     ],
     "all_courses": [
@@ -6270,15 +6246,32 @@
     ],
     "current_courses": [
       {
+        "course_code": "MATH 112",
+        "section": "A",
+        "course_name": "QR-II  (Basic)",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS413",
+        "unique": "MATH 112/A"
+      },
+      {
+        "course_code": "MATH 112",
+        "section": "B",
+        "course_name": "QR-II  (Basic)",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "SBLOCKS410",
+        "unique": "MATH 112/B"
+      },
+      {
         "course_code": "MATH 304",
         "section": "A",
         "course_name": "Operations Research",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS413",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS412",
         "unique": "MATH 304/A"
       }
     ],
     "all_courses": [
+      "MATH 112",
       "MATH 304"
     ]
   },
@@ -8891,16 +8884,7 @@
     "departments": [
       "STAT"
     ],
-    "current_courses": [
-      {
-        "course_code": "STAT 313",
-        "section": "A",
-        "course_name": "Operation Research",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "SBLOCKS413",
-        "unique": "STAT 313/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "STAT 313"
     ]
@@ -11641,6 +11625,63 @@
     ],
     "all_courses": [
       "LING 499"
+    ]
+  },
+  {
+    "name": "F Jamil",
+    "departments": [
+      "CSCS"
+    ],
+    "current_courses": [
+      {
+        "course_code": "CSCS 201",
+        "section": "A",
+        "course_name": "Multivariate Calculu",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS412",
+        "unique": "CSCS 201/A"
+      }
+    ],
+    "all_courses": [
+      "CSCS 201"
+    ]
+  },
+  {
+    "name": "A Tayyab",
+    "departments": [
+      "MATH"
+    ],
+    "current_courses": [
+      {
+        "course_code": "MATH 113",
+        "section": "C",
+        "course_name": "Quantitative Reasoning II(Advanced)",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "SBLOCKS413",
+        "unique": "MATH 113/C"
+      }
+    ],
+    "all_courses": [
+      "MATH 113"
+    ]
+  },
+  {
+    "name": "N Shahid",
+    "departments": [
+      "STAT"
+    ],
+    "current_courses": [
+      {
+        "course_code": "STAT 313",
+        "section": "A",
+        "course_name": "Operation Research",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS412",
+        "unique": "STAT 313/A"
+      }
+    ],
+    "all_courses": [
+      "STAT 313"
     ]
   }
 ]
