@@ -10073,6 +10073,22 @@
     ],
     "current_courses": [
       {
+        "course_code": "ENGL 106",
+        "section": "I",
+        "course_name": "Functional English",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS112",
+        "unique": "ENGL 106/I"
+      },
+      {
+        "course_code": "ENGL 106",
+        "section": "J",
+        "course_name": "Functional English",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "SBLOCKS111",
+        "unique": "ENGL 106/J"
+      },
+      {
         "course_code": "ENGL 175",
         "section": "A",
         "course_name": "Crit. Think.&Reading",
@@ -10082,6 +10098,7 @@
       }
     ],
     "all_courses": [
+      "ENGL 106",
       "ENGL 175"
     ]
   },
@@ -10092,6 +10109,22 @@
     ],
     "current_courses": [
       {
+        "course_code": "ENGL 106",
+        "section": "B",
+        "course_name": "Functional English",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS008",
+        "unique": "ENGL 106/B"
+      },
+      {
+        "course_code": "ENGL 106",
+        "section": "E",
+        "course_name": "Functional English",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS007",
+        "unique": "ENGL 106/E"
+      },
+      {
         "course_code": "ENGL 175",
         "section": "B",
         "course_name": "Crit. Think.&Reading",
@@ -10101,6 +10134,7 @@
       }
     ],
     "all_courses": [
+      "ENGL 106",
       "ENGL 175"
     ]
   },
@@ -10195,6 +10229,38 @@
     ],
     "current_courses": [
       {
+        "course_code": "ENGL 106",
+        "section": "D",
+        "course_name": "Functional English",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS109",
+        "unique": "ENGL 106/D"
+      },
+      {
+        "course_code": "ENGL 106",
+        "section": "G",
+        "course_name": "Functional English",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE227",
+        "unique": "ENGL 106/G"
+      },
+      {
+        "course_code": "ENGL 106",
+        "section": "H",
+        "course_name": "Functional English",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS111",
+        "unique": "ENGL 106/H"
+      },
+      {
+        "course_code": "ENGL 106",
+        "section": "N",
+        "course_name": "Functional English",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS115",
+        "unique": "ENGL 106/N"
+      },
+      {
         "course_code": "ENGL 310",
         "section": "A",
         "course_name": "British Romantic Poe",
@@ -10220,6 +10286,7 @@
       }
     ],
     "all_courses": [
+      "ENGL 106",
       "ENGL 310",
       "ENGL 400",
       "ENGL 403"
@@ -12114,6 +12181,60 @@
     ],
     "all_courses": [
       "MATH 095"
+    ]
+  },
+  {
+    "name": "F Aftab",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 106",
+        "section": "A",
+        "course_name": "Functional English",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS007",
+        "unique": "ENGL 106/A"
+      },
+      {
+        "course_code": "ENGL 106",
+        "section": "C",
+        "course_name": "Functional English",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE041",
+        "unique": "ENGL 106/C"
+      }
+    ],
+    "all_courses": [
+      "ENGL 106"
+    ]
+  },
+  {
+    "name": "R John",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 106",
+        "section": "K",
+        "course_name": "Functional English",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS112",
+        "unique": "ENGL 106/K"
+      },
+      {
+        "course_code": "ENGL 106",
+        "section": "M",
+        "course_name": "Functional English",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS115",
+        "unique": "ENGL 106/M"
+      }
+    ],
+    "all_courses": [
+      "ENGL 106"
     ]
   }
 ]
