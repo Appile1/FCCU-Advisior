@@ -10054,6 +10054,22 @@
     ],
     "current_courses": [
       {
+        "course_code": "ENGL 108",
+        "section": "E",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS008",
+        "unique": "ENGL 108/E"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "G",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "SBLOCKS119",
+        "unique": "ENGL 108/G"
+      },
+      {
         "course_code": "ENGL 110",
         "section": "A",
         "course_name": "Contemp Short Story",
@@ -10063,6 +10079,7 @@
       }
     ],
     "all_courses": [
+      "ENGL 108",
       "ENGL 110"
     ]
   },
@@ -10072,22 +10089,6 @@
       "ENGL"
     ],
     "current_courses": [
-      {
-        "course_code": "ENGL 106",
-        "section": "I",
-        "course_name": "Functional English",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "SBLOCKS112",
-        "unique": "ENGL 106/I"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "J",
-        "course_name": "Functional English",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "SBLOCKS111",
-        "unique": "ENGL 106/J"
-      },
       {
         "course_code": "ENGL 175",
         "section": "A",
@@ -10109,22 +10110,6 @@
     ],
     "current_courses": [
       {
-        "course_code": "ENGL 106",
-        "section": "B",
-        "course_name": "Functional English",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "SBLOCKS008",
-        "unique": "ENGL 106/B"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "E",
-        "course_name": "Functional English",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "SBLOCKS007",
-        "unique": "ENGL 106/E"
-      },
-      {
         "course_code": "ENGL 175",
         "section": "B",
         "course_name": "Crit. Think.&Reading",
@@ -10145,6 +10130,22 @@
     ],
     "current_courses": [
       {
+        "course_code": "ENGL 108",
+        "section": "I",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "SBLOCKS115",
+        "unique": "ENGL 108/I"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "NN",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE241",
+        "unique": "ENGL 108/NN"
+      },
+      {
         "course_code": "ENGL 201",
         "section": "A",
         "course_name": "Intro to English lit",
@@ -10154,6 +10155,7 @@
       }
     ],
     "all_courses": [
+      "ENGL 108",
       "ENGL 201"
     ]
   },
@@ -10229,36 +10231,84 @@
     ],
     "current_courses": [
       {
-        "course_code": "ENGL 106",
-        "section": "D",
-        "course_name": "Functional English",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "SBLOCKS109",
-        "unique": "ENGL 106/D"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "G",
-        "course_name": "Functional English",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE227",
-        "unique": "ENGL 106/G"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "H",
-        "course_name": "Functional English",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "SBLOCKS111",
-        "unique": "ENGL 106/H"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "N",
-        "course_name": "Functional English",
-        "schedule": "T R | 09:30 - 10:45",
+        "course_code": "ENGL 108",
+        "section": "BC",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 14:00 - 15:15",
         "classroom": "SBLOCKS115",
-        "unique": "ENGL 106/N"
+        "unique": "ENGL 108/BC"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "H",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS317",
+        "unique": "ENGL 108/H"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "O",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS119",
+        "unique": "ENGL 108/O"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "P",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS417",
+        "unique": "ENGL 108/P"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "RR",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS425",
+        "unique": "ENGL 108/RR"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "SS",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE126",
+        "unique": "ENGL 108/SS"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "TT",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "SBLOCKS111",
+        "unique": "ENGL 108/TT"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "U",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS119",
+        "unique": "ENGL 108/U"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "UU",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "SBLOCKS007",
+        "unique": "ENGL 108/UU"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "V",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE103",
+        "unique": "ENGL 108/V"
       },
       {
         "course_code": "ENGL 310",
@@ -10287,6 +10337,7 @@
     ],
     "all_courses": [
       "ENGL 106",
+      "ENGL 108",
       "ENGL 310",
       "ENGL 400",
       "ENGL 403"
@@ -10327,6 +10378,22 @@
     ],
     "current_courses": [
       {
+        "course_code": "ENGL 108",
+        "section": "Q",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS425",
+        "unique": "ENGL 108/Q"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "QQ",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS119",
+        "unique": "ENGL 108/QQ"
+      },
+      {
         "course_code": "ENGL 317",
         "section": "A",
         "course_name": "Existential Phi.&Lit",
@@ -10336,6 +10403,7 @@
       }
     ],
     "all_courses": [
+      "ENGL 108",
       "ENGL 317"
     ]
   },
@@ -10374,6 +10442,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "ENGL 108",
+        "section": "BB",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS112",
+        "unique": "ENGL 108/BB"
+      },
+      {
         "course_code": "ENGL 331",
         "section": "A",
         "course_name": "Research Methods",
@@ -10383,6 +10459,7 @@
       }
     ],
     "all_courses": [
+      "ENGL 108",
       "ENGL 331"
     ]
   },
@@ -10393,6 +10470,22 @@
     ],
     "current_courses": [
       {
+        "course_code": "ENGL 108",
+        "section": "A",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS119",
+        "unique": "ENGL 108/A"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "M",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS119",
+        "unique": "ENGL 108/M"
+      },
+      {
         "course_code": "ENGL 350",
         "section": "A",
         "course_name": "Adv. Creative Writin",
@@ -10402,6 +10495,7 @@
       }
     ],
     "all_courses": [
+      "ENGL 108",
       "ENGL 350"
     ]
   },
@@ -10412,6 +10506,22 @@
     ],
     "current_courses": [
       {
+        "course_code": "ENGL 108",
+        "section": "PP",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS008",
+        "unique": "ENGL 108/PP"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "Y",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS425",
+        "unique": "ENGL 108/Y"
+      },
+      {
         "course_code": "ENGL 406",
         "section": "A",
         "course_name": "Literature, Gender,",
@@ -10421,6 +10531,7 @@
       }
     ],
     "all_courses": [
+      "ENGL 108",
       "ENGL 406"
     ]
   },
@@ -12188,24 +12299,7 @@
     "departments": [
       "ENGL"
     ],
-    "current_courses": [
-      {
-        "course_code": "ENGL 106",
-        "section": "A",
-        "course_name": "Functional English",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "SBLOCKS007",
-        "unique": "ENGL 106/A"
-      },
-      {
-        "course_code": "ENGL 106",
-        "section": "C",
-        "course_name": "Functional English",
-        "schedule": "M W F | 08:00 - 08:50",
-        "classroom": "EBLOCKE041",
-        "unique": "ENGL 106/C"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "ENGL 106"
     ]
@@ -12215,26 +12309,252 @@
     "departments": [
       "ENGL"
     ],
+    "current_courses": [],
+    "all_courses": [
+      "ENGL 106"
+    ]
+  },
+  {
+    "name": "F Saeed",
+    "departments": [
+      "ENGL"
+    ],
     "current_courses": [
       {
-        "course_code": "ENGL 106",
-        "section": "K",
-        "course_name": "Functional English",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS112",
-        "unique": "ENGL 106/K"
+        "course_code": "ENGL 108",
+        "section": "AA",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "EBLOCKE227",
+        "unique": "ENGL 108/AA"
       },
       {
-        "course_code": "ENGL 106",
-        "section": "M",
-        "course_name": "Functional English",
-        "schedule": "T R | 12:30 - 13:45",
+        "course_code": "ENGL 108",
+        "section": "AB",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 08:00 - 09:15",
         "classroom": "SBLOCKS115",
-        "unique": "ENGL 106/M"
+        "unique": "ENGL 108/AB"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "B",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS416",
+        "unique": "ENGL 108/B"
       }
     ],
     "all_courses": [
-      "ENGL 106"
+      "ENGL 108"
+    ]
+  },
+  {
+    "name": "A Fareed",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 108",
+        "section": "AC",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS115",
+        "unique": "ENGL 108/AC"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "C",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS416",
+        "unique": "ENGL 108/C"
+      }
+    ],
+    "all_courses": [
+      "ENGL 108"
+    ]
+  },
+  {
+    "name": "M Zia",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 108",
+        "section": "AD",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS109",
+        "unique": "ENGL 108/AD"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "D",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "SBLOCKS008",
+        "unique": "ENGL 108/D"
+      }
+    ],
+    "all_courses": [
+      "ENGL 108"
+    ]
+  },
+  {
+    "name": "A Wasim",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 108",
+        "section": "II",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS111",
+        "unique": "ENGL 108/II"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "J",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS116",
+        "unique": "ENGL 108/J"
+      }
+    ],
+    "all_courses": [
+      "ENGL 108"
+    ]
+  },
+  {
+    "name": "A  Khalid",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 108",
+        "section": "JJ",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "SBLOCKS116",
+        "unique": "ENGL 108/JJ"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "K",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "SBLOCKS111",
+        "unique": "ENGL 108/K"
+      }
+    ],
+    "all_courses": [
+      "ENGL 108"
+    ]
+  },
+  {
+    "name": "A  Javed",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 108",
+        "section": "KK",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE102",
+        "unique": "ENGL 108/KK"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "W",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "SBLOCKS413",
+        "unique": "ENGL 108/W"
+      }
+    ],
+    "all_courses": [
+      "ENGL 108"
+    ]
+  },
+  {
+    "name": "N Justin",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 108",
+        "section": "MM",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "SBLOCKS416",
+        "unique": "ENGL 108/MM"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "N",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "SBLOCKS116",
+        "unique": "ENGL 108/N"
+      }
+    ],
+    "all_courses": [
+      "ENGL 108"
+    ]
+  },
+  {
+    "name": "A Alphonce",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 108",
+        "section": "R",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS008",
+        "unique": "ENGL 108/R"
+      }
+    ],
+    "all_courses": [
+      "ENGL 108"
+    ]
+  },
+  {
+    "name": "S Pervez",
+    "departments": [
+      "ENGL"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENGL 108",
+        "section": "S",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE102",
+        "unique": "ENGL 108/S"
+      },
+      {
+        "course_code": "ENGL 108",
+        "section": "T",
+        "course_name": "Expository Writing",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS008",
+        "unique": "ENGL 108/T"
+      }
+    ],
+    "all_courses": [
+      "ENGL 108"
     ]
   }
 ]
