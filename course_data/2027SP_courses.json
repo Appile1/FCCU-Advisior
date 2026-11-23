@@ -169,7 +169,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Butt",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "BIOL 415",
@@ -1741,7 +1741,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "B Usman",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 498",
@@ -1813,7 +1813,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "Q Zafar",
       "capacity": "30",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "BUSN 498",
@@ -3481,7 +3481,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Toor",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "CSCS 100",
