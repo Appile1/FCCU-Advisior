@@ -1429,7 +1429,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "T Alvi",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "BUSN 382",
@@ -1597,7 +1597,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "BUSN 484",
@@ -4861,7 +4861,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "EDUC 120",
@@ -6937,7 +6937,7 @@
       "schedule_raw": "M W | 16:00 - 16:50",
       "instructor": "S Khaliq",
       "capacity": "35",
-      "available": "28"
+      "available": "29"
     },
     {
       "course_code": "HPED 111",
