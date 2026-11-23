@@ -7726,11 +7726,20 @@
         "schedule": "T R | 09:30 - 10:45",
         "classroom": "EBLOCKE244",
         "unique": "PSYC 285/A"
+      },
+      {
+        "course_code": "PSYC 755",
+        "section": "A",
+        "course_name": "Advanced Qualitative Analysis",
+        "schedule": "M W | 15:30 - 17:00",
+        "classroom": "EBLOCKE228",
+        "unique": "PSYC 755/A"
       }
     ],
     "all_courses": [
       "PSYC 275",
-      "PSYC 285"
+      "PSYC 285",
+      "PSYC 755"
     ]
   },
   {
@@ -8007,10 +8016,28 @@
         "schedule": "MTWRF",
         "classroom": "TBDTBD",
         "unique": "PSYC 699A/A"
+      },
+      {
+        "course_code": "PSYC 760",
+        "section": "A",
+        "course_name": "Theoretical and Cultural Conceptual",
+        "schedule": "T R | 14:00 - 15:30",
+        "classroom": "EBLOCKE228",
+        "unique": "PSYC 760/A"
+      },
+      {
+        "course_code": "PSYC 770",
+        "section": "A",
+        "course_name": "Developing Research Synopsis",
+        "schedule": "T R | 15:30 - 17:00",
+        "classroom": "EBLOCKE228",
+        "unique": "PSYC 770/A"
       }
     ],
     "all_courses": [
-      "PSYC 699A"
+      "PSYC 699A",
+      "PSYC 760",
+      "PSYC 770"
     ]
   },
   {
@@ -12587,6 +12614,25 @@
     ],
     "all_courses": [
       "KORN 101"
+    ]
+  },
+  {
+    "name": "ESchwaiger",
+    "departments": [
+      "PSYC"
+    ],
+    "current_courses": [
+      {
+        "course_code": "PSYC 751",
+        "section": "A",
+        "course_name": "Legal and Ethical Issues",
+        "schedule": "M W | 14:00 - 15:30",
+        "classroom": "EBLOCKE228",
+        "unique": "PSYC 751/A"
+      }
+    ],
+    "all_courses": [
+      "PSYC 751"
     ]
   }
 ]

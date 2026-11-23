@@ -3470,5 +3470,37 @@
     "section": "B",
     "instructor": "A Sarwar",
     "timestamp": "2026-11-23T06:45:41.727987+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 751 (A):  → ESchwaiger",
+    "course_code": "PSYC 751",
+    "section": "A",
+    "instructor": "ESchwaiger",
+    "timestamp": "2026-11-23T09:45:37.742875+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 755 (A):  → I Batool",
+    "course_code": "PSYC 755",
+    "section": "A",
+    "instructor": "I Batool",
+    "timestamp": "2026-11-23T09:45:37.742901+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 760 (A):  → TBD",
+    "course_code": "PSYC 760",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-11-23T09:45:37.742903+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PSYC 770 (A):  → TBD",
+    "course_code": "PSYC 770",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-11-23T09:45:37.742905+00:00"
   }
 ]
