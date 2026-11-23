@@ -6133,7 +6133,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "FREN 310",
@@ -7297,7 +7297,7 @@
       "schedule_raw": "M W | 10:00 - 10:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "ISLM 101",
@@ -8077,7 +8077,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "MCOM 101",
@@ -8125,7 +8125,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "MCOM 200",
@@ -8389,7 +8389,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "MCOM 512",
