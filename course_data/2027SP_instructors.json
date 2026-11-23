@@ -1545,7 +1545,7 @@
       {
         "course_code": "COMP 311",
         "section": "B",
-        "course_name": "comp",
+        "course_name": "Computer Networks",
         "schedule": "T R | 12:00 - 13:50",
         "classroom": "SBLOCKS120",
         "unique": "COMP 311/B"
@@ -6541,7 +6541,7 @@
         "section": "A",
         "course_name": "*Wave and Vibrations",
         "schedule": "M | 14:00 - 15:50 | T R | 09:30 - 10:45",
-        "classroom": "SBLOCKS039 | SBLOCKS016A",
+        "classroom": "SBLOCKS029 | SBLOCKS016A",
         "unique": "PHYS 104/A"
       },
       {
