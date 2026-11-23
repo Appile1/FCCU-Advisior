@@ -2173,7 +2173,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
       "instructor": "S Azeem",
       "capacity": "10",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "CHEM 320",
@@ -4957,7 +4957,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "J Hassan",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "EDUC 355",
@@ -6589,7 +6589,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Iqbal",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "GEOG 326",
