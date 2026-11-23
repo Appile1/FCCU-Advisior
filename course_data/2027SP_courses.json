@@ -2869,7 +2869,7 @@
       "schedule_raw": "F | 12:00 - 12:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "12"
+      "available": "8"
     },
     {
       "course_code": "COMP 401",
@@ -2989,7 +2989,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "78"
+      "available": "77"
     },
     {
       "course_code": "CPPG 101",
@@ -5617,7 +5617,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "ENGL 301",
@@ -8077,7 +8077,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "MCOM 101",
