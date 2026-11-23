@@ -3469,7 +3469,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "CSCS 100",
@@ -3517,7 +3517,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "CSCS 101",
@@ -3949,7 +3949,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Mughal",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "DATA 202",
@@ -6961,7 +6961,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "S Khaliq",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "HPED 150",
