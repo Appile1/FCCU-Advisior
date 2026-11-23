@@ -1345,7 +1345,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Ahmed",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "BUSN 370",
@@ -2989,7 +2989,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "77"
+      "available": "76"
     },
     {
       "course_code": "CPPG 101",
@@ -5833,7 +5833,7 @@
       "schedule_raw": "M W | 10:00 - 10:50 | M | 14:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "ENVR 101",
@@ -6673,7 +6673,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Haider",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "HIST 104",
@@ -8089,7 +8089,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MCOM 105",
@@ -8317,7 +8317,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Amir",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "MCOM 414",
