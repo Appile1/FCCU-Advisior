@@ -2208,7 +2208,16 @@
     "departments": [
       "CSCS"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "CSCS 101",
+        "section": "B",
+        "course_name": "Adv. Appl of ICT",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS219",
+        "unique": "CSCS 101/B"
+      }
+    ],
     "all_courses": [
       "CSCS 101"
     ]
@@ -2218,7 +2227,16 @@
     "departments": [
       "CSCS"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "CSCS 101",
+        "section": "A",
+        "course_name": "Adv. Appl of ICT",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS218",
+        "unique": "CSCS 101/A"
+      }
+    ],
     "all_courses": [
       "CSCS 101"
     ]
@@ -9460,7 +9478,7 @@
         "course_code": "URDU 507",
         "section": "A",
         "course_name": "Art of Creative Writ",
-        "schedule": "W | 16:00 - 19:00",
+        "schedule": "W | 17:00 - 20:00",
         "classroom": "EBLOCKE102",
         "unique": "URDU 507/A"
       }
@@ -9571,7 +9589,7 @@
         "course_code": "URDU 506",
         "section": "A",
         "course_name": "Research Seminar",
-        "schedule": "T | 16:00 - 19:00",
+        "schedule": "T | 17:00 - 20:00",
         "classroom": "EBLOCKE102",
         "unique": "URDU 506/A"
       }
