@@ -7360,7 +7360,7 @@
         "section": "A",
         "course_name": "Cognitive Psychology",
         "schedule": "M | 08:00 - 09:50 | T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE242",
+        "classroom": "EBLOCKE241 | EBLOCKE242",
         "unique": "PSYC 354/A"
       }
     ],
@@ -8488,6 +8488,14 @@
       "STAT"
     ],
     "current_courses": [
+      {
+        "course_code": "STAT 100",
+        "section": "B",
+        "course_name": "Basic Statistics",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 100/B"
+      },
       {
         "course_code": "STAT 115",
         "section": "B",
