@@ -1585,7 +1585,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "U Javaid",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "BUSN 484",
@@ -1597,7 +1597,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "BUSN 484",
@@ -1633,7 +1633,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 490",
@@ -2425,7 +2425,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Z Kexin",
       "capacity": "5",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "CHIN 102",
@@ -3745,7 +3745,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Qureshi",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "CSCS 403",
@@ -5469,7 +5469,7 @@
       "unique": "ENGL 108/T",
       "course_name": "Expository Writing",
       "credits": "3.00",
-      "classroom": "SBLOCKS008",
+      "classroom": "EBLOCKE222",
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Pervez",
       "capacity": "25",
@@ -6481,7 +6481,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "K Shafiqu",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "GEOG 101",
@@ -6925,7 +6925,7 @@
       "schedule_raw": "M W | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "HPED 107",
@@ -6961,7 +6961,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "S Khaliq",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "HPED 150",
@@ -6985,7 +6985,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "HPED 151",
@@ -7477,7 +7477,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S K Sook",
       "capacity": "5",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "KORN 101",
@@ -8089,7 +8089,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "8"
+      "available": "5"
     },
     {
       "course_code": "MCOM 105",
@@ -8677,7 +8677,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
       "instructor": "H Latif",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "PHYS 104",
@@ -8785,7 +8785,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Zaheer",
       "capacity": "20",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "PHYS 483",
