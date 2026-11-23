@@ -1,5 +1,5 @@
 {
-  "total_courses": 934,
+  "total_courses": 939,
   "departments": {
     "ACCT": 0,
     "ART": 0,
@@ -39,7 +39,7 @@
     "ETH": 0,
     "FASA": 0,
     "FSQM": 27,
-    "FREN": 0,
+    "FREN": 1,
     "GEOG": 12,
     "GRMN": 1,
     "HPED": 12,
@@ -50,7 +50,7 @@
     "ISEP": 0,
     "ETHN": 0,
     "ISLM": 37,
-    "KORN": 0,
+    "KORN": 4,
     "LING": 11,
     "MCOM": 33,
     "MATH": 35,

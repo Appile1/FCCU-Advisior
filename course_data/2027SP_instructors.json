@@ -4445,8 +4445,8 @@
         "course_code": "GRMN 102",
         "section": "A",
         "course_name": "German II",
-        "schedule": "T R | 09:30 - 10:45",
-        "classroom": "EBLOCKE139",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE140",
         "unique": "GRMN 102/A"
       }
     ],
@@ -5222,7 +5222,24 @@
     "departments": [
       "KORN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "KORN 101",
+        "section": "A",
+        "course_name": "Korean I",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE244",
+        "unique": "KORN 101/A"
+      },
+      {
+        "course_code": "KORN 101",
+        "section": "B",
+        "course_name": "Korean I",
+        "schedule": "T R | 15:30 - 16:45",
+        "classroom": "EBLOCKE139",
+        "unique": "KORN 101/B"
+      }
+    ],
     "all_courses": [
       "KORN 101"
     ]
@@ -5232,7 +5249,16 @@
     "departments": [
       "KORN"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "KORN 102",
+        "section": "A",
+        "course_name": "Korean II",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "EBLOCKE139",
+        "unique": "KORN 102/A"
+      }
+    ],
     "all_courses": [
       "KORN 102"
     ]
@@ -5393,7 +5419,7 @@
         "course_code": "MATH 109",
         "section": "A",
         "course_name": "QR-I (Advanced)",
-        "schedule": "T R | 09:30 - 10:45",
+        "schedule": "T R | 12:30 - 13:45",
         "classroom": "SBLOCKS410",
         "unique": "MATH 109/A"
       },
@@ -12419,6 +12445,44 @@
     ],
     "all_courses": [
       "ENGL 108"
+    ]
+  },
+  {
+    "name": "S K Sook",
+    "departments": [
+      "FREN"
+    ],
+    "current_courses": [
+      {
+        "course_code": "FREN 310",
+        "section": "A",
+        "course_name": "French Culture and Civilization",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE139",
+        "unique": "FREN 310/A"
+      }
+    ],
+    "all_courses": [
+      "FREN 310"
+    ]
+  },
+  {
+    "name": "TBD",
+    "departments": [
+      "KORN"
+    ],
+    "current_courses": [
+      {
+        "course_code": "KORN 101",
+        "section": "C",
+        "course_name": "Korean I",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE139",
+        "unique": "KORN 101/C"
+      }
+    ],
+    "all_courses": [
+      "KORN 101"
     ]
   }
 ]
