@@ -1279,9 +1279,17 @@
         "course_code": "COMP 410",
         "section": "A",
         "course_name": "Parallel and Distrib",
-        "schedule": "M | 15:00 - 16:50 | F | 15:00 - 16:50",
-        "classroom": "SBLOCKS218 | SBLOCKS319",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "SBLOCKS216",
         "unique": "COMP 410/A"
+      },
+      {
+        "course_code": "COMP 410",
+        "section": "B",
+        "course_name": "Parallel and Distrib",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS317",
+        "unique": "COMP 410/B"
       }
     ],
     "all_courses": [
@@ -3731,7 +3739,7 @@
         "section": "A",
         "course_name": "Science Fiction",
         "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE227",
+        "classroom": "SBLOCKS116",
         "unique": "ENGL 303/A"
       },
       {
@@ -7136,7 +7144,7 @@
         "section": "A",
         "course_name": "Statistics",
         "schedule": "T R | 15:30 - 17:00",
-        "classroom": "EBLOCKE345",
+        "classroom": "EBLOCKE347",
         "unique": "PSYC 540/A"
       }
     ],
@@ -7352,7 +7360,7 @@
         "section": "A",
         "course_name": "Cognitive Psychology",
         "schedule": "M | 08:00 - 09:50 | T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE242 | EBLOCKE241",
+        "classroom": "EBLOCKE242",
         "unique": "PSYC 354/A"
       }
     ],
@@ -7871,7 +7879,7 @@
         "course_code": "PSYC 330",
         "section": "A",
         "course_name": "Environmental Psych.",
-        "schedule": "T R | 09:30 - 10:45",
+        "schedule": "T R | 12:30 - 13:45",
         "classroom": "EBLOCKE347",
         "unique": "PSYC 330/A"
       },
@@ -11023,7 +11031,7 @@
         "section": "A",
         "course_name": "Corporate Governance",
         "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE345",
+        "classroom": "EBLOCKE343",
         "unique": "BUSN 305/A"
       },
       {
