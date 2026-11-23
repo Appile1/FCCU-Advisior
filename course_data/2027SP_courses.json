@@ -1561,7 +1561,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Q Khan",
       "capacity": "30",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "BUSN 484",
@@ -1621,7 +1621,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "BUSN 490",
@@ -1633,7 +1633,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 490",
@@ -1645,7 +1645,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BUSN 490",
@@ -1657,7 +1657,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "BUSN 490",
@@ -1777,7 +1777,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "BUSN 498",
@@ -2413,7 +2413,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Z Kexin",
       "capacity": "5",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "CHIN 101",
@@ -2576,7 +2576,7 @@
       "section": "A",
       "unique": "COMP 206/A",
       "course_name": "Digital Logic Design",
-      "credits": "3.00",
+      "credits": "4.00",
       "classroom": "SBLOCKS215 | SBLOCKS027A",
       "schedule_raw": "T R | 14:00 - 15:15 | W | 08:00 - 10:50",
       "instructor": "I Iqbal",
@@ -2588,7 +2588,7 @@
       "section": "B",
       "unique": "COMP 206/B",
       "course_name": "Digital Logic Design",
-      "credits": "3.00",
+      "credits": "4.00",
       "classroom": "SBLOCKS027A | SBLOCKS215",
       "schedule_raw": "M | 08:00 - 10:50 | T R | 11:00 - 12:15",
       "instructor": "I Iqbal",
@@ -2600,7 +2600,7 @@
       "section": "D",
       "unique": "COMP 206/D",
       "course_name": "Digital Logic Design",
-      "credits": "3.00",
+      "credits": "4.00",
       "classroom": "SBLOCKS317 | SBLOCKS027A",
       "schedule_raw": "M W F | 08:00 - 08:50 | F | 09:00 - 11:50",
       "instructor": "TBD",
@@ -2989,7 +2989,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "CPPG 111",
@@ -3001,7 +3001,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "CPPG 121",
@@ -3217,7 +3217,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "CRST 151",
@@ -3469,7 +3469,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Toor",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "CSCS 100",
@@ -3613,7 +3613,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Toor",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "CSCS 320",
@@ -3709,7 +3709,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Qureshi",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "CSCS 403",
@@ -6613,7 +6613,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "H Mahmood",
       "capacity": "5",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 101",
@@ -6709,7 +6709,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "HIST 209",
@@ -7573,7 +7573,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Fareed",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "LING 495",
@@ -8053,7 +8053,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "MCOM 105",
@@ -8113,7 +8113,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "MCOM 201",
@@ -8485,7 +8485,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Shaggan",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "MUSC 250",
@@ -8509,7 +8509,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "PHIL 201",
@@ -8605,7 +8605,7 @@
       "schedule_raw": "T R | 11:00 - 11:50 | R | 09:00 - 10:50",
       "instructor": "S Shah",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "PHYS 101",
@@ -8929,7 +8929,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "PLSC 101",
@@ -9121,7 +9121,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "Q Memon",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "PLSC 304",
@@ -9169,7 +9169,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "PLSC 331",
@@ -9361,7 +9361,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "PSYC 100",
@@ -9829,7 +9829,7 @@
       "schedule_raw": "M | 08:00 - 09:50 | T R | 08:00 - 09:15",
       "instructor": "N Asif",
       "capacity": "30",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "PSYC 354",
@@ -9853,7 +9853,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | F | 15:00 - 16:50",
       "instructor": "U Rizwan",
       "capacity": "30",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "PSYC 360",
@@ -9865,7 +9865,7 @@
       "schedule_raw": "M | 15:00 - 16:50 | T R | 12:30 - 13:45",
       "instructor": "A Malik",
       "capacity": "30",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "PSYC 370",
@@ -9877,7 +9877,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Shahed",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "PSYC 375",
@@ -9985,7 +9985,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S Shahed",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "PSYC 440",
@@ -10537,7 +10537,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "J parra",
       "capacity": "5",
-      "available": "5"
+      "available": "2"
     },
     {
       "course_code": "SPAN 101",
@@ -10729,7 +10729,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "STAT 313",
@@ -10765,7 +10765,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "STAT 403",
@@ -10777,7 +10777,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Tayyab",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "STAT 406",
@@ -11290,7 +11290,7 @@
       "course_name": "Lit. of the Minor.",
       "credits": "3.00",
       "classroom": "EBLOCKE101",
-      "schedule_raw": "R | 16:00 - 19:00",
+      "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "A Samuel",
       "capacity": "25",
       "available": "25"
