@@ -97,7 +97,7 @@
       "schedule_raw": "M W | 08:00 - 08:50 | M | 14:00 - 15:50",
       "instructor": "M Yousaf",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "BIOL 201",
@@ -2989,7 +2989,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "76"
+      "available": "77"
     },
     {
       "course_code": "CPPG 101",
@@ -3769,7 +3769,7 @@
       "schedule_raw": "W F | 15:00 - 16:50",
       "instructor": "Z Malik",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "CSCS 455",
@@ -6745,7 +6745,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "HIST 209",
