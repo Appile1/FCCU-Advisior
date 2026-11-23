@@ -2917,7 +2917,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "COMP 421",
@@ -2941,7 +2941,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "R Sirhindi",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "COMP 451",
@@ -3721,7 +3721,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Butt",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "CSCS 366",
@@ -3769,7 +3769,7 @@
       "schedule_raw": "W F | 15:00 - 16:50",
       "instructor": "Z Malik",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "CSCS 455",
@@ -3793,7 +3793,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Atique",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "CSCS 457",
@@ -7501,7 +7501,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "J Park",
       "capacity": "5",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "LING 207",
