@@ -1597,7 +1597,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "BUSN 484",
@@ -2173,7 +2173,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
       "instructor": "S Azeem",
       "capacity": "10",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "CHEM 320",
@@ -2821,7 +2821,7 @@
       "schedule_raw": "M W | 09:00 - 10:50",
       "instructor": "A Basharat",
       "capacity": "25",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "COMP 360",
@@ -2953,7 +2953,7 @@
       "schedule_raw": "M | 11:00 - 12:50 | W | 11:00 - 12:50",
       "instructor": "M Butt",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "COMP 451",
@@ -3481,7 +3481,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Toor",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "CSCS 100",
@@ -3829,7 +3829,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "Z Malik",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "CSSE 699A",
@@ -4525,7 +4525,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "G Shabbir",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "ECON 400",
@@ -6517,7 +6517,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Iqbal",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "GEOG 202",
