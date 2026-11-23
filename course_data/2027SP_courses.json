@@ -1525,7 +1525,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Naumaan Ch",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "BUSN 469",
@@ -3469,7 +3469,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "CSCS 100",
@@ -5953,7 +5953,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "ENVR 270",
@@ -6685,7 +6685,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "HIST 105",
@@ -8089,7 +8089,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "MCOM 105",
@@ -9529,7 +9529,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 15:00 - 16:50",
       "instructor": "K Safdar",
       "capacity": "30",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "PSYC 230",
