@@ -1,7 +1,7 @@
 {
   "term_code": "2027SP",
   "term_name": "2027 Spring",
-  "total_courses": 951,
+  "total_courses": 947,
   "courses": [
     {
       "course_code": "BIOL 100",
@@ -1549,7 +1549,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I yusuf",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "BUSN 484",
@@ -2989,7 +2989,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "80"
+      "available": "79"
     },
     {
       "course_code": "CPPG 101",
@@ -3721,7 +3721,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Butt",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "CSCS 366",
@@ -6985,7 +6985,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "HPED 151",
@@ -6997,7 +6997,7 @@
       "schedule_raw": "T R | 08:00 - 08:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "HPED 151",
@@ -8101,7 +8101,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "MCOM 105",
@@ -9757,7 +9757,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "U Ashiq",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "PSYC 320",
@@ -11064,54 +11064,6 @@
       "classroom": "EBLOCKTBD | SBLOCKS109",
       "schedule_raw": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
       "instructor": "I Ul Haq",
-      "capacity": "35",
-      "available": "35"
-    },
-    {
-      "course_code": "UNIV 200",
-      "section": "A",
-      "unique": "UNIV 200/A",
-      "course_name": "Critical Thinking",
-      "credits": "3.00",
-      "classroom": "EBLOCKE229",
-      "schedule_raw": "T R | 14:00 - 15:15",
-      "instructor": "S Khalid",
-      "capacity": "35",
-      "available": "35"
-    },
-    {
-      "course_code": "UNIV 200",
-      "section": "B",
-      "unique": "UNIV 200/B",
-      "course_name": "Critical Thinking",
-      "credits": "3.00",
-      "classroom": "EBLOCKE229",
-      "schedule_raw": "T R | 15:30 - 16:45",
-      "instructor": "S Khalid",
-      "capacity": "35",
-      "available": "35"
-    },
-    {
-      "course_code": "UNIV 200",
-      "section": "C",
-      "unique": "UNIV 200/C",
-      "course_name": "Critical Thinking",
-      "credits": "3.00",
-      "classroom": "EBLOCKE229",
-      "schedule_raw": "M W F | 15:00 - 15:50",
-      "instructor": "TBD",
-      "capacity": "35",
-      "available": "35"
-    },
-    {
-      "course_code": "UNIV 200",
-      "section": "D",
-      "unique": "UNIV 200/D",
-      "course_name": "Critical Thinking",
-      "credits": "3.00",
-      "classroom": "EBLOCKE229",
-      "schedule_raw": "M W F | 16:00 - 16:50",
-      "instructor": "TBD",
       "capacity": "35",
       "available": "35"
     },

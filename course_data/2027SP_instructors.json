@@ -8329,24 +8329,7 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [
-      {
-        "course_code": "UNIV 200",
-        "section": "A",
-        "course_name": "Critical Thinking",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE229",
-        "unique": "UNIV 200/A"
-      },
-      {
-        "course_code": "UNIV 200",
-        "section": "B",
-        "course_name": "Critical Thinking",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE229",
-        "unique": "UNIV 200/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "UNIV 200"
     ]
@@ -8356,24 +8339,7 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [
-      {
-        "course_code": "UNIV 200",
-        "section": "C",
-        "course_name": "Critical Thinking",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE229",
-        "unique": "UNIV 200/C"
-      },
-      {
-        "course_code": "UNIV 200",
-        "section": "D",
-        "course_name": "Critical Thinking",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE229",
-        "unique": "UNIV 200/D"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "UNIV 200"
     ]
