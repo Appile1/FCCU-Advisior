@@ -6222,14 +6222,6 @@
         "schedule": "T R | 14:00 - 15:15",
         "classroom": "EBLOCKE137",
         "unique": "MUSC 101/A"
-      },
-      {
-        "course_code": "MUSC 250",
-        "section": "A",
-        "course_name": "Music Appreciation",
-        "schedule": "T R | 15:30 - 16:45",
-        "classroom": "EBLOCKE137",
-        "unique": "MUSC 250/A"
       }
     ],
     "all_courses": [
