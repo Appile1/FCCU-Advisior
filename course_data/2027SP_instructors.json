@@ -8650,6 +8650,14 @@
     "current_courses": [
       {
         "course_code": "DATA 101",
+        "section": "A",
+        "course_name": "Statistical Methods",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 101/A"
+      },
+      {
+        "course_code": "DATA 101",
         "section": "C",
         "course_name": "Statistical Methods",
         "schedule": "T R | 08:00 - 09:15",
@@ -12599,6 +12607,25 @@
     ],
     "all_courses": [
       "PSYC 751"
+    ]
+  },
+  {
+    "name": "S Samuel",
+    "departments": [
+      "DATA"
+    ],
+    "current_courses": [
+      {
+        "course_code": "DATA 101",
+        "section": "B",
+        "course_name": "Statistical Methods",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "SBLOCKS420",
+        "unique": "DATA 101/B"
+      }
+    ],
+    "all_courses": [
+      "DATA 101"
     ]
   }
 ]

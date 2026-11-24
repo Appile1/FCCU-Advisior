@@ -3502,5 +3502,21 @@
     "section": "A",
     "instructor": "TBD",
     "timestamp": "2026-11-23T09:45:37.742905+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 101 (A) - R Butt",
+    "course_code": "DATA 101",
+    "section": "A",
+    "instructor": "R Butt",
+    "timestamp": "2026-11-24T04:30:55.698682+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: DATA 101 (B) - S Samuel",
+    "course_code": "DATA 101",
+    "section": "B",
+    "instructor": "S Samuel",
+    "timestamp": "2026-11-24T04:30:55.698705+00:00"
   }
 ]
