@@ -1501,7 +1501,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "BUSN 453",
@@ -1573,7 +1573,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Q Khan",
       "capacity": "30",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "BUSN 484",
@@ -1657,7 +1657,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "BUSN 490",
@@ -1669,7 +1669,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "BUSN 490",
@@ -1813,7 +1813,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "Q Zafar",
       "capacity": "30",
-      "available": "5"
+      "available": "3"
     },
     {
       "course_code": "BUSN 498",
@@ -3517,7 +3517,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "6"
+      "available": "4"
     },
     {
       "course_code": "CSCS 101",
