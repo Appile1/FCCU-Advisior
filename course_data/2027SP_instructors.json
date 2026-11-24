@@ -8958,10 +8958,19 @@
         "schedule": "T R | 09:30 - 10:45",
         "classroom": "SBLOCKS420",
         "unique": "STAT 102/C"
+      },
+      {
+        "course_code": "STAT 207",
+        "section": "B",
+        "course_name": "Business Analytics",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS425",
+        "unique": "STAT 207/B"
       }
     ],
     "all_courses": [
-      "STAT 102"
+      "STAT 102",
+      "STAT 207"
     ]
   },
   {
@@ -9325,6 +9334,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "STAT 207",
+        "section": "A",
+        "course_name": "Business Analytics",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 207/A"
+      },
+      {
         "course_code": "STAT 507",
         "section": "A",
         "course_name": "Categorical Data Ana",
@@ -9334,6 +9351,7 @@
       }
     ],
     "all_courses": [
+      "STAT 207",
       "STAT 507"
     ]
   },
