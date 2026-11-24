@@ -9097,10 +9097,19 @@
         "schedule": "M W F | 11:00 - 11:50",
         "classroom": "SBLOCKS420",
         "unique": "DATA 206/C"
+      },
+      {
+        "course_code": "DATA 317",
+        "section": "A",
+        "course_name": "Data Visualization",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS416",
+        "unique": "DATA 317/A"
       }
     ],
     "all_courses": [
-      "DATA 206"
+      "DATA 206",
+      "DATA 317"
     ]
   },
   {
@@ -12684,10 +12693,19 @@
         "schedule": "M W F | 09:00 - 09:50",
         "classroom": "SBLOCKS420",
         "unique": "DATA 101/B"
+      },
+      {
+        "course_code": "DATA 317",
+        "section": "B",
+        "course_name": "Data Visualization",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 317/B"
       }
     ],
     "all_courses": [
-      "DATA 101"
+      "DATA 101",
+      "DATA 317"
     ]
   },
   {
