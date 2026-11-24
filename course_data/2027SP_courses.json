@@ -6841,7 +6841,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "HIST 209",
@@ -9097,7 +9097,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M U Farooq",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "PLSC 101",
@@ -9541,7 +9541,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "N Asif",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "PSYC 150",
