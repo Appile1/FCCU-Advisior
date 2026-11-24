@@ -9075,6 +9075,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "DATA 104",
+        "section": "A",
+        "course_name": "Calculus 1",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS410",
+        "unique": "DATA 104/A"
+      },
+      {
         "course_code": "DATA 303",
         "section": "A",
         "course_name": "Regression Analysis",
@@ -9084,6 +9092,7 @@
       }
     ],
     "all_courses": [
+      "DATA 104",
       "DATA 303"
     ]
   },
@@ -12626,6 +12635,25 @@
     ],
     "all_courses": [
       "DATA 101"
+    ]
+  },
+  {
+    "name": "A  Nadeem",
+    "departments": [
+      "DATA"
+    ],
+    "current_courses": [
+      {
+        "course_code": "DATA 203",
+        "section": "A",
+        "course_name": "Intro. Lin. Algebra",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "SBLOCKS412",
+        "unique": "DATA 203/A"
+      }
+    ],
+    "all_courses": [
+      "DATA 203"
     ]
   }
 ]
