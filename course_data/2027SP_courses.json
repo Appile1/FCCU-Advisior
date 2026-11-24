@@ -1405,7 +1405,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "BUSN 370",
@@ -1453,7 +1453,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "I Nasir",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "BUSN 382",
@@ -4201,7 +4201,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M Bhatti",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "ECON 101",
@@ -4501,7 +4501,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "U Hanif",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "ECON 304",
@@ -5425,7 +5425,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "N Justin",
       "capacity": "25",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "ENGL 108",
@@ -5941,7 +5941,7 @@
       "schedule_raw": "M W | 14:00 - 14:50 | R | 14:00 - 15:50",
       "instructor": "D Bakker",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "ENVR 101",
@@ -6001,7 +6001,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Machado",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "ENVR 252",
@@ -7105,7 +7105,7 @@
       "schedule_raw": "T R | 09:30 - 10:20",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ISLM 100B",
@@ -7573,7 +7573,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S K Sook",
       "capacity": "10",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "KORN 101",
@@ -7585,7 +7585,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "10",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "KORN 102",
@@ -8653,7 +8653,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "PHIL 221",
@@ -8665,7 +8665,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "PHIL 331",
@@ -10009,7 +10009,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Shahed",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "PSYC 380",
@@ -10021,7 +10021,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Anthoney",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "PSYC 385",
@@ -10057,7 +10057,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Majeed",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "PSYC 415",
@@ -10117,7 +10117,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Anthoney",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "PSYC 440",
@@ -10465,7 +10465,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "SOCL 201",
@@ -10897,7 +10897,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Ayub",
       "capacity": "20",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "STAT 212",
