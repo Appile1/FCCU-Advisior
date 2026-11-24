@@ -2413,7 +2413,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Z Kexin",
       "capacity": "10",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "CHIN 101",
@@ -2917,7 +2917,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "7"
+      "available": "5"
     },
     {
       "course_code": "COMP 421",
@@ -2989,7 +2989,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "69"
+      "available": "67"
     },
     {
       "course_code": "CPPG 101",
@@ -3013,7 +3013,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "CPPG 121",
@@ -3709,7 +3709,7 @@
       "schedule_raw": "M W | 12:00 - 12:50 | F | 12:00 - 12:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "CSCS 363",
@@ -3757,7 +3757,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Qureshi",
       "capacity": "20",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "CSCS 406",
@@ -5989,7 +5989,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Hanook",
       "capacity": "15",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ENVR 250",
@@ -6121,7 +6121,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "ENVR 413",
@@ -6145,7 +6145,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "ENVR 416",
@@ -6757,7 +6757,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "HIST 102",
@@ -6829,7 +6829,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Haider",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "HIST 207",
@@ -6841,7 +6841,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "HIST 209",
@@ -6913,7 +6913,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "HIST 312",
@@ -6925,7 +6925,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "HIST 313",
@@ -7441,7 +7441,7 @@
       "schedule_raw": "W F | 15:00 - 15:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "ISLM 101",
@@ -7585,7 +7585,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "10",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "KORN 102",
@@ -9265,7 +9265,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "PLSC 321",
@@ -9301,7 +9301,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "PLSC 336",
@@ -10753,7 +10753,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Raza",
       "capacity": "15",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "STAT 102",
