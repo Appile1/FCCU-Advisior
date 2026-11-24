@@ -25,7 +25,7 @@
       "schedule_raw": "T R | 08:00 - 08:50 | T | 14:00 - 15:50",
       "instructor": "I Ul Haq",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "BIOL 100",
@@ -2089,7 +2089,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | F | 09:00 - 10:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "CHEM 160",
@@ -2785,7 +2785,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "N Nazar",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "COMP 311",
@@ -3733,7 +3733,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "CSCS 367",
@@ -7105,7 +7105,7 @@
       "schedule_raw": "T R | 09:30 - 10:20",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "ISLM 100B",
@@ -7885,7 +7885,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Sarwar",
       "capacity": "5",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "MATH 108",
@@ -8653,7 +8653,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PHIL 221",
@@ -10009,7 +10009,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Shahed",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "PSYC 380",
