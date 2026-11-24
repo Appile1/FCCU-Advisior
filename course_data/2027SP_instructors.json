@@ -8623,8 +8623,8 @@
         "course_code": "STAT 115",
         "section": "C",
         "course_name": "Probability & Stat.",
-        "schedule": "T R | 12:30 - 13:45",
-        "classroom": "SBLOCKS420",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "SBLOCKS424",
         "unique": "STAT 115/C"
       },
       {
@@ -8907,6 +8907,22 @@
         "unique": "STAT 102/A"
       },
       {
+        "course_code": "STAT 206",
+        "section": "A",
+        "course_name": "Intro to Data Analyt",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS425",
+        "unique": "STAT 206/A"
+      },
+      {
+        "course_code": "STAT 206",
+        "section": "B",
+        "course_name": "Intro to Data Analyt",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS416",
+        "unique": "STAT 206/B"
+      },
+      {
         "course_code": "STAT 414",
         "section": "B",
         "course_name": "Statistical Learning",
@@ -8917,6 +8933,7 @@
     ],
     "all_courses": [
       "STAT 102",
+      "STAT 206",
       "STAT 414"
     ]
   },
@@ -8962,6 +8979,14 @@
         "unique": "STAT 115/A"
       },
       {
+        "course_code": "STAT 206",
+        "section": "C",
+        "course_name": "Intro to Data Analyt",
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "SBLOCKS420",
+        "unique": "STAT 206/C"
+      },
+      {
         "course_code": "STAT 317",
         "section": "A",
         "course_name": "Data Visualization R",
@@ -8980,6 +9005,7 @@
     ],
     "all_courses": [
       "STAT 115",
+      "STAT 206",
       "STAT 317",
       "STAT 406"
     ]
@@ -9197,6 +9223,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "STAT 206",
+        "section": "D",
+        "course_name": "Intro to Data Analyt",
+        "schedule": "T R | 12:30 - 13:45",
+        "classroom": "SBLOCKS421",
+        "unique": "STAT 206/D"
+      },
+      {
         "course_code": "STAT 212",
         "section": "A",
         "course_name": "Res. Meth. & Statis",
@@ -9230,6 +9264,7 @@
       }
     ],
     "all_courses": [
+      "STAT 206",
       "STAT 212",
       "STAT 509",
       "STAT 699A",
