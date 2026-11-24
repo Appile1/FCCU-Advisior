@@ -1117,7 +1117,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "BUSN 250",
@@ -2461,7 +2461,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 16:50",
       "instructor": "N Ashraf",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "COMP 111",
@@ -3553,7 +3553,7 @@
       "schedule_raw": "T R | 15:30 - 16:45 | R | 08:00 - 10:50",
       "instructor": "A Atique",
       "capacity": "25",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "CSCS 201",
@@ -7033,7 +7033,7 @@
       "schedule_raw": "M W | 16:00 - 16:50",
       "instructor": "S Khaliq",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "HPED 111",
@@ -8197,7 +8197,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "MCOM 105",
