@@ -2425,7 +2425,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Z Kexin",
       "capacity": "5",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CHIN 102",
@@ -2989,7 +2989,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "75"
+      "available": "76"
     },
     {
       "course_code": "CPPG 101",
