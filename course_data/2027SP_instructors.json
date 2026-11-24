@@ -8737,11 +8737,20 @@
         "schedule": "T R | 11:00 - 12:15",
         "classroom": "SBLOCKS416",
         "unique": "DATA 206/B"
+      },
+      {
+        "course_code": "DATA 414",
+        "section": "B",
+        "course_name": "Machine Learning",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "SBLOCKS421",
+        "unique": "DATA 414/B"
       }
     ],
     "all_courses": [
       "DATA 102",
-      "DATA 206"
+      "DATA 206",
+      "DATA 414"
     ]
   },
   {
@@ -9150,13 +9159,22 @@
         "course_code": "DATA 305",
         "section": "A",
         "course_name": "Spatial Analytics",
-        "schedule": "T R | 14:00 - 15:15",
+        "schedule": "M W F | 14:00 - 14:50",
         "classroom": "SBLOCKS420",
         "unique": "DATA 305/A"
+      },
+      {
+        "course_code": "DATA 414",
+        "section": "A",
+        "course_name": "Machine Learning",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS416",
+        "unique": "DATA 414/A"
       }
     ],
     "all_courses": [
-      "DATA 305"
+      "DATA 305",
+      "DATA 414"
     ]
   },
   {
