@@ -1285,7 +1285,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "BUSN 370",
@@ -1309,7 +1309,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "BUSN 370",
@@ -5017,7 +5017,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "EDUC 320",
@@ -6229,7 +6229,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "FREN 310",
@@ -7909,7 +7909,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "MATH 111",
@@ -8053,7 +8053,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Malik",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "MATH 302",
@@ -8065,7 +8065,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "MATH 303",
@@ -10549,7 +10549,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "SOCL 430",
@@ -10561,7 +10561,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Athar",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "SOCL 494",
