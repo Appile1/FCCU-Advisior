@@ -2809,7 +2809,7 @@
       "schedule_raw": "T R | 12:00 - 13:50",
       "instructor": "M Mushtaq",
       "capacity": "25",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "COMP 311",
@@ -2989,7 +2989,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "75"
+      "available": "74"
     },
     {
       "course_code": "CPPG 101",
@@ -3769,7 +3769,7 @@
       "schedule_raw": "W F | 15:00 - 16:50",
       "instructor": "Z Malik",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "CSCS 455",
@@ -4573,7 +4573,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Waqar",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "ECON 323",
@@ -4669,7 +4669,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Ayyubi",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "ECON 417",
@@ -5017,7 +5017,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "EDUC 320",
@@ -5449,7 +5449,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "R Wasif",
       "capacity": "25",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ENGL 108",
@@ -5521,7 +5521,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Alphonce",
       "capacity": "25",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ENGL 108",
@@ -6841,7 +6841,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "12"
+      "available": "10"
     },
     {
       "course_code": "HIST 209",
@@ -9265,7 +9265,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "PLSC 321",
@@ -9373,7 +9373,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "PLSC 499",
@@ -9985,7 +9985,7 @@
       "schedule_raw": "M | 15:00 - 16:50 | T R | 12:30 - 13:45",
       "instructor": "A Malik",
       "capacity": "30",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PSYC 370",
