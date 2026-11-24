@@ -145,7 +145,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 14:00 - 15:50",
       "instructor": "S Mehnaz",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "BIOL 403",
@@ -1165,7 +1165,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Naumaan Ch",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "BUSN 322",
@@ -1621,7 +1621,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 490",
@@ -1813,7 +1813,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "Q Zafar",
       "capacity": "30",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "BUSN 498",
@@ -2665,7 +2665,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Toor",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "COMP 300",
@@ -3649,7 +3649,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Toor",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "CSCS 320",
@@ -7021,7 +7021,7 @@
       "schedule_raw": "M W | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "HPED 107",
@@ -8197,7 +8197,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "MCOM 105",
@@ -9925,7 +9925,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "PSYC 350",
@@ -11341,7 +11341,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "URDU 101",
