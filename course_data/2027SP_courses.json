@@ -49,7 +49,7 @@
       "schedule_raw": "T R | 09:30 - 10:20 | F | 14:00 - 15:30",
       "instructor": "S Dogar",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "BIOL 100",
@@ -1153,7 +1153,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Hamid",
       "capacity": "35",
-      "available": "29"
+      "available": "31"
     },
     {
       "course_code": "BUSN 305",
@@ -1165,7 +1165,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Naumaan Ch",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "BUSN 322",
@@ -1309,7 +1309,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "BUSN 370",
@@ -2989,7 +2989,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "65"
+      "available": "66"
     },
     {
       "course_code": "CPPG 101",
@@ -5965,7 +5965,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ENVR 210",
@@ -6781,7 +6781,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "HIST 105",
@@ -7093,7 +7093,7 @@
       "schedule_raw": "T R | 08:00 - 08:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "HPED 151",
@@ -8665,7 +8665,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "PHIL 331",
