@@ -9514,6 +9514,14 @@
         "unique": "URDU 101/G"
       },
       {
+        "course_code": "URDU 102",
+        "section": "A",
+        "course_name": "A Foundational Study of Iqbal",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE102",
+        "unique": "URDU 102/A"
+      },
+      {
         "course_code": "URDU 519",
         "section": "A",
         "course_name": "Teach. of Urdu Lang",
@@ -9524,6 +9532,7 @@
     ],
     "all_courses": [
       "URDU 101",
+      "URDU 102",
       "URDU 519"
     ]
   },
@@ -9655,16 +9664,7 @@
     "departments": [
       "URDU"
     ],
-    "current_courses": [
-      {
-        "course_code": "URDU 102",
-        "section": "A",
-        "course_name": "A Foundational Study of Iqbal",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE102",
-        "unique": "URDU 102/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "URDU 102"
     ]

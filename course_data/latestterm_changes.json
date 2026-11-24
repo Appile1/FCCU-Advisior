@@ -3614,5 +3614,13 @@
     "section": "B",
     "instructor": "S Bashir",
     "timestamp": "2026-11-24T06:00:54.974766+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for URDU 102 (A): TBD → S Ashraf",
+    "course_code": "URDU 102",
+    "section": "A",
+    "instructor": "S Ashraf",
+    "timestamp": "2026-11-24T07:30:49.714248+00:00"
   }
 ]
