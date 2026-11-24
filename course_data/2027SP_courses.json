@@ -4801,7 +4801,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "EDUC 120",
@@ -8101,7 +8101,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Batool",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "MCOM 105",
