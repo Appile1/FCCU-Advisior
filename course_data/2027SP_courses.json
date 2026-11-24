@@ -1105,7 +1105,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Alvi",
       "capacity": "35",
-      "available": "20"
+      "available": "18"
     },
     {
       "course_code": "BUSN 250",
@@ -1753,7 +1753,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Q Zafar",
       "capacity": "30",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BUSN 498",
@@ -3217,7 +3217,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "CRIM 460",
@@ -5677,7 +5677,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Hanif",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "ENGL 201",
@@ -7585,7 +7585,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "10",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "KORN 102",
