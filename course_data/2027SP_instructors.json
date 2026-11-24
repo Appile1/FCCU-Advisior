@@ -9826,6 +9826,14 @@
     "current_courses": [
       {
         "course_code": "SOCL 100",
+        "section": "G",
+        "course_name": "Intro to Sociology",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE228",
+        "unique": "SOCL 100/G"
+      },
+      {
+        "course_code": "SOCL 100",
         "section": "H",
         "course_name": "Intro to Sociology",
         "schedule": "T R | 08:00 - 09:15",
@@ -9988,16 +9996,7 @@
     "departments": [
       "SOCL"
     ],
-    "current_courses": [
-      {
-        "course_code": "SOCL 100",
-        "section": "G",
-        "course_name": "Intro to Sociology",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE228",
-        "unique": "SOCL 100/G"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "SOCL 100",
       "SOCL 104"

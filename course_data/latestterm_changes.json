@@ -3622,5 +3622,13 @@
     "section": "A",
     "instructor": "S Ashraf",
     "timestamp": "2026-11-24T07:30:49.714248+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for SOCL 100 (G): S Jafree → A Amjad",
+    "course_code": "SOCL 100",
+    "section": "G",
+    "instructor": "A Amjad",
+    "timestamp": "2026-11-24T10:30:53.866384+00:00"
   }
 ]
