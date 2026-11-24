@@ -2065,7 +2065,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | F | 11:00 - 12:50",
       "instructor": "S Azeem",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "CHEM 150",
@@ -2101,7 +2101,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | M | 11:00 - 12:50",
       "instructor": "S Jelani",
       "capacity": "10",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "CHEM 160",
@@ -2149,7 +2149,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50 | W | 11:00 - 12:50",
       "instructor": "M Abbas",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "CHEM 270",
@@ -5713,7 +5713,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "28"
+      "available": "29"
     },
     {
       "course_code": "ENGL 301",
@@ -5737,7 +5737,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "ENGL 307",
