@@ -1261,7 +1261,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Bilal",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "BUSN 368",
@@ -1273,7 +1273,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Bilal",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "BUSN 370",
@@ -1429,7 +1429,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "T Alvi",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BUSN 382",
@@ -1585,7 +1585,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "U Javaid",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "BUSN 484",
@@ -1621,7 +1621,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "BUSN 490",
@@ -1693,7 +1693,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "BUSN 490",
@@ -1765,7 +1765,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Q Zafar",
       "capacity": "30",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "BUSN 498",
@@ -1777,7 +1777,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "Q Zafar",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 498",
@@ -1801,7 +1801,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "BUSN 498",
@@ -2977,7 +2977,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "148"
+      "available": "147"
     },
     {
       "course_code": "COMP 497B",
@@ -3001,7 +3001,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "CPPG 111",
@@ -3013,7 +3013,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "CPPG 121",
@@ -3229,7 +3229,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "CRST 151",
@@ -4861,7 +4861,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "EDUC 110",
@@ -5653,7 +5653,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "ENGL 175",
@@ -6841,7 +6841,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "HIST 209",
@@ -7057,7 +7057,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "S Khaliq",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "HPED 150",
@@ -9313,7 +9313,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "PLSC 339",
@@ -9349,7 +9349,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "Q Memon",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "PLSC 401",
@@ -9469,7 +9469,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Majeed",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "PSYC 100",
@@ -9553,7 +9553,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "U Ashiq",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "PSYC 150",
@@ -9613,7 +9613,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | R | 08:00 - 09:50",
       "instructor": "U Ilyas",
       "capacity": "30",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "PSYC 220",
@@ -9985,7 +9985,7 @@
       "schedule_raw": "M | 15:00 - 16:50 | T R | 12:30 - 13:45",
       "instructor": "A Malik",
       "capacity": "30",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "PSYC 370",
@@ -10069,7 +10069,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "PSYC 415",
@@ -10537,7 +10537,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "T Ashraf",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "SOCL 350",
