@@ -1021,7 +1021,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "U Sharif",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BUSN 225",
@@ -1165,7 +1165,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Hussain",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 250",
@@ -2509,7 +2509,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Z Kexin",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHIN 101",
@@ -3313,7 +3313,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "CRIM 460",
@@ -5809,7 +5809,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "I Sayed",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "ENGL 301",
@@ -5833,7 +5833,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "ENGL 307",
@@ -5917,7 +5917,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Mir",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "ENGL 350",
@@ -5953,7 +5953,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "ENGL 406",
@@ -5977,7 +5977,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Syeda",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "ENGL 445",
@@ -6937,7 +6937,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Masih",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 102",
@@ -7177,7 +7177,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "HPED 107",
@@ -7621,7 +7621,7 @@
       "schedule_raw": "W F | 15:00 - 15:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "ISLM 101",
@@ -10273,7 +10273,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A  Nazim",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "PSYC 390",
