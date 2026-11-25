@@ -7573,7 +7573,7 @@
       "schedule_raw": "M W | 10:00 - 10:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "ISLM 101",
@@ -7753,7 +7753,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S K Sook",
       "capacity": "15",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "KORN 101",
@@ -8077,7 +8077,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Raza",
       "capacity": "5",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 107",
