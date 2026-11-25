@@ -673,7 +673,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M Rao",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "BUSN 206",
@@ -829,7 +829,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Habib",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "BUSN 225",
@@ -1069,7 +1069,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Hussain",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "BUSN 250",
@@ -3301,7 +3301,7 @@
       "schedule_raw": "W | 12:00 - 12:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "CRST 213",
@@ -3685,7 +3685,7 @@
       "schedule_raw": "M W | 09:00 - 10:50",
       "instructor": "M Butt",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "CSCS 342",
@@ -4933,7 +4933,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "EDUC 120",
@@ -7609,7 +7609,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "R John",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "LING 217",
@@ -9493,7 +9493,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M  Niazi",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "PSYC 100",
