@@ -37,7 +37,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ARTS 106",
@@ -49,7 +49,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "31"
+      "available": "29"
     },
     {
       "course_code": "ARTS 111",
@@ -1141,7 +1141,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Afaf k",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BUSN 250",
@@ -1153,7 +1153,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "Afaf k",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "BUSN 250",
@@ -1393,7 +1393,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "BUSN 370",
@@ -1897,7 +1897,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "BUSN 498",
@@ -1909,7 +1909,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "Q Zafar",
       "capacity": "30",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 498",
@@ -2161,7 +2161,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | F | 11:00 - 12:50",
       "instructor": "S Azeem",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "CHEM 150",
@@ -4633,7 +4633,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Ahmed",
       "capacity": "35",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "ECON 315",
@@ -6025,7 +6025,7 @@
       "schedule_raw": "M W | 10:00 - 10:50 | M | 14:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ENVR 101",
@@ -6961,7 +6961,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 105",
@@ -7693,7 +7693,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Z Azam",
       "capacity": "20",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ISLM 307",
@@ -9457,7 +9457,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Q Memon",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "PLSC 303",
@@ -9493,7 +9493,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "PLSC 321",
