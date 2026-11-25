@@ -4081,7 +4081,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Mughal",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "DATA 202",
@@ -6877,7 +6877,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "K Shafiqu",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "GEOG 374",
@@ -9625,7 +9625,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "Q Memon",
       "capacity": "15",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PLSC 502",
@@ -11005,7 +11005,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Ayub",
       "capacity": "15",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "STAT 102",
