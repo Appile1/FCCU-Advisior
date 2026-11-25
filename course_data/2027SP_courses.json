@@ -85,7 +85,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "ARTS 303",
@@ -181,7 +181,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
       "instructor": "S Dogar",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "BIOL 201",
@@ -1573,7 +1573,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "U Javaid",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "BUSN 401",
@@ -7597,7 +7597,7 @@
       "schedule_raw": "W F | 09:00 - 09:50",
       "instructor": "A Naeem",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "ISLM 101",
@@ -7669,7 +7669,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "ISLM 304",
@@ -10369,7 +10369,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | M | 15:00 - 16:50",
       "instructor": "N Khan",
       "capacity": "30",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "PSYC 465",
