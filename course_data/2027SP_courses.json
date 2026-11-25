@@ -169,7 +169,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | R | 11:00 - 12:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "BIOL 105",
@@ -2857,7 +2857,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "COMP 303",
@@ -3721,7 +3721,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "CSCS 291",
@@ -5401,7 +5401,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Ahmad",
       "capacity": "25",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ENGL 108",
@@ -7561,7 +7561,7 @@
       "schedule_raw": "M W | 09:00 - 09:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ISLM 101",
@@ -9277,7 +9277,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PLSC 101",
@@ -9565,7 +9565,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M U Farooq",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "PLSC 400",
