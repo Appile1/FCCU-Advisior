@@ -2857,7 +2857,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "COMP 303",
@@ -2941,7 +2941,7 @@
       "schedule_raw": "T R | 11:00 - 12:50",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "COMP 360",
@@ -6109,7 +6109,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Hanook",
       "capacity": "15",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "ENVR 250",
@@ -6253,7 +6253,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "ENVR 413",
@@ -6277,7 +6277,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "28"
+      "available": "29"
     },
     {
       "course_code": "ENVR 416",
@@ -6397,7 +6397,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "10",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "FREN 102",
@@ -7009,7 +7009,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Haider",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "HIST 207",
@@ -9709,7 +9709,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 100",
@@ -9949,7 +9949,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "PSYC 295",
@@ -10129,7 +10129,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Asajid",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "PSYC 340",
@@ -11557,7 +11557,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Samuel",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "URDU 101",
