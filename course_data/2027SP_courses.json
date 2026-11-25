@@ -2893,7 +2893,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "COMP 410",
@@ -3301,7 +3301,7 @@
       "schedule_raw": "W | 12:00 - 12:50",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "CRST 213",
@@ -3553,7 +3553,7 @@
       "schedule_raw": "T R | 15:30 - 16:45 | R | 08:00 - 10:50",
       "instructor": "A Atique",
       "capacity": "25",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "CSCS 201",
