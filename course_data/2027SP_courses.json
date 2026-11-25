@@ -1105,7 +1105,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Alvi",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "BUSN 250",
@@ -2089,7 +2089,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | F | 09:00 - 10:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "CHEM 160",
@@ -5737,7 +5737,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "ENGL 307",
@@ -5869,7 +5869,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "T Bokhari",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "ENGL 407",
@@ -5893,7 +5893,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Maqbool",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "ENGL 499",
@@ -5905,7 +5905,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "F Zaheer",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "ENGL 699A",
