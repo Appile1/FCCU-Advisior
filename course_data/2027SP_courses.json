@@ -1045,7 +1045,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "U Sharif",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 225",
@@ -3373,7 +3373,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "CRST 211",
@@ -6025,7 +6025,7 @@
       "schedule_raw": "M W | 10:00 - 10:50 | M | 14:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENVR 101",
@@ -6049,7 +6049,7 @@
       "schedule_raw": "T R | 14:00 - 14:50 | F | 14:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "ENVR 151",
@@ -6397,7 +6397,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "10",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "FREN 102",
@@ -6985,7 +6985,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Hayat",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "HIST 202",
@@ -7165,7 +7165,7 @@
       "schedule_raw": "T R | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "HPED 106",
@@ -7177,7 +7177,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "HPED 107",
@@ -7201,7 +7201,7 @@
       "schedule_raw": "M W | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "HPED 107",
@@ -7573,7 +7573,7 @@
       "schedule_raw": "M W | 10:00 - 10:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ISLM 101",
@@ -7609,7 +7609,7 @@
       "schedule_raw": "W F | 14:00 - 14:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 101",
@@ -7981,7 +7981,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "MATH 103",
@@ -8101,7 +8101,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Janjua",
       "capacity": "35",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "MATH 109",
@@ -8137,7 +8137,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "MATH 111",
@@ -8965,7 +8965,7 @@
       "schedule_raw": "M W | 12:00 - 12:50 | R | 14:00 - 15:50",
       "instructor": "A Rehman",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "PHYS 101",
