@@ -1897,7 +1897,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "BUSN 498",
@@ -4261,7 +4261,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "T Ahmed",
       "capacity": "35",
-      "available": "28"
+      "available": "29"
     },
     {
       "course_code": "ECON 100",
@@ -6385,7 +6385,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "10",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "FREN 101",
@@ -7273,7 +7273,7 @@
       "schedule_raw": "T R | 08:00 - 08:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "HPED 151",
@@ -8125,7 +8125,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Nadeem",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "MATH 109",
@@ -8257,7 +8257,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "MATH 204",
@@ -8521,7 +8521,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "MCOM 301",
@@ -9037,7 +9037,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Tayyab",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "PHYS 301",
@@ -11089,7 +11089,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "I Naqvi",
       "capacity": "20",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "STAT 206",
