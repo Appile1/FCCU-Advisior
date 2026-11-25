@@ -12781,5 +12781,24 @@
     "all_courses": [
       "ENVR 311"
     ]
+  },
+  {
+    "name": "D Ahmed",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENVR 160",
+        "section": "B",
+        "course_name": "*Intro. Org  Biochem",
+        "schedule": "T R | 09:30 - 10:45 | T | 11:00 - 12:50",
+        "classroom": "SBLOCKS212 | SBLOCKS135",
+        "unique": "ENVR 160/B"
+      }
+    ],
+    "all_courses": [
+      "ENVR 160"
+    ]
   }
 ]
