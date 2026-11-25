@@ -4189,7 +4189,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "DATA 305",
@@ -7609,7 +7609,7 @@
       "schedule_raw": "W F | 14:00 - 14:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
