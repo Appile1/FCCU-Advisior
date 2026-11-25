@@ -37,7 +37,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "ARTS 106",
@@ -181,7 +181,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
       "instructor": "S Dogar",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "BIOL 201",
@@ -6373,7 +6373,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "10",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "FREN 101",
@@ -6397,7 +6397,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "10",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "FREN 102",
@@ -7033,7 +7033,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "HIST 250",
@@ -7201,7 +7201,7 @@
       "schedule_raw": "M W | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "HPED 107",
@@ -7753,7 +7753,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S K Sook",
       "capacity": "15",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "KORN 101",
@@ -7957,7 +7957,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Malik",
       "capacity": "20",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "MATH 102",
@@ -8101,7 +8101,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Janjua",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "MATH 109",
@@ -8125,7 +8125,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Nadeem",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "MATH 109",
@@ -8509,7 +8509,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "MCOM 290",
@@ -10069,7 +10069,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "U Ilyas",
       "capacity": "35",
-      "available": "28"
+      "available": "29"
     },
     {
       "course_code": "PSYC 310",
@@ -10273,7 +10273,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A  Nazim",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "PSYC 390",
@@ -10297,7 +10297,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "PSYC 415",
@@ -10345,7 +10345,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Anthoney",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PSYC 440",
@@ -10933,7 +10933,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "STAT 101",
@@ -11197,7 +11197,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Samuel",
       "capacity": "20",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "STAT 403",
@@ -11485,7 +11485,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Samuel",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "URDU 101",
@@ -11509,7 +11509,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Shahzadi",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "URDU 101",
