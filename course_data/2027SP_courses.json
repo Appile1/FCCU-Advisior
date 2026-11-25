@@ -2629,7 +2629,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Chaudhry",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "COMP 113",
@@ -2701,7 +2701,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | F | 09:00 - 11:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "22"
+      "available": "20"
     },
     {
       "course_code": "COMP 213",
@@ -4021,7 +4021,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Sarwar",
       "capacity": "15",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "DATA 102",
@@ -7633,7 +7633,7 @@
       "schedule_raw": "W F | 16:00 - 16:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "ISLM 101",
@@ -8437,7 +8437,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "MCOM 105",
@@ -8473,7 +8473,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "MCOM 201",
@@ -9985,7 +9985,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PSYC 300",
