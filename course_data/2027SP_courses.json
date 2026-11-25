@@ -8473,7 +8473,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "MCOM 201",
@@ -8497,7 +8497,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "MCOM 290",
@@ -9613,7 +9613,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Younis",
       "capacity": "15",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PLSC 499",
@@ -10369,7 +10369,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | M | 15:00 - 16:50",
       "instructor": "N Khan",
       "capacity": "30",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "PSYC 465",
@@ -10381,7 +10381,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | R | 14:00 - 15:50",
       "instructor": "A aziz",
       "capacity": "30",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "PSYC 467",
