@@ -5537,6 +5537,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "MATH 101",
+        "section": "A",
+        "course_name": "Pre-Calc & Trigonom.",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "SBLOCKS410",
+        "unique": "MATH 101/A"
+      },
+      {
         "course_code": "MATH 102",
         "section": "C",
         "course_name": "Calculus 1",
@@ -5554,6 +5562,7 @@
       }
     ],
     "all_courses": [
+      "MATH 101",
       "MATH 102",
       "MATH 310"
     ]
@@ -5571,6 +5580,14 @@
         "schedule": "M W F | 15:00 - 15:50",
         "classroom": "SBLOCKS412",
         "unique": "MATH 103/A"
+      },
+      {
+        "course_code": "MATH 109",
+        "section": "B",
+        "course_name": "QR-I (Advanced)",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "SBLOCKS410",
+        "unique": "MATH 109/B"
       },
       {
         "course_code": "MATH 113",
@@ -5623,6 +5640,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "MATH 101",
+        "section": "B",
+        "course_name": "Pre-Calc & Trigonom.",
+        "schedule": "T R | 09:30 - 10:45",
+        "classroom": "SBLOCKS410",
+        "unique": "MATH 101/B"
+      },
+      {
         "course_code": "MATH 108",
         "section": "B",
         "course_name": "QR-I (Basic)",
@@ -5632,6 +5657,7 @@
       }
     ],
     "all_courses": [
+      "MATH 101",
       "MATH 108",
       "MATH 111"
     ]
@@ -5641,7 +5667,16 @@
     "departments": [
       "MATH"
     ],
-    "current_courses": [],
+    "current_courses": [
+      {
+        "course_code": "MATH 109",
+        "section": "C",
+        "course_name": "QR-I (Advanced)",
+        "schedule": "M W F | 08:00 - 08:50",
+        "classroom": "SBLOCKS410",
+        "unique": "MATH 109/C"
+      }
+    ],
     "all_courses": [
       "MATH 108",
       "MATH 109"
@@ -10440,7 +10475,7 @@
         "course_code": "ENGL 108",
         "section": "RR",
         "course_name": "Expository Writing",
-        "schedule": "T R | 15:30 - 16:45",
+        "schedule": "M W F | 15:00 - 15:50",
         "classroom": "SBLOCKS425",
         "unique": "ENGL 108/RR"
       },
