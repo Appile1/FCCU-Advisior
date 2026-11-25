@@ -25,7 +25,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "ARTS 103",
@@ -37,7 +37,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "16"
+      "available": "14"
     },
     {
       "course_code": "ARTS 106",
@@ -649,7 +649,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "R John",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "BUSN 160",
@@ -745,7 +745,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A George",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 206",
@@ -793,7 +793,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "BUSN 206",
@@ -1249,7 +1249,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Hamid",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "BUSN 305",
@@ -1669,7 +1669,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Q Khan",
       "capacity": "30",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "BUSN 484",
@@ -2149,7 +2149,7 @@
       "schedule_raw": "M | 09:00 - 09:50 | F | 09:00 - 09:50 | F | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "CHEM 150",
@@ -2509,7 +2509,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Z Kexin",
       "capacity": "15",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "CHIN 101",
@@ -2557,7 +2557,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 16:50",
       "instructor": "N Ashraf",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "COMP 111",
@@ -5749,7 +5749,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "ENGL 175",
@@ -6037,7 +6037,7 @@
       "schedule_raw": "M W | 14:00 - 14:50 | R | 14:00 - 15:50",
       "instructor": "D Bakker",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "ENVR 101",
@@ -6913,7 +6913,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Mahmood",
       "capacity": "15",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GRMN 102",
@@ -7285,7 +7285,7 @@
       "schedule_raw": "T R | 09:30 - 10:20",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "ISLM 100B",
@@ -8833,7 +8833,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "PHIL 221",
@@ -9229,7 +9229,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "PLSC 101",
@@ -9697,7 +9697,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "E Shahid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 105",
@@ -10021,7 +10021,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "U Ilyas",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "PSYC 310",
