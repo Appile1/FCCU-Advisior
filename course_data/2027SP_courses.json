@@ -109,7 +109,7 @@
       "schedule_raw": "M W | 10:00 - 10:50 | R | 11:00 - 12:50",
       "instructor": "K Muaz",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "BIOL 100",
@@ -181,7 +181,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
       "instructor": "S Dogar",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "BIOL 201",
@@ -1129,7 +1129,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Afaf k",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "BUSN 250",
@@ -1789,7 +1789,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "BUSN 490",
@@ -1885,7 +1885,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Q Khan",
       "capacity": "30",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "BUSN 498",
@@ -2809,7 +2809,7 @@
       "schedule_raw": "M | 09:00 - 10:50 | W | 09:00 - 10:50",
       "instructor": "M Chaudhry",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "COMP 301",
@@ -2821,7 +2821,7 @@
       "schedule_raw": "M | 11:00 - 12:50 | W | 11:00 - 12:50",
       "instructor": "M Chaudhry",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "COMP 302",
@@ -2857,7 +2857,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "COMP 303",
@@ -2869,7 +2869,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "N Nazar",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "COMP 303",
@@ -3037,7 +3037,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "R Sirhindi",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "COMP 451",
@@ -3085,7 +3085,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "63"
+      "available": "62"
     },
     {
       "course_code": "CPPG 101",
@@ -3757,7 +3757,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Shahid",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "CSCS 320",
@@ -3805,7 +3805,7 @@
       "schedule_raw": "M W | 12:00 - 12:50 | F | 12:00 - 12:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "CSCS 363",
@@ -5377,7 +5377,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Fareed",
       "capacity": "25",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ENGL 108",
@@ -6037,7 +6037,7 @@
       "schedule_raw": "M W | 14:00 - 14:50 | R | 14:00 - 15:50",
       "instructor": "D Bakker",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "ENVR 101",
@@ -6049,7 +6049,7 @@
       "schedule_raw": "T R | 14:00 - 14:50 | F | 14:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "6"
+      "available": "4"
     },
     {
       "course_code": "ENVR 151",
@@ -6157,7 +6157,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "ENVR 260",
@@ -7549,7 +7549,7 @@
       "schedule_raw": "M W | 08:00 - 08:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "ISLM 101",
@@ -7573,7 +7573,7 @@
       "schedule_raw": "M W | 10:00 - 10:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "ISLM 101",
@@ -8509,7 +8509,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "MCOM 290",
@@ -8629,7 +8629,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Dr S Abbas",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "MCOM 410",
@@ -10369,7 +10369,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | M | 15:00 - 16:50",
       "instructor": "N Khan",
       "capacity": "30",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "PSYC 465",
