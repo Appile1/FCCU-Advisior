@@ -4059,17 +4059,58 @@
     ],
     "current_courses": [
       {
+        "course_code": "FREN 101",
+        "section": "A",
+        "course_name": "French 1",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE139",
+        "unique": "FREN 101/A"
+      },
+      {
+        "course_code": "FREN 101",
+        "section": "B",
+        "course_name": "French 1",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE139",
+        "unique": "FREN 101/B"
+      },
+      {
+        "course_code": "FREN 101",
+        "section": "C",
+        "course_name": "French 1",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "EBLOCKE139",
+        "unique": "FREN 101/C"
+      },
+      {
+        "course_code": "FREN 101",
+        "section": "D",
+        "course_name": "French 1",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE139",
+        "unique": "FREN 101/D"
+      },
+      {
         "course_code": "FREN 102",
         "section": "A",
         "course_name": "French II",
         "schedule": "M W F | 10:00 - 10:50",
         "classroom": "EBLOCKE139",
         "unique": "FREN 102/A"
+      },
+      {
+        "course_code": "FREN 310",
+        "section": "A",
+        "course_name": "French Culture and Civilization",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE139",
+        "unique": "FREN 310/A"
       }
     ],
     "all_courses": [
       "FREN 101",
-      "FREN 102"
+      "FREN 102",
+      "FREN 310"
     ]
   },
   {
@@ -12645,16 +12686,7 @@
     "departments": [
       "FREN"
     ],
-    "current_courses": [
-      {
-        "course_code": "FREN 310",
-        "section": "A",
-        "course_name": "French Culture and Civilization",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE139",
-        "unique": "FREN 310/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "FREN 310"
     ]

@@ -3654,5 +3654,45 @@
     "section": "B",
     "instructor": "D Ahmed",
     "timestamp": "2026-11-25T05:40:49.093015+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: FREN 101 (A) - TBD",
+    "course_code": "FREN 101",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-11-25T05:50:41.485854+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: FREN 101 (B) - TBD",
+    "course_code": "FREN 101",
+    "section": "B",
+    "instructor": "TBD",
+    "timestamp": "2026-11-25T05:50:41.485871+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: FREN 101 (C) - TBD",
+    "course_code": "FREN 101",
+    "section": "C",
+    "instructor": "TBD",
+    "timestamp": "2026-11-25T05:50:41.485874+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: FREN 101 (D) - TBD",
+    "course_code": "FREN 101",
+    "section": "D",
+    "instructor": "TBD",
+    "timestamp": "2026-11-25T05:50:41.485876+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for FREN 310 (A): S K Sook → TBD",
+    "course_code": "FREN 310",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-11-25T05:50:41.485879+00:00"
   }
 ]
