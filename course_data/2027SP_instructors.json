@@ -12743,5 +12743,43 @@
     "all_courses": [
       "DATA 203"
     ]
+  },
+  {
+    "name": "S Jelani",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENVR 160",
+        "section": "A",
+        "course_name": "*Intro. Org  Biochem",
+        "schedule": "M W F | 10:00 - 10:50 | M | 11:00 - 12:50",
+        "classroom": "SBLOCKS212 | SBLOCKS135",
+        "unique": "ENVR 160/A"
+      }
+    ],
+    "all_courses": [
+      "ENVR 160"
+    ]
+  },
+  {
+    "name": "S Azeem",
+    "departments": [
+      "ENVR"
+    ],
+    "current_courses": [
+      {
+        "course_code": "ENVR 311",
+        "section": "A",
+        "course_name": "*Fund Analy. Chem",
+        "schedule": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
+        "classroom": "SBLOCKS213 | SBLOCKS138",
+        "unique": "ENVR 311/A"
+      }
+    ],
+    "all_courses": [
+      "ENVR 311"
+    ]
   }
 ]
