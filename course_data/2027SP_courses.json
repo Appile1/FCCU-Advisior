@@ -901,7 +901,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Habib",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "BUSN 225",
@@ -7225,7 +7225,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "20",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "HPED 112",
@@ -7573,7 +7573,7 @@
       "schedule_raw": "M W | 10:00 - 10:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "ISLM 101",
@@ -9517,7 +9517,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "PLSC 331",
