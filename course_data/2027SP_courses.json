@@ -5353,7 +5353,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Mir",
       "capacity": "25",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "ENGL 108",
@@ -6409,7 +6409,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "FREN 310",
@@ -8101,7 +8101,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Janjua",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "MATH 109",
@@ -10417,7 +10417,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PSYC 502",
