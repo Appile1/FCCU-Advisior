@@ -3709,7 +3709,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "CSCS 203",
@@ -9529,7 +9529,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PLSC 336",
