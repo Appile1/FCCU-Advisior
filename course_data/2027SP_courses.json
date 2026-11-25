@@ -757,7 +757,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A George",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "BUSN 206",
@@ -769,7 +769,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M Rao",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 206",
@@ -805,7 +805,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "BUSN 206",
@@ -5413,7 +5413,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "N Ahmad",
       "capacity": "25",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "ENGL 108",
@@ -8605,7 +8605,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "MCOM 403",
@@ -8617,7 +8617,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "MCOM 409",
