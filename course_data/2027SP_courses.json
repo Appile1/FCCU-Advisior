@@ -3565,7 +3565,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CSCS 100",
@@ -3841,7 +3841,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Qureshi",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "CSCS 403",
@@ -5017,7 +5017,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "EDUC 120",
@@ -5785,7 +5785,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "R Wasif",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ENGL 201",
@@ -7033,7 +7033,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "HIST 250",
@@ -7609,7 +7609,7 @@
       "schedule_raw": "W F | 14:00 - 14:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "ISLM 101",
@@ -7621,7 +7621,7 @@
       "schedule_raw": "W F | 15:00 - 15:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "ISLM 101",
@@ -8017,7 +8017,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Ayub",
       "capacity": "5",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 105",
@@ -8845,7 +8845,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Shaggan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHIL 101",
@@ -9913,7 +9913,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "N Khan",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PSYC 280",
@@ -9925,7 +9925,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Shahed",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "PSYC 285",
