@@ -157,7 +157,7 @@
       "schedule_raw": "W F | 11:00 - 11:50 | F | 14:00 - 15:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "BIOL 102",
@@ -1381,7 +1381,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BUSN 370",
