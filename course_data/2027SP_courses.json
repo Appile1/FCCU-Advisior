@@ -37,7 +37,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "ARTS 106",
@@ -49,7 +49,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "29"
+      "available": "31"
     },
     {
       "course_code": "ARTS 111",
@@ -85,7 +85,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "35"
+      "available": "33"
     },
     {
       "course_code": "ARTS 303",
@@ -901,7 +901,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Habib",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "BUSN 225",
@@ -913,7 +913,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "M Habib",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "BUSN 225",
@@ -6121,7 +6121,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Machado",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "ENVR 252",
@@ -7669,7 +7669,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "ISLM 304",
@@ -9697,7 +9697,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Majeed",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "PSYC 100",
@@ -10369,7 +10369,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | M | 15:00 - 16:50",
       "instructor": "N Khan",
       "capacity": "30",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "PSYC 465",
