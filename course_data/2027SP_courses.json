@@ -4753,7 +4753,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A  Batool",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "ECON 411",
@@ -8101,7 +8101,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "F Janjua",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "MATH 109",
@@ -9457,7 +9457,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Q Memon",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "PLSC 303",
@@ -9601,7 +9601,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Younis",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "PLSC 499",
@@ -9925,7 +9925,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Shahed",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "PSYC 285",
@@ -11113,7 +11113,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "M Mughal",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 207",
