@@ -2833,7 +2833,7 @@
       "schedule_raw": "W F | 11:00 - 12:50",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "COMP 360",
@@ -2905,7 +2905,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "COMP 421",
