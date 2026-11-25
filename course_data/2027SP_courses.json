@@ -37,7 +37,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "ARTS 106",
@@ -61,7 +61,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "ARTS 121",
@@ -2713,7 +2713,7 @@
       "schedule_raw": "M W | 10:00 - 11:50",
       "instructor": "N Sabahat",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "COMP 213",
@@ -2749,7 +2749,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Sabahat",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "COMP 220",
@@ -3013,7 +3013,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "COMP 421",
@@ -3085,7 +3085,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "62"
+      "available": "61"
     },
     {
       "course_code": "CPPG 101",
@@ -3649,7 +3649,7 @@
       "schedule_raw": "T R | 15:30 - 16:45 | R | 08:00 - 10:50",
       "instructor": "A Atique",
       "capacity": "25",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "CSCS 201",
@@ -6037,7 +6037,7 @@
       "schedule_raw": "M W | 14:00 - 14:50 | R | 14:00 - 15:50",
       "instructor": "D Bakker",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "ENVR 101",
@@ -6409,7 +6409,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "FREN 310",
@@ -7753,7 +7753,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S K Sook",
       "capacity": "15",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "KORN 101",
@@ -7801,7 +7801,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Aftab",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "LING 217",
@@ -8437,7 +8437,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "MCOM 105",
@@ -8497,7 +8497,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "MCOM 290",
@@ -9421,7 +9421,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "M U Farooq",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "PLSC 301",
@@ -9541,7 +9541,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "PLSC 339",
