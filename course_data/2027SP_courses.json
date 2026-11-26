@@ -685,7 +685,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "BUSN 160",
@@ -2857,7 +2857,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "COMP 303",
@@ -3793,7 +3793,7 @@
       "schedule_raw": "M W | 08:00 - 09:50",
       "instructor": "A Yousaf",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "CSCS 363",
@@ -5077,7 +5077,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "EDUC 160",
@@ -5449,7 +5449,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "ENGL 108",
@@ -6361,7 +6361,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "3"
+      "available": "1"
     },
     {
       "course_code": "FREN 101",
@@ -10285,7 +10285,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "S Jabeen",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "PSYC 415",
@@ -10621,7 +10621,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "SOCL 100",
@@ -10645,7 +10645,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "SOCL 100",
@@ -10933,7 +10933,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Butt",
       "capacity": "15",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "STAT 101",
