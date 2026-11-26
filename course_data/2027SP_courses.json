@@ -2149,7 +2149,7 @@
       "schedule_raw": "M | 09:00 - 09:50 | F | 09:00 - 09:50 | F | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "CHEM 150",
@@ -5389,7 +5389,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M Zia",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -5473,7 +5473,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A  Khalid",
       "capacity": "25",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -8461,7 +8461,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "Z Masood",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "MCOM 200",
