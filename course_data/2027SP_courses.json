@@ -3025,7 +3025,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Sirhindi",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "COMP 421",
@@ -3037,7 +3037,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "R Sirhindi",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "COMP 451",
@@ -3085,7 +3085,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "61"
+      "available": "60"
     },
     {
       "course_code": "CPPG 101",
@@ -3709,7 +3709,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "CSCS 203",
