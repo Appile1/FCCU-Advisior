@@ -709,7 +709,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "BUSN 170",
@@ -1261,7 +1261,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Naumaan Ch",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 322",
@@ -2257,7 +2257,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | T | 09:00 - 10:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "CHEM 311",
@@ -3673,7 +3673,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "F Janjua",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "CSCS 202",
@@ -3925,7 +3925,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "Z Malik",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "CSSE 699A",
@@ -4489,7 +4489,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Z  Iqbal",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "ECON 206",
@@ -6781,7 +6781,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "GEOG 133",
@@ -6997,7 +6997,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Sumbal",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "HIST 204",
@@ -7321,7 +7321,7 @@
       "schedule_raw": "T | 14:00 - 14:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ISLM 100B",
@@ -7405,7 +7405,7 @@
       "schedule_raw": "M | 14:00 - 14:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 100B",
@@ -9913,7 +9913,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Shahed",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 285",
@@ -10981,7 +10981,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "STAT 102",
@@ -11029,7 +11029,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "STAT 115",
