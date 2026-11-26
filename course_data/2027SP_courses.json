@@ -325,7 +325,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A  Arshad",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "BIOT 313",
@@ -1753,7 +1753,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "BUSN 490",
@@ -1777,7 +1777,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "BUSN 490",
@@ -1813,7 +1813,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "BUSN 498",
@@ -2737,7 +2737,7 @@
       "schedule_raw": "W F | 11:00 - 12:50",
       "instructor": "S Abbasi",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "COMP 220",
@@ -3313,7 +3313,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "CRIM 460",
@@ -5473,7 +5473,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A  Khalid",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -6217,7 +6217,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "ENVR 403",
@@ -7477,7 +7477,7 @@
       "schedule_raw": "T | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "ISLM 100B",
@@ -7969,7 +7969,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "N Shahid",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "MATH 102",
@@ -9001,7 +9001,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
       "instructor": "H Latif",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "PHYS 104",
@@ -9493,7 +9493,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "PLSC 323",
@@ -9529,7 +9529,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "PLSC 339",
@@ -11449,7 +11449,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Virk",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "URDU 106",
