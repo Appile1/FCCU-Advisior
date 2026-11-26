@@ -49,7 +49,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS 111",
@@ -133,7 +133,7 @@
       "schedule_raw": "T R | 12:30 - 13:20 | W | 14:00 - 15:50",
       "instructor": "M Imran",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOL 100",
@@ -169,7 +169,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | R | 11:00 - 12:50",
       "instructor": "M Hussain",
       "capacity": "35",
-      "available": "27"
+      "available": "25"
     },
     {
       "course_code": "BIOL 105",
@@ -4033,7 +4033,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "DATA 102",
@@ -4981,7 +4981,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "EDUC 120",
@@ -6205,7 +6205,7 @@
       "schedule_raw": "M   F | 12:00 - 12:50 | T | 14:00 - 15:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "ENVR 402",
@@ -9925,7 +9925,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "PSYC 290",
@@ -10645,7 +10645,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "SOCL 100",
@@ -10897,7 +10897,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "STAT 100",
