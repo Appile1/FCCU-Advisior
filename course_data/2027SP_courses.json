@@ -3301,7 +3301,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A  Azeem",
       "capacity": "5",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CRIM 310",
@@ -4273,7 +4273,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "ECON 100",
@@ -5413,7 +5413,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "N Ahmad",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -5473,7 +5473,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A  Khalid",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -5665,7 +5665,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Pervez",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "ENGL 108",
@@ -6853,7 +6853,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "GEOG 270",
@@ -7657,7 +7657,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "ISLM 302",
@@ -9301,7 +9301,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -9325,7 +9325,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PLSC 102",
@@ -10921,7 +10921,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 101",
@@ -11305,7 +11305,7 @@
       "schedule_raw": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "URDU 101",
@@ -11485,7 +11485,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Samuel",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "URDU 499",
