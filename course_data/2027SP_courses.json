@@ -1081,7 +1081,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Chughtai",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "BUSN 250",
@@ -1249,7 +1249,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Hamid",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "BUSN 305",
@@ -1489,7 +1489,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "BUSN 370",
@@ -1501,7 +1501,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "BUSN 370",
@@ -1621,7 +1621,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Naumaan Ch",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 469",
@@ -3349,7 +3349,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "CRST 152",
@@ -3673,7 +3673,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "F Janjua",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "CSCS 202",
@@ -4045,7 +4045,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Ayub",
       "capacity": "15",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "DATA 102",
@@ -4981,7 +4981,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "EDUC 120",
@@ -5041,7 +5041,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "EDUC 120",
@@ -5317,7 +5317,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Fareed",
       "capacity": "25",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ENGL 108",
@@ -5425,7 +5425,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Justin",
       "capacity": "25",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "ENGL 108",
@@ -6217,7 +6217,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Akram",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ENVR 403",
@@ -7297,7 +7297,7 @@
       "schedule_raw": "T | 14:00 - 14:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "ISLM 100B",
@@ -7333,7 +7333,7 @@
       "schedule_raw": "R | 14:00 - 14:50",
       "instructor": "A Naeem",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "ISLM 100B",
@@ -7345,7 +7345,7 @@
       "schedule_raw": "R | 14:00 - 14:50",
       "instructor": "A Naeem",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "ISLM 100B",
@@ -7357,7 +7357,7 @@
       "schedule_raw": "R | 14:00 - 14:50",
       "instructor": "A Naeem",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "ISLM 100B",
@@ -7429,7 +7429,7 @@
       "schedule_raw": "M | 14:00 - 14:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ISLM 100B",
@@ -7573,7 +7573,7 @@
       "schedule_raw": "M W | 10:00 - 10:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
@@ -7993,7 +7993,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Nadeem",
       "capacity": "20",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "MATH 105",
@@ -8533,7 +8533,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "MCOM 301",
@@ -8545,7 +8545,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "MCOM 310",
@@ -9301,7 +9301,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "PLSC 101",
@@ -10897,7 +10897,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "STAT 100",
@@ -11449,7 +11449,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Virk",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "URDU 106",
