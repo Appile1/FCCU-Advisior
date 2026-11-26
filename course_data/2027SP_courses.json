@@ -517,7 +517,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "BUSN 121",
@@ -2125,7 +2125,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | W | 11:00 - 12:50",
       "instructor": "M Asghar",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "CHEM 100",
@@ -2161,7 +2161,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | F | 11:00 - 12:50",
       "instructor": "S Azeem",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "CHEM 150",
@@ -2605,7 +2605,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | T | 14:00 - 16:50",
       "instructor": "S Qureshi",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "COMP 113",
@@ -3061,7 +3061,7 @@
       "schedule_raw": "M | 11:00 - 12:50 | F | 11:00 - 12:50",
       "instructor": "A Basharat",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "COMP 497A",
@@ -3097,7 +3097,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "CPPG 111",
@@ -3121,7 +3121,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "CPPG 201",
@@ -3649,7 +3649,7 @@
       "schedule_raw": "T R | 15:30 - 16:45 | R | 08:00 - 10:50",
       "instructor": "A Atique",
       "capacity": "25",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "CSCS 201",
@@ -4981,7 +4981,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "EDUC 120",
@@ -5317,7 +5317,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Fareed",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "ENGL 108",
@@ -6985,7 +6985,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Hayat",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "HIST 202",
@@ -7165,7 +7165,7 @@
       "schedule_raw": "T R | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HPED 106",
@@ -8413,7 +8413,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S. Zehra",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MCOM 105",
@@ -10981,7 +10981,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "STAT 102",
