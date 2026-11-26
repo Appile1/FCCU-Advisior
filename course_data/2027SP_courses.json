@@ -1069,7 +1069,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Chughtai",
       "capacity": "35",
-      "available": "34"
+      "available": "35"
     },
     {
       "course_code": "BUSN 250",
@@ -2605,7 +2605,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | T | 14:00 - 16:50",
       "instructor": "S Qureshi",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "COMP 113",
@@ -3565,7 +3565,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 100",
@@ -8905,7 +8905,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "28"
+      "available": "29"
     },
     {
       "course_code": "PHIL 341",
@@ -11017,7 +11017,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "I Naqvi",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "STAT 115",
