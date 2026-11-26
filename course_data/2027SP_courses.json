@@ -2617,7 +2617,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Atique",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "COMP 113",
@@ -4093,7 +4093,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "DATA 203",
@@ -8233,7 +8233,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Tayyab",
       "capacity": "35",
-      "available": "28"
+      "available": "29"
     },
     {
       "course_code": "MATH 113",
@@ -9805,7 +9805,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "PSYC 180",
@@ -10897,7 +10897,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Raza",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "STAT 100",
@@ -11017,7 +11017,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "I Naqvi",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "STAT 115",
@@ -11461,7 +11461,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "Q Hayat",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "URDU 208",
