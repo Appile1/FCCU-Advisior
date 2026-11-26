@@ -4309,7 +4309,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "ECON 101",
@@ -6373,7 +6373,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "FREN 101",
@@ -6385,7 +6385,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "FREN 101",
@@ -6769,7 +6769,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 133",
@@ -10021,7 +10021,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "U Ilyas",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PSYC 305",
@@ -10717,7 +10717,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "SOCL 301",
