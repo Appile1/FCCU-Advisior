@@ -2605,7 +2605,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50 | T | 14:00 - 16:50",
       "instructor": "S Qureshi",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "COMP 113",
@@ -11017,7 +11017,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "I Naqvi",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "STAT 115",
