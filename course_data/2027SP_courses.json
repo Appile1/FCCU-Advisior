@@ -1153,7 +1153,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "Afaf k",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 250",
@@ -1213,7 +1213,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "BUSN 250",
@@ -2101,7 +2101,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "W Khan",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "BUSN 695",
@@ -2113,7 +2113,7 @@
       "schedule_raw": "M W | 11:30 - 12:45",
       "instructor": "I Ahmed",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "CHEM 100",
@@ -2149,7 +2149,7 @@
       "schedule_raw": "M | 09:00 - 09:50 | F | 09:00 - 09:50 | F | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "CHEM 150",
@@ -2209,7 +2209,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | T | 11:00 - 12:50",
       "instructor": "D Ahmed",
       "capacity": "25",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "CHEM 170",
@@ -4597,7 +4597,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "U Hanif",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "ECON 304",
@@ -4693,7 +4693,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "R Ahmed",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ECON 326",
@@ -6037,7 +6037,7 @@
       "schedule_raw": "M W | 14:00 - 14:50 | R | 14:00 - 15:50",
       "instructor": "D Bakker",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENVR 101",
@@ -7849,7 +7849,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Wasim",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "LING 315",
@@ -9289,7 +9289,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "PLSC 101",
