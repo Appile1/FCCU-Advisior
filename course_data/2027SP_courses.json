@@ -3349,7 +3349,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "CRST 152",
@@ -3373,7 +3373,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "CRST 211",
@@ -5557,7 +5557,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "ENGL 108",
@@ -5581,7 +5581,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "T Bokhari",
       "capacity": "25",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ENGL 108",
@@ -5593,7 +5593,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "ENGL 108",
@@ -9445,7 +9445,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Q Memon",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "PLSC 303",
@@ -10021,7 +10021,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "U Ilyas",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "PSYC 305",
@@ -11053,7 +11053,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "STAT 206",
