@@ -3798,5 +3798,21 @@
     "section": "A",
     "instructor": "Q Hayat",
     "timestamp": "2026-11-26T06:05:38.824696+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: URDU 101 (U) - Q Hayat",
+    "course_code": "URDU 101",
+    "section": "U",
+    "instructor": "Q Hayat",
+    "timestamp": "2026-11-26T06:10:48.423748+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for URDU 102 (A): S Ashraf → A Virk",
+    "course_code": "URDU 102",
+    "section": "A",
+    "instructor": "A Virk",
+    "timestamp": "2026-11-26T06:10:48.423767+00:00"
   }
 ]

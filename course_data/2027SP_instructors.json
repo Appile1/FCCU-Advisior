@@ -9523,6 +9523,14 @@
         "unique": "URDU 101/A"
       },
       {
+        "course_code": "URDU 101",
+        "section": "U",
+        "course_name": "Communicative Urdu",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE104",
+        "unique": "URDU 101/U"
+      },
+      {
         "course_code": "URDU 106",
         "section": "A",
         "course_name": "A Study of Manto",
@@ -9647,14 +9655,6 @@
         "schedule": "M W F | 10:00 - 10:50",
         "classroom": "EBLOCKE102",
         "unique": "URDU 101/G"
-      },
-      {
-        "course_code": "URDU 102",
-        "section": "A",
-        "course_name": "A Foundational Study of Iqbal",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE102",
-        "unique": "URDU 102/A"
       },
       {
         "course_code": "URDU 519",
@@ -9811,6 +9811,14 @@
     ],
     "current_courses": [
       {
+        "course_code": "URDU 102",
+        "section": "A",
+        "course_name": "A Foundational Study of Iqbal",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE102",
+        "unique": "URDU 102/A"
+      },
+      {
         "course_code": "URDU 506",
         "section": "A",
         "course_name": "Research Seminar",
@@ -9820,6 +9828,7 @@
       }
     ],
     "all_courses": [
+      "URDU 102",
       "URDU 106",
       "URDU 506"
     ]
