@@ -49,7 +49,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS 111",
@@ -181,7 +181,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
       "instructor": "S Dogar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOL 201",
@@ -4081,7 +4081,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "M Mughal",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "DATA 202",
@@ -4105,7 +4105,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Nadeem",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "DATA 206",
@@ -6037,7 +6037,7 @@
       "schedule_raw": "M W | 14:00 - 14:50 | R | 14:00 - 15:50",
       "instructor": "D Bakker",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENVR 101",
@@ -6385,7 +6385,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "FREN 101",
@@ -6397,7 +6397,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "FREN 102",
@@ -6769,7 +6769,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 133",
@@ -7153,7 +7153,7 @@
       "schedule_raw": "M W | 15:00 - 15:50",
       "instructor": "S Khaliq",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "HPED 105",
@@ -7261,7 +7261,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "HPED 151",
