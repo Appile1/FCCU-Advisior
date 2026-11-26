@@ -181,7 +181,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
       "instructor": "S Dogar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOL 201",
@@ -7945,7 +7945,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Janjua",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "MATH 102",
