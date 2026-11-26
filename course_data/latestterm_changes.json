@@ -3830,5 +3830,13 @@
     "section": "MM",
     "instructor": "TBD",
     "timestamp": "2026-11-26T07:10:47.483792+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PHYS 100 (B): K Javed → S Shabbir",
+    "course_code": "PHYS 100",
+    "section": "B",
+    "instructor": "S Shabbir",
+    "timestamp": "2026-11-26T09:25:43.377045+00:00"
   }
 ]

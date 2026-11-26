@@ -6441,6 +6441,14 @@
         "schedule": "T R | 14:00 - 14:50 | W | 14:00 - 15:50",
         "classroom": "SBLOCKS007 | SBLOCKS029",
         "unique": "PHYS 100/A"
+      },
+      {
+        "course_code": "PHYS 100",
+        "section": "B",
+        "course_name": "*Intro. to Physics",
+        "schedule": "T R | 11:00 - 11:50 | F | 14:00 - 16:00",
+        "classroom": "SBLOCKS039 | SBLOCKS027A",
+        "unique": "PHYS 100/B"
       }
     ],
     "all_courses": [
@@ -6574,14 +6582,6 @@
       "PHYS"
     ],
     "current_courses": [
-      {
-        "course_code": "PHYS 100",
-        "section": "B",
-        "course_name": "*Intro. to Physics",
-        "schedule": "M | 14:00 - 15:50 | T R | 11:00 - 11:50",
-        "classroom": "SBLOCKS027A | SBLOCKS039",
-        "unique": "PHYS 100/B"
-      },
       {
         "course_code": "PHYS 483",
         "section": "A",
