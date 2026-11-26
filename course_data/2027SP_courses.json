@@ -2833,7 +2833,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Yousaf",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "COMP 302",
@@ -7153,7 +7153,7 @@
       "schedule_raw": "M W | 15:00 - 15:50",
       "instructor": "S Khaliq",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "HPED 105",
@@ -7333,7 +7333,7 @@
       "schedule_raw": "R | 14:00 - 14:50",
       "instructor": "A Naeem",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "ISLM 100B",
@@ -10693,7 +10693,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "T Fatima",
       "capacity": "30",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "SOCL 220",
@@ -10873,7 +10873,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "J parra",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SPAN 101",
