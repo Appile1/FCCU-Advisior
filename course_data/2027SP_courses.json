@@ -85,7 +85,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Naeem",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "ARTS 303",
@@ -6421,7 +6421,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "FSQM 504",
@@ -7309,7 +7309,7 @@
       "schedule_raw": "T | 14:00 - 14:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "8"
+      "available": "10"
     },
     {
       "course_code": "ISLM 100B",
@@ -7381,7 +7381,7 @@
       "schedule_raw": "T | 15:00 - 15:50",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "28"
+      "available": "26"
     },
     {
       "course_code": "ISLM 100B",
@@ -7957,7 +7957,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Malik",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 102",
@@ -10645,7 +10645,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "SOCL 100",
