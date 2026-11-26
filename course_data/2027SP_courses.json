@@ -925,7 +925,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Habib",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "BUSN 225",
@@ -937,7 +937,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "BUSN 225",
@@ -2149,7 +2149,7 @@
       "schedule_raw": "M | 09:00 - 09:50 | F | 09:00 - 09:50 | F | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "CHEM 150",
@@ -3721,7 +3721,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "CSCS 291",
@@ -9925,7 +9925,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Shahed",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "PSYC 285",
@@ -10021,7 +10021,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "E Shahid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 301",
