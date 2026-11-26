@@ -517,7 +517,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BUSN 121",
@@ -877,7 +877,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BUSN 206",
@@ -4093,7 +4093,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "DATA 203",
@@ -5041,7 +5041,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "EDUC 120",
@@ -10645,7 +10645,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "SOCL 100",
@@ -11305,7 +11305,7 @@
       "schedule_raw": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
       "instructor": "S Iqbal",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "URDU 101",
