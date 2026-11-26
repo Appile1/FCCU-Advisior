@@ -3814,5 +3814,21 @@
     "section": "A",
     "instructor": "A Virk",
     "timestamp": "2026-11-26T06:10:48.423767+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 108 (H): TBD → N Justin",
+    "course_code": "ENGL 108",
+    "section": "H",
+    "instructor": "N Justin",
+    "timestamp": "2026-11-26T07:10:47.483773+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 108 (MM): N Justin → TBD",
+    "course_code": "ENGL 108",
+    "section": "MM",
+    "instructor": "TBD",
+    "timestamp": "2026-11-26T07:10:47.483792+00:00"
   }
 ]
