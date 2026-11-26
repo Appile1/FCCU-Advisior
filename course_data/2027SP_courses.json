@@ -625,7 +625,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Mughal",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "BUSN 160",
@@ -697,7 +697,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "BUSN 160",
@@ -877,7 +877,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "BUSN 206",
@@ -2869,7 +2869,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "N Nazar",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "COMP 303",
@@ -3565,7 +3565,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CSCS 100",
@@ -5053,7 +5053,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "EDUC 120",
@@ -5593,7 +5593,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ENGL 108",
