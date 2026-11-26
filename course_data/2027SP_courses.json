@@ -11053,7 +11053,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "STAT 206",
@@ -11089,7 +11089,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Hanook",
       "capacity": "20",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "STAT 207",
