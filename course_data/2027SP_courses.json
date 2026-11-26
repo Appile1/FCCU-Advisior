@@ -157,7 +157,7 @@
       "schedule_raw": "W F | 11:00 - 11:50 | F | 14:00 - 15:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 102",
@@ -3001,7 +3001,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "COMP 421",
@@ -4309,7 +4309,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "ECON 101",
@@ -4657,7 +4657,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Lodhi",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "ECON 322",
@@ -5317,7 +5317,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Fareed",
       "capacity": "25",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "ENGL 108",
@@ -5377,7 +5377,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Fareed",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -5485,7 +5485,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Khalid",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -6121,7 +6121,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Machado",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "ENVR 252",
@@ -6385,7 +6385,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "FREN 101",
@@ -7393,7 +7393,7 @@
       "schedule_raw": "T | 15:00 - 15:50",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "ISLM 100B",
@@ -9277,7 +9277,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "PLSC 101",
@@ -9325,7 +9325,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "PLSC 102",
@@ -9385,7 +9385,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "PLSC 203",
