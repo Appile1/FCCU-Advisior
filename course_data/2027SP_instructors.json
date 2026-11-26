@@ -8229,16 +8229,7 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [
-      {
-        "course_code": "UNIV 100",
-        "section": "B",
-        "course_name": "FOUND  UNIV EDUC",
-        "schedule": "MTWRF | 10:00 - 13:00 | W | 14:00 - 16:00",
-        "classroom": "EBLOCKTBD | EBLOCKE102",
-        "unique": "UNIV 100/B"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8248,16 +8239,7 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [
-      {
-        "course_code": "UNIV 100",
-        "section": "C",
-        "course_name": "FOUND  UNIV EDUC",
-        "schedule": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
-        "classroom": "EBLOCKTBD | EBLOCKE102",
-        "unique": "UNIV 100/C"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8267,24 +8249,7 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [
-      {
-        "course_code": "UNIV 100",
-        "section": "D",
-        "course_name": "FOUND  UNIV EDUC",
-        "schedule": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
-        "classroom": "EBLOCKTBD | EBLOCKE103",
-        "unique": "UNIV 100/D"
-      },
-      {
-        "course_code": "UNIV 100",
-        "section": "K",
-        "course_name": "FOUND  UNIV EDUC",
-        "schedule": "MTWRF | 10:00 - 13:00 | W | 14:00 - 16:00",
-        "classroom": "EBLOCKTBD | SBLOCKS008",
-        "unique": "UNIV 100/K"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8294,16 +8259,7 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [
-      {
-        "course_code": "UNIV 100",
-        "section": "E",
-        "course_name": "FOUND  UNIV EDUC",
-        "schedule": "MTWRF | 10:00 - 13:00 | W | 14:00 - 16:00",
-        "classroom": "EBLOCKTBD | EBLOCKE103",
-        "unique": "UNIV 100/E"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8313,16 +8269,7 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [
-      {
-        "course_code": "UNIV 100",
-        "section": "F",
-        "course_name": "FOUND  UNIV EDUC",
-        "schedule": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
-        "classroom": "EBLOCKTBD | EBLOCKE103",
-        "unique": "UNIV 100/F"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8332,16 +8279,7 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [
-      {
-        "course_code": "UNIV 100",
-        "section": "G",
-        "course_name": "FOUND  UNIV EDUC",
-        "schedule": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
-        "classroom": "EBLOCKTBD | EBLOCKE122",
-        "unique": "UNIV 100/G"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8351,16 +8289,7 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [
-      {
-        "course_code": "UNIV 100",
-        "section": "H",
-        "course_name": "FOUND  UNIV EDUC",
-        "schedule": "MTWRF | 10:00 - 13:00 | W | 14:00 - 16:00",
-        "classroom": "EBLOCKTBD | EBLOCKE122",
-        "unique": "UNIV 100/H"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8370,16 +8299,7 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [
-      {
-        "course_code": "UNIV 100",
-        "section": "I",
-        "course_name": "FOUND  UNIV EDUC",
-        "schedule": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
-        "classroom": "EBLOCKTBD | EBLOCKE122",
-        "unique": "UNIV 100/I"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8389,16 +8309,7 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [
-      {
-        "course_code": "UNIV 100",
-        "section": "J",
-        "course_name": "FOUND  UNIV EDUC",
-        "schedule": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
-        "classroom": "EBLOCKTBD | SBLOCKS008",
-        "unique": "UNIV 100/J"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8408,16 +8319,7 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [
-      {
-        "course_code": "UNIV 100",
-        "section": "L",
-        "course_name": "FOUND  UNIV EDUC",
-        "schedule": "MTWRF | 10:00 - 13:00 | F | 14:00 - 16:00",
-        "classroom": "EBLOCKTBD | SBLOCKS008",
-        "unique": "UNIV 100/L"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "UNIV 100"
     ]
@@ -8427,16 +8329,7 @@
     "departments": [
       "UNIV"
     ],
-    "current_courses": [
-      {
-        "course_code": "UNIV 100",
-        "section": "M",
-        "course_name": "FOUND  UNIV EDUC",
-        "schedule": "MTWRF | 10:00 - 13:00 | M | 14:00 - 16:00",
-        "classroom": "EBLOCKTBD | SBLOCKS109",
-        "unique": "UNIV 100/M"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "UNIV 100"
     ]
