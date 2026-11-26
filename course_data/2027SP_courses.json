@@ -7933,7 +7933,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "MATH 101",
@@ -10141,7 +10141,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 350",
@@ -10273,7 +10273,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A  Nazim",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PSYC 390",
