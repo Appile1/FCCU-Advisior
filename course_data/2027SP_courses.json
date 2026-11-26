@@ -394,7 +394,7 @@
       "course_name": "*Medi. Biotechnology",
       "credits": "3.00",
       "classroom": "SBLOCKS341",
-      "schedule_raw": "M W F | 14:00 - 14:50",
+      "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Asghar",
       "capacity": "35",
       "available": "32"
@@ -541,7 +541,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "K AMAD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 121",
@@ -613,7 +613,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "BUSN 160",
@@ -4309,7 +4309,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ECON 101",
@@ -4345,7 +4345,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Z Manzoor",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "ECON 102",
@@ -6973,7 +6973,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 201",
@@ -6985,7 +6985,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Hayat",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "HIST 202",
@@ -7033,7 +7033,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "HIST 250",
@@ -7153,7 +7153,7 @@
       "schedule_raw": "M W | 15:00 - 15:50",
       "instructor": "S Khaliq",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "HPED 105",
@@ -7249,7 +7249,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | M | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "HPED 150",
@@ -7261,7 +7261,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "HPED 151",
@@ -7381,7 +7381,7 @@
       "schedule_raw": "T | 15:00 - 15:50",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "ISLM 100B",
@@ -7645,7 +7645,7 @@
       "schedule_raw": "M | 16:00 - 16:50 | F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 104",
@@ -7957,7 +7957,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Malik",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 102",
@@ -7969,7 +7969,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "N Shahid",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "MATH 102",
@@ -8497,7 +8497,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S A Naeem",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "MCOM 290",
@@ -9793,7 +9793,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "PSYC 165",
