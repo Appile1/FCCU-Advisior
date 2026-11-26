@@ -5881,7 +5881,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Saleh",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "ENGL 323",
@@ -6097,7 +6097,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Shafiqu",
       "capacity": "25",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "ENVR 212",
@@ -7033,7 +7033,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Shafqat",
       "capacity": "35",
-      "available": "30"
+      "available": "31"
     },
     {
       "course_code": "HIST 250",
@@ -8893,7 +8893,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PHIL 331",
@@ -9913,7 +9913,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "N Khan",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "PSYC 280",
