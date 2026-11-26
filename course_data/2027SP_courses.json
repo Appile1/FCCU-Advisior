@@ -4309,7 +4309,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "ECON 101",
@@ -5449,7 +5449,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "ENGL 108",
@@ -5797,7 +5797,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "ENGL 214",
@@ -6985,7 +6985,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Hayat",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 202",
@@ -7009,7 +7009,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Haider",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "HIST 207",
@@ -7981,7 +7981,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "MATH 103",
@@ -10981,7 +10981,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "STAT 102",
