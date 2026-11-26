@@ -3790,5 +3790,13 @@
     "section": "C",
     "instructor": "G Mehak",
     "timestamp": "2026-11-25T12:40:47.609672+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for URDU 106 (A): A Virk → Q Hayat",
+    "course_code": "URDU 106",
+    "section": "A",
+    "instructor": "Q Hayat",
+    "timestamp": "2026-11-26T06:05:38.824696+00:00"
   }
 ]

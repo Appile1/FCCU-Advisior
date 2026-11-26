@@ -9521,10 +9521,19 @@
         "schedule": "M W F | 08:00 - 08:50",
         "classroom": "EBLOCKE101",
         "unique": "URDU 101/A"
+      },
+      {
+        "course_code": "URDU 106",
+        "section": "A",
+        "course_name": "A Study of Manto",
+        "schedule": "M W F | 15:00 - 15:50",
+        "classroom": "SBLOCKS212",
+        "unique": "URDU 106/A"
       }
     ],
     "all_courses": [
-      "URDU 101"
+      "URDU 101",
+      "URDU 106"
     ]
   },
   {
@@ -9759,7 +9768,7 @@
         "section": "R",
         "course_name": "Communicative Urdu",
         "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "SBLOCKS212",
+        "classroom": "EBLOCKE105",
         "unique": "URDU 101/R"
       },
       {
@@ -9801,14 +9810,6 @@
       "URDU"
     ],
     "current_courses": [
-      {
-        "course_code": "URDU 106",
-        "section": "A",
-        "course_name": "A Study of Manto",
-        "schedule": "M W F | 15:00 - 15:50",
-        "classroom": "EBLOCKE105",
-        "unique": "URDU 106/A"
-      },
       {
         "course_code": "URDU 506",
         "section": "A",
