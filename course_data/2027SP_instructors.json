@@ -6612,16 +6612,7 @@
     "departments": [
       "PHYS"
     ],
-    "current_courses": [
-      {
-        "course_code": "PHYS 332",
-        "section": "A",
-        "course_name": "Electronics II",
-        "schedule": "M W F | 10:00 - 10:50 | R | 08:00 - 09:50",
-        "classroom": "SBLOCKS029 | SBLOCKS027B",
-        "unique": "PHYS 332/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "PHYS 101",
       "PHYS 103",
