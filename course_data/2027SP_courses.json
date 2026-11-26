@@ -5005,7 +5005,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "EDUC 120",
@@ -5425,7 +5425,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Justin",
       "capacity": "25",
-      "available": "4"
+      "available": "2"
     },
     {
       "course_code": "ENGL 108",
@@ -5521,7 +5521,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "ENGL 108",
@@ -6361,7 +6361,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "FREN 101",
@@ -6757,7 +6757,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "K Shafiqu",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GEOG 101",
@@ -8917,7 +8917,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "PHYS 100",
@@ -9421,7 +9421,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "PLSC 301",
@@ -9505,7 +9505,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "PLSC 331",
@@ -9745,7 +9745,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Asif",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 140",
@@ -10405,7 +10405,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "PSYC 502",
@@ -11065,7 +11065,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "STAT 206",
