@@ -7213,7 +7213,7 @@
       "schedule_raw": "M W | 16:00 - 16:50",
       "instructor": "S Khaliq",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "HPED 111",
@@ -7225,7 +7225,7 @@
       "schedule_raw": "T R | 15:00 - 16:00",
       "instructor": "S Khaliq",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HPED 112",
@@ -7297,7 +7297,7 @@
       "schedule_raw": "T | 14:00 - 14:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "ISLM 100B",
@@ -8065,7 +8065,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Butt",
       "capacity": "5",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "MATH 107",
