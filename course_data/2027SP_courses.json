@@ -877,7 +877,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Rao",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "BUSN 206",
@@ -889,7 +889,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "32"
+      "available": "30"
     },
     {
       "course_code": "BUSN 225",
@@ -2509,7 +2509,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Z Kexin",
       "capacity": "20",
-      "available": "3"
+      "available": "0"
     },
     {
       "course_code": "CHIN 101",
@@ -5365,7 +5365,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "ENGL 108",
@@ -6913,7 +6913,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "H Mahmood",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "GRMN 101",
@@ -7057,7 +7057,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 255",
@@ -7117,7 +7117,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "HIST 313",
@@ -7405,7 +7405,7 @@
       "schedule_raw": "T | 15:00 - 15:50",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "ISLM 100B",
@@ -7957,7 +7957,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Janjua",
       "capacity": "35",
-      "available": "20"
+      "available": "22"
     },
     {
       "course_code": "MATH 102",
@@ -9301,7 +9301,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -9337,7 +9337,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "11"
+      "available": "12"
     },
     {
       "course_code": "PLSC 102",
