@@ -11076,28 +11076,28 @@
         "unique": "BUSN 160/N"
       },
       {
+        "course_code": "BUSN 170",
+        "section": "A",
+        "course_name": "Principles of Manage",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE332",
+        "unique": "BUSN 170/A"
+      },
+      {
+        "course_code": "BUSN 206",
+        "section": "J",
+        "course_name": "Mgt. Acc. & Control",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE343",
+        "unique": "BUSN 206/J"
+      },
+      {
         "course_code": "BUSN 206",
         "section": "K",
         "course_name": "Mgt. Acc. & Control",
         "schedule": "M W F | 08:00 - 08:50",
         "classroom": "EBLOCKE331",
         "unique": "BUSN 206/K"
-      },
-      {
-        "course_code": "BUSN 206",
-        "section": "L",
-        "course_name": "Mgt. Acc. & Control",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE331",
-        "unique": "BUSN 206/L"
-      },
-      {
-        "course_code": "BUSN 206",
-        "section": "M",
-        "course_name": "Mgt. Acc. & Control",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE333",
-        "unique": "BUSN 206/M"
       },
       {
         "course_code": "BUSN 206",
@@ -11189,6 +11189,14 @@
       },
       {
         "course_code": "BUSN 322",
+        "section": "B",
+        "course_name": "Financial Managmt II",
+        "schedule": "M W F | 16:00 - 16:50",
+        "classroom": "EBLOCKE343",
+        "unique": "BUSN 322/B"
+      },
+      {
+        "course_code": "BUSN 322",
         "section": "C",
         "course_name": "Financial Managmt II",
         "schedule": "M W F | 12:00 - 12:50",
@@ -11252,6 +11260,14 @@
         "unique": "BUSN 401/B"
       },
       {
+        "course_code": "BUSN 469",
+        "section": "A",
+        "course_name": "Project Mang Proc",
+        "schedule": "T R | 11:00 - 12:15",
+        "classroom": "EBLOCKE346",
+        "unique": "BUSN 469/A"
+      },
+      {
         "course_code": "BUSN 484",
         "section": "D",
         "course_name": "Brand Management",
@@ -11274,14 +11290,6 @@
         "schedule": "M W F | 12:00 - 12:50",
         "classroom": "EBLOCKE345",
         "unique": "BUSN 490/B"
-      },
-      {
-        "course_code": "BUSN 490",
-        "section": "C",
-        "course_name": "Analysis of Inst",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE344",
-        "unique": "BUSN 490/C"
       },
       {
         "course_code": "BUSN 490",
@@ -11340,6 +11348,22 @@
         "unique": "BUSN 498/G"
       },
       {
+        "course_code": "BUSN 506",
+        "section": "A",
+        "course_name": "MGMT ACCTG",
+        "schedule": "T R | 10:00 - 11:15",
+        "classroom": "EBLOCKE323",
+        "unique": "BUSN 506/A"
+      },
+      {
+        "course_code": "BUSN 506",
+        "section": "B",
+        "course_name": "MGMT ACCTG",
+        "schedule": "T R | 10:00 - 11:15",
+        "classroom": "EBLOCKE324",
+        "unique": "BUSN 506/B"
+      },
+      {
         "course_code": "BUSN 522",
         "section": "A",
         "course_name": "MACROECONOMICS",
@@ -11370,11 +11394,20 @@
         "schedule": "F | 14:00 - 17:00",
         "classroom": "EBLOCKE324",
         "unique": "BUSN 585/B"
+      },
+      {
+        "course_code": "BUSN 670",
+        "section": "A",
+        "course_name": "NEW PRODUCT DEVT",
+        "schedule": "T R | 08:00 - 09:15",
+        "classroom": "EBLOCKE324",
+        "unique": "BUSN 670/A"
       }
     ],
     "all_courses": [
       "BUSN 121",
       "BUSN 160",
+      "BUSN 170",
       "BUSN 206",
       "BUSN 225",
       "BUSN 250",
@@ -11382,11 +11415,14 @@
       "BUSN 322",
       "BUSN 370",
       "BUSN 401",
+      "BUSN 469",
       "BUSN 484",
       "BUSN 490",
       "BUSN 498",
+      "BUSN 506",
       "BUSN 522",
-      "BUSN 585"
+      "BUSN 585",
+      "BUSN 670"
     ]
   },
   {
@@ -11460,14 +11496,6 @@
       "BUSN"
     ],
     "current_courses": [
-      {
-        "course_code": "BUSN 170",
-        "section": "A",
-        "course_name": "Principles of Manage",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE332",
-        "unique": "BUSN 170/A"
-      },
       {
         "course_code": "BUSN 361",
         "section": "B",
@@ -11559,20 +11587,20 @@
         "unique": "BUSN 206/D"
       },
       {
+        "course_code": "BUSN 206",
+        "section": "M",
+        "course_name": "Mgt. Acc. & Control",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE333",
+        "unique": "BUSN 206/M"
+      },
+      {
         "course_code": "BUSN 322",
         "section": "A",
         "course_name": "Financial Managmt II",
         "schedule": "M W F | 11:00 - 11:50",
         "classroom": "EBLOCKE346",
         "unique": "BUSN 322/A"
-      },
-      {
-        "course_code": "BUSN 322",
-        "section": "B",
-        "course_name": "Financial Managmt II",
-        "schedule": "M W F | 16:00 - 16:50",
-        "classroom": "EBLOCKE343",
-        "unique": "BUSN 322/B"
       },
       {
         "course_code": "BUSN 531",
@@ -11648,19 +11676,11 @@
       },
       {
         "course_code": "BUSN 206",
-        "section": "J",
+        "section": "L",
         "course_name": "Mgt. Acc. & Control",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE343",
-        "unique": "BUSN 206/J"
-      },
-      {
-        "course_code": "BUSN 506",
-        "section": "B",
-        "course_name": "MGMT ACCTG",
-        "schedule": "T R | 10:00 - 11:15",
-        "classroom": "EBLOCKE324",
-        "unique": "BUSN 506/B"
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE331",
+        "unique": "BUSN 206/L"
       }
     ],
     "all_courses": [
@@ -12184,24 +12204,7 @@
     "departments": [
       "BUSN"
     ],
-    "current_courses": [
-      {
-        "course_code": "BUSN 469",
-        "section": "A",
-        "course_name": "Project Mang Proc",
-        "schedule": "T R | 11:00 - 12:15",
-        "classroom": "EBLOCKE346",
-        "unique": "BUSN 469/A"
-      },
-      {
-        "course_code": "BUSN 670",
-        "section": "A",
-        "course_name": "NEW PRODUCT DEVT",
-        "schedule": "T R | 08:00 - 09:15",
-        "classroom": "EBLOCKE324",
-        "unique": "BUSN 670/A"
-      }
-    ],
+    "current_courses": [],
     "all_courses": [
       "BUSN 469",
       "BUSN 670"
@@ -12264,6 +12267,14 @@
         "schedule": "M W F | 11:00 - 11:50",
         "classroom": "EBLOCKE213",
         "unique": "BUSN 490/A"
+      },
+      {
+        "course_code": "BUSN 490",
+        "section": "C",
+        "course_name": "Analysis of Institutions",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE344",
+        "unique": "BUSN 490/C"
       },
       {
         "course_code": "BUSN 498",
@@ -12345,14 +12356,6 @@
       "BUSN"
     ],
     "current_courses": [
-      {
-        "course_code": "BUSN 506",
-        "section": "A",
-        "course_name": "MGMT ACCTG",
-        "schedule": "T R | 10:00 - 11:15",
-        "classroom": "EBLOCKE323",
-        "unique": "BUSN 506/A"
-      },
       {
         "course_code": "BUSN 605",
         "section": "A",

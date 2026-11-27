@@ -3966,5 +3966,85 @@
     "section": "B",
     "instructor": "TBD",
     "timestamp": "2026-11-27T07:25:36.743474+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 170 (A): I yusuf → TBD",
+    "course_code": "BUSN 170",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-11-27T09:25:38.784377+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 206 (J): A Ali Shah → TBD",
+    "course_code": "BUSN 206",
+    "section": "J",
+    "instructor": "TBD",
+    "timestamp": "2026-11-27T09:25:38.784392+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 206 (L): TBD → A Ali Shah",
+    "course_code": "BUSN 206",
+    "section": "L",
+    "instructor": "A Ali Shah",
+    "timestamp": "2026-11-27T09:25:38.784395+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 206 (M): TBD → M Rao",
+    "course_code": "BUSN 206",
+    "section": "M",
+    "instructor": "M Rao",
+    "timestamp": "2026-11-27T09:25:38.784396+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 322 (B): M Rao → TBD",
+    "course_code": "BUSN 322",
+    "section": "B",
+    "instructor": "TBD",
+    "timestamp": "2026-11-27T09:25:38.784403+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 469 (A): F Malik → TBD",
+    "course_code": "BUSN 469",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-11-27T09:25:38.784409+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 490 (C): TBD → Q Zafar",
+    "course_code": "BUSN 490",
+    "section": "C",
+    "instructor": "Q Zafar",
+    "timestamp": "2026-11-27T09:25:38.784422+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 506 (A): W Khan → TBD",
+    "course_code": "BUSN 506",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-11-27T09:25:38.784426+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 506 (B): A Ali Shah → TBD",
+    "course_code": "BUSN 506",
+    "section": "B",
+    "instructor": "TBD",
+    "timestamp": "2026-11-27T09:25:38.784427+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 670 (A): F Malik → TBD",
+    "course_code": "BUSN 670",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-11-27T09:25:38.784430+00:00"
   }
 ]

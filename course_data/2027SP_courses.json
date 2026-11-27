@@ -97,7 +97,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "BIOL 100",
@@ -719,7 +719,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE332",
       "schedule_raw": "M W F | 09:00 - 09:50",
-      "instructor": "I yusuf",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "29"
     },
@@ -839,7 +839,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE343",
       "schedule_raw": "M W F | 10:00 - 10:50",
-      "instructor": "A Ali Shah",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "29"
     },
@@ -863,7 +863,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE331",
       "schedule_raw": "M W F | 14:00 - 14:50",
-      "instructor": "TBD",
+      "instructor": "A Ali Shah",
       "capacity": "35",
       "available": "28"
     },
@@ -875,7 +875,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE333",
       "schedule_raw": "M W F | 09:00 - 09:50",
-      "instructor": "TBD",
+      "instructor": "M Rao",
       "capacity": "35",
       "available": "20"
     },
@@ -1141,7 +1141,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Afaf k",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 250",
@@ -1153,7 +1153,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "Afaf k",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BUSN 250",
@@ -1283,7 +1283,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE343",
       "schedule_raw": "M W F | 16:00 - 16:50",
-      "instructor": "M Rao",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "19"
     },
@@ -1631,7 +1631,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE346",
       "schedule_raw": "T R | 11:00 - 12:15",
-      "instructor": "F Malik",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "1"
     },
@@ -1735,11 +1735,11 @@
       "course_code": "BUSN 490",
       "section": "C",
       "unique": "BUSN 490/C",
-      "course_name": "Analysis of Inst",
+      "course_name": "Analysis of Institutions",
       "credits": "3.00",
       "classroom": "EBLOCKE344",
       "schedule_raw": "M W F | 14:00 - 14:50",
-      "instructor": "TBD",
+      "instructor": "Q Zafar",
       "capacity": "35",
       "available": "0"
     },
@@ -1931,7 +1931,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE323",
       "schedule_raw": "T R | 10:00 - 11:15",
-      "instructor": "W Khan",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "35"
     },
@@ -1943,7 +1943,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE324",
       "schedule_raw": "T R | 10:00 - 11:15",
-      "instructor": "A Ali Shah",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "35"
     },
@@ -2087,7 +2087,7 @@
       "credits": "3.00",
       "classroom": "EBLOCKE324",
       "schedule_raw": "T R | 08:00 - 09:15",
-      "instructor": "F Malik",
+      "instructor": "TBD",
       "capacity": "35",
       "available": "33"
     },
@@ -2149,7 +2149,7 @@
       "schedule_raw": "M | 09:00 - 09:50 | F | 09:00 - 09:50 | F | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "CHEM 150",
@@ -3313,7 +3313,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "CRIM 460",
@@ -3373,7 +3373,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Pervaiz",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "CRST 211",
@@ -3709,7 +3709,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "CSCS 203",
@@ -7561,7 +7561,7 @@
       "schedule_raw": "M W | 08:00 - 08:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
@@ -7645,7 +7645,7 @@
       "schedule_raw": "W F | 16:00 - 16:50",
       "instructor": "Z Azam",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 101",
@@ -8941,7 +8941,7 @@
       "schedule_raw": "T R | 14:00 - 14:50 | W | 14:00 - 15:50",
       "instructor": "S Shabbir",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHYS 100",
