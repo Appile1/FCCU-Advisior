@@ -1225,7 +1225,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M Habib",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BUSN 305",
@@ -2617,7 +2617,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "A Atique",
       "capacity": "35",
-      "available": "32"
+      "available": "33"
     },
     {
       "course_code": "COMP 113",
@@ -2749,7 +2749,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Sabahat",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "COMP 220",
@@ -2821,7 +2821,7 @@
       "schedule_raw": "M | 11:00 - 12:50 | W | 11:00 - 12:50",
       "instructor": "M Chaudhry",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "COMP 302",
@@ -4093,7 +4093,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "DATA 203",
@@ -4489,7 +4489,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Z  Iqbal",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "ECON 206",
@@ -5521,7 +5521,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "ENGL 108",
@@ -6805,7 +6805,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Iqbal",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "GEOG 202",
@@ -7957,7 +7957,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Janjua",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "MATH 102",
@@ -8881,7 +8881,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "G Irfan",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "PHIL 221",
@@ -8953,7 +8953,7 @@
       "schedule_raw": "T R | 11:00 - 11:50 | F | 14:00 - 16:00",
       "instructor": "S Shabbir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 101",
@@ -9361,7 +9361,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "PLSC 102",
@@ -11125,7 +11125,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "STAT 206",
