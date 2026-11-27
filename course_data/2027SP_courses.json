@@ -313,7 +313,7 @@
       "schedule_raw": "T R | 08:00 - 09:15 | F | 11:00 - 12:50",
       "instructor": "S Ali",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "BIOT 307",
@@ -529,7 +529,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BUSN 121",
@@ -625,7 +625,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "A Mughal",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 160",
@@ -757,7 +757,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A George",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 206",
@@ -1213,7 +1213,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "M Habib",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "BUSN 250",
@@ -3577,7 +3577,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Toor",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CSCS 100",
@@ -8905,7 +8905,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHIL 331",
@@ -9301,7 +9301,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 101",
@@ -9337,7 +9337,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "PLSC 102",
