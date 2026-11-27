@@ -49,7 +49,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "ARTS 111",
@@ -697,7 +697,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "BUSN 160",
@@ -877,7 +877,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Rao",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "BUSN 206",
@@ -1225,7 +1225,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M Habib",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 305",
@@ -7009,7 +7009,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Sumbal",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "HIST 204",
