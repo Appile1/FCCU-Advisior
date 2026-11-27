@@ -901,7 +901,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "BUSN 225",
@@ -913,7 +913,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "BUSN 225",
@@ -1165,7 +1165,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Hussain",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 250",
@@ -2509,7 +2509,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Z Kexin",
       "capacity": "20",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "CHIN 101",
@@ -2569,7 +2569,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 14:00 - 16:50",
       "instructor": "F Shaheen",
       "capacity": "25",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "COMP 111",
@@ -5365,7 +5365,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "ENGL 108",
@@ -7309,7 +7309,7 @@
       "schedule_raw": "T | 14:00 - 14:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 100B",
@@ -7345,7 +7345,7 @@
       "schedule_raw": "R | 14:00 - 14:50",
       "instructor": "A Naeem",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "ISLM 100B",
@@ -7609,7 +7609,7 @@
       "schedule_raw": "W F | 09:00 - 09:50",
       "instructor": "A Naeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 101",
@@ -7957,7 +7957,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Janjua",
       "capacity": "35",
-      "available": "18"
+      "available": "20"
     },
     {
       "course_code": "MATH 102",
@@ -11041,7 +11041,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "STAT 102",
