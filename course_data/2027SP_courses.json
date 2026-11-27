@@ -49,7 +49,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "ARTS 111",
@@ -157,7 +157,7 @@
       "schedule_raw": "W F | 11:00 - 11:50 | F | 14:00 - 15:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 102",
@@ -1501,7 +1501,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "25"
+      "available": "26"
     },
     {
       "course_code": "BUSN 370",
@@ -2125,7 +2125,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | W | 11:00 - 12:50",
       "instructor": "M Asghar",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "CHEM 100",
@@ -2173,7 +2173,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | W | 14:00 - 15:50",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "CHEM 150",
@@ -2509,7 +2509,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Z Kexin",
       "capacity": "20",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "CHIN 101",
@@ -2677,7 +2677,7 @@
       "schedule_raw": "T R | 14:00 - 15:15 | W | 08:00 - 10:50",
       "instructor": "I Iqbal",
       "capacity": "35",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "COMP 206",
@@ -3121,7 +3121,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "CPPG 201",
@@ -3313,7 +3313,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "CRIM 460",
@@ -4333,7 +4333,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "H  Ahsan",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "ECON 102",
@@ -5665,7 +5665,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Pervez",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -7825,7 +7825,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Alphonce",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "LING 304",
@@ -8149,7 +8149,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 111",
@@ -9361,7 +9361,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 102",
@@ -11041,7 +11041,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "STAT 102",
@@ -11077,7 +11077,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "I Naqvi",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "STAT 115",
@@ -11101,7 +11101,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "STAT 206",
@@ -11293,7 +11293,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Bashir",
       "capacity": "20",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "STAT 505",
