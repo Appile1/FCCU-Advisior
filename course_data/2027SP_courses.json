@@ -121,7 +121,7 @@
       "schedule_raw": "T R | 08:00 - 08:50 | T | 14:00 - 15:50",
       "instructor": "I Ul Haq",
       "capacity": "35",
-      "available": "0"
+      "available": "2"
     },
     {
       "course_code": "BIOL 100",
@@ -1525,7 +1525,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "T Alvi",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 382",
@@ -2941,7 +2941,7 @@
       "schedule_raw": "T R | 11:00 - 12:50",
       "instructor": "A Khanum",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "COMP 360",
@@ -3349,7 +3349,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "18"
+      "available": "16"
     },
     {
       "course_code": "CRST 152",
@@ -4105,7 +4105,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Nadeem",
       "capacity": "15",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "DATA 206",
@@ -6913,7 +6913,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "H Mahmood",
       "capacity": "20",
-      "available": "5"
+      "available": "3"
     },
     {
       "course_code": "GRMN 101",
@@ -7033,7 +7033,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 209",
@@ -11149,7 +11149,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Hanook",
       "capacity": "20",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "STAT 207",
