@@ -265,7 +265,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Butt",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BIOL 415",
@@ -1177,7 +1177,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Hussain",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 250",
@@ -3325,7 +3325,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "28"
+      "available": "29"
     },
     {
       "course_code": "CRST 151",
@@ -7033,7 +7033,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "U Ibad",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 209",
@@ -7273,7 +7273,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "HPED 151",
@@ -7669,7 +7669,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "ISLM 302",
@@ -7693,7 +7693,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "24"
+      "available": "25"
     },
     {
       "course_code": "ISLM 305",
@@ -9313,7 +9313,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -11113,7 +11113,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "STAT 206",
