@@ -121,7 +121,7 @@
       "schedule_raw": "T R | 08:00 - 08:50 | T | 14:00 - 15:50",
       "instructor": "I Ul Haq",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BIOL 100",
@@ -6769,7 +6769,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "K Shafiqu",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "GEOG 101",
@@ -10681,7 +10681,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Athar",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "SOCL 100",
@@ -10705,7 +10705,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Amjad",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "SOCL 100",
