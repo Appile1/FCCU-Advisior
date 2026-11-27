@@ -877,7 +877,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Rao",
       "capacity": "35",
-      "available": "12"
+      "available": "10"
     },
     {
       "course_code": "BUSN 206",
@@ -9301,7 +9301,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -9361,7 +9361,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 102",
@@ -10729,7 +10729,7 @@
       "schedule_raw": "M W | 11:00 - 11:50",
       "instructor": "S Athar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 150",
