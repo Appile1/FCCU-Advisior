@@ -1141,7 +1141,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Afaf k",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 250",
@@ -1177,7 +1177,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Hussain",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "BUSN 250",
@@ -1393,7 +1393,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "BUSN 370",
@@ -1621,7 +1621,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Naumaan Ch",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 469",
@@ -2508,8 +2508,8 @@
       "classroom": "EBLOCKE139",
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Z Kexin",
-      "capacity": "15",
-      "available": "0"
+      "capacity": "20",
+      "available": "4"
     },
     {
       "course_code": "CHIN 101",
@@ -2520,8 +2520,8 @@
       "classroom": "EBLOCKE139",
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Z Kexin",
-      "capacity": "15",
-      "available": "0"
+      "capacity": "20",
+      "available": "5"
     },
     {
       "course_code": "CHIN 102",
@@ -2532,8 +2532,8 @@
       "classroom": "EBLOCKE139",
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Wei",
-      "capacity": "15",
-      "available": "15"
+      "capacity": "20",
+      "available": "20"
     },
     {
       "course_code": "COMP 102",
@@ -3709,7 +3709,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "CSCS 203",
@@ -3721,7 +3721,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "B Haq",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "CSCS 291",
@@ -4633,7 +4633,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Ahmed",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ECON 315",
@@ -4765,7 +4765,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "M Ayyubi",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "ECON 417",
@@ -6912,8 +6912,8 @@
       "classroom": "EBLOCKE139",
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "H Mahmood",
-      "capacity": "15",
-      "available": "0"
+      "capacity": "20",
+      "available": "5"
     },
     {
       "course_code": "GRMN 101",
@@ -6924,8 +6924,8 @@
       "classroom": "EBLOCKE140",
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Mahmood",
-      "capacity": "15",
-      "available": "0"
+      "capacity": "20",
+      "available": "5"
     },
     {
       "course_code": "GRMN 102",
@@ -6936,8 +6936,8 @@
       "classroom": "EBLOCKE140",
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "H Mahmood",
-      "capacity": "15",
-      "available": "0"
+      "capacity": "20",
+      "available": "5"
     },
     {
       "course_code": "HIST 101",
@@ -7273,7 +7273,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "HPED 151",
@@ -7752,8 +7752,8 @@
       "classroom": "EBLOCKE244",
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S K Sook",
-      "capacity": "15",
-      "available": "0"
+      "capacity": "20",
+      "available": "5"
     },
     {
       "course_code": "KORN 101",
@@ -7764,8 +7764,8 @@
       "classroom": "EBLOCKE139",
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "S K Sook",
-      "capacity": "15",
-      "available": "0"
+      "capacity": "20",
+      "available": "5"
     },
     {
       "course_code": "KORN 101",
@@ -7776,8 +7776,8 @@
       "classroom": "EBLOCKE139",
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
-      "capacity": "15",
-      "available": "0"
+      "capacity": "20",
+      "available": "5"
     },
     {
       "course_code": "KORN 102",
@@ -7788,8 +7788,8 @@
       "classroom": "EBLOCKE139",
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "J Park",
-      "capacity": "15",
-      "available": "8"
+      "capacity": "20",
+      "available": "13"
     },
     {
       "course_code": "LING 207",
@@ -9301,7 +9301,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "PLSC 101",
@@ -9541,7 +9541,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "PLSC 339",
@@ -9925,7 +9925,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "PSYC 280",
@@ -10057,7 +10057,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "U Ilyas",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "PSYC 305",
@@ -10717,7 +10717,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Amjad",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "SOCL 104",
@@ -10932,8 +10932,8 @@
       "classroom": "EBLOCKE139",
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "J parra",
-      "capacity": "15",
-      "available": "0"
+      "capacity": "20",
+      "available": "5"
     },
     {
       "course_code": "SPAN 101",
@@ -10944,8 +10944,8 @@
       "classroom": "SBLOCKS119",
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "J parra",
-      "capacity": "15",
-      "available": "0"
+      "capacity": "20",
+      "available": "5"
     },
     {
       "course_code": "STAT 100",
