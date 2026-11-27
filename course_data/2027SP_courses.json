@@ -2137,7 +2137,7 @@
       "schedule_raw": "M | 11:00 - 12:50 | T R | 09:30 - 10:20",
       "instructor": "M Rashida",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHEM 100",
@@ -6781,7 +6781,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "29"
+      "available": "30"
     },
     {
       "course_code": "GEOG 133",
