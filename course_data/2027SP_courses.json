@@ -2149,7 +2149,7 @@
       "schedule_raw": "M | 09:00 - 09:50 | F | 09:00 - 09:50 | F | 14:00 - 15:50",
       "instructor": "M Qamar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHEM 150",
@@ -2701,7 +2701,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50 | F | 09:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "COMP 213",
@@ -4681,7 +4681,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A  Jalil",
       "capacity": "35",
-      "available": "22"
+      "available": "23"
     },
     {
       "course_code": "ECON 325",
@@ -5329,7 +5329,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Zia",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -6373,7 +6373,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "2"
+      "available": "0"
     },
     {
       "course_code": "FREN 101",
@@ -9289,7 +9289,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "PLSC 101",
@@ -9337,7 +9337,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "PLSC 102",
@@ -9457,7 +9457,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Q Memon",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "PLSC 303",
@@ -9865,7 +9865,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | R | 08:00 - 09:50",
       "instructor": "U Ilyas",
       "capacity": "30",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 220",
@@ -10129,7 +10129,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A  Ateeq",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "PSYC 335",
@@ -10945,7 +10945,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "J parra",
       "capacity": "20",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "STAT 100",
@@ -11041,7 +11041,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "STAT 102",
