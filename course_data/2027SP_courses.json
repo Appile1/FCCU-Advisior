@@ -901,7 +901,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "BUSN 225",
@@ -2713,7 +2713,7 @@
       "schedule_raw": "M W | 10:00 - 11:50",
       "instructor": "N Sabahat",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "COMP 213",
@@ -4321,7 +4321,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "T Ahmed",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ECON 101",
@@ -6769,7 +6769,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "K Shafiqu",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "GEOG 101",
