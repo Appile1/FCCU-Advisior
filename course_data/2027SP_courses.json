@@ -9301,7 +9301,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 101",
@@ -10741,7 +10741,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "7"
+      "available": "8"
     },
     {
       "course_code": "SOCL 201",
