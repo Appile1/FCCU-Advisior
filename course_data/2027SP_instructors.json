@@ -10370,6 +10370,14 @@
     "current_courses": [
       {
         "course_code": "ENGL 108",
+        "section": "B",
+        "course_name": "Expository Writing",
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "SBLOCKS416",
+        "unique": "ENGL 108/B"
+      },
+      {
+        "course_code": "ENGL 108",
         "section": "BC",
         "course_name": "Expository Writing",
         "schedule": "T R | 14:00 - 15:15",
@@ -12475,14 +12483,6 @@
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "SBLOCKS115",
         "unique": "ENGL 108/AB"
-      },
-      {
-        "course_code": "ENGL 108",
-        "section": "B",
-        "course_name": "Expository Writing",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "SBLOCKS416",
-        "unique": "ENGL 108/B"
       }
     ],
     "all_courses": [

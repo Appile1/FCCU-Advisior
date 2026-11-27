@@ -3958,5 +3958,13 @@
     "section": "A",
     "instructor": "M Shahid",
     "timestamp": "2026-11-27T07:20:39.452597+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for ENGL 108 (B): F Saeed → TBD",
+    "course_code": "ENGL 108",
+    "section": "B",
+    "instructor": "TBD",
+    "timestamp": "2026-11-27T07:25:36.743474+00:00"
   }
 ]
