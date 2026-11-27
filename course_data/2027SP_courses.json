@@ -2125,7 +2125,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | W | 11:00 - 12:50",
       "instructor": "M Asghar",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "CHEM 100",
@@ -7345,7 +7345,7 @@
       "schedule_raw": "R | 14:00 - 14:50",
       "instructor": "A Naeem",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "ISLM 100B",
@@ -7381,7 +7381,7 @@
       "schedule_raw": "T | 15:00 - 15:50",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "ISLM 100B",
@@ -9781,7 +9781,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Asif",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "PSYC 140",
@@ -10045,7 +10045,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "E Shahid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 301",
@@ -10681,7 +10681,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Athar",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "SOCL 100",
