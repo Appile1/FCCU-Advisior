@@ -7057,7 +7057,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 255",
@@ -9865,7 +9865,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | R | 08:00 - 09:50",
       "instructor": "U Ilyas",
       "capacity": "30",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 220",
@@ -9901,7 +9901,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "N Khan",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PSYC 245",
@@ -10705,7 +10705,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Amjad",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "SOCL 100",
