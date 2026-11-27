@@ -193,7 +193,7 @@
       "schedule_raw": "M W | 08:00 - 08:50 | M | 14:00 - 15:50",
       "instructor": "M Yousaf",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "BIOL 201",
@@ -757,7 +757,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A George",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 206",
@@ -1153,7 +1153,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "Afaf k",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "BUSN 250",
@@ -4273,7 +4273,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Noor",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "ECON 100",
@@ -4285,7 +4285,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "7"
+      "available": "5"
     },
     {
       "course_code": "ECON 100",
@@ -5569,7 +5569,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ENGL 108",
@@ -7381,7 +7381,7 @@
       "schedule_raw": "T | 15:00 - 15:50",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "ISLM 100B",
@@ -9301,7 +9301,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M A Imran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -9481,7 +9481,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "PLSC 310",
@@ -11401,7 +11401,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "H Shahzadi",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
