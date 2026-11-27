@@ -757,7 +757,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A George",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 206",
@@ -877,7 +877,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Rao",
       "capacity": "35",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "BUSN 206",
@@ -3361,7 +3361,7 @@
       "schedule_raw": "M W | 11:00 - 11:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CRST 155",
@@ -5005,7 +5005,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "EDUC 120",
@@ -5461,7 +5461,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "A Wasim",
       "capacity": "25",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "ENGL 108",
@@ -10249,7 +10249,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Shahed",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "PSYC 375",
@@ -11149,7 +11149,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Hanook",
       "capacity": "20",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "STAT 207",
