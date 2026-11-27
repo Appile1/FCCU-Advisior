@@ -925,7 +925,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 225",
@@ -1141,7 +1141,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Afaf k",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "BUSN 250",
@@ -9793,7 +9793,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "N Asif",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "PSYC 150",
