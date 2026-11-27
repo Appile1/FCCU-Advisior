@@ -1213,7 +1213,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "BUSN 250",
@@ -2053,7 +2053,7 @@
       "schedule_raw": "M W | 09:00 - 10:15",
       "instructor": "I Ahmed",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "BUSN 605",
@@ -2065,7 +2065,7 @@
       "schedule_raw": "T R | 11:30 - 12:45",
       "instructor": "W Khan",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "BUSN 625",
@@ -2077,7 +2077,7 @@
       "schedule_raw": "F | 14:00 - 17:00",
       "instructor": "B Usman",
       "capacity": "35",
-      "available": "35"
+      "available": "34"
     },
     {
       "course_code": "BUSN 670",
@@ -2101,7 +2101,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "W Khan",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "BUSN 695",
@@ -2113,7 +2113,7 @@
       "schedule_raw": "M W | 11:30 - 12:45",
       "instructor": "I Ahmed",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "CHEM 100",
@@ -2749,7 +2749,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "N Sabahat",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "COMP 220",
@@ -5005,7 +5005,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "EDUC 120",
@@ -5041,7 +5041,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "EDUC 120",
@@ -8521,7 +8521,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "MCOM 301",
@@ -8545,7 +8545,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "MCOM 310",
@@ -8557,7 +8557,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Malik",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "MCOM 310",
