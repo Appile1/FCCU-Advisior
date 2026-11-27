@@ -9745,7 +9745,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Asif",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PSYC 140",
@@ -11485,7 +11485,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Samuel",
       "capacity": "35",
-      "available": "26"
+      "available": "25"
     },
     {
       "course_code": "URDU 499",
