@@ -589,7 +589,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 121",
@@ -613,7 +613,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "5"
+      "available": "3"
     },
     {
       "course_code": "BUSN 160",
@@ -685,7 +685,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 160",
@@ -757,7 +757,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A George",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "BUSN 206",
@@ -1141,7 +1141,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Afaf k",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 250",
@@ -1813,7 +1813,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "BUSN 498",
@@ -1897,7 +1897,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "16"
     },
     {
       "course_code": "BUSN 498",
@@ -2533,7 +2533,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "M Wei",
       "capacity": "20",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "COMP 102",
@@ -6793,7 +6793,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "GEOG 133",
@@ -10021,7 +10021,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "A  Ateeq",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PSYC 300",
@@ -10741,7 +10741,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "SOCL 201",
