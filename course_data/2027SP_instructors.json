@@ -6940,6 +6940,14 @@
         "unique": "PLSC 400/A"
       },
       {
+        "course_code": "PLSC 403",
+        "section": "B",
+        "course_name": "Sem Majr Poli Scienc",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE122",
+        "unique": "PLSC 403/B"
+      },
+      {
         "course_code": "PLSC 499",
         "section": "B",
         "course_name": "Capstone Project",
@@ -6953,6 +6961,7 @@
       "PLSC 302",
       "PLSC 303",
       "PLSC 400",
+      "PLSC 403",
       "PLSC 499"
     ]
   },
@@ -8367,6 +8376,14 @@
         "schedule": "T R | 11:00 - 12:15",
         "classroom": "EBLOCKE126",
         "unique": "PLSC 331/A"
+      },
+      {
+        "course_code": "PLSC 403",
+        "section": "A",
+        "course_name": "Sem Majr Poli Scienc",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE139",
+        "unique": "PLSC 403/A"
       },
       {
         "course_code": "PLSC 405",

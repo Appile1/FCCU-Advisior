@@ -1,7 +1,7 @@
 {
   "term_code": "2027SP",
   "term_name": "2027 Spring",
-  "total_courses": 970,
+  "total_courses": 972,
   "courses": [
     {
       "course_code": "ARTS 101",
@@ -913,7 +913,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "BUSN 225",
@@ -925,7 +925,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "2"
+      "available": "4"
     },
     {
       "course_code": "BUSN 225",
@@ -937,7 +937,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "M Habib",
       "capacity": "35",
-      "available": "20"
+      "available": "17"
     },
     {
       "course_code": "BUSN 225",
@@ -961,7 +961,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "26"
+      "available": "27"
     },
     {
       "course_code": "BUSN 225",
@@ -985,7 +985,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "BUSN 225",
@@ -1153,7 +1153,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "Afaf k",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 250",
@@ -1189,7 +1189,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Hussain",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 250",
@@ -1225,7 +1225,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M Habib",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "BUSN 305",
@@ -1405,7 +1405,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "F Idrees",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 370",
@@ -3313,7 +3313,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "CRIM 460",
@@ -3565,7 +3565,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Q Quraishi",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CSCS 100",
@@ -9580,6 +9580,30 @@
       "available": "32"
     },
     {
+      "course_code": "PLSC 403",
+      "section": "A",
+      "unique": "PLSC 403/A",
+      "course_name": "Sem Majr Poli Scienc",
+      "credits": "3.00",
+      "classroom": "EBLOCKE139",
+      "schedule_raw": "M W F | 10:00 - 10:50",
+      "instructor": "M Younis",
+      "capacity": "15",
+      "available": "15"
+    },
+    {
+      "course_code": "PLSC 403",
+      "section": "B",
+      "unique": "PLSC 403/B",
+      "course_name": "Sem Majr Poli Scienc",
+      "credits": "3.00",
+      "classroom": "EBLOCKE122",
+      "schedule_raw": "M W F | 12:00 - 12:50",
+      "instructor": "Q Memon",
+      "capacity": "15",
+      "available": "15"
+    },
+    {
       "course_code": "PLSC 405",
       "section": "A",
       "unique": "PLSC 405/A",
@@ -10621,7 +10645,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "SOCL 100",
