@@ -4046,5 +4046,21 @@
     "section": "A",
     "instructor": "TBD",
     "timestamp": "2026-11-27T09:25:38.784430+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 498 (E): Q Zafar → TBD",
+    "course_code": "BUSN 498",
+    "section": "E",
+    "instructor": "TBD",
+    "timestamp": "2026-11-27T09:30:44.747595+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 498 (H): Q Zafar → TBD",
+    "course_code": "BUSN 498",
+    "section": "H",
+    "instructor": "TBD",
+    "timestamp": "2026-11-27T09:30:44.747619+00:00"
   }
 ]

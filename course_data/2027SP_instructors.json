@@ -11341,11 +11341,27 @@
       },
       {
         "course_code": "BUSN 498",
+        "section": "E",
+        "course_name": "Business Strategy",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE213",
+        "unique": "BUSN 498/E"
+      },
+      {
+        "course_code": "BUSN 498",
         "section": "G",
         "course_name": "Business Strategy",
         "schedule": "T R | 08:00 - 09:15",
         "classroom": "EBLOCKE346",
         "unique": "BUSN 498/G"
+      },
+      {
+        "course_code": "BUSN 498",
+        "section": "H",
+        "course_name": "Business Strategy",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE240",
+        "unique": "BUSN 498/H"
       },
       {
         "course_code": "BUSN 506",
@@ -12291,22 +12307,6 @@
         "schedule": "M W F | 10:00 - 10:50",
         "classroom": "EBLOCKE240",
         "unique": "BUSN 498/D"
-      },
-      {
-        "course_code": "BUSN 498",
-        "section": "E",
-        "course_name": "Business Strategy",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE213",
-        "unique": "BUSN 498/E"
-      },
-      {
-        "course_code": "BUSN 498",
-        "section": "H",
-        "course_name": "Business Strategy",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE240",
-        "unique": "BUSN 498/H"
       }
     ],
     "all_courses": [
