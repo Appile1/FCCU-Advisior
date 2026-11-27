@@ -829,7 +829,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Ali Shah",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "BUSN 206",
@@ -1093,7 +1093,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A Fateh",
       "capacity": "35",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BUSN 250",
@@ -1189,7 +1189,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Hussain",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 250",
@@ -2125,7 +2125,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | W | 11:00 - 12:50",
       "instructor": "M Asghar",
       "capacity": "35",
-      "available": "3"
+      "available": "4"
     },
     {
       "course_code": "CHEM 100",
@@ -5725,7 +5725,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Javed",
       "capacity": "25",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -6145,7 +6145,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M Shahbaz",
       "capacity": "35",
-      "available": "33"
+      "available": "32"
     },
     {
       "course_code": "ENVR 252",
@@ -7321,7 +7321,7 @@
       "schedule_raw": "T | 14:00 - 14:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "8"
+      "available": "9"
     },
     {
       "course_code": "ISLM 100B",
@@ -7561,7 +7561,7 @@
       "schedule_raw": "M W | 08:00 - 08:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "ISLM 101",
@@ -9313,7 +9313,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Awan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 101",
@@ -9613,7 +9613,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "Q Memon",
       "capacity": "15",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "PLSC 405",
@@ -10729,7 +10729,7 @@
       "schedule_raw": "M W | 11:00 - 11:50",
       "instructor": "S Athar",
       "capacity": "35",
-      "available": "2"
+      "available": "0"
     },
     {
       "course_code": "SOCL 150",
@@ -11077,7 +11077,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "I Naqvi",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "STAT 115",
@@ -11137,7 +11137,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "I Naqvi",
       "capacity": "20",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "STAT 206",
@@ -11473,7 +11473,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A  Anwar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "URDU 101",
@@ -11485,7 +11485,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "N Khokhar",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "URDU 101",
