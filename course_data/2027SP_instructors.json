@@ -11065,6 +11065,14 @@
       },
       {
         "course_code": "BUSN 225",
+        "section": "A",
+        "course_name": "Econ Appl for Busn",
+        "schedule": "M W F | 09:00 - 09:50",
+        "classroom": "EBLOCKE344",
+        "unique": "BUSN 225/A"
+      },
+      {
+        "course_code": "BUSN 225",
         "section": "B",
         "course_name": "Econ Appl for Busn",
         "schedule": "T R | 14:00 - 15:15",
@@ -11073,11 +11081,11 @@
       },
       {
         "course_code": "BUSN 225",
-        "section": "D",
+        "section": "C",
         "course_name": "Econ Appl for Busn",
-        "schedule": "M W F | 14:00 - 14:50",
-        "classroom": "EBLOCKE332",
-        "unique": "BUSN 225/D"
+        "schedule": "M W F | 11:00 - 11:50",
+        "classroom": "EBLOCKE343",
+        "unique": "BUSN 225/C"
       },
       {
         "course_code": "BUSN 225",
@@ -11624,19 +11632,19 @@
     "current_courses": [
       {
         "course_code": "BUSN 225",
-        "section": "A",
+        "section": "D",
         "course_name": "Econ Appl for Busn",
-        "schedule": "M W F | 09:00 - 09:50",
-        "classroom": "EBLOCKE344",
-        "unique": "BUSN 225/A"
+        "schedule": "M W F | 14:00 - 14:50",
+        "classroom": "EBLOCKE332",
+        "unique": "BUSN 225/D"
       },
       {
-        "course_code": "BUSN 225",
-        "section": "C",
-        "course_name": "Econ Appl for Busn",
+        "course_code": "BUSN 250",
+        "section": "L",
+        "course_name": "Indiv & Grp Dynamics",
         "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE343",
-        "unique": "BUSN 225/C"
+        "classroom": "EBLOCKE345",
+        "unique": "BUSN 250/L"
       },
       {
         "course_code": "BUSN 250",
@@ -11841,14 +11849,6 @@
       "BUSN"
     ],
     "current_courses": [
-      {
-        "course_code": "BUSN 250",
-        "section": "L",
-        "course_name": "Indiv & Grp Dynamics",
-        "schedule": "M W F | 11:00 - 11:50",
-        "classroom": "EBLOCKE345",
-        "unique": "BUSN 250/L"
-      },
       {
         "course_code": "BUSN 382",
         "section": "A",

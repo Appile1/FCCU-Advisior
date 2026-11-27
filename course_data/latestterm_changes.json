@@ -3862,5 +3862,37 @@
     "section": "N",
     "instructor": "M Habib",
     "timestamp": "2026-11-27T05:25:42.094761+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 225 (A): M Habib → TBD",
+    "course_code": "BUSN 225",
+    "section": "A",
+    "instructor": "TBD",
+    "timestamp": "2026-11-27T05:30:45.096415+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 225 (C): M Habib → TBD",
+    "course_code": "BUSN 225",
+    "section": "C",
+    "instructor": "TBD",
+    "timestamp": "2026-11-27T05:30:45.096438+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 225 (D): TBD → M Habib",
+    "course_code": "BUSN 225",
+    "section": "D",
+    "instructor": "M Habib",
+    "timestamp": "2026-11-27T05:30:45.096440+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for BUSN 250 (L): T Alvi → M Habib",
+    "course_code": "BUSN 250",
+    "section": "L",
+    "instructor": "M Habib",
+    "timestamp": "2026-11-27T05:30:45.096446+00:00"
   }
 ]
