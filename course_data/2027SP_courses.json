@@ -157,7 +157,7 @@
       "schedule_raw": "W F | 11:00 - 11:50 | F | 14:00 - 15:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOL 102",
@@ -217,7 +217,7 @@
       "schedule_raw": "M | 12:00 - 12:50 | T | 11:00 - 12:50 | F | 12:00 - 12:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "BIOL 313",
@@ -613,7 +613,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 160",
@@ -697,7 +697,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "BUSN 160",
@@ -3361,7 +3361,7 @@
       "schedule_raw": "M W | 11:00 - 11:50",
       "instructor": "D Ephraim",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CRST 155",
@@ -5053,7 +5053,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Khan",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "EDUC 120",
@@ -5797,7 +5797,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "Quratulaen",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "ENGL 214",
@@ -8905,7 +8905,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "T Farouk",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PHIL 331",
@@ -9685,7 +9685,7 @@
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "M U Farooq",
       "capacity": "25",
-      "available": "24"
+      "available": "23"
     },
     {
       "course_code": "PLSC 513",
@@ -9709,7 +9709,7 @@
       "schedule_raw": "F | 16:00 - 19:00",
       "instructor": "A. Indrias",
       "capacity": "25",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "PSYC 100",
@@ -10225,7 +10225,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50 | F | 09:00 - 10:50",
       "instructor": "U Rizwan",
       "capacity": "30",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PSYC 360",
