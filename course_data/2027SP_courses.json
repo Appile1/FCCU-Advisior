@@ -757,7 +757,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A George",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 206",
@@ -793,7 +793,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "A Rashid",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 206",
@@ -1657,7 +1657,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Q Khan",
       "capacity": "30",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "BUSN 484",
@@ -2233,7 +2233,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
       "instructor": "M Iqbal",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "CHEM 261",
@@ -3349,7 +3349,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "R Wetmore",
       "capacity": "35",
-      "available": "15"
+      "available": "16"
     },
     {
       "course_code": "CRST 152",
@@ -4189,7 +4189,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "DATA 305",
@@ -6769,7 +6769,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "K Shafiqu",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "GEOG 101",
@@ -7081,7 +7081,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Haider",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "HIST 305",
@@ -7693,7 +7693,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Rehman",
       "capacity": "35",
-      "available": "25"
+      "available": "24"
     },
     {
       "course_code": "ISLM 305",
@@ -9829,7 +9829,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "PSYC 165",
@@ -10009,7 +10009,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "M Munir",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "PSYC 300",
