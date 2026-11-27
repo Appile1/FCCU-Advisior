@@ -6940,6 +6940,14 @@
         "unique": "PLSC 400/A"
       },
       {
+        "course_code": "PLSC 403",
+        "section": "B",
+        "course_name": "Sem Majr Poli Scienc",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE103",
+        "unique": "PLSC 403/B"
+      },
+      {
         "course_code": "PLSC 499",
         "section": "B",
         "course_name": "Capstone Project",
@@ -8384,14 +8392,6 @@
         "schedule": "T R | 15:30 - 16:45",
         "classroom": "EBLOCKE122",
         "unique": "PLSC 405/A"
-      },
-      {
-        "course_code": "PLSC 499",
-        "section": "A",
-        "course_name": "Capstone Project",
-        "schedule": "MTWRF",
-        "classroom": "TBDTBD",
-        "unique": "PLSC 499/A"
       }
     ],
     "all_courses": [
@@ -8417,6 +8417,14 @@
         "unique": "PLSC 401/A"
       },
       {
+        "course_code": "PLSC 499",
+        "section": "A",
+        "course_name": "Capstone Project",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE227",
+        "unique": "PLSC 499/A"
+      },
+      {
         "course_code": "PLSC 502",
         "section": "A",
         "course_name": "Comparative Politics",
@@ -8427,6 +8435,7 @@
     ],
     "all_courses": [
       "PLSC 401",
+      "PLSC 499",
       "PLSC 502"
     ]
   },

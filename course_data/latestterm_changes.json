@@ -3926,5 +3926,21 @@
     "section": "B",
     "instructor": "Q Memon",
     "timestamp": "2026-11-27T05:55:46.302770+00:00"
+  },
+  {
+    "type": "NEW_SECTION",
+    "message": "New section added: PLSC 403 (B) - Q Memon",
+    "course_code": "PLSC 403",
+    "section": "B",
+    "instructor": "Q Memon",
+    "timestamp": "2026-11-27T06:05:46.755494+00:00"
+  },
+  {
+    "type": "INSTRUCTOR_CHANGED",
+    "message": "Instructor changed for PLSC 499 (A): M Younis → S Sindhu",
+    "course_code": "PLSC 499",
+    "section": "A",
+    "instructor": "S Sindhu",
+    "timestamp": "2026-11-27T06:05:46.755513+00:00"
   }
 ]
