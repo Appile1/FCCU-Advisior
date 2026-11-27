@@ -2089,7 +2089,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "F Malik",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "BUSN 692",
@@ -9001,7 +9001,7 @@
       "schedule_raw": "T R | 11:00 - 12:15 | W | 11:00 - 12:50",
       "instructor": "H Latif",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "PHYS 104",
