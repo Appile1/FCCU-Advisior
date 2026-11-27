@@ -289,7 +289,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | W | 11:00 - 12:50",
       "instructor": "M Irfan",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "BIOT 301",
@@ -3313,7 +3313,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "CRIM 460",
@@ -5773,7 +5773,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Hanif",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ENGL 201",
@@ -6097,7 +6097,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Shafiqu",
       "capacity": "25",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "ENVR 212",
@@ -6265,7 +6265,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "M Shahbaz",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "ENVR 415",
@@ -7981,7 +7981,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "MATH 103",
@@ -9265,7 +9265,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PLSC 101",
@@ -10741,7 +10741,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Rasheed",
       "capacity": "35",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "SOCL 335",
