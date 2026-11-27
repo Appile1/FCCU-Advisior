@@ -2197,7 +2197,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50 | M | 11:00 - 12:50",
       "instructor": "S Jelani",
       "capacity": "25",
-      "available": "20"
+      "available": "19"
     },
     {
       "course_code": "CHEM 160",
@@ -2233,7 +2233,7 @@
       "schedule_raw": "T R | 09:30 - 10:45 | R | 14:00 - 15:50",
       "instructor": "M Iqbal",
       "capacity": "35",
-      "available": "31"
+      "available": "30"
     },
     {
       "course_code": "CHEM 261",
@@ -2245,7 +2245,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50 | W | 11:00 - 12:50",
       "instructor": "M Abbas",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "CHEM 270",
@@ -9961,7 +9961,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "I Batool",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "PSYC 290",
