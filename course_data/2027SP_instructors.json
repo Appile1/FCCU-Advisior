@@ -11065,6 +11065,14 @@
       },
       {
         "course_code": "BUSN 225",
+        "section": "B",
+        "course_name": "Econ Appl for Busn",
+        "schedule": "T R | 14:00 - 15:15",
+        "classroom": "EBLOCKE345",
+        "unique": "BUSN 225/B"
+      },
+      {
+        "course_code": "BUSN 225",
         "section": "D",
         "course_name": "Econ Appl for Busn",
         "schedule": "M W F | 14:00 - 14:50",
@@ -11115,25 +11123,9 @@
         "course_code": "BUSN 225",
         "section": "N",
         "course_name": "Econ Appl for Busn",
-        "schedule": "M W F | 12:00 - 12:50",
-        "classroom": "EBLOCKE343",
-        "unique": "BUSN 225/N"
-      },
-      {
-        "course_code": "BUSN 250",
-        "section": "M",
-        "course_name": "Indiv & Grp Dynamics",
-        "schedule": "T R | 14:00 - 15:15",
-        "classroom": "EBLOCKE345",
-        "unique": "BUSN 250/M"
-      },
-      {
-        "course_code": "BUSN 250",
-        "section": "N",
-        "course_name": "Indiv & Grp Dynamics",
         "schedule": "T R | 14:00 - 15:15",
         "classroom": "EBLOCKE332",
-        "unique": "BUSN 250/N"
+        "unique": "BUSN 225/N"
       },
       {
         "course_code": "BUSN 305",
@@ -11640,23 +11632,32 @@
       },
       {
         "course_code": "BUSN 225",
-        "section": "B",
-        "course_name": "Econ Appl for Busn",
-        "schedule": "M W F | 10:00 - 10:50",
-        "classroom": "EBLOCKE344",
-        "unique": "BUSN 225/B"
-      },
-      {
-        "course_code": "BUSN 225",
         "section": "C",
         "course_name": "Econ Appl for Busn",
         "schedule": "M W F | 11:00 - 11:50",
         "classroom": "EBLOCKE343",
         "unique": "BUSN 225/C"
+      },
+      {
+        "course_code": "BUSN 250",
+        "section": "M",
+        "course_name": "Indiv & Grp Dynamics",
+        "schedule": "M W F | 10:00 - 10:50",
+        "classroom": "EBLOCKE344",
+        "unique": "BUSN 250/M"
+      },
+      {
+        "course_code": "BUSN 250",
+        "section": "N",
+        "course_name": "Indiv & Grp Dynamics",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "EBLOCKE343",
+        "unique": "BUSN 250/N"
       }
     ],
     "all_courses": [
-      "BUSN 225"
+      "BUSN 225",
+      "BUSN 250"
     ]
   },
   {
