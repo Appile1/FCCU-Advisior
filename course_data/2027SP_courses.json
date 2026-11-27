@@ -4285,7 +4285,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "6"
+      "available": "7"
     },
     {
       "course_code": "ECON 100",
@@ -7057,7 +7057,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "HIST 255",
@@ -9337,7 +9337,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "PLSC 102",
@@ -9649,7 +9649,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "Q Memon",
       "capacity": "15",
-      "available": "9"
+      "available": "10"
     },
     {
       "course_code": "PLSC 502",
@@ -10741,7 +10741,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "S Shahid",
       "capacity": "35",
-      "available": "8"
+      "available": "7"
     },
     {
       "course_code": "SOCL 201",
