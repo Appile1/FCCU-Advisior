@@ -529,7 +529,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BUSN 121",
@@ -757,7 +757,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A George",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 206",
@@ -2125,7 +2125,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | W | 11:00 - 12:50",
       "instructor": "M Asghar",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "CHEM 100",
@@ -2509,7 +2509,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Z Kexin",
       "capacity": "20",
-      "available": "1"
+      "available": "3"
     },
     {
       "course_code": "CHIN 101",
@@ -2521,7 +2521,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Z Kexin",
       "capacity": "20",
-      "available": "2"
+      "available": "0"
     },
     {
       "course_code": "CHIN 102",
@@ -3025,7 +3025,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Sirhindi",
       "capacity": "35",
-      "available": "19"
+      "available": "17"
     },
     {
       "course_code": "COMP 421",
@@ -3037,7 +3037,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "R Sirhindi",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "COMP 451",
@@ -3097,7 +3097,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "17"
+      "available": "15"
     },
     {
       "course_code": "CPPG 111",
@@ -3709,7 +3709,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "CSCS 203",
@@ -5317,7 +5317,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Fareed",
       "capacity": "25",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "ENGL 108",
@@ -6109,7 +6109,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "K Shafiqu",
       "capacity": "25",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "ENVR 212",
@@ -7057,7 +7057,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A Ijaz",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 255",
@@ -7657,7 +7657,7 @@
       "schedule_raw": "M | 16:00 - 16:50 | F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "ISLM 104",
@@ -9841,7 +9841,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "U Rizwan",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PSYC 180",
@@ -10789,7 +10789,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "A Yasir",
       "capacity": "25",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "SOCL 319",
@@ -11125,7 +11125,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "STAT 206",
