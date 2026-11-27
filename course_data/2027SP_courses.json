@@ -1141,7 +1141,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "Afaf k",
       "capacity": "35",
-      "available": "0"
+      "available": "2"
     },
     {
       "course_code": "BUSN 250",
@@ -1165,7 +1165,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Hussain",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 250",
@@ -1177,7 +1177,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Hussain",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 250",
@@ -1189,7 +1189,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Hussain",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 250",
@@ -1225,7 +1225,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "M Habib",
       "capacity": "35",
-      "available": "29"
+      "available": "28"
     },
     {
       "course_code": "BUSN 305",
@@ -3661,7 +3661,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "F Jamil",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "CSCS 201",
@@ -5329,7 +5329,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Zia",
       "capacity": "25",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENGL 108",
@@ -5593,7 +5593,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ENGL 108",
@@ -7369,7 +7369,7 @@
       "schedule_raw": "T | 15:00 - 15:50",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "ISLM 100B",
@@ -9265,7 +9265,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "PLSC 101",
@@ -9277,7 +9277,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "14"
+      "available": "15"
     },
     {
       "course_code": "PLSC 101",
@@ -10261,7 +10261,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A  Nazim",
       "capacity": "35",
-      "available": "19"
+      "available": "20"
     },
     {
       "course_code": "PSYC 390",
@@ -10621,7 +10621,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A  Azeem",
       "capacity": "35",
-      "available": "4"
+      "available": "2"
     },
     {
       "course_code": "SOCL 100",
@@ -10633,7 +10633,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "S Rasheed",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 100",
@@ -10645,7 +10645,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Athar",
       "capacity": "35",
-      "available": "35"
+      "available": "33"
     },
     {
       "course_code": "SOCL 100",
