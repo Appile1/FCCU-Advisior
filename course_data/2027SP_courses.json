@@ -49,7 +49,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "ARTS 111",
@@ -565,7 +565,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "BUSN 121",
@@ -613,7 +613,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 160",
@@ -5341,7 +5341,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "25",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "ENGL 108",
@@ -11509,7 +11509,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Virk",
       "capacity": "35",
-      "available": "14"
+      "available": "13"
     },
     {
       "course_code": "URDU 106",
