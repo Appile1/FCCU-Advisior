@@ -10091,6 +10091,22 @@
     ],
     "current_courses": [
       {
+        "course_code": "SOCL 100",
+        "section": "E",
+        "course_name": "Intro to Sociology",
+        "schedule": "M W F | 12:00 - 12:50",
+        "classroom": "SBLOCKS007",
+        "unique": "SOCL 100/E"
+      },
+      {
+        "course_code": "SOCL 104",
+        "section": "J",
+        "course_name": "Civics & Community",
+        "schedule": "M W | 11:00 - 11:50",
+        "classroom": "EBLOCKE103",
+        "unique": "SOCL 104/J"
+      },
+      {
         "course_code": "SOCL 430",
         "section": "A",
         "course_name": "Socio-Consumption",
@@ -10124,6 +10140,7 @@
       }
     ],
     "all_courses": [
+      "SOCL 100",
       "SOCL 104",
       "SOCL 430",
       "SOCL 494",
