@@ -1489,7 +1489,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 370",
@@ -7321,7 +7321,7 @@
       "schedule_raw": "T | 14:00 - 14:50",
       "instructor": "H Ahmad",
       "capacity": "35",
-      "available": "11"
+      "available": "10"
     },
     {
       "course_code": "ISLM 100B",
@@ -9337,7 +9337,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "9"
+      "available": "7"
     },
     {
       "course_code": "PLSC 102",
@@ -9661,7 +9661,7 @@
       "schedule_raw": "T | 16:00 - 19:00",
       "instructor": "S Sindhu",
       "capacity": "25",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PLSC 504",
@@ -9673,7 +9673,7 @@
       "schedule_raw": "M | 16:00 - 19:00",
       "instructor": "W  Ranjha",
       "capacity": "25",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PLSC 509",
@@ -9685,7 +9685,7 @@
       "schedule_raw": "W | 16:00 - 19:00",
       "instructor": "M U Farooq",
       "capacity": "25",
-      "available": "23"
+      "available": "24"
     },
     {
       "course_code": "PLSC 513",
@@ -9697,7 +9697,7 @@
       "schedule_raw": "R | 16:00 - 19:00",
       "instructor": "A Qureshi",
       "capacity": "25",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "PLSC 517",
@@ -9709,7 +9709,7 @@
       "schedule_raw": "F | 16:00 - 19:00",
       "instructor": "A. Indrias",
       "capacity": "25",
-      "available": "24"
+      "available": "22"
     },
     {
       "course_code": "PSYC 100",
@@ -10933,7 +10933,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "J parra",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "SPAN 101",
