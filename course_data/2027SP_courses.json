@@ -613,7 +613,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "BUSN 160",
@@ -685,7 +685,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "BUSN 160",
@@ -901,7 +901,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 225",
@@ -913,7 +913,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "BUSN 225",
@@ -1189,7 +1189,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "S Hussain",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 250",
@@ -3313,7 +3313,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Ali",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "CRIM 460",
@@ -7009,7 +7009,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Sumbal",
       "capacity": "35",
-      "available": "23"
+      "available": "22"
     },
     {
       "course_code": "HIST 204",
@@ -9289,7 +9289,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "A Qureshi",
       "capacity": "35",
-      "available": "10"
+      "available": "11"
     },
     {
       "course_code": "PLSC 101",
@@ -10717,7 +10717,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A Amjad",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "SOCL 104",
