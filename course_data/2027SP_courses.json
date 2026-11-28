@@ -217,7 +217,7 @@
       "schedule_raw": "M | 12:00 - 12:50 | T | 11:00 - 12:50 | F | 12:00 - 12:50",
       "instructor": "I  Khokhar",
       "capacity": "35",
-      "available": "18"
+      "available": "19"
     },
     {
       "course_code": "BIOL 313",
@@ -313,7 +313,7 @@
       "schedule_raw": "T R | 08:00 - 09:15 | F | 11:00 - 12:50",
       "instructor": "S Ali",
       "capacity": "35",
-      "available": "9"
+      "available": "8"
     },
     {
       "course_code": "BIOT 307",
