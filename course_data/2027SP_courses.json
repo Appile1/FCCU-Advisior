@@ -1657,7 +1657,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Q Khan",
       "capacity": "30",
-      "available": "18"
+      "available": "17"
     },
     {
       "course_code": "BUSN 484",
@@ -1789,7 +1789,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "21"
+      "available": "20"
     },
     {
       "course_code": "BUSN 490",
@@ -1849,7 +1849,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "Q Zafar",
       "capacity": "30",
-      "available": "12"
+      "available": "11"
     },
     {
       "course_code": "BUSN 498",
@@ -6925,7 +6925,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Mahmood",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "GRMN 102",
