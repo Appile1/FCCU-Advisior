@@ -397,7 +397,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Asghar",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "BIOT 506",
@@ -2125,7 +2125,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | W | 11:00 - 12:50",
       "instructor": "M Asghar",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "CHEM 100",
