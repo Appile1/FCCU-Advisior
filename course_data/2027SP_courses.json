@@ -4525,7 +4525,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Ahmed",
       "capacity": "35",
-      "available": "28"
+      "available": "27"
     },
     {
       "course_code": "ECON 210",
@@ -4633,7 +4633,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "R Ahmed",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "ECON 315",
@@ -4705,7 +4705,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A  Jalil",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "ECON 355",
@@ -9829,7 +9829,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "PSYC 165",
