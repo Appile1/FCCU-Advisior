@@ -2125,7 +2125,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | W | 11:00 - 12:50",
       "instructor": "M Asghar",
       "capacity": "35",
-      "available": "4"
+      "available": "3"
     },
     {
       "course_code": "CHEM 100",
@@ -3085,7 +3085,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "M Mushtaq",
       "capacity": "150",
-      "available": "52"
+      "available": "51"
     },
     {
       "course_code": "CPPG 101",
@@ -3097,7 +3097,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "15"
+      "available": "14"
     },
     {
       "course_code": "CPPG 111",
