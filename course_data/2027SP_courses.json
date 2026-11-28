@@ -6121,7 +6121,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Hanook",
       "capacity": "15",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ENVR 250",
@@ -11005,7 +11005,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "S Samuel",
       "capacity": "15",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "STAT 101",
