@@ -565,7 +565,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "BUSN 121",
@@ -697,7 +697,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "BUSN 160",
@@ -901,7 +901,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 225",
@@ -925,7 +925,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 225",
@@ -7381,7 +7381,7 @@
       "schedule_raw": "T | 15:00 - 15:50",
       "instructor": "N Ahmad",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "ISLM 100B",
@@ -10297,7 +10297,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "A  Nazim",
       "capacity": "35",
-      "available": "19"
+      "available": "18"
     },
     {
       "course_code": "PSYC 390",
