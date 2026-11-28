@@ -4093,7 +4093,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "DATA 203",
@@ -7009,7 +7009,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "S Sumbal",
       "capacity": "35",
-      "available": "20"
+      "available": "18"
     },
     {
       "course_code": "HIST 204",
@@ -7945,7 +7945,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "21"
+      "available": "22"
     },
     {
       "course_code": "MATH 101",
