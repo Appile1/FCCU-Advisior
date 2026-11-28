@@ -5029,7 +5029,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "EDUC 120",
@@ -6997,7 +6997,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Hayat",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "HIST 202",
@@ -7705,7 +7705,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "Z Azam",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ISLM 307",
@@ -10681,7 +10681,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Athar",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "SOCL 100",
