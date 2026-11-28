@@ -3577,7 +3577,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Toor",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CSCS 100",
@@ -8953,7 +8953,7 @@
       "schedule_raw": "T R | 11:00 - 11:50 | F | 14:00 - 16:00",
       "instructor": "S Shabbir",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "PHYS 101",
