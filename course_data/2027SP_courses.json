@@ -49,7 +49,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "S Kamran",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ARTS 111",
@@ -9565,7 +9565,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M U Farooq",
       "capacity": "35",
-      "available": "31"
+      "available": "32"
     },
     {
       "course_code": "PLSC 400",
@@ -9829,7 +9829,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "A aziz",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "PSYC 165",
@@ -10693,7 +10693,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "7"
+      "available": "6"
     },
     {
       "course_code": "SOCL 100",
