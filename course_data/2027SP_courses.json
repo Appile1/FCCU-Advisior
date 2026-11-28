@@ -3025,7 +3025,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Sirhindi",
       "capacity": "35",
-      "available": "17"
+      "available": "18"
     },
     {
       "course_code": "COMP 421",
@@ -3037,7 +3037,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50",
       "instructor": "R Sirhindi",
       "capacity": "35",
-      "available": "5"
+      "available": "4"
     },
     {
       "course_code": "COMP 451",
@@ -3709,7 +3709,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "W Hussain",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "CSCS 203",
