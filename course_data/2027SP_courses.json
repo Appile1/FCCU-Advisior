@@ -3001,7 +3001,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Nasim",
       "capacity": "35",
-      "available": "3"
+      "available": "2"
     },
     {
       "course_code": "COMP 421",
@@ -7249,7 +7249,7 @@
       "schedule_raw": "T R | 16:00 - 17:00",
       "instructor": "S Khaliq",
       "capacity": "35",
-      "available": "30"
+      "available": "29"
     },
     {
       "course_code": "HPED 150",
