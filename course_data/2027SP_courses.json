@@ -1285,7 +1285,7 @@
       "schedule_raw": "M W F | 16:00 - 16:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "BUSN 322",
@@ -1297,7 +1297,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "BUSN 353",
@@ -4513,7 +4513,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "N Ishtiaq",
       "capacity": "35",
-      "available": "25"
+      "available": "23"
     },
     {
       "course_code": "ECON 210",
@@ -4525,7 +4525,7 @@
       "schedule_raw": "T R | 08:00 - 09:15",
       "instructor": "R Ahmed",
       "capacity": "35",
-      "available": "27"
+      "available": "28"
     },
     {
       "course_code": "ECON 210",
@@ -4657,7 +4657,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "S Lodhi",
       "capacity": "35",
-      "available": "20"
+      "available": "21"
     },
     {
       "course_code": "ECON 322",
@@ -7777,7 +7777,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "TBD",
       "capacity": "20",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "KORN 102",
