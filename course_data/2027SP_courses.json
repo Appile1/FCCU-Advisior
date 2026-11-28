@@ -2185,7 +2185,7 @@
       "schedule_raw": "T R | 12:30 - 13:45 | F | 09:00 - 10:50",
       "instructor": "H Abid",
       "capacity": "35",
-      "available": "13"
+      "available": "12"
     },
     {
       "course_code": "CHEM 160",
@@ -4093,7 +4093,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "A Sarwar",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "DATA 203",
@@ -11125,7 +11125,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Bashir",
       "capacity": "15",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "STAT 206",
@@ -11137,7 +11137,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "I Naqvi",
       "capacity": "20",
-      "available": "13"
+      "available": "11"
     },
     {
       "course_code": "STAT 206",
