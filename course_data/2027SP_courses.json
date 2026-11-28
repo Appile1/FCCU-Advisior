@@ -733,7 +733,7 @@
       "schedule_raw": "T R | 12:30 - 13:45",
       "instructor": "A George",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 206",
@@ -5041,7 +5041,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Burhan",
       "capacity": "35",
-      "available": "16"
+      "available": "15"
     },
     {
       "course_code": "EDUC 120",
@@ -6037,7 +6037,7 @@
       "schedule_raw": "M W | 10:00 - 10:50 | M | 14:00 - 15:50",
       "instructor": "TBD",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "ENVR 101",
@@ -6925,7 +6925,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "H Mahmood",
       "capacity": "20",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "GRMN 102",
@@ -8137,7 +8137,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "A  Nadeem",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "MATH 109",
@@ -8149,7 +8149,7 @@
       "schedule_raw": "M W F | 08:00 - 08:50",
       "instructor": "G Mehak",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "MATH 111",
@@ -9433,7 +9433,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "K Khan",
       "capacity": "35",
-      "available": "12"
+      "available": "13"
     },
     {
       "course_code": "PLSC 301",
@@ -9913,7 +9913,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M  Niazi",
       "capacity": "35",
-      "available": "33"
+      "available": "34"
     },
     {
       "course_code": "PSYC 275",
