@@ -1165,7 +1165,7 @@
       "schedule_raw": "T R | 09:30 - 10:45",
       "instructor": "S Hussain",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BUSN 250",
@@ -1177,7 +1177,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "S Hussain",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "BUSN 250",
@@ -7813,7 +7813,7 @@
       "schedule_raw": "T R | 11:00 - 12:15",
       "instructor": "F Aftab",
       "capacity": "35",
-      "available": "16"
+      "available": "17"
     },
     {
       "course_code": "LING 217",
