@@ -5029,7 +5029,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "R. Farooq",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "EDUC 120",
@@ -5593,7 +5593,7 @@
       "schedule_raw": "M W F | 11:00 - 11:50",
       "instructor": "M Saleh",
       "capacity": "25",
-      "available": "2"
+      "available": "1"
     },
     {
       "course_code": "ENGL 108",
@@ -7225,7 +7225,7 @@
       "schedule_raw": "M W | 16:00 - 16:50",
       "instructor": "S Khaliq",
       "capacity": "35",
-      "available": "13"
+      "available": "14"
     },
     {
       "course_code": "HPED 111",
@@ -7273,7 +7273,7 @@
       "schedule_raw": "M W F | 09:00 - 09:50 | W | 15:00 - 16:50",
       "instructor": "Z Nisa",
       "capacity": "35",
-      "available": "10"
+      "available": "9"
     },
     {
       "course_code": "HPED 151",
@@ -9397,7 +9397,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "M Farooqi",
       "capacity": "35",
-      "available": "2"
+      "available": "3"
     },
     {
       "course_code": "PLSC 203",
