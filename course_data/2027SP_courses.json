@@ -1213,7 +1213,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "M Habib",
       "capacity": "35",
-      "available": "1"
+      "available": "2"
     },
     {
       "course_code": "BUSN 250",
@@ -4741,7 +4741,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "M Tahir",
       "capacity": "35",
-      "available": "34"
+      "available": "33"
     },
     {
       "course_code": "ECON 406",
