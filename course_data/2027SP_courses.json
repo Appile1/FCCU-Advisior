@@ -9457,7 +9457,7 @@
       "schedule_raw": "M W F | 14:00 - 14:50",
       "instructor": "Q Memon",
       "capacity": "35",
-      "available": "4"
+      "available": "5"
     },
     {
       "course_code": "PLSC 303",
@@ -10429,7 +10429,7 @@
       "schedule_raw": "MTWRF",
       "instructor": "S Samuel",
       "capacity": "35",
-      "available": "27"
+      "available": "26"
     },
     {
       "course_code": "PSYC 499B",
