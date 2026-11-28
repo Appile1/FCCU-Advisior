@@ -4321,7 +4321,7 @@
       "schedule_raw": "M W F | 10:00 - 10:50",
       "instructor": "T Ahmed",
       "capacity": "35",
-      "available": "6"
+      "available": "5"
     },
     {
       "course_code": "ECON 101",
@@ -7945,7 +7945,7 @@
       "schedule_raw": "T R | 14:00 - 15:15",
       "instructor": "F Ibraheem",
       "capacity": "35",
-      "available": "22"
+      "available": "21"
     },
     {
       "course_code": "MATH 101",
