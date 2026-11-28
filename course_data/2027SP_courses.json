@@ -109,7 +109,7 @@
       "schedule_raw": "M W | 10:00 - 10:50 | R | 11:00 - 12:50",
       "instructor": "K Muaz",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "BIOL 100",
@@ -2125,7 +2125,7 @@
       "schedule_raw": "M W | 09:00 - 09:50 | W | 11:00 - 12:50",
       "instructor": "M Asghar",
       "capacity": "35",
-      "available": "1"
+      "available": "0"
     },
     {
       "course_code": "CHEM 100",
@@ -3577,7 +3577,7 @@
       "schedule_raw": "M W F | 15:00 - 15:50",
       "instructor": "S Toor",
       "capacity": "35",
-      "available": "0"
+      "available": "1"
     },
     {
       "course_code": "CSCS 100",
@@ -5773,7 +5773,7 @@
       "schedule_raw": "M W F | 12:00 - 12:50",
       "instructor": "S Hanif",
       "capacity": "35",
-      "available": "5"
+      "available": "6"
     },
     {
       "course_code": "ENGL 201",
@@ -5941,7 +5941,7 @@
       "schedule_raw": "T R | 15:30 - 16:45",
       "instructor": "M Shahid",
       "capacity": "35",
-      "available": "32"
+      "available": "31"
     },
     {
       "course_code": "ENGL 400",
